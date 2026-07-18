@@ -1,0 +1,121 @@
+{
+    "id": "019f65c5-5a2b-720c-b6df-8f3e6225e8ed",
+    "version": 1,
+
+    "title": "Koshari",
+
+    "overview": {
+        "description": "Egypt's national dish of rice, lentils, pasta and chickpeas, topped with a rich tomato sauce and crispy onions. A remarkably filling and economical vegetarian meal.",
+        "country": "Egypt",
+        "region": "",
+        "serves": 8
+    },
+
+    "ingredients": [
+        "300g basmati rice",
+        "250g brown lentils",
+        "250g macaroni or ditalini pasta",
+        "2 × 400g tins chickpeas, drained",
+        "4 large onions, thinly sliced",
+        "4 tbsp vegetable oil",
+        "4 cloves garlic, minced",
+        "2 × 400g tins chopped tomatoes",
+        "2 tbsp tomato purée",
+        "2 tsp ground cumin",
+        "1 tsp ground coriander",
+        "½ tsp chilli flakes (optional)",
+        "2 tbsp white wine vinegar",
+        "Salt",
+        "Freshly ground black pepper"
+    ],
+
+    "method": [
+        "Cook the lentils until just tender, then drain.",
+        "Cook the basmati rice according to your preferred method.",
+        "Cook the pasta until al dente, then drain.",
+        "Heat the vegetable oil in a frying pan and slowly fry the sliced onions until deep golden and crisp. Remove with a slotted spoon and drain on kitchen paper.",
+        "Reserve a little of the onion oil and gently cook the garlic for 1 minute.",
+        "Add the tomato purée and cook for 2 minutes.",
+        "Stir in the cumin, coriander and chilli flakes and cook for 30 seconds.",
+        "Add the chopped tomatoes and simmer for 15 minutes.",
+        "Stir in the vinegar, season with salt and pepper and simmer for another 5 minutes.",
+        "Warm the chickpeas through.",
+        "To serve, layer the rice, lentils and pasta in bowls, spoon over the chickpeas and tomato sauce, then finish with plenty of crispy onions."
+    ],
+
+    "serving": {
+        "serve-with": [],
+        "optional-sides": [
+            "Simple salad",
+            "Flatbread",
+            "Extra chilli sauce"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 50,
+        "freezer-label": "freeze components separately",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Koshari became popular in Egypt during the 19th century and combines influences from Indian, Italian and Middle Eastern cooking into one iconic national dish.",
+        "what-you-will-learn": "How to coordinate several simple components into one balanced meal and make beautifully crisp fried onions.",
+        "skills": [
+            "Cooking rice",
+            "Cooking lentils",
+            "Cooking pasta",
+            "Making a tomato sauce",
+            "Crispy onions"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "One of the most economical meals in the cookbook while still being hearty, nutritious and completely different from anything else in the planner.",
+        "chapman-tips": [
+            "The crispy onions are essential—don't rush them.",
+            "Assemble the dish just before serving to keep each component at its best.",
+            "A splash of chilli sauce at the table is traditional.",
+            "This is an excellent pantry meal when fresh ingredients are running low."
+        ],
+        "batch-cooking": "Rice, lentils, pasta and sauce all freeze well individually. Assemble after reheating for the best texture.",
+        "leftovers": "Store the crispy onions separately so they stay crisp."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Mujadara",
+            "Rajma",
+            "Dal Chawal",
+            "Pasta e Ceci"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

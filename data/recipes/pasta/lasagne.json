@@ -1,0 +1,115 @@
+{
+    "id": "019f61e3-ad84-763d-a9ac-045e3e18d8c5",
+    "version": 1,
+
+    "title": "Lasagne",
+
+    "overview": {
+        "description": "Layers of rich homemade Bolognese, creamy béchamel, pasta and Parmesan baked until bubbling and golden. A classic Italian comfort food that's perfect for batch cooking.",
+        "country": "Italy",
+        "region": "Emilia-Romagna",
+        "serves": 8
+    },
+
+    "ingredients": [
+        "1 batch Homemade Bolognese",
+        "12 dried lasagne sheets",
+        "75g Parmesan, finely grated",
+        "50g butter",
+        "50g plain flour",
+        "600ml whole milk",
+        "Pinch of freshly grated nutmeg",
+        "Salt",
+        "Freshly ground black pepper"
+    ],
+
+    "method": [
+        "Prepare one batch of Homemade Bolognese and set aside.",
+        "To make the bechamel, melt the butter in a saucepan over a medium heat.",
+        "Stir in the flour and cook for 1 minute.",
+        "Gradually whisk in the milk until completely smooth.",
+        "Cook gently, stirring constantly, until the sauce thickens enough to coat the back of a spoon. Season with salt, pepper and a pinch of nutmeg.",
+        "Heat the oven to 180°C fan (200°C conventional).",
+        "Spread a thin layer of Bolognese over the base of a large ovenproof dish.",
+        "Cover with a layer of lasagne sheets.",
+        "Spread over more Bolognese followed by a layer of béchamel.",
+        "Repeat the layers until all the ingredients have been used, finishing with béchamel.",
+        "Sprinkle generously with the Parmesan.",
+        "Bake for 40–45 minutes until golden brown and bubbling.",
+        "Leave to rest for at least 15 minutes before serving. This makes it much easier to portion cleanly."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Focaccia"
+        ],
+        "optional-sides": [
+            "Green Salad",
+            "Garlic Bread"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 45,
+        "cook-time-minutes": 45,
+        "freezer-label": "freezes well",
+        "cost": "mid-range",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Lasagne originates from the Emilia-Romagna region of Italy, where it's traditionally made with ragù, béchamel and Parmesan rather than mozzarella.",
+        "what-you-will-learn": "How to make a classic béchamel, assemble layered dishes and why resting baked dishes improves both texture and serving.",
+        "skills": [
+            "Making béchamel",
+            "Layering",
+            "Baking",
+            "Batch cooking"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "One of the family's favourite meals and an excellent Saturday project. It freezes exceptionally well and makes several future meals with very little extra work.",
+        "chapman-tips": [
+            "Resting the lasagne before serving is just as important as baking it.",
+            "Homemade Bolognese makes a noticeable difference.",
+            "Freshly grated Parmesan melts far better than pre-grated cheese."
+        ],
+        "batch-cooking": "Bake two while the oven is on. Freeze whole or in individual portions for up to three months.",
+        "leftovers": "Reheat in the oven or microwave until piping hot. Many people think it tastes even better the following day."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Bolognese",
+            "Moussaka",
+            "Shepherd's Pie"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

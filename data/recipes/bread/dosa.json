@@ -1,0 +1,116 @@
+{
+    "id": "019f6e88-d4bc-7079-9029-2e6327fa0219",
+    "version": 1,
+
+    "title": "Dosa",
+
+    "overview": {
+        "description": "Thin, crisp South Indian fermented rice and lentil pancakes with a delicate tang. Traditionally served with sambar and coconut chutney.",
+        "country": "India",
+        "region": "South India",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "300g idli rice or short-grain rice",
+        "100g urad dal",
+        "1 tbsp poha (flattened rice)",
+        "½ tsp fenugreek seeds",
+        "1 tsp salt",
+        "Vegetable oil or ghee, for cooking"
+    ],
+
+    "method": [
+        "Wash the rice until the water runs clear.",
+        "Soak the rice and poha together for 6–8 hours.",
+        "Soak the urad dal and fenugreek seeds separately for 6–8 hours.",
+        "Drain both mixtures, reserving some soaking water.",
+        "Blend the urad dal until very smooth, adding just enough water to keep it moving.",
+        "Blend the rice until smooth with a slight grainy texture.",
+        "Combine both batters in a large bowl.",
+        "Mix thoroughly using your hand or a spoon.",
+        "Cover and leave to ferment for 8–12 hours until risen and bubbly.",
+        "Stir in the salt.",
+        "Heat a cast-iron or non-stick pan over a medium-high heat.",
+        "Lightly wipe with a little oil.",
+        "Pour a ladle of batter into the centre.",
+        "Spread quickly in a spiral from the centre outwards using the base of the ladle.",
+        "Drizzle a little oil or ghee around the edge.",
+        "Cook until the underside is crisp and golden.",
+        "Fold or roll and serve immediately."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Sambar",
+            "Coconut Chutney"
+        ],
+        "optional-sides": [
+            "Potato Masala",
+            "Tomato Chutney"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 900,
+        "cook-time-minutes": 20,
+        "freezer-label": "batter freezes well",
+        "cost": "budget",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "The fermentation process gives dosa its distinctive flavour while also making the nutrients easier to digest.",
+        "what-you-will-learn": "How to ferment dosa batter, achieve the correct consistency and spread thin, crisp dosas.",
+        "skills": [
+            "Fermentation",
+            "Grinding batters",
+            "Cooking on a griddle",
+            "Spreading batter"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "An authentic South Indian staple that makes excellent use of pantry ingredients already stocked in the Chapman Kitchen.",
+        "chapman-tips": [
+            "A slightly grainy rice batter produces a crispier dosa.",
+            "Fermentation time depends on room temperature—look for a bubbly, airy batter rather than watching the clock.",
+            "Your food processor or blender works very well for home dosa batter.",
+            "If the batter becomes too thick after fermentation, loosen it with a little water before cooking."
+        ],
+        "batch-cooking": "Freeze fermented batter in meal-sized portions.",
+        "leftovers": "The batter keeps in the fridge for 3–4 days and can also be used for uttapam."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Sambar"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "id": "019f6fb4-ac3d-7611-a1b9-0a7d7c0a8c0c",
+    "version": 1,
+
+    "title": "Weeknight Chicken Ramen",
+
+    "overview": {
+        "description": "A quick homemade chicken ramen built on rich chicken stock, miso and soy sauce, finished with noodles, chicken and fresh toppings.",
+        "country": "Japan",
+        "region": "Inspired by Tokyo-style shoyu ramen",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "1 litre homemade chicken stock",
+        "2 tbsp white miso paste",
+        "2 tbsp light soy sauce",
+        "1 tbsp mirin",
+        "1 tsp sesame oil",
+        "20g fresh ginger, sliced",
+        "2 cloves garlic, crushed",
+        "2 spring onions",
+        "2 cooked chicken breasts, sliced",
+        "4 portions ramen noodles",
+        "2 pak choi, halved",
+        "100g mushrooms, sliced",
+        "2 soft-boiled eggs (optional)",
+        "2 spring onions, finely sliced",
+        "Sesame seeds"
+    ],
+
+    "method": [
+        "Bring the chicken stock to a gentle simmer.",
+        "Add the ginger, garlic and whole spring onions.",
+        "Simmer for 15 minutes.",
+        "Remove the aromatics.",
+        "Whisk together the miso, soy sauce and mirin with a ladleful of hot broth until smooth.",
+        "Return the mixture to the pan.",
+        "Stir in the sesame oil.",
+        "Add the mushrooms and pak choi and cook for 3–4 minutes.",
+        "Meanwhile, cook the ramen noodles according to the packet instructions.",
+        "Warm the sliced chicken in the broth for 2 minutes.",
+        "Divide the noodles between bowls.",
+        "Ladle over the broth, vegetables and chicken.",
+        "Top with soft-boiled egg, sliced spring onions and sesame seeds."
+    ],
+
+    "serving": {
+        "serve-with": [],
+        "optional-sides": [
+            "Chilli oil",
+            "Nori",
+            "Extra spring onions"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 25,
+        "freezer-label": "freeze broth only",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Japanese ramen is usually built from three elements: broth, tare (seasoning base) and aroma oil.",
+        "what-you-will-learn": "How to turn homemade chicken stock into a balanced ramen broth using miso and soy sauce.",
+        "skills": [
+            "Building broths",
+            "Cooking noodles",
+            "Layering flavours",
+            "Preparing toppings"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A practical homemade ramen that uses homemade chicken stock while remaining achievable on a weeknight.",
+        "chapman-tips": [
+            "Don't boil the miso after adding it—gentle heat preserves its flavour.",
+            "Cook the noodles separately so they don't cloud the broth.",
+            "Leftover roast chicken works beautifully in place of freshly cooked chicken.",
+            "Serve immediately once the noodles are added."
+        ],
+        "batch-cooking": "Freeze only the broth. Cook fresh noodles when serving.",
+        "leftovers": "Store broth and noodles separately."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Pad Kee Mao",
+            "Black Bean Chicken",
+            "Vietnamese Lemongrass Chicken"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

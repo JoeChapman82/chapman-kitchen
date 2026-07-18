@@ -1,0 +1,135 @@
+{
+    "id": "019f65cc-ffa4-730c-8022-bd775eff9eb3",
+    "version": 1,
+
+    "title": "Steak Pie",
+
+    "overview": {
+        "description": "Slow-cooked British steak pie with tender beef in a rich gravy, baked beneath golden pastry. Perfect for weekends and excellent for batch cooking.",
+        "country": "United Kingdom",
+        "region": "",
+        "serves": 8
+    },
+
+    "ingredients": [
+        "2 tbsp vegetable oil",
+        "1kg braising steak, cut into large chunks",
+        "2 onions, diced",
+        "2 carrots, diced",
+        "2 celery sticks, diced",
+        "4 cloves garlic, minced",
+        "2 tbsp plain flour",
+        "2 tbsp tomato purée",
+        "500ml beef stock",
+        "250ml ale (optional, replace with extra stock if preferred)",
+        "2 tsp Worcestershire sauce",
+        "2 bay leaves",
+        "2 tsp fresh thyme leaves",
+        "Salt",
+        "Freshly ground black pepper",
+        "1 quantity shortcrust pastry",
+        "1 egg, beaten"
+    ],
+
+    "method": [
+        "=== Filling ===",
+        "Heat the oil in a large casserole over a medium-high heat.",
+        "Brown the beef in batches and set aside.",
+        "Cook the onions, carrots and celery until softened, about 10 minutes.",
+        "Add the garlic and cook for 1 minute.",
+        "Stir in the flour and cook for 2 minutes.",
+        "Add the tomato purée and cook for 1 minute.",
+        "Gradually pour in the ale, scraping the bottom of the pan.",
+        "Add the beef stock, Worcestershire sauce, bay leaves and thyme.",
+        "Return the beef to the pan.",
+        "Cover and cook in a 160°C fan (180°C conventional) oven for 2½–3 hours until the beef is tender.",
+        "Remove the bay leaves and allow the filling to cool slightly.",
+        "Season to taste.",
+        "=== Assemble & Bake ===",
+        "Transfer the filling to a pie dish.",
+        "Cover with the prepared pastry and trim the edges.",
+        "Cut a steam hole in the centre.",
+        "Brush with beaten egg.",
+        "Bake at 180°C fan (200°C conventional) for 30–35 minutes until deep golden.",
+        "Leave to stand for 10 minutes before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Mashed Potato",
+            "Seasonal Vegetables"
+        ],
+        "optional-sides": [
+            "Garden Peas",
+            "Braised Red Cabbage",
+            "Gravy"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 30,
+        "cook-time-minutes": 240,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "mid-range",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Steak pie is one of Britain's best-loved comfort foods and is particularly associated with Scotland and northern England.",
+        "what-you-will-learn": "How to braise beef until tender, build a rich gravy and assemble a traditional pie.",
+        "skills": [
+            "Browning meat",
+            "Braising",
+            "Making gravy",
+            "Pie assembly",
+            "Batch cooking"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A classic British comfort meal that's ideal for batch cooking and freezing. Slow cooking transforms an inexpensive cut of beef into something exceptional.",
+        "chapman-tips": [
+            "Brown the beef in batches to develop maximum flavour.",
+            "Allow the filling to cool before adding the pastry.",
+            "Chuck steak, braising steak or featherblade all work well.",
+            "A splash of ale adds depth but isn't essential."
+        ],
+        "batch-cooking": "Freeze either the cooked filling or the assembled pie for up to three months.",
+        "leftovers": "Reheat in the oven rather than the microwave to keep the pastry crisp."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chicken & Mushroom Pie",
+            "Beef Bourguignon",
+            "Lancashire Hotpot",
+            "Cottage Pie"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "id": "019f65d7-b947-70ca-b22f-60ca1749596c",
+    "version": 1,
+
+    "title": "Khlii & Eggs (Chapman Version)",
+
+    "overview": {
+        "description": "A Moroccan-inspired breakfast of warmly spiced beef and eggs, adapted using fresh beef instead of traditional preserved khlii while keeping the flavours true to the original.",
+        "country": "Morocco",
+        "region": "North Africa",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "300g diced beef steak",
+        "1 tbsp olive oil",
+        "1 tsp ground cumin",
+        "1 tsp paprika",
+        "½ tsp ground coriander",
+        "¼ tsp ground ginger",
+        "Pinch of turmeric",
+        "2 cloves garlic, minced",
+        "4 eggs",
+        "Salt",
+        "Freshly ground black pepper",
+        "Fresh parsley, chopped"
+    ],
+
+    "method": [
+        "Heat the olive oil in a frying pan over a medium-high heat.",
+        "Brown the beef well on all sides.",
+        "Reduce the heat and stir in the garlic.",
+        "Add the cumin, paprika, coriander, ginger and turmeric.",
+        "Cook for 1 minute until fragrant.",
+        "Season with salt and black pepper.",
+        "Spread the beef evenly across the pan.",
+        "Crack the eggs over the beef.",
+        "Cover with a lid and cook until the egg whites are set and the yolks are cooked to your liking.",
+        "Finish with chopped parsley before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Batbout"
+        ],
+        "optional-sides": [
+            "Flatbread",
+            "Olives",
+            "Tomato Salad"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 10,
+        "cook-time-minutes": 15,
+        "freezer-label": "best enjoyed fresh",
+        "cost": "mid-range",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Traditional khlii is preserved meat that can be stored for months without refrigeration and is often served with eggs for breakfast in Morocco.",
+        "what-you-will-learn": "How Moroccan spices transform a simple breakfast and how to cook eggs gently over a savoury base.",
+        "skills": [
+            "Browning beef",
+            "Blooming spices",
+            "Cooking eggs"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "Introduces Moroccan breakfast flavours without requiring specialist preserved meat that's difficult to source in the UK.",
+        "chapman-tips": [
+            "Traditional khlii can be substituted if you ever make or buy it.",
+            "Don't overcook the beef—it should stay tender.",
+            "Batbout is the perfect bread for soaking up the runny yolk.",
+            "A pinch of ras el hanout can be added for extra warmth."
+        ],
+        "batch-cooking": "Not suitable for freezing once assembled.",
+        "leftovers": "The cooked beef can be reheated gently and topped with freshly cooked eggs."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Shakshuka",
+            "Ful Medames",
+            "Masala Omelette",
+            "Eggs in Purgatory"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

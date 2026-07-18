@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home</title>
+  <meta name="description" content="A family meal planner for always-on displays">
+  <meta name="theme-color" content="#d4785c">
+  <link rel="icon" href="assets/icons/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="assets/icons/favicon.svg">
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="assets/css/main.css">
+  <script src="assets/js/theme.js"></script>
+</head>
+<body>
+  <div class="page-center">
+    <div>
+      <h1>Chapman kitchen</h1>
+      <p>Made with love by Daddy chapman</p>
+      <a class="btn" href="views/planner.html">Open Planner</a>
+    </div>
+  </div>
+  <div class="btn-group">
+    <a class="btn btn-secondary" href="views/search.html">Search Recipes</a>
+    <a class="btn btn-secondary" href="views/view-planners.html">View Planners</a>
+  </div>
+  <div class="theme-section">
+    <h2>Select theme</h2>
+    <div class="theme-selector">
+      <button class="theme-btn theme-btn--active" data-theme="default" onclick="setTheme('default')">Default</button>
+      <button class="theme-btn" data-theme="olive" onclick="setTheme('olive')">Olive</button>
+      <button class="theme-btn" data-theme="rowan" onclick="setTheme('rowan')">Rowan</button>
+    </div>
+  </div>
+</body>
+</html>

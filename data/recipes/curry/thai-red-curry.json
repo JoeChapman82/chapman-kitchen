@@ -1,0 +1,117 @@
+{
+    "id": "019f6b72-7563-7610-914c-2f5393776097",
+    "version": 1,
+
+    "title": "Thai Red Curry",
+
+    "overview": {
+        "description": "A rich, fragrant Thai curry with tender chicken, creamy coconut milk and homemade Thai red curry paste.",
+        "country": "Thailand",
+        "region": "Central Thailand",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "700g boneless skinless chicken thighs, sliced",
+        "2 tbsp Thai Red Curry Paste",
+        "400ml coconut milk",
+        "150ml chicken stock",
+        "1 tbsp vegetable oil",
+        "1 aubergine, cut into bite-sized pieces",
+        "1 red pepper, sliced",
+        "150g bamboo shoots, drained (optional)",
+        "4 makrut lime leaves",
+        "1 tbsp fish sauce",
+        "1 tsp palm sugar",
+        "Handful Thai basil leaves"
+    ],
+
+    "method": [
+        "Heat the oil over a medium heat.",
+        "Add the Thai Red Curry Paste.",
+        "Cook for 2–3 minutes until fragrant and the oil begins to separate.",
+        "Pour in half the coconut milk and simmer until slightly thickened.",
+        "Add the chicken and coat well in the curry paste.",
+        "Pour in the remaining coconut milk and the chicken stock.",
+        "Add the aubergine, red pepper, bamboo shoots and makrut lime leaves.",
+        "Simmer gently for 15–20 minutes until the chicken is cooked and the vegetables are tender.",
+        "Stir in the fish sauce and palm sugar.",
+        "Remove the makrut lime leaves if preferred.",
+        "Stir through the Thai basil just before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Steamed Jasmine Rice"
+        ],
+        "optional-sides": [
+            "Cucumber Salad",
+            "Spring Rolls"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 25,
+        "freezer-label": "freezes well",
+        "cost": "mid-range",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Thai curries balance salty, sweet, spicy and aromatic flavours rather than relying on heat alone.",
+        "what-you-will-learn": "How to fry curry paste correctly, balance Thai flavours and finish a curry with fresh herbs.",
+        "skills": [
+            "Frying curry paste",
+            "Balancing flavours",
+            "Cooking with coconut milk",
+            "Using Thai herbs"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A quick weeknight curry made possible by keeping homemade curry paste in the freezer.",
+        "chapman-tips": [
+            "Cook the curry paste thoroughly before adding the coconut milk to develop its flavour.",
+            "One frozen portion of homemade Thai Red Curry Paste is the perfect amount for this recipe.",
+            "Thai basil has a distinctive aniseed flavour that differs from Mediterranean basil.",
+            "Taste and adjust the balance of fish sauce and palm sugar before serving."
+        ],
+        "batch-cooking": "Freeze once cooled. Thai basil is best added fresh after reheating if possible.",
+        "leftovers": "Reheat gently to avoid splitting the coconut milk."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Thai Red Curry Paste",
+            "Thai Green Curry",
+            "Chicken Satay"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

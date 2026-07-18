@@ -1,0 +1,113 @@
+{
+    "id": "019f6721-e042-74cb-865f-15a8e31e3732",
+    "version": 1,
+
+    "title": "Bubble and Squeak",
+
+    "overview": {
+        "description": "A traditional British dish made from leftover mashed potatoes and cooked vegetables, fried until crisp and golden, then served with a fried egg.",
+        "country": "United Kingdom",
+        "region": "England",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "600g leftover mashed potatoes",
+        "400g leftover cooked cabbage, sprouts or other green vegetables, chopped",
+        "1 onion, finely diced",
+        "2 tbsp butter",
+        "1 tbsp vegetable oil",
+        "4 eggs",
+        "Salt",
+        "Freshly ground black pepper"
+    ],
+
+    "method": [
+        "Heat the butter and vegetable oil in a large frying pan over a medium heat.",
+        "Cook the onion for 5–6 minutes until softened.",
+        "Mix the mashed potatoes and chopped vegetables together.",
+        "Season with salt and black pepper.",
+        "Add the mixture to the frying pan and press it down into an even layer.",
+        "Cook without stirring for 8–10 minutes until the underside is crisp and golden.",
+        "Carefully turn the mixture over in sections and cook for a further 8–10 minutes.",
+        "Meanwhile, fry the eggs to your preferred level of doneness.",
+        "Serve topped with a fried egg."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Homemade Wholemeal Bread"
+        ],
+        "optional-sides": [
+            "Brown Sauce",
+            "Baked Beans",
+            "Pickled Beetroot"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 10,
+        "cook-time-minutes": 25,
+        "freezer-label": "best made fresh",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Bubble and squeak gets its name from the sounds made as the vegetables cook in the frying pan.",
+        "what-you-will-learn": "How to transform leftovers into a new meal and achieve a crisp golden crust without the mixture falling apart.",
+        "skills": [
+            "Using leftovers",
+            "Pan frying",
+            "Developing colour",
+            "Frying eggs"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "One of the best examples in the cookbook of making something delicious from leftovers while reducing food waste.",
+        "chapman-tips": [
+            "Cold mashed potatoes hold together much better than freshly made mash.",
+            "Don't move the mixture around too much—leave it to develop a crisp crust.",
+            "Almost any cooked vegetables work well, especially cabbage, sprouts, carrots and peas.",
+            "A cast iron frying pan gives the best crust."
+        ],
+        "batch-cooking": "Not usually batch cooked, but ideal for using leftovers from a roast dinner.",
+        "leftovers": "Reheat in a frying pan until crisp again."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Homity Pie",
+            "Shepherd's Pie",
+            "Cottage Pie",
+            "Leek & Potato Soup"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

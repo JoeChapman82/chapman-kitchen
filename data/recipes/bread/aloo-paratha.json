@@ -1,0 +1,135 @@
+{
+    "id": "019f6e7d-f9a8-779e-8573-2a32f90d145b",
+    "version": 1,
+
+    "title": "Aloo Paratha",
+
+    "overview": {
+        "description": "Wholemeal flatbreads stuffed with a lightly spiced potato filling and cooked on a hot tawa until crisp and golden.",
+        "country": "India",
+        "region": "Punjab",
+        "serves": 8
+    },
+
+    "ingredients": [
+        "500g atta flour",
+        "1 tsp salt",
+        "300ml warm water",
+        "2 tbsp vegetable oil",
+        "",
+        "500g floury potatoes",
+        "1 green chilli, finely chopped",
+        "2 tbsp fresh coriander, chopped",
+        "1 tsp cumin seeds",
+        "1 tsp ground coriander",
+        "½ tsp Kashmiri chilli powder",
+        "½ tsp garam masala",
+        "½ tsp amchur",
+        "Salt, to taste",
+        "",
+        "Ghee or butter, for cooking"
+    ],
+
+    "method": [
+        "Mix the atta and salt.",
+        "Add the water and oil and knead for 8–10 minutes until smooth.",
+        "Cover and rest for at least 30 minutes.",
+        "Meanwhile, boil the potatoes until tender.",
+        "Drain well and allow excess moisture to evaporate.",
+        "Mash until completely smooth with no lumps.",
+        "Mix in the chilli, coriander, cumin seeds, ground coriander, Kashmiri chilli, garam masala, amchur and salt.",
+        "Allow the filling to cool completely.",
+        "Divide both the dough and filling into 8 equal portions.",
+        "Roll one piece of dough into a circle approximately 12cm across.",
+        "Place one portion of filling in the centre.",
+        "Bring the edges together over the filling like a money bag.",
+        "Twist and pinch the top firmly closed.",
+        "Remove any excess dough from the top if necessary.",
+        "Flatten gently with your palm.",
+        "Allow to rest for 5 minutes.",
+        "Dust lightly with atta.",
+        "Roll gently from the centre outwards, turning the dough a quarter turn after each roll.",
+        "If the filling begins to push through, dust with a little extra atta and continue rolling gently.",
+        "Heat a tawa or heavy frying pan over a medium-high heat.",
+        "Cook for about 2 minutes until brown spots appear.",
+        "Turn, brush lightly with ghee and cook for another 2 minutes.",
+        "Flip once more, brush the second side with ghee and cook until both sides are golden with darker toasted spots."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Natural yoghurt",
+            "Mango Pickle"
+        ],
+        "optional-sides": [
+            "Butter",
+            "Chole"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 50,
+        "cook-time-minutes": 25,
+        "freezer-label": "freezes well",
+        "cost": "budget",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Aloo paratha is one of the most popular breakfasts across North India, particularly in Punjab.",
+        "what-you-will-learn": "How to make soft chapati dough, prepare a smooth potato filling and seal and roll stuffed flatbreads without tearing.",
+        "skills": [
+            "Making atta dough",
+            "Preparing potato filling",
+            "Stuffing dough",
+            "Rolling stuffed flatbreads",
+            "Cooking on a tawa"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A filling breakfast or light meal made almost entirely from pantry staples that are always available.",
+        "chapman-tips": [
+            "The potato filling must be completely smooth or it will tear the dough.",
+            "Allowing the stuffed dough to rest before rolling makes it much easier to handle.",
+            "Roll gently rather than pressing hard with the rolling pin.",
+            "Cook over medium-high heat so the dough cooks through before the outside burns."
+        ],
+        "batch-cooking": "Freeze cooked parathas between sheets of baking paper. Reheat directly from frozen in a dry frying pan.",
+        "leftovers": "Excellent toasted the next day or packed into lunchboxes."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Quick No-Yeast Naan",
+            "Batbout",
+            "Chole (Punjabi Chickpea Curry)"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

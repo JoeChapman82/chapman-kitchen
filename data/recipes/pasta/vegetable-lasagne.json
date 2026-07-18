@@ -1,0 +1,124 @@
+{
+    "id": "019f739f-5155-7018-ab31-53811601d558",
+    "version": 1,
+
+    "title": "Vegetable Lasagne",
+
+    "overview": {
+        "description": "Layers of roasted vegetables, tomato sauce, creamy béchamel and pasta baked with bubbling cheese.",
+        "country": "Italy",
+        "region": "Emilia-Romagna (inspired)",
+        "serves": 8
+    },
+
+    "ingredients": [
+        "2 courgettes, sliced",
+        "2 peppers, diced",
+        "250g mushrooms, sliced",
+        "2 carrots, diced",
+        "2 onions, diced",
+        "4 cloves garlic, minced",
+        "200g spinach",
+        "2 tbsp olive oil",
+        "2 tbsp tomato purée",
+        "2 x 400g tins chopped tomatoes",
+        "1 tsp dried oregano",
+        "1 tsp dried basil",
+        "12 lasagne sheets",
+        "750ml béchamel sauce",
+        "200g mozzarella, torn",
+        "75g Parmesan, grated"
+    ],
+
+    "method": [
+        "Roast the courgettes, peppers and mushrooms at 220°C (200°C fan) for 25 minutes until lightly caramelised.",
+        "Meanwhile, heat the olive oil over a medium heat.",
+        "Cook the onions and carrots for 10 minutes until softened.",
+        "Add the garlic and cook for 1 minute.",
+        "Stir in the tomato purée and cook for 1 minute.",
+        "Add the chopped tomatoes, oregano and basil.",
+        "Simmer for 20 minutes.",
+        "Stir in the roasted vegetables and spinach until the spinach has wilted.",
+        "Spread a little tomato sauce over the base of a baking dish.",
+        "Layer lasagne sheets, vegetable sauce and béchamel.",
+        "Repeat until all the ingredients have been used.",
+        "Finish with béchamel, mozzarella and Parmesan.",
+        "Bake at 200°C (180°C fan) for 40–45 minutes until golden and bubbling.",
+        "Rest for 15 minutes before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Green Salad"
+        ],
+        "optional-sides": [
+            "Garlic Bread"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 30,
+        "cook-time-minutes": 70,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "budget",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Lasagne doesn't have to contain meat. Vegetable versions have long been popular throughout Italy, particularly when seasonal produce is abundant.",
+        "what-you-will-learn": "How roasting vegetables concentrates their flavour and prevents a watery lasagne.",
+        "skills": [
+            "Roasting vegetables",
+            "Making tomato sauces",
+            "Layering lasagne",
+            "Baking"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A hearty vegetarian main that's perfect for batch cooking and uses vegetables already common in the Chapman Kitchen.",
+        "chapman-tips": [
+            "Roasting the vegetables first removes excess moisture and concentrates their flavour.",
+            "Allow the lasagne to rest before cutting so the layers stay neat.",
+            "Homemade béchamel gives a noticeably better result.",
+            "This is an excellent way to use vegetables that are starting to soften in the fridge."
+        ],
+        "batch-cooking": "Bake, cool completely and freeze whole or in individual portions for up to 6 months.",
+        "leftovers": "Reheats beautifully in the oven or microwave."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Lasagne",
+            "Moussaka",
+            "Briam",
+            "Spanakopita"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

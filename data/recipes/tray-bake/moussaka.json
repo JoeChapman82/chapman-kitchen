@@ -1,0 +1,130 @@
+{
+    "id": "019f641d-074c-77ea-8359-55d8640051fd",
+    "version": 1,
+
+    "title": "Moussaka",
+
+    "overview": {
+        "description": "A comforting Greek bake of layers of aubergine, rich lamb sauce and creamy béchamel, finished with a golden Parmesan topping. Perfect for batch cooking and one of the family's favourite meals.",
+        "country": "Greece",
+        "region": "",
+        "serves": 8
+    },
+
+    "ingredients": [
+        "2 large aubergines",
+        "2 tbsp olive oil",
+        "1kg lamb mince",
+        "2 onions, finely diced",
+        "3 cloves garlic, minced",
+        "2 tbsp tomato purée",
+        "2 × 400g tins chopped tomatoes",
+        "1 tsp ground cinnamon",
+        "1 tsp dried oregano",
+        "2 bay leaves",
+        "Salt",
+        "Freshly ground black pepper",
+        "50g butter",
+        "50g plain flour",
+        "600ml whole milk",
+        "Pinch of freshly grated nutmeg",
+        "75g Parmesan, finely grated"
+    ],
+
+    "method": [
+        "Slice the aubergines into approximately 1cm rounds.",
+        "Soak the slices in lightly salted water for 20 minutes, then drain and pat thoroughly dry.",
+        "Brush the aubergines lightly with olive oil and roast at 200°C until softened and lightly coloured, turning once.",
+        "Meanwhile, heat a little olive oil in a large saucepan and gently cook the onions until soft.",
+        "Add the garlic and cook for 1 minute.",
+        "Add the lamb mince and cook until well browned.",
+        "Stir in the tomato purée and cook for 2 minutes.",
+        "Add the chopped tomatoes, cinnamon, oregano and bay leaves.",
+        "Simmer gently for around 45 minutes until thick and rich. Remove the bay leaves.",
+        "For the béchamel, melt the butter, stir in the flour and cook for 1 minute.",
+        "Gradually whisk in the milk until smooth and thickened. Season with salt, pepper and a pinch of nutmeg.",
+        "Heat the oven to 180°C fan (200°C conventional).",
+        "Layer half of the aubergines into a large ovenproof dish.",
+        "Spread over all of the meat sauce.",
+        "Arrange the remaining aubergines on top.",
+        "Pour over the béchamel and spread evenly.",
+        "Sprinkle with the grated Parmesan.",
+        "Bake for 40–45 minutes until golden brown and bubbling.",
+        "Leave to rest for at least 20 minutes before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Greek Village Bread"
+        ],
+        "optional-sides": [
+            "Greek Salad"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 50,
+        "cook-time-minutes": 90,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "mid-range",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Although often thought of as an ancient Greek dish, modern moussaka was popularised in the early 20th century by chef Nikolaos Tselementes, who introduced the French-style béchamel topping.",
+        "what-you-will-learn": "How to prepare aubergines, build a rich meat sauce, make a classic béchamel and assemble layered bakes.",
+        "skills": [
+            "Preparing aubergines",
+            "Making béchamel",
+            "Layering",
+            "Batch cooking"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "One of the family's favourite comfort foods and a perfect Saturday project. It freezes beautifully and rewards the extra effort with outstanding flavour.",
+        "chapman-tips": [
+            "Soaking the aubergine briefly in salted water helps reduce oil absorption and improves the finished texture.",
+            "Roasting the aubergine gives a lighter result than frying.",
+            "Allow the moussaka to rest before serving so the layers hold together neatly.",
+            "Freshly grated Parmesan gives the best flavour and colour."
+        ],
+        "batch-cooking": "Bake two dishes while the oven is on and freeze one whole or in individual portions for up to three months.",
+        "leftovers": "Reheat thoroughly in the oven or microwave. Like lasagne, it's often even better the following day."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Lasagne",
+            "Classic Bolognese",
+            "Shepherd's Pie",
+            "Cottage Pie"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

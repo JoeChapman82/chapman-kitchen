@@ -1,0 +1,123 @@
+{
+    "id": "019f6426-cfc1-740d-adee-ca51b7ee766f",
+    "version": 1,
+
+    "title": "Beef Bourguignon",
+
+    "overview": {
+        "description": "A classic French beef stew slowly braised with red wine, mushrooms, onions and herbs until the meat is meltingly tender. A wonderful weekend project that freezes beautifully.",
+        "country": "France",
+        "region": "Burgundy",
+        "serves": 8
+    },
+
+    "ingredients": [
+        "2 tbsp vegetable oil",
+        "1kg beef chuck or braising steak, cut into large cubes",
+        "2 onions, diced",
+        "2 carrots, sliced",
+        "3 cloves garlic, minced",
+        "2 tbsp plain flour",
+        "500ml dry red wine",
+        "300ml beef stock",
+        "2 tbsp tomato purée",
+        "2 bay leaves",
+        "4 sprigs fresh thyme",
+        "250g chestnut mushrooms, halved",
+        "200g shallots or small onions, peeled",
+        "25g butter",
+        "Salt",
+        "Freshly ground black pepper"
+    ],
+
+    "method": [
+        "Season the beef well with salt and pepper.",
+        "Heat the oil in a large casserole and brown the beef in batches. Remove and set aside.",
+        "Cook the onions and carrots in the same pan until softened.",
+        "Add the garlic and cook for 1 minute.",
+        "Stir in the flour and cook for 2 minutes.",
+        "Add the tomato purée and cook for 1 minute.",
+        "Gradually pour in the red wine, scraping up any browned bits from the bottom of the pan.",
+        "Return the beef to the pan and add the beef stock, bay leaves and thyme.",
+        "Bring to a gentle simmer, cover and cook in a 160°C oven for about 3 hours, or until the beef is very tender.",
+        "About 30 minutes before the end of cooking, melt the butter in a frying pan and brown the mushrooms and shallots.",
+        "Stir the mushrooms and shallots into the stew and cook uncovered for the final 30 minutes.",
+        "Remove the bay leaves and thyme stems before serving. Adjust the seasoning if required."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Mashed Potato"
+        ],
+        "optional-sides": [
+            "Rustic Bread",
+            "Buttery Green Beans"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 30,
+        "cook-time-minutes": 210,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "mid-range",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Beef Bourguignon began as a peasant dish in Burgundy, where tougher cuts of beef were slowly cooked in the region's famous red wine until tender.",
+        "what-you-will-learn": "How to brown meat properly, build flavour through deglazing and use slow cooking to transform inexpensive cuts into an elegant meal.",
+        "skills": [
+            "Browning meat",
+            "Deglazing",
+            "Slow braising",
+            "Batch cooking"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "One of the finest examples of slow cooking. It's perfect for a relaxed Saturday, freezes brilliantly and makes excellent leftovers.",
+        "chapman-tips": [
+            "Brown the beef in batches to develop the deepest flavour.",
+            "Use a wine you'd happily drink—the flavour carries through into the finished dish.",
+            "Homemade beef stock gives the best results if you have some in the freezer.",
+            "Like many slow-cooked stews, it's even better the following day."
+        ],
+        "batch-cooking": "Cool completely before freezing in meal-sized portions for up to three months.",
+        "leftovers": "Reheat gently on the hob or in the microwave until piping hot. Excellent with fresh mashed potatoes or crusty bread."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Hungarian Goulash",
+            "Jamie Oliver Beef Short Ribs",
+            "Lancashire Hotpot",
+            "Cottage Pie"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

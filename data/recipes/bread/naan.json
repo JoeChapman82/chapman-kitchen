@@ -1,0 +1,118 @@
+{
+    "id": "019f6b85-06af-7416-87b6-5e383b9d268d",
+    "version": 1,
+
+    "title": "Quick No-Yeast Naan",
+
+    "overview": {
+        "description": "Soft, fluffy naan made without yeast using yoghurt and raising agents. Ready in under an hour and ideal for weeknight curries.",
+        "country": "India",
+        "region": "North India",
+        "serves": 8
+    },
+
+    "ingredients": [
+        "250g plain flour",
+        "150g atta flour",
+        "1 tsp baking powder",
+        "1 tsp bicarbonate of soda",
+        "1 tsp sugar",
+        "1 tsp salt",
+        "250g Greek yoghurt",
+        "2 tbsp vegetable oil",
+        "2–4 tbsp milk, if needed",
+        "2 tsp nigella seeds",
+        "Butter, melted, for brushing"
+    ],
+
+    "method": [
+        "Mix the plain flour, atta, baking powder, bicarbonate of soda, sugar and salt.",
+        "Add the yoghurt and vegetable oil.",
+        "Mix into a dough, adding a little milk only if required.",
+        "Knead for 5 minutes until smooth.",
+        "Cover and rest for 20–30 minutes.",
+        "Divide into 8 equal balls.",
+        "Roll each into an oval about 5mm thick.",
+        "Sprinkle with nigella seeds and gently roll again to press them into the dough.",
+        "Heat a heavy frying pan or cast-iron skillet over a high heat.",
+        "Cook each naan for about 90 seconds on the first side until bubbles appear and the underside has dark spots.",
+        "Turn and cook for another 60–90 seconds.",
+        "Brush immediately with melted butter and keep warm under a clean tea towel while cooking the remaining naans."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Butter Chicken",
+            "Chicken Chettinad",
+            "Chicken Jalfrezi",
+            "Chicken Saag",
+            "Dal Makhani"
+        ],
+        "optional-sides": []
+    },
+
+    "planner": {
+        "prep-time-minutes": 35,
+        "cook-time-minutes": 20,
+        "freezer-label": "freezes well",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Traditional naan is made with yeast and baked inside a tandoor. This version uses yoghurt and chemical raising agents to achieve a similar softness in a home kitchen.",
+        "what-you-will-learn": "How to make a quick naan dough, rest it correctly and cook flatbreads in a dry hot pan.",
+        "skills": [
+            "Mixing dough",
+            "Kneading",
+            "Rolling flatbreads",
+            "Pan cooking"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "Fresh naan can be on the table in under an hour without planning ahead or keeping yeast on hand.",
+        "chapman-tips": [
+            "A cast-iron pan gives the best blistering.",
+            "Greek yoghurt produces the softest texture.",
+            "Brush with melted ghee instead of butter for a more traditional finish.",
+            "Freeze with baking paper between each naan for quick reheating."
+        ],
+        "batch-cooking": "Freeze cooked naans for up to 3 months. Reheat from frozen in a hot oven or dry frying pan.",
+        "leftovers": "Excellent for wraps, pizzas or toasted with cheese."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Batbout",
+            "Roti",
+            "Aloo Paratha"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

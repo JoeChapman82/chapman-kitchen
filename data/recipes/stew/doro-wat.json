@@ -1,0 +1,116 @@
+{
+    "id": "019f5cb6-6d1f-74d8-92e6-39c87b6bef9b",
+    "version": 1,
+
+    "title": "Doro Wat",
+
+    "overview": {
+        "description": "Ethiopia's famous chicken stew, slowly cooked with onions, berbere spice and hard-boiled eggs. Rich, deeply flavoured and wonderfully comforting, it's considered one of the country's national dishes.",
+        "country": "Ethiopia",
+        "region": "",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "8 chicken thighs (bone-in or boneless)",
+        "4 large onions, finely diced",
+        "4 cloves garlic, minced",
+        "25g butter",
+        "2 tbsp vegetable oil",
+        "3 tbsp berbere spice",
+        "2 tbsp tomato purée",
+        "400ml chicken stock",
+        "1 tsp paprika",
+        "1 tsp ground ginger",
+        "1 tbsp lemon juice",
+        "4 hard-boiled eggs, peeled",
+        "Salt",
+        "Freshly ground black pepper"
+    ],
+
+    "method": [
+        "Heat the vegetable oil in a large casserole over a low heat and add the onions. Cook gently, stirring regularly, for about 35–40 minutes until they become soft, sweet and lightly caramelised.",
+        "Add the garlic and cook for 1 minute.",
+        "Stir in the berbere spice, paprika, ginger and tomato purée. Cook for 2 minutes until fragrant.",
+        "Add the butter and stir until melted into the onions.",
+        "Pour in the chicken stock and mix well.",
+        "Add the chicken thighs, cover and simmer gently for 45 minutes until the chicken is tender.",
+        "Meanwhile, prick each hard-boiled egg several times with a skewer or fork so it can absorb the sauce.",
+        "Add the eggs during the final 10 minutes of cooking.",
+        "Finish with the lemon juice, season to taste and serve hot."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Flatbread"
+        ],
+        "optional-sides": [
+            "Injera",
+            "Steamed rice"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 95,
+        "freezer-label": "freezes well",
+        "cost": "mid-range",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Doro Wat is traditionally served during celebrations and holidays throughout Ethiopia. The rich sauce is built almost entirely from slowly cooked onions rather than cream or flour.",
+        "what-you-will-learn": "How slowly cooking onions creates incredible depth of flavour, how berbere spice differs from Indian curry powders, and why the eggs are added at the end.",
+        "skills": [
+            "Slow caramelising",
+            "Cooking with spice blends",
+            "Balancing chilli heat",
+            "Building rich sauces"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "One of the most iconic African dishes and a brilliant introduction to Ethiopian cooking. It expands the planner into a cuisine that many people have never attempted at home.",
+        "chapman-tips": [
+            "Don't rush the onions—they're the secret to an authentic Doro Wat.",
+            "Berbere spice blends vary considerably, so taste before adding extra.",
+            "If using bone-in chicken, you'll get an even richer sauce."
+        ],
+        "batch-cooking": "Freeze the stew without the eggs for the best texture. Add freshly boiled eggs when reheating if possible.",
+        "leftovers": "The flavour improves overnight as the spices continue to develop."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Moroccan Chicken Tagine",
+            "Chicken Yassa",
+            "Butter Chicken"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

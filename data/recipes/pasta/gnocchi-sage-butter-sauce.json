@@ -1,0 +1,105 @@
+{
+    "id": "019f6155-c06b-7289-89d6-5c7ff35b2fe3",
+    "version": 1,
+
+    "title": "Gnocchi with Sage Butter Sauce",
+
+    "overview": {
+        "description": "Soft potato gnocchi tossed in nutty brown butter with fresh sage and finished with Parmesan. A beautifully simple Italian dish that proves a handful of good ingredients can make an exceptional meal.",
+        "country": "Italy",
+        "region": "Northern Italy",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "800g fresh potato gnocchi",
+        "75g unsalted butter",
+        "12 fresh sage leaves",
+        "75g Parmesan, finely grated",
+        "Freshly ground black pepper",
+        "Salt"
+    ],
+
+    "method": [
+        "Bring a large pan of well-salted water to the boil.",
+        "Cook the gnocchi according to the packet instructions until they float to the surface, then drain well.",
+        "Meanwhile, melt the butter in a large frying pan over a medium heat.",
+        "Continue cooking until the butter turns golden brown and smells nutty, about 3–5 minutes.",
+        "Add the sage leaves and cook for about 30 seconds until crisp.",
+        "Add the drained gnocchi and toss gently to coat in the browned butter.",
+        "Remove from the heat and stir through most of the Parmesan.",
+        "Season with freshly ground black pepper and a little salt if needed.",
+        "Serve immediately with the remaining Parmesan sprinkled over the top."
+    ],
+
+    "serving": {
+        "serve-with": [],
+        "optional-sides": [
+            "Rocket Salad",
+            "Garlic Focaccia"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 5,
+        "cook-time-minutes": 15,
+        "freezer-label": "better fresh",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Brown butter, known in French as beurre noisette, develops a rich nutty flavour as the milk solids gently caramelise.",
+        "what-you-will-learn": "How to brown butter without burning it, why sage pairs so well with butter, and how simple dishes rely on careful technique rather than lots of ingredients.",
+        "skills": [
+            "Cooking gnocchi",
+            "Browning butter",
+            "Balancing simple flavours"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "One of the simplest meals in the planner and an excellent reminder that outstanding food doesn't always need long ingredient lists or complex techniques.",
+        "chapman-tips": [
+            "Watch the butter carefully once it starts foaming—it can go from browned to burnt in seconds.",
+            "Fresh sage makes a noticeable difference.",
+            "Buy good quality gnocchi rather than making it from scratch unless you want the challenge."
+        ],
+        "batch-cooking": "Not suitable for freezing once cooked.",
+        "leftovers": "Best eaten immediately, although leftovers can be lightly fried until crisp the following day."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Carbonara",
+            "Alfredo",
+            "Pesto Rosso Pasta"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

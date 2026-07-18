@@ -1,0 +1,118 @@
+{
+    "id": "019f7391-5707-74fa-be07-e46b40144e51",
+    "version": 1,
+
+    "title": "Hot and Sour Soup",
+
+    "overview": {
+        "description": "A warming Chinese soup with chicken, mushrooms and tofu in a savoury broth balanced with vinegar, white pepper and chilli.",
+        "country": "China",
+        "region": "Sichuan-inspired",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "1 litre homemade chicken stock",
+        "200g cooked chicken, shredded",
+        "150g chestnut mushrooms, finely sliced",
+        "150g firm tofu, cut into thin strips",
+        "2 cloves garlic, minced",
+        "20g fresh ginger, grated",
+        "2 tbsp light soy sauce",
+        "1 tbsp Chinese black vinegar",
+        "1 tsp sesame oil",
+        "1 tsp chilli oil",
+        "1 tsp white pepper",
+        "1 tbsp cornflour",
+        "2 tbsp cold water",
+        "2 eggs, beaten",
+        "2 spring onions, finely sliced"
+    ],
+
+    "method": [
+        "Bring the chicken stock to a gentle simmer.",
+        "Add the garlic, ginger and mushrooms.",
+        "Cook for 5 minutes.",
+        "Add the shredded chicken and tofu.",
+        "Stir in the soy sauce, black vinegar, sesame oil, chilli oil and white pepper.",
+        "Mix the cornflour with the cold water to make a smooth slurry.",
+        "Slowly stir the slurry into the soup until lightly thickened.",
+        "Reduce the soup to a gentle simmer.",
+        "Slowly pour in the beaten eggs while gently stirring to create fine ribbons.",
+        "Taste and adjust the balance of soy sauce, vinegar, chilli oil and white pepper.",
+        "Serve topped with sliced spring onions."
+    ],
+
+    "serving": {
+        "serve-with": [],
+        "optional-sides": [
+            "Spring Rolls",
+            "Steamed Dumplings"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 10,
+        "cook-time-minutes": 20,
+        "freezer-label": "freeze before adding eggs",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "The 'hot' in Hot and Sour Soup traditionally comes more from white pepper than from chillies.",
+        "what-you-will-learn": "How to balance salty, sour, spicy and umami flavours while creating silky egg ribbons.",
+        "skills": [
+            "Balancing flavours",
+            "Using a cornflour slurry",
+            "Creating egg ribbons",
+            "Cooking tofu"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A quick, flavour-packed soup that uses homemade chicken stock and introduces classic Chinese flavour balancing with just a handful of pantry ingredients.",
+        "chapman-tips": [
+            "White pepper provides most of the traditional heat, not chilli.",
+            "Taste before serving—the soup should be savoury, noticeably sour and gently spicy, with no single flavour dominating.",
+            "Chinese black vinegar gives the most authentic flavour, but rice vinegar makes a good substitute if that's what you have.",
+            "Add the eggs last, keeping the soup below boiling to create silky ribbons."
+        ],
+        "batch-cooking": "Freeze the soup base before adding the eggs. Stir fresh eggs through after reheating.",
+        "leftovers": "Reheat gently and avoid boiling to keep the tofu intact and the egg tender."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Egg Drop Soup",
+            "Chicken Ramen",
+            "Tortilla Soup"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

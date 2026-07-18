@@ -1,0 +1,122 @@
+{
+    "id": "019f65d9-20a1-7149-bfe9-8429cae104f5",
+    "version": 1,
+
+    "title": "Sabich",
+
+    "overview": {
+        "description": "A Middle Eastern pita filled with roasted aubergine, boiled eggs, hummus and fresh salad. Adapted for the Chapman Kitchen by making amba optional while keeping the spirit of the original.",
+        "country": "Israel",
+        "region": "Middle East",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "2 aubergines, sliced into 1cm rounds",
+        "2 tbsp olive oil",
+        "4 eggs",
+        "4 pita breads",
+        "200g hummus",
+        "2 tomatoes, diced",
+        "½ cucumber, diced",
+        "¼ red onion, finely diced",
+        "2 tbsp chopped parsley",
+        "Juice of ½ lemon",
+        "Salt",
+        "Freshly ground black pepper"
+    ],
+
+    "method": [
+        "=== Aubergine ===",
+        "Brush the aubergine slices with olive oil.",
+        "Roast at 200°C fan (220°C conventional) for 25–30 minutes, turning halfway, until soft and lightly browned.",
+        "=== Eggs ===",
+        "Place the eggs in cold water and bring to the boil.",
+        "Cook for 9 minutes.",
+        "Cool under cold running water, peel and slice in half.",
+        "=== Salad ===",
+        "Mix together the tomatoes, cucumber, red onion, parsley and lemon juice.",
+        "Season with salt and black pepper.",
+        "=== Assemble ===",
+        "Warm the pita breads.",
+        "Spread each pita with hummus.",
+        "Fill with roasted aubergine, salad and a boiled egg.",
+        "Serve immediately."
+    ],
+
+    "serving": {
+        "serve-with": [],
+        "optional-sides": [
+            "Amba",
+            "Tahini Sauce",
+            "Pickled Cucumber",
+            "Olives"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 30,
+        "freezer-label": "best enjoyed fresh",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Sabich is believed to have been introduced to Israel by Iraqi Jews and has become one of the country's best-loved street foods.",
+        "what-you-will-learn": "How to roast aubergine, cook perfect hard-boiled eggs and balance warm and cold components in a sandwich.",
+        "skills": [
+            "Roasting vegetables",
+            "Boiling eggs",
+            "Preparing salad",
+            "Assembling filled breads"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "Introduces another style of filled flatbread using familiar ingredients while encouraging homemade hummus and pita.",
+        "chapman-tips": [
+            "Roasting the aubergine gives a cleaner flavour than frying and uses less oil.",
+            "Homemade hummus makes a noticeable difference.",
+            "Warm the pita just before assembling.",
+            "Amba is traditional but optional if it's difficult to find."
+        ],
+        "batch-cooking": "Roast the aubergine and boil the eggs ahead of time. Assemble just before serving.",
+        "leftovers": "The roasted aubergine is excellent in salads or wraps the following day."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Falafel & Hummus Pita",
+            "Shawarma",
+            "Ful Medames",
+            "Baingan Bharta"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

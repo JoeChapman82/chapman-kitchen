@@ -1,0 +1,100 @@
+{
+  "id": "019f57c1-5ef1-73e1-a0f4-bd4146ad24e4",
+  "version": 1,
+
+  "title": "Chicken Alfredo",
+
+  "overview": {
+    "description": "Tender chicken in a rich Parmesan and cream sauce with fettuccine. Comfort food at its best and a reliable after-work favourite.",
+    "country": "Italy / United States",
+    "region": "",
+    "serves": 4
+  },
+
+  "ingredients": [
+    "400g fettuccine",
+    "2 chicken breasts, sliced",
+    "25g butter",
+    "2 cloves garlic, finely chopped",
+    "300ml double cream",
+    "100g freshly grated Parmesan",
+    "Freshly ground black pepper",
+    "Salt"
+  ],
+
+  "method": [
+    "Cook the pasta until al dente.",
+    "Meanwhile, season the chicken lightly with salt and pepper and cook in the butter until golden and cooked through. Add the garlic and cook for about a minute.",
+    "Pour in the double cream and bring to a gentle simmer. Stir in the Parmesan until fully melted into the sauce.",
+    "Add the cooked pasta together with a splash of pasta water if needed to loosen the sauce. Toss until every strand is coated.",
+    "Finish with plenty of freshly ground black pepper and serve immediately."
+  ],
+  "serving": {
+    "serve-with": [],
+    "optional-sides": [
+      "Garlic bread",
+      "Green salad"
+    ]
+  },
+
+  "planner": {
+    "prep-time-minutes": 10,
+    "cook-time-minutes": 20,
+    "freezer-label": "better-fresh",
+    "cost": "moderate",
+    "after-work": true
+  },
+
+  "learning": {
+    "did-you-know": "The original Alfredo from Rome didn't contain cream. The cream-based version became popular in North America before spreading around the world.",
+    "what-you-will-learn": "How Parmesan thickens a cream sauce and why gentle heat keeps it smooth.",
+    "skills": [
+      "Pan frying",
+      "Cream sauces",
+      "Pasta cookery"
+    ]
+  },
+
+  "nutrition": {
+    "portion-size": "",
+    "calories": "",
+    "protein": "",
+    "carbohydrates": "",
+    "fat": "",
+    "saturates": "",
+    "fibre": "",
+    "sugar": "",
+    "salt": ""
+  },
+
+  "notes": {
+    "why-its-in-the-chapman-kitchen": "Quick, comforting and made almost entirely from ingredients we often have in the fridge.",
+    "chapman-tips": [
+      "Never boil the sauce after adding the Parmesan.",
+      "A splash of pasta water keeps the sauce silky rather than heavy.",
+      "Fresh parsley is a lovely addition if you have some."
+    ],
+    "batch-cooking": "Not recommended for freezing.",
+    "leftovers": "Reheat gently with a splash of milk."
+  },
+
+  "relationships": {
+    "similar-recipes": [
+      "<carbonara-uuid>"
+    ]
+  },
+
+  "history": [
+    {
+      "date": "",
+      "note": ""
+    }
+  ],
+
+  "metadata": {
+    "created": "",
+    "updated": "",
+    "created-by": "Joe Chapman",
+    "updated-by": "Joe Chapman"
+  }
+}

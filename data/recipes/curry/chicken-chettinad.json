@@ -1,0 +1,138 @@
+{
+    "id": "019f6a0d-051c-765b-a332-463c61946984",
+    "version": 1,
+
+    "title": "Chicken Chettinad",
+
+    "overview": {
+        "description": "A fragrant South Indian chicken curry made with freshly roasted spices, curry leaves, coconut and black pepper. Richly aromatic without relying on heavy cream.",
+        "country": "India",
+        "region": "Chettinad, Tamil Nadu",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "800g bone-in chicken thighs and drumsticks (or boneless thighs)",
+        "2 tbsp ghee",
+        "2 onions, finely sliced",
+        "4 cloves garlic, minced",
+        "2 tbsp grated ginger",
+        "2 sprigs fresh curry leaves",
+        "2 tomatoes, finely chopped",
+        "200ml coconut milk",
+        "Fresh coriander, chopped",
+        "Salt",
+        "",
+        "=== Chettinad Masala ===",
+        "2 tsp coriander seeds",
+        "2 tsp cumin seeds",
+        "1 tsp fennel seeds",
+        "1 tsp black peppercorns",
+        "4 dried red chillies",
+        "4 green cardamom pods",
+        "4 cloves",
+        "1 small cinnamon stick",
+        "2 tbsp grated desiccated coconut"
+    ],
+
+    "method": [
+        "=== Make the Masala ===",
+        "Dry fry all the masala ingredients except the coconut over a medium heat until fragrant.",
+        "Add the coconut and toast for 1 minute.",
+        "Allow to cool, then grind to a fine powder.",
+        "",
+        "=== Curry ===",
+        "Heat the ghee over a medium heat.",
+        "Cook the onions for 10–12 minutes until deeply golden.",
+        "Add the garlic, ginger and curry leaves.",
+        "Cook for 1 minute.",
+        "Stir in the ground Chettinad masala.",
+        "Cook for 30 seconds.",
+        "Add the chopped tomatoes.",
+        "Cook until the tomatoes have broken down and the oil begins to separate.",
+        "Add the chicken and coat well in the masala.",
+        "Pour in the coconut milk and 150ml water.",
+        "Bring to a gentle simmer.",
+        "Cover and cook for 35–40 minutes until the chicken is tender.",
+        "Adjust the seasoning.",
+        "Scatter with fresh coriander before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Basmati Rice"
+        ],
+        "optional-sides": [
+            "Paratha",
+            "Chapati",
+            "Cucumber Raita"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 25,
+        "cook-time-minutes": 50,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "mid-range",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Chettinad cuisine from Tamil Nadu is famous throughout India for its complex spice blends and generous use of black pepper and curry leaves.",
+        "what-you-will-learn": "How to toast and grind whole spices, build a South Indian curry base and use coconut to balance bold spice flavours.",
+        "skills": [
+            "Toasting whole spices",
+            "Grinding spice blends",
+            "Cooking with curry leaves",
+            "Building a curry",
+            "Balancing spice"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "Introduces the distinctive flavours of South Indian cooking and showcases how different regional Indian curries can be.",
+        "chapman-tips": [
+            "Freshly toasted spices are the heart of this dish—don't substitute pre-ground spices for the whole masala.",
+            "Frozen curry leaves work almost as well as fresh and are worth keeping in the freezer.",
+            "Bone-in chicken produces the richest flavour, but boneless thighs make an excellent everyday alternative.",
+            "Allow the onions to become properly golden before adding the spices."
+        ],
+        "batch-cooking": "Freeze in family-sized portions once cooled.",
+        "leftovers": "The curry develops an even deeper flavour overnight and reheats beautifully."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Butter Chicken (Murgh Makhani)",
+            "Chicken Jalfrezi",
+            "Chicken Saag",
+            "Chicken Yassa"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chapman kitchen</title>
+  <meta name="description" content="A family meal planner for always-on displays">
+  <meta name="theme-color" content="#d4785c">
+  <link rel="icon" href="../assets/icons/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="../assets/icons/favicon.svg">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="stylesheet" href="../assets/css/main.css">
+  <script src="../assets/js/theme.js"></script>
+</head>
+<body class="planner">
+  <div class="planner-grid">
+    <div class="cell header home"><a href="../index.html" class="home-link" id="week-label" aria-label="Home - Week"></a></div>
+    <div class="cell header">Breakfast</div>
+    <div class="cell header">Morning Snack</div>
+    <div class="cell header">Lunch</div>
+    <div class="cell header">Afternoon Snack</div>
+    <div class="cell header">Dinner</div>
+
+    <div class="cell day-label">Monday</div>
+    <div class="cell meal" data-day="monday" data-slot="breakfast"></div>
+    <div class="cell meal" data-day="monday" data-slot="morning-snack"></div>
+    <div class="cell meal" data-day="monday" data-slot="lunch"></div>
+    <div class="cell meal" data-day="monday" data-slot="afternoon-snack"></div>
+    <div class="cell meal" data-day="monday" data-slot="dinner"></div>
+
+    <div class="cell day-label">Tuesday</div>
+    <div class="cell meal" data-day="tuesday" data-slot="breakfast"></div>
+    <div class="cell meal" data-day="tuesday" data-slot="morning-snack"></div>
+    <div class="cell meal" data-day="tuesday" data-slot="lunch"></div>
+    <div class="cell meal" data-day="tuesday" data-slot="afternoon-snack"></div>
+    <div class="cell meal" data-day="tuesday" data-slot="dinner"></div>
+
+    <div class="cell day-label">Wednesday</div>
+    <div class="cell meal" data-day="wednesday" data-slot="breakfast"></div>
+    <div class="cell meal" data-day="wednesday" data-slot="morning-snack"></div>
+    <div class="cell meal" data-day="wednesday" data-slot="lunch"></div>
+    <div class="cell meal" data-day="wednesday" data-slot="afternoon-snack"></div>
+    <div class="cell meal" data-day="wednesday" data-slot="dinner"></div>
+
+    <div class="cell day-label">Thursday</div>
+    <div class="cell meal" data-day="thursday" data-slot="breakfast"></div>
+    <div class="cell meal" data-day="thursday" data-slot="morning-snack"></div>
+    <div class="cell meal" data-day="thursday" data-slot="lunch"></div>
+    <div class="cell meal" data-day="thursday" data-slot="afternoon-snack"></div>
+    <div class="cell meal" data-day="thursday" data-slot="dinner"></div>
+
+    <div class="cell day-label">Friday</div>
+    <div class="cell meal" data-day="friday" data-slot="breakfast"></div>
+    <div class="cell meal" data-day="friday" data-slot="morning-snack"></div>
+    <div class="cell meal" data-day="friday" data-slot="lunch"></div>
+    <div class="cell meal" data-day="friday" data-slot="afternoon-snack"></div>
+    <div class="cell meal" data-day="friday" data-slot="dinner"></div>
+
+    <div class="cell day-label">Saturday</div>
+    <div class="cell meal" data-day="saturday" data-slot="breakfast"></div>
+    <div class="cell meal" data-day="saturday" data-slot="morning-snack"></div>
+    <div class="cell meal" data-day="saturday" data-slot="lunch"></div>
+    <div class="cell meal" data-day="saturday" data-slot="afternoon-snack"></div>
+    <div class="cell meal" data-day="saturday" data-slot="dinner"></div>
+
+    <div class="cell day-label">Sunday</div>
+    <div class="cell meal" data-day="sunday" data-slot="breakfast"></div>
+    <div class="cell meal" data-day="sunday" data-slot="morning-snack"></div>
+    <div class="cell meal" data-day="sunday" data-slot="lunch"></div>
+    <div class="cell meal" data-day="sunday" data-slot="afternoon-snack"></div>
+    <div class="cell meal" data-day="sunday" data-slot="dinner"></div>
+  </div>
+
+  <div class="overlay" id="meal-overlay" role="dialog" aria-modal="true" aria-labelledby="overlay-title">
+    <div class="overlay-content">
+      <h2 id="overlay-title"></h2>
+      <h3>Recipes:</h3>
+      <ul id="overlay-recipes"></ul>
+      <button class="overlay-close" id="overlay-close">Close</button>
+    </div>
+  </div>
+
+  <template id="recipe-link-template">
+    <li><a href=""></a></li>
+  </template>
+
+  <script src="../assets/js/overlay.js"></script>
+  <script src="../assets/js/planner.js"></script>
+</body>
+</html>

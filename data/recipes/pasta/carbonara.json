@@ -1,0 +1,97 @@
+{
+  "id": "019f57c1-87aa-7309-abe7-611a8b2973fa",
+  "version": 1,
+
+  "title": "Carbonara",
+
+  "overview": {
+    "description": "A silky Parmesan and egg sauce with crisp pancetta, freshly ground black pepper and spaghetti. Rich, comforting and surprisingly quick once you've mastered the technique.",
+    "country": "Italy",
+    "region": "Lazio",
+    "serves": 4
+  },
+
+  "ingredients": [
+    "400g spaghetti",
+    "200g pancetta, diced",
+    "3 large eggs",
+    "100g finely grated Parmesan",
+    "2 tsp freshly ground black pepper",
+    "1 tsp fine salt (for the pasta water)"
+  ],
+  "method": [
+  "Bring a large pan of well-salted water to the boil and cook the spaghetti until al dente according to the packet instructions. Reserve at least 250ml of the pasta cooking water before draining.",
+  "While the pasta cooks, fry the pancetta in a large frying pan over a medium heat until crisp and golden. The fat should render slowly rather than burn. Remove the pan from the heat.",
+  "Whisk together the eggs, Parmesan and most of the black pepper until thoroughly combined.",
+  "Add the drained spaghetti to the pancetta and toss to coat in the rendered fat.",
+  "Leave the pan for about 30 seconds to cool slightly. Pour in the egg mixture and immediately toss continuously until the sauce becomes glossy and coats every strand of pasta. Add the reserved pasta water a splash at a time until silky.",
+  "Serve immediately with the remaining black pepper and extra Parmesan."
+],
+  "serving": {
+    "serve-with": [],
+    "optional-sides": [
+      "Garlic bread",
+      "Green salad"
+    ]
+  },
+
+  "planner": {
+    "prep-time-minutes": 10,
+    "cook-time-minutes": 20,
+    "freezer-label": "better-fresh",
+    "cost": "moderate",
+    "after-work": true
+  },
+
+  "learning": {
+    "did-you-know": "The creamy texture in carbonara comes from eggs, cheese and starchy pasta water—not cream.",
+    "what-you-will-learn": "How to emulsify a sauce using eggs and pasta water, and how residual heat gently cooks the eggs without scrambling them.",
+    "skills": [
+      "Boiling pasta",
+      "Rendering pancetta",
+      "Emulsifying sauces",
+      "Seasoning"
+    ]
+  },
+
+  "nutrition": {
+    "portion-size": "",
+    "calories": "",
+    "protein": "",
+    "carbohydrates": "",
+    "fat": "",
+    "saturates": "",
+    "fibre": "",
+    "sugar": "",
+    "salt": ""
+  },
+
+  "notes": {
+    "why-its-in-the-chapman-kitchen": "One of our family's favourite weeknight meals. Ready in around 30 minutes using simple ingredients and a little technique.",
+    "chapman-tips": [
+      "Freshly grated Parmesan melts much better than pre-grated cheese.",
+      "The pan should be hot enough to cook the eggs gently, but never so hot that they scramble.",
+      "Don't be afraid to add a little more pasta water than you think—the sauce will tighten as it stands."
+    ],
+    "batch-cooking": "Not suitable for freezing.",
+    "leftovers": "Best eaten immediately. Leftovers can be reheated gently, although the sauce won't be quite as silky."
+  },
+
+  "relationships": {
+    "similar-recipes": []
+  },
+
+  "history": [
+    {
+      "date": "",
+      "note": ""
+    }
+  ],
+
+  "metadata": {
+    "created": "",
+    "updated": "",
+    "created-by": "Joe Chapman",
+    "updated-by": "Joe Chapman"
+  }
+}

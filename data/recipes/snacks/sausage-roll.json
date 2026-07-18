@@ -1,0 +1,115 @@
+{
+    "id": "019f769e-bd22-71dd-9354-70363a99be3c",
+    "version": 1,
+
+    "title": "Sausage Rolls",
+
+    "overview": {
+        "description": "Crisp all-butter puff pastry wrapped around well-seasoned pork sausage meat and baked until golden.",
+        "country": "United Kingdom",
+        "region": "Traditional",
+        "serves": 8
+    },
+
+    "ingredients": [
+        "500g good-quality pork sausage meat (or skins removed from quality sausages)",
+        "1 tsp dried sage",
+        "½ tsp dried thyme",
+        "½ tsp ground black pepper",
+        "1 tsp Dijon mustard (optional)",
+        "375g ready-rolled all-butter puff pastry",
+        "1 egg, beaten",
+        "Sesame or poppy seeds (optional)"
+    ],
+
+    "method": [
+        "Preheat the oven to 200°C (180°C fan).",
+        "Mix the sausage meat with the sage, thyme, pepper and Dijon mustard if using.",
+        "Unroll the pastry and cut it lengthways into two equal strips.",
+        "Shape the sausage meat into two even logs and place one along the centre of each strip.",
+        "Brush one edge of each pastry strip with beaten egg.",
+        "Fold the pastry over the filling and press firmly to seal.",
+        "Turn each roll so the seam sits underneath.",
+        "Cut into the desired size.",
+        "Brush generously with beaten egg and sprinkle with seeds if using.",
+        "Cut a few small slashes in the top of each roll.",
+        "Bake for 25–30 minutes until deep golden and the filling reaches 75°C.",
+        "Cool on a wire rack for at least 10 minutes before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Tomato Ketchup"
+        ],
+        "optional-sides": [
+            "Brown Sauce",
+            "English Mustard",
+            "Pickle"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 30,
+        "freezer-label": "freeze before or after baking",
+        "cost": "budget",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Sausage rolls have been popular in Britain since the early 1800s, becoming a staple of bakeries and picnic hampers.",
+        "what-you-will-learn": "How to shape evenly filled sausage rolls, seal pastry correctly and bake it until crisp and flaky.",
+        "skills": [
+            "Working with puff pastry",
+            "Shaping fillings",
+            "Egg washing",
+            "Baking"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "Perfect for lunchboxes, picnics, packed lunches and freezer meals. They freeze beautifully and are far better than most shop-bought versions.",
+        "chapman-tips": [
+            "Use the best sausages you can afford—the filling is the star.",
+            "Keep the puff pastry cold until you're ready to use it.",
+            "Don't overfill or the pastry may split during baking.",
+            "Allow the rolls to cool slightly before eating so the filling firms up."
+        ],
+        "batch-cooking": "Freeze unbaked or baked sausage rolls for up to 3 months.",
+        "leftovers": "Excellent cold in lunchboxes or reheated in the oven to restore the crisp pastry."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Homemade Pizza",
+            "Scotch Pancakes",
+            "Chicken & Mushroom Pie"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

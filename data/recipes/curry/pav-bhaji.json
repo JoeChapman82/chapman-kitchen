@@ -1,0 +1,133 @@
+{
+    "id": "019f6e80-1228-766c-afd8-b77171e3350e",
+    "version": 1,
+
+    "title": "Pav Bhaji",
+
+    "overview": {
+        "description": "Mumbai's famous spiced vegetable mash served with buttery toasted bread rolls. A fantastic way to turn everyday vegetables into a rich, comforting meal.",
+        "country": "India",
+        "region": "Maharashtra",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "500g floury potatoes, peeled and diced",
+        "150g carrots, diced",
+        "150g cauliflower florets",
+        "100g frozen peas",
+        "1 tbsp vegetable oil",
+        "30g butter",
+        "1 tsp cumin seeds",
+        "2 onions, finely diced",
+        "4 cloves garlic, minced",
+        "20g fresh ginger, grated",
+        "2 green chillies, finely chopped",
+        "400g chopped tomatoes",
+        "2 tbsp Pav Bhaji Masala",
+        "1 tsp Kashmiri chilli powder",
+        "Salt, to taste",
+        "Fresh coriander, chopped",
+        "Juice of ½ lemon",
+        "",
+        "8 pav rolls or soft bread rolls",
+        "Butter, for toasting"
+    ],
+
+    "method": [
+        "Boil the potatoes, carrots and cauliflower until very tender.",
+        "Add the peas for the final 3 minutes.",
+        "Drain well.",
+        "Mash thoroughly until mostly smooth, leaving a little texture.",
+        "Heat the oil and butter over a medium heat.",
+        "Add the cumin seeds and cook for 30 seconds.",
+        "Cook the onions for 8–10 minutes until softened.",
+        "Add the garlic, ginger and green chillies and cook for 1 minute.",
+        "Stir in the Pav Bhaji Masala and Kashmiri chilli powder and cook for 30 seconds.",
+        "Add the tomatoes and cook until thickened, about 10 minutes.",
+        "Fold in the mashed vegetables.",
+        "Add a splash of water if needed to achieve a soft, scoopable consistency.",
+        "Cook for 10 minutes, stirring regularly.",
+        "Season to taste.",
+        "Stir in the lemon juice and fresh coriander.",
+        "Split the pav rolls.",
+        "Toast in butter until golden.",
+        "Serve with extra butter, chopped onion, coriander and lemon wedges."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Buttered Pav"
+        ],
+        "optional-sides": [
+            "Finely diced onion",
+            "Lemon wedges",
+            "Extra butter"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 45,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Pav Bhaji originated in Mumbai as a quick meal for textile mill workers and has become one of India's best-loved street foods.",
+        "what-you-will-learn": "How to build flavour from onions and spices before incorporating a mixed vegetable mash.",
+        "skills": [
+            "Cooking spice bases",
+            "Mashing vegetables",
+            "Balancing acidity",
+            "Toasting bread"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A brilliant budget meal that turns everyday vegetables into something far more exciting and freezes beautifully.",
+        "chapman-tips": [
+            "Pressure cook the vegetables for 8 minutes to save time before mashing.",
+            "The vegetables should be mashed, not blended—you want a little texture.",
+            "Pav Bhaji Masala is worth buying rather than blending your own for this recipe.",
+            "Finish with plenty of butter and lemon just before serving."
+        ],
+        "batch-cooking": "Freeze the bhaji in family-sized portions. Toast fresh pav when serving.",
+        "leftovers": "Excellent as a baked potato topping or served with rice."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chole (Punjabi Chickpea Curry)",
+            "Rajma",
+            "Aloo Paratha"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

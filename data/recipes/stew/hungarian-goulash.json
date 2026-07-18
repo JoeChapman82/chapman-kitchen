@@ -1,0 +1,117 @@
+{
+    "id": "019f6159-7fff-7285-aa7a-3c711c064fe0",
+    "version": 1,
+
+    "title": "Hungarian Goulash",
+
+    "overview": {
+        "description": "A rich Hungarian beef stew slowly cooked with onions, sweet paprika and peppers until meltingly tender. Deeply comforting and perfect served with rustic bread.",
+        "country": "Hungary",
+        "region": "",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "2 tbsp lard or vegetable oil",
+        "2 large onions, finely diced",
+        "3 cloves garlic, minced",
+        "2 tbsp Hungarian sweet paprika",
+        "1 tsp smoked paprika",
+        "1 tsp caraway seeds",
+        "1 tbsp tomato purée",
+        "800g braising beef, cut into large cubes",
+        "2 peppers, sliced",
+        "400g tin chopped tomatoes",
+        "500ml beef stock",
+        "2 bay leaves",
+        "Salt",
+        "Freshly ground black pepper",
+        "Fresh parsley, chopped"
+    ],
+
+    "method": [
+        "Heat the lard or oil in a heavy casserole over a medium heat.",
+        "Add the onions and cook gently for 15–20 minutes until soft, sweet and lightly golden.",
+        "Stir in the garlic, then remove the pan from the heat before adding the sweet paprika, smoked paprika and caraway seeds. Stir well to prevent the paprika from burning.",
+        "Return the pan to the heat and stir in the tomato purée.",
+        "Add the beef and cook until lightly browned on all sides.",
+        "Stir in the peppers, chopped tomatoes, beef stock and bay leaves.",
+        "Bring to a gentle simmer, cover and cook for about 2½ hours, stirring occasionally, until the beef is fork tender.",
+        "Remove the bay leaves and season well with salt and freshly ground black pepper.",
+        "Scatter with chopped parsley before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Rustic Country Loaf"
+        ],
+        "optional-sides": [
+            "Butter",
+            "Boiled Potatoes"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 25,
+        "cook-time-minutes": 150,
+        "freezer-label": "freezes well",
+        "cost": "mid-range",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Paprika became Hungary's national spice after peppers arrived from the Americas in the 16th century. Today, Hungarian paprika is protected and prized for its rich, sweet flavour.",
+        "what-you-will-learn": "How slowly cooking onions builds natural sweetness, why paprika should never be fried over high heat, and how slow cooking transforms inexpensive cuts of beef into tender, flavourful meals.",
+        "skills": [
+            "Slow cooking",
+            "Cooking with paprika",
+            "Building flavour",
+            "Preparing braising beef"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A wonderful European comfort food that showcases how a handful of simple ingredients can create remarkable depth of flavour. It also freezes exceptionally well.",
+        "chapman-tips": [
+            "Hungarian sweet paprika is worth buying specifically for this recipe.",
+            "Never let paprika fry over high heat or it will become bitter.",
+            "The stew tastes even better the following day."
+        ],
+        "batch-cooking": "Freeze in family-sized portions for up to three months.",
+        "leftovers": "Excellent reheated gently and served with fresh bread or buttered potatoes."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Beef Bourguignon",
+            "Jamie Oliver Beef Short Ribs",
+            "Lancashire Hotpot"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

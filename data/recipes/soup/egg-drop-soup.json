@@ -1,0 +1,111 @@
+{
+    "id": "019f6fbc-4fca-74e9-ade2-4b3bf6e665e1",
+    "version": 1,
+
+    "title": "Egg Drop Soup",
+
+    "overview": {
+        "description": "A light Chinese soup of silky egg ribbons suspended in a delicately seasoned chicken broth.",
+        "country": "China",
+        "region": "Nationwide",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "1 litre homemade chicken stock",
+        "1 tsp light soy sauce",
+        "½ tsp sesame oil",
+        "¼ tsp white pepper",
+        "1 tbsp cornflour",
+        "2 tbsp cold water",
+        "3 large eggs",
+        "2 spring onions, finely sliced",
+        "Salt, to taste"
+    ],
+
+    "method": [
+        "Bring the chicken stock to a gentle simmer.",
+        "Season with the soy sauce, sesame oil and white pepper.",
+        "Mix the cornflour with the cold water to make a smooth slurry.",
+        "Slowly stir the slurry into the simmering broth until it lightly coats the back of a spoon.",
+        "Beat the eggs thoroughly.",
+        "Reduce the soup to the gentlest possible simmer.",
+        "Slowly pour the eggs into the soup in a thin stream while gently stirring the broth in one direction.",
+        "Allow the egg ribbons to cook for 30 seconds.",
+        "Taste and season if required.",
+        "Serve topped with sliced spring onions."
+    ],
+
+    "serving": {
+        "serve-with": [],
+        "optional-sides": [
+            "Steamed Dumplings",
+            "Spring Rolls"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 5,
+        "cook-time-minutes": 10,
+        "freezer-label": "freeze broth only",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Egg Drop Soup is known as Dàn Huā Tāng (蛋花汤), which literally means 'egg flower soup' because the egg ribbons resemble blossoms floating in the broth.",
+        "what-you-will-learn": "How to lightly thicken a broth and create delicate egg ribbons by controlling temperature and pouring technique.",
+        "skills": [
+            "Using a cornflour slurry",
+            "Creating egg ribbons",
+            "Seasoning broths",
+            "Gentle simmering"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "An incredibly quick soup that transforms homemade chicken stock into something elegant using only a handful of pantry ingredients.",
+        "chapman-tips": [
+            "Keep the broth below boiling before adding the eggs or the ribbons become cloudy and broken.",
+            "Pour the eggs slowly from a measuring jug for the most even ribbons.",
+            "White pepper gives the characteristic flavour found in many Chinese soups.",
+            "The soup should be only lightly thickened—just enough to suspend the egg ribbons."
+        ],
+        "batch-cooking": "Freeze only the seasoned broth. Add freshly beaten eggs after reheating.",
+        "leftovers": "Best eaten fresh, as the egg ribbons continue to soften during storage."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chicken Ramen",
+            "Avgolemono",
+            "Tortilla Soup"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

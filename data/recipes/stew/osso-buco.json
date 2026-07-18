@@ -1,0 +1,127 @@
+{
+    "id": "019f642a-2ef3-73b9-8c27-749260e011b8",
+    "version": 1,
+
+    "title": "Osso Buco",
+
+    "overview": {
+        "description": "A classic Milanese braise of beef shin slowly cooked with vegetables, white wine and stock until the meat is meltingly tender. Finished with a fresh gremolata for brightness.",
+        "country": "Italy",
+        "region": "Lombardy",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "4 beef shin slices (about 300–350g each)",
+        "2 tbsp plain flour",
+        "Salt",
+        "Freshly ground black pepper",
+        "2 tbsp olive oil",
+        "1 onion, finely diced",
+        "2 carrots, finely diced",
+        "2 celery sticks, finely diced",
+        "3 cloves garlic, minced",
+        "2 tbsp tomato purée",
+        "200ml dry white wine",
+        "500ml beef stock",
+        "1 × 400g tin chopped tomatoes",
+        "2 bay leaves",
+        "3 sprigs fresh thyme",
+        "25g butter",
+        "1 small bunch flat-leaf parsley",
+        "1 lemon",
+        "1 garlic clove"
+    ],
+
+    "method": [
+        "Season the beef shin with salt and pepper, then dust lightly with flour.",
+        "Heat the olive oil in a large casserole dish and brown the beef on both sides. Remove and set aside.",
+        "Reduce the heat and cook the onion, carrot and celery for about 10 minutes until softened.",
+        "Add the garlic and cook for 1 minute.",
+        "Stir in the tomato purée and cook for 2 minutes.",
+        "Pour in the white wine and simmer until reduced by about half.",
+        "Add the chopped tomatoes, beef stock, bay leaves and thyme.",
+        "Return the beef to the casserole, ensuring it is mostly submerged.",
+        "Cover and cook in the oven at 160°C fan (180°C conventional) for 2½–3 hours, or until the meat is fork tender.",
+        "For the gremolata, finely chop the parsley, grate the lemon zest and finely mince the remaining garlic clove. Mix together.",
+        "Remove the bay leaves and thyme stems.",
+        "Scatter the gremolata over each portion just before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Creamy Mashed Potato"
+        ],
+        "optional-sides": [
+            "Risotto Milanese",
+            "Crusty Bread",
+            "Steamed Green Beans"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 30,
+        "cook-time-minutes": 180,
+        "freezer-label": "freezes well",
+        "cost": "mid-range",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Osso Buco means 'bone with a hole' in Italian, referring to the marrow-filled centre of the shin bone, which melts into the sauce during cooking.",
+        "what-you-will-learn": "How to braise beef shin, reduce wine, and finish a rich dish with a fresh gremolata.",
+        "skills": [
+            "Browning meat",
+            "Slow braising",
+            "Deglazing",
+            "Making gremolata"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "An explorer recipe that introduces a classic Italian braise while using ingredients that are readily available in the UK.",
+        "chapman-tips": [
+            "Ask your butcher for beef shin cut across the bone.",
+            "Don't skip the gremolata—it balances the richness of the braise beautifully.",
+            "The marrow inside the bone is perfectly edible and adds wonderful richness to the sauce.",
+            "Like many braised dishes, the flavour improves overnight."
+        ],
+        "batch-cooking": "Freeze cooled portions with plenty of sauce for up to three months.",
+        "leftovers": "Excellent reheated gently and served with fresh mashed potato or creamy polenta."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Beef Bourguignon",
+            "Jamie Oliver Beef Short Ribs",
+            "Hungarian Goulash",
+            "Lancashire Hotpot"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

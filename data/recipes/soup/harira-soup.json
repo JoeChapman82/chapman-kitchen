@@ -1,0 +1,129 @@
+{
+    "id": "019f6fac-7429-752d-aaae-14b19898f1fc",
+    "version": 1,
+
+    "title": "Harira",
+
+    "overview": {
+        "description": "A hearty Moroccan soup of lamb, chickpeas, lentils and tomatoes, gently spiced and finished with fresh herbs and lemon.",
+        "country": "Morocco",
+        "region": "Nationwide",
+        "serves": 6
+    },
+
+    "ingredients": [
+        "300g lamb shoulder, diced",
+        "1 tbsp olive oil",
+        "1 onion, finely diced",
+        "2 celery sticks, finely diced",
+        "2 carrots, finely diced",
+        "4 cloves garlic, minced",
+        "20g fresh ginger, grated",
+        "1 tsp ground turmeric",
+        "1 tsp ground cinnamon",
+        "1 tsp ground ginger",
+        "1 tsp ground coriander",
+        "½ tsp black pepper",
+        "400g chopped tomatoes",
+        "100g dried chickpeas, soaked overnight and cooked",
+        "100g brown or green lentils",
+        "1.5 litres lamb or chicken stock",
+        "2 tbsp tomato purée",
+        "25g fresh coriander, chopped",
+        "25g fresh parsley, chopped",
+        "Juice of 1 lemon",
+        "Salt, to taste"
+    ],
+
+    "method": [
+        "Heat the olive oil over a medium-high heat.",
+        "Brown the lamb well on all sides.",
+        "Add the onion, celery and carrots and cook for 8 minutes until softened.",
+        "Stir in the garlic and fresh ginger and cook for 1 minute.",
+        "Add the turmeric, cinnamon, ground ginger, coriander and black pepper.",
+        "Cook for 30 seconds until fragrant.",
+        "Stir in the tomato purée and cook for 1 minute.",
+        "Add the chopped tomatoes, cooked chickpeas, lentils and stock.",
+        "Bring to the boil, then reduce to a gentle simmer.",
+        "Cook for 45–60 minutes until the lamb is tender and the lentils are cooked.",
+        "Stir in most of the coriander and parsley.",
+        "Add the lemon juice and season to taste.",
+        "Serve garnished with the remaining herbs."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Batbout"
+        ],
+        "optional-sides": [
+            "Crusty Bread",
+            "Lemon Wedges"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 75,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "budget",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Harira is traditionally eaten across Morocco to break the fast during Ramadan, but it's enjoyed throughout the year as a nourishing family meal.",
+        "what-you-will-learn": "How to build flavour by browning lamb, layering spices and balancing richness with fresh herbs and lemon.",
+        "skills": [
+            "Browning meat",
+            "Building soup bases",
+            "Cooking lentils",
+            "Balancing acidity"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A hearty one-pot soup that's ideal for batch cooking and makes excellent use of pantry staples and homemade stock.",
+        "chapman-tips": [
+            "Pressure cook the soaked chickpeas separately before starting the soup, or use leftovers from another recipe.",
+            "A pressure cooker can also be used after adding the stock—20–25 minutes at pressure gives beautifully tender lamb.",
+            "Don't skip the fresh herbs and lemon; they lift the whole dish.",
+            "Blend a small ladleful of the soup and stir it back in if you prefer a slightly thicker consistency."
+        ],
+        "batch-cooking": "Freeze in family-sized portions for up to 6 months.",
+        "leftovers": "The flavours deepen overnight and it's often even better the next day."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Carrot & Lentil Soup",
+            "Minestrone",
+            "Pea & Ham Soup",
+            "Red Red"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

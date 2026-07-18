@@ -1,0 +1,127 @@
+{
+    "id": "<019f65c1-3b95-7511-a351-5e7f1b1e3e3a",
+    "version": 1,
+
+    "title": "Jambalaya",
+
+    "overview": {
+        "description": "A hearty one-pot rice dish with chicken, cooking chorizo, peppers and warming spices. Inspired by Louisiana jambalaya and adapted for the Chapman Kitchen using ingredients that are easy to find in the UK.",
+        "country": "United States",
+        "region": "Louisiana",
+        "serves": 8
+    },
+
+    "ingredients": [
+        "2 tbsp vegetable oil",
+        "750g chicken thighs, diced",
+        "250g cooking chorizo, sliced",
+        "2 onions, diced",
+        "2 celery sticks, diced",
+        "2 peppers, diced",
+        "4 cloves garlic, minced",
+        "2 tbsp tomato purée",
+        "2 tsp smoked paprika",
+        "2 tsp dried oregano",
+        "1 tsp dried thyme",
+        "1 tsp ground cumin",
+        "½ tsp cayenne pepper (optional)",
+        "400g long grain rice",
+        "2 × 400g tins chopped tomatoes",
+        "900ml chicken stock",
+        "Salt",
+        "Freshly ground black pepper",
+        "Fresh parsley, chopped"
+    ],
+
+    "method": [
+        "Heat the vegetable oil in a large casserole or deep frying pan over a medium-high heat.",
+        "Brown the chicken until lightly coloured, then remove and set aside.",
+        "Add the chorizo and cook until it releases its oils.",
+        "Add the onions, celery and peppers and cook for around 10 minutes until softened.",
+        "Stir in the garlic and cook for 1 minute.",
+        "Add the tomato purée and cook for 2 minutes.",
+        "Stir in the smoked paprika, oregano, thyme, cumin and cayenne, cooking for 30 seconds.",
+        "Add the rice and stir until coated in the spices.",
+        "Return the chicken to the pan.",
+        "Pour in the chopped tomatoes and chicken stock.",
+        "Bring to a gentle simmer, cover and cook for 20–25 minutes until the rice is tender and the liquid has been absorbed.",
+        "Leave to stand, covered, for 10 minutes before fluffing the rice with a fork.",
+        "Season to taste and finish with chopped parsley."
+    ],
+
+    "serving": {
+        "serve-with": [],
+        "optional-sides": [
+            "Green Salad",
+            "Cornbread",
+            "Hot Sauce"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 50,
+        "freezer-label": "freezes well",
+        "cost": "mid-range",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Jambalaya developed in Louisiana by blending French, Spanish, West African and Caribbean cooking traditions into one of America's most famous rice dishes.",
+        "what-you-will-learn": "How to build flavour in a one-pot meal, cook rice by absorption and balance smoky, savoury spices.",
+        "skills": [
+            "Browning meat",
+            "Cooking rice",
+            "Building layers of flavour",
+            "One-pot cooking",
+            "Batch cooking"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "An excellent batch-cooking meal that combines protein, vegetables and rice in one pan. Full of flavour while staying simple enough for a family dinner.",
+        "chapman-tips": [
+            "Chicken thighs stay much juicier than breast during the longer cooking time.",
+            "Let the chorizo release its oils before adding the vegetables.",
+            "Avoid stirring once the rice begins to cook to keep the grains fluffy.",
+            "Resting the pan before serving gives the rice time to finish steaming."
+        ],
+        "batch-cooking": "Freeze cooled portions for up to three months.",
+        "leftovers": "Reheat thoroughly or use as the filling for stuffed peppers."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Paella",
+            "Chicken Chorizo Pasta",
+            "Chilli con Carne",
+            "Chicken Fajitas"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

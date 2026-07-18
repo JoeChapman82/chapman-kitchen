@@ -1,0 +1,110 @@
+{
+    "id": "019f6a5c-2490-764a-b072-9c41577d1a2e",
+    "version": 1,
+
+    "title": "Thai Green Curry Paste",
+
+    "overview": {
+        "description": "A fragrant homemade Thai green curry paste made with fresh herbs, chillies and aromatic spices. Freeze in portions for quick homemade curries.",
+        "country": "Thailand",
+        "region": "Central Thailand",
+        "serves": 5
+    },
+
+    "ingredients": [
+        "10 fresh green bird's eye chillies (adjust to taste)",
+        "4 shallots, roughly chopped",
+        "6 cloves garlic",
+        "40g fresh galangal, sliced",
+        "2 stalks lemongrass, tender inner part only, sliced",
+        "Large handful coriander stems",
+        "Zest of 1 makrut lime (or 1 ordinary lime if unavailable)",
+        "2 tsp shrimp paste",
+        "2 tsp coriander seeds",
+        "1 tsp cumin seeds",
+        "½ tsp white peppercorns",
+        "1 tbsp vegetable oil",
+        "2 tbsp water (if needed)"
+    ],
+
+    "method": [
+        "Toast the coriander seeds, cumin seeds and white peppercorns in a dry frying pan over a medium heat for 2–3 minutes until fragrant.",
+        "Allow to cool slightly.",
+        "Grind the toasted spices to a fine powder.",
+        "Place all the ingredients into a food processor or mini chopper.",
+        "Blend until a smooth paste forms, scraping down the sides as required.",
+        "Add the water a tablespoon at a time only if needed to help the paste blend.",
+        "Use immediately or divide into portions and freeze."
+    ],
+
+    "serving": {
+        "serve-with": [],
+        "optional-sides": []
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 5,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Thai curry pastes are traditionally pounded by hand using a granite mortar and pestle, producing an exceptionally smooth paste.",
+        "what-you-will-learn": "How to build a balanced Thai curry paste using fresh aromatics, toasted spices and shrimp paste.",
+        "skills": [
+            "Toasting spices",
+            "Grinding spices",
+            "Preparing lemongrass",
+            "Preparing galangal",
+            "Making curry paste"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "Approximately 2 tbsp",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "Making curry paste in batches produces far fresher flavour than shop-bought versions while making weeknight Thai curries almost as quick.",
+        "chapman-tips": [
+            "Freeze in approximately 2 tablespoon portions—one portion makes a curry for four people.",
+            "Coriander stems provide almost all the flavour of the roots and reduce waste.",
+            "Use gloves when handling large quantities of bird's eye chillies.",
+            "If using frozen galangal or lemongrass, thaw slightly before blending."
+        ],
+        "batch-cooking": "Freeze for up to 6 months in airtight containers or silicone ice cube trays.",
+        "leftovers": "Use to flavour soups, stir-fries or marinades."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Thai Red Curry Paste",
+            "Thai Green Curry",
+            "Thai Red Curry"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

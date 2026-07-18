@@ -1,0 +1,196 @@
+{
+    "week": 1,
+
+    "days": {
+
+        "monday": {
+            "breakfast": {
+                "meal": [""],
+                "recipes": [
+                    {
+                        "id": "",
+                        "name": ""
+                    }
+                ]
+            },
+            "morning-snack": {
+                "meal": [],
+                "recipes": []
+            },
+            "lunch": {
+                "meal": [],
+                "recipes": []
+            },
+            "afternoon-snack": {
+                "meal": [],
+                "recipes": []
+            },
+            "dinner": {
+                "meal": [],
+                "recipes": []
+            }
+        },
+        "tuesday": {
+            "breakfast": {
+                "meal": [""],
+                "recipes": [
+                    {
+                        "id": "",
+                        "name": ""
+                    }
+                ]
+            },
+            "morning-snack": {
+                "meal": [],
+                "recipes": []
+            },
+            "lunch": {
+                "meal": [],
+                "recipes": []
+            },
+            "afternoon-snack": {
+                "meal": [],
+                "recipes": []
+            },
+            "dinner": {
+                "meal": [],
+                "recipes": []
+            }
+        },
+        "wednesday": {
+            "breakfast": {
+                "meal": [""],
+                "recipes": [
+                    {
+                        "id": "",
+                        "name": ""
+                    }
+                ]
+            },
+            "morning-snack": {
+                "meal": [],
+                "recipes": []
+            },
+            "lunch": {
+                "meal": [],
+                "recipes": []
+            },
+            "afternoon-snack": {
+                "meal": [],
+                "recipes": []
+            },
+            "dinner": {
+                "meal": [],
+                "recipes": []
+            }
+        },
+        "thursday": {
+            "breakfast": {
+                "meal": [""],
+                "recipes": [
+                    {
+                        "id": "",
+                        "name": ""
+                    }
+                ]
+            },
+            "morning-snack": {
+                "meal": [],
+                "recipes": []
+            },
+            "lunch": {
+                "meal": [],
+                "recipes": []
+            },
+            "afternoon-snack": {
+                "meal": [],
+                "recipes": []
+            },
+            "dinner": {
+                "meal": [],
+                "recipes": []
+            }
+        },
+        "friday": {
+             "breakfast": {
+                "meal": [""],
+                "recipes": [
+                    {
+                        "id": "",
+                        "name": ""
+                    }
+                ]
+            },
+            "morning-snack": {
+                "meal": [],
+                "recipes": []
+            },
+            "lunch": {
+                "meal": [],
+                "recipes": []
+            },
+            "afternoon-snack": {
+                "meal": [],
+                "recipes": []
+            },
+            "dinner": {
+                "meal": [],
+                "recipes": []
+            }
+        },
+        "saturday": {
+            "breakfast": {
+                "meal": [""],
+                "recipes": [
+                    {
+                        "id": "",
+                        "name": ""
+                    }
+                ]
+            },
+            "morning-snack": {
+                "meal": [],
+                "recipes": []
+            },
+            "lunch": {
+                "meal": [],
+                "recipes": []
+            },
+            "afternoon-snack": {
+                "meal": [],
+                "recipes": []
+            },
+            "dinner": {
+                "meal": [],
+                "recipes": []
+            }
+        },
+        "sunday": {
+            "breakfast": {
+                "meal": [""],
+                "recipes": [
+                    {
+                        "id": "",
+                        "name": ""
+                    }
+                ]
+            },
+            "morning-snack": {
+                "meal": [],
+                "recipes": []
+            },
+            "lunch": {
+                "meal": [],
+                "recipes": []
+            },
+            "afternoon-snack": {
+                "meal": [],
+                "recipes": []
+            },
+            "dinner": {
+                "meal": [],
+                "recipes": []
+            }
+        }
+    }
+}

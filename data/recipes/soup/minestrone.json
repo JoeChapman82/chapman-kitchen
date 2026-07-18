@@ -1,0 +1,117 @@
+{
+  "id": "019f5b03-8fd6-7425-9061-cedc42269ce5",
+  "version": 1,
+
+  "title": "Minestrone",
+
+  "overview": {
+    "description": "A classic Italian vegetable soup made with seasonal vegetables, beans and pasta in a light tomato broth. Healthy, adaptable and an excellent way to use whatever vegetables are available.",
+    "country": "Italy",
+    "region": "Throughout Italy",
+    "serves": 4
+  },
+
+  "ingredients": [
+    "2 tbsp olive oil",
+    "1 onion, finely diced",
+    "2 carrots, finely diced",
+    "2 celery sticks, finely diced",
+    "2 cloves garlic, minced",
+    "1 courgette, diced",
+    "150g green beans, trimmed and cut into bite-sized pieces",
+    "2 tbsp tomato purée",
+    "400g tin chopped tomatoes",
+    "400g tin cannellini beans, drained",
+    "1 litre chicken or vegetable stock",
+    "100g small pasta (ditalini, small shells or macaroni)",
+    "75g frozen peas",
+    "50g spinach or kale, roughly chopped",
+    "50g Parmesan, finely grated",
+    "2 tbsp chopped fresh parsley",
+    "Salt and freshly ground black pepper",
+    "Extra virgin olive oil, to serve"
+  ],
+
+  "method": [
+    "Heat the olive oil in a large saucepan over a medium heat. Cook the onion, carrot and celery for about 10 minutes until softened.",
+    "Add the garlic, courgette and green beans. Cook for a further 5 minutes.",
+    "Stir in the tomato purée and cook for 1 minute.",
+    "Add the chopped tomatoes, cannellini beans and stock. Bring to a gentle simmer and cook for 20 minutes.",
+    "Add the pasta and cook until almost tender.",
+    "Stir in the peas and spinach during the final 3–4 minutes of cooking.",
+    "Season with salt and black pepper to taste.",
+    "Serve topped with Parmesan, fresh parsley and a drizzle of extra virgin olive oil."
+  ],
+
+  "serving": {
+    "serve-with": [
+      "Focaccia"
+    ],
+    "optional-sides": [
+      "Simple green salad"
+    ]
+  },
+
+  "planner": {
+    "prep-time-minutes": 20,
+    "cook-time-minutes": 35,
+    "freezer-label": "better fresh",
+    "cost": "budget",
+    "after-work": true
+  },
+
+  "learning": {
+    "did-you-know": "There is no single authentic minestrone recipe. Across Italy, families traditionally use whatever vegetables are in season, making every version slightly different.",
+    "what-you-will-learn": "How to build an Italian vegetable soup, cook pasta directly in broth, and adapt recipes to make the most of seasonal produce.",
+    "skills": [
+      "Making soffritto",
+      "Preparing seasonal vegetables",
+      "Cooking pasta in soup",
+      "Building vegetable flavour"
+    ]
+  },
+
+  "nutrition": {
+    "portion-size": "",
+    "calories": "",
+    "protein": "",
+    "carbohydrates": "",
+    "fat": "",
+    "saturates": "",
+    "fibre": "",
+    "sugar": "",
+    "salt": ""
+  },
+
+  "notes": {
+    "why-its-in-the-chapman-kitchen": "A versatile Pantry Monday recipe that's inexpensive, nutritious and ideal for using up vegetables before they spoil.",
+    "chapman-tips": [
+      "Use whatever seasonal vegetables you have available.",
+      "Add delicate vegetables like peas and spinach right at the end to keep their colour.",
+      "Cook the pasta just until al dente to prevent it becoming too soft."
+    ],
+    "batch-cooking": "Freeze before adding the pasta for the best texture. Cook fresh pasta when reheating.",
+    "leftovers": "The soup thickens overnight as the pasta absorbs liquid. Add a splash of stock or water when reheating."
+  },
+
+  "relationships": {
+    "similar-recipes": [
+      "Pasta e Ceci",
+      "Ribollita"
+    ]
+  },
+
+  "history": [
+    {
+      "date": "",
+      "note": ""
+    }
+  ],
+
+  "metadata": {
+    "created": "",
+    "updated": "",
+    "created-by": "Joe Chapman",
+    "updated-by": "Joe Chapman"
+  }
+}

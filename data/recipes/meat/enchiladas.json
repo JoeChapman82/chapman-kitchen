@@ -1,0 +1,126 @@
+{
+    "id": "019f769b-3a9a-704a-a345-2e1b8badd376",
+    "version": 1,
+
+    "title": "Chicken Enchiladas",
+
+    "overview": {
+        "description": "Soft tortillas filled with seasoned chicken, covered in a smoky homemade enchilada sauce and baked with cheese until bubbling.",
+        "country": "Mexico",
+        "region": "Tex-Mex inspired",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "500g cooked chicken breast, shredded",
+        "8 flour tortillas",
+        "200g mature Cheddar, grated",
+        "",
+        "2 tbsp vegetable oil",
+        "2 tbsp plain flour",
+        "2 tbsp tomato purée",
+        "500ml homemade chicken stock",
+        "2 tsp ground cumin",
+        "2 tsp smoked paprika",
+        "1 tsp ground coriander",
+        "1 tsp dried oregano",
+        "½ tsp garlic powder",
+        "½ tsp onion powder",
+        "¼ tsp cayenne pepper (optional)",
+        "Salt and black pepper, to taste"
+    ],
+
+    "method": [
+        "Preheat the oven to 200°C (180°C fan).",
+        "Heat the oil over a medium heat.",
+        "Whisk in the flour and cook for 1 minute.",
+        "Stir in the tomato purée and cook for another minute.",
+        "Gradually whisk in the chicken stock until smooth.",
+        "Add the cumin, paprika, coriander, oregano, garlic powder, onion powder and cayenne (if using).",
+        "Simmer for 8–10 minutes until lightly thickened.",
+        "Taste and season with salt and black pepper.",
+        "Mix a few spoonfuls of the sauce with the shredded chicken.",
+        "Fill each tortilla with the chicken and a little cheese, then roll tightly.",
+        "Arrange seam-side down in a baking dish.",
+        "Pour over the remaining sauce.",
+        "Top with the remaining cheese.",
+        "Bake for 20–25 minutes until bubbling and golden."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Mexican Rice"
+        ],
+        "optional-sides": [
+            "Guacamole",
+            "Sour Cream",
+            "Salsa",
+            "Pickled Jalapeños"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 35,
+        "freezer-label": "freezes very well",
+        "cost": "budget",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Traditional Mexican enchiladas are often dipped in sauce before filling, whereas many Tex-Mex versions are baked covered in sauce and cheese.",
+        "what-you-will-learn": "How to make a quick homemade enchilada sauce and assemble enchiladas that stay moist during baking.",
+        "skills": [
+            "Making pan sauces",
+            "Rolling tortillas",
+            "Baking",
+            "Balancing spices"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "An excellent way to turn leftover cooked chicken into a comforting family meal using ingredients already found in the Chapman Kitchen.",
+        "chapman-tips": [
+            "Mixing a little sauce into the filling keeps the chicken moist.",
+            "Warm the tortillas briefly if they crack when rolling.",
+            "Homemade enchilada sauce takes only a few minutes and tastes much fresher than jarred versions.",
+            "Leftover fajita chicken works brilliantly in this recipe."
+        ],
+        "batch-cooking": "Assemble, cool and freeze before baking, or bake first and freeze individual portions.",
+        "leftovers": "Reheat covered in the oven until piping hot."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chicken Fajitas",
+            "Homemade Flour Tortillas",
+            "Chicken Chimichangas"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

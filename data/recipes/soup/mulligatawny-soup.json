@@ -1,0 +1,124 @@
+{
+    "id": "019f6fae-58ca-74ee-b976-4702a29a85c9",
+    "version": 1,
+
+    "title": "Mulligatawny Soup",
+
+    "overview": {
+        "description": "A hearty Anglo-Indian soup combining chicken, red lentils, vegetables and warming spices in a rich homemade stock.",
+        "country": "United Kingdom",
+        "region": "Anglo-Indian",
+        "serves": 6
+    },
+
+    "ingredients": [
+        "2 tbsp vegetable oil or ghee",
+        "500g chicken breast, diced",
+        "1 onion, finely diced",
+        "2 carrots, finely diced",
+        "2 celery sticks, finely diced",
+        "4 cloves garlic, minced",
+        "20g fresh ginger, grated",
+        "1 tsp ground cumin",
+        "1 tsp ground coriander",
+        "1 tsp turmeric",
+        "1 tsp mild curry powder",
+        "½ tsp black pepper",
+        "150g red lentils",
+        "400g chopped tomatoes",
+        "1.5 litres homemade chicken stock",
+        "Juice of ½ lemon",
+        "2 tbsp fresh coriander, chopped",
+        "Salt, to taste"
+    ],
+
+    "method": [
+        "Heat the oil or ghee over a medium heat.",
+        "Brown the chicken for 4–5 minutes, then remove and set aside.",
+        "Cook the onion, carrots and celery for 8–10 minutes until softened.",
+        "Add the garlic and ginger and cook for 1 minute.",
+        "Stir in the cumin, coriander, turmeric, curry powder and black pepper.",
+        "Cook for 30 seconds until fragrant.",
+        "Add the tomatoes, red lentils and chicken stock.",
+        "Return the chicken to the pan.",
+        "Bring to the boil, then simmer gently for 30 minutes until the lentils have broken down.",
+        "Blend until smooth, or leave partially blended if you prefer a little texture.",
+        "Stir in the lemon juice and season to taste.",
+        "Finish with fresh coriander before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Homemade Bread",
+            "Batbout"
+        ],
+        "optional-sides": [
+            "Naan"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 45,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Mulligatawny developed during the British Raj as an adaptation of South Indian pepper water to suit British tastes.",
+        "what-you-will-learn": "How to build a lightly spiced soup using homemade stock, lentils and chicken, and how blending changes the finished texture.",
+        "skills": [
+            "Building soup bases",
+            "Blooming spices",
+            "Cooking lentils",
+            "Blending soups"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A warming, filling soup that makes excellent use of homemade chicken stock and freezes beautifully.",
+        "chapman-tips": [
+            "Homemade chicken stock gives this soup much more depth than stock cubes.",
+            "Blend until completely smooth for a classic finish, or only partially blend if you prefer more texture.",
+            "Add the lemon juice right at the end to brighten the flavours.",
+            "This is an Anglo-Indian recipe rather than a traditional Indian soup."
+        ],
+        "batch-cooking": "Freeze in family-sized portions for up to 6 months.",
+        "leftovers": "Reheat gently and loosen with a little stock if it thickens."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Harira",
+            "Carrot & Lentil Soup",
+            "Chicken Saag"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "019f57a4-777a-7a93-9c35-e240781fb1a6",
+  "version": 1,
+
+  "title": "Falafel",
+
+  "overview": {
+    "description": "Traditional chickpea falafel with a crisp, golden crust and a soft, herb-filled centre. Best shallow or deep fried and perfect with pita, hummus and salad.",
+    "country": "Middle East",
+    "region": "",
+    "serves": 4
+  },
+
+  "ingredients": [
+    "250g dried chickpeas",
+    "1 medium onion, roughly chopped",
+    "3 cloves garlic",
+    "25g fresh parsley",
+    "25g fresh coriander",
+    "1 tsp ground cumin",
+    "1 tsp ground coriander",
+    "½ tsp bicarbonate of soda",
+    "1 tsp fine salt",
+    "½ tsp freshly ground black pepper",
+    "Vegetable oil for frying"
+  ],
+
+  "method": [
+    "Place the dried chickpeas into a large bowl, cover generously with cold water and leave to soak for 18–24 hours. They will roughly double in size. Do not cook them.",
+    "Drain the chickpeas well and pat them dry with a clean tea towel. Excess water makes the mixture more difficult to shape.",
+    "Add the chickpeas, onion, garlic, parsley, coriander, cumin, ground coriander, bicarbonate of soda, salt and black pepper to a food processor. Pulse until the mixture resembles coarse breadcrumbs. It should hold together when squeezed but still have some texture. Avoid blending it into a smooth paste.",
+    "Transfer the mixture to a bowl, cover and chill for at least 30 minutes. This helps the mixture firm up and makes the falafel easier to shape.",
+    "Shape the mixture into golf ball-sized balls or small patties, pressing them together firmly enough to hold their shape without compacting them too much.",
+    "Heat 2–3cm of vegetable oil in a heavy frying pan or saucepan to approximately 180°C. If you don't have a thermometer, a small piece of the mixture should sizzle immediately and rise gently to the surface.",
+    "Cook the falafel in small batches for about 3–4 minutes, turning occasionally until evenly deep golden brown and crisp on the outside. Avoid overcrowding the pan as this lowers the oil temperature.",
+    "Drain on a wire rack or kitchen paper and serve immediately while the outside is crisp and the centre is still soft."
+  ],
+
+  "serving": {
+    "serve-with": [],
+    "optional-sides": [
+      "Tahini sauce",
+      "Chilli sauce",
+      "Pickled vegetables"
+    ]
+  },
+
+  "planner": {
+    "prep-time-minutes": 1470,
+    "cook-time-minutes": 15,
+    "freezer-label": "freezes-well",
+    "cost": "budget",
+    "after-work": false
+  },
+
+  "learning": {
+    "did-you-know": "Traditional falafel is made using soaked dried chickpeas rather than cooked chickpeas. Using dried chickpeas gives the finished falafel its distinctive light, fluffy texture.",
+    "what-you-will-learn": "How soaking affects dried pulses, how to judge the correct texture of a falafel mixture and how to fry safely at the correct temperature.",
+    "skills": [
+      "Working with dried pulses",
+      "Food processor techniques",
+      "Shaping",
+      "Shallow frying",
+      "Deep frying"
+    ]
+  },
+
+  "nutrition": {
+    "portion-size": "",
+    "calories": "",
+    "protein": "",
+    "carbohydrates": "",
+    "fat": "",
+    "saturates": "",
+    "fibre": "",
+    "sugar": "",
+    "salt": ""
+  },
+
+  "notes": {
+    "why-its-in-the-chapman-kitchen": "A pantry-friendly favourite that pairs beautifully with homemade pita and hummus. Frying gives a crisp exterior and fluffy centre that baking simply can't replicate.",
+    "chapman-tips": [
+      "The fresh herbs are important. The mixture should look surprisingly green. The herbs contribute not only flavour but also help create the lighter texture and fresh taste that sets good falafel apart",
+      "Don't use canned chickpeas; they're too soft and produce a dense texture.",
+      "If the mixture feels too wet, chill it a little longer before shaping.",
+      "Cook a single falafel first to check the seasoning before frying the whole batch."
+    ],
+    "batch-cooking": "Shape the falafel and freeze them uncooked on a tray before transferring to a freezer bag. Cook directly from frozen, adding an extra minute or two to the cooking time.",
+    "leftovers": "Best eaten fresh, but leftovers reheat well in a hot oven or air fryer."
+  },
+
+  "relationships": {
+    "similar-recipes": []
+  },
+
+  "history": [
+    {
+      "date": "",
+      "note": ""
+    }
+  ],
+
+  "metadata": {
+    "created": "",
+    "updated": "",
+    "created-by": "Joe Chapman",
+    "updated-by": "Joe Chapman"
+  }
+}

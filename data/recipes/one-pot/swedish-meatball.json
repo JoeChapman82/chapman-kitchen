@@ -1,0 +1,120 @@
+{
+    "id": "019f615b-c4d8-72e8-9e42-943fde85ac03",
+    "version": 1,
+
+    "title": "Swedish Meatballs",
+
+    "overview": {
+        "description": "Tender beef and pork meatballs gently seasoned with allspice and nutmeg, served in a rich creamy gravy. A classic Swedish comfort food traditionally accompanied by mashed potatoes and lingonberry jam.",
+        "country": "Sweden",
+        "region": "",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "250g beef mince",
+        "250g pork mince",
+        "1 small onion, finely grated",
+        "1 clove garlic, minced",
+        "50g fresh breadcrumbs",
+        "1 egg",
+        "100ml milk",
+        "1 tsp ground allspice",
+        "¼ tsp ground nutmeg",
+        "Salt",
+        "Freshly ground black pepper",
+        "2 tbsp butter",
+        "1 tbsp plain flour",
+        "500ml beef stock",
+        "150ml double cream",
+        "1 tsp Dijon mustard"
+    ],
+
+    "method": [
+        "Mix the beef mince, pork mince, grated onion, garlic, breadcrumbs, egg, milk, allspice, nutmeg, salt and pepper until just combined.",
+        "Shape into approximately 20–24 small meatballs.",
+        "Heat 1 tablespoon of the butter in a large frying pan over a medium heat.",
+        "Brown the meatballs on all sides, working in batches if necessary. They do not need to be fully cooked at this stage.",
+        "Remove the meatballs and set aside.",
+        "Add the remaining butter to the pan, stir in the flour and cook for 1 minute.",
+        "Gradually whisk in the beef stock until smooth.",
+        "Stir in the double cream and Dijon mustard and bring to a gentle simmer.",
+        "Return the meatballs to the pan and simmer gently for 10–15 minutes until cooked through and the sauce has thickened.",
+        "Taste and adjust the seasoning before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Mashed Potatoes"
+        ],
+        "optional-sides": [
+            "Lingonberry Jam",
+            "Quick Pickled Cucumber",
+            "Steamed Green Beans"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 25,
+        "cook-time-minutes": 30,
+        "freezer-label": "freezes well",
+        "cost": "mid-range",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Swedish meatballs are traditionally flavoured with warming spices like allspice, giving them a distinctive taste that sets them apart from Italian or British meatballs.",
+        "what-you-will-learn": "How to make tender meatballs, build a simple pan gravy and balance rich flavours with traditional accompaniments.",
+        "skills": [
+            "Making meatballs",
+            "Building a pan gravy",
+            "Gentle simmering",
+            "Balancing seasoning"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A comforting family meal that's simple enough for a weekday but different enough to introduce Scandinavian flavours and techniques.",
+        "chapman-tips": [
+            "Don't overwork the meat mixture or the meatballs can become dense.",
+            "Brown the meatballs well before making the gravy to build flavour.",
+            "Lingonberry jam is traditional, but cranberry sauce makes a reasonable substitute if you can't find it."
+        ],
+        "batch-cooking": "Freeze the cooked meatballs in their gravy for up to three months.",
+        "leftovers": "Reheat gently over a low heat, adding a splash of stock if the gravy becomes too thick."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Hungarian Goulash",
+            "Beef Bourguignon",
+            "Homemade Burgers"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

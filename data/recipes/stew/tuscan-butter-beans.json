@@ -1,0 +1,116 @@
+{
+  "id": "019f5b0c-c823-77ed-90fc-df5fa3b3af1c",
+  "version": 1,
+
+  "title": "Tuscan Butter Beans",
+
+  "overview": {
+    "description": "A comforting Tuscan bean stew made with butter beans, garlic, tomatoes and leafy greens. Simple ingredients come together to create a hearty Mediterranean meal that's inexpensive, healthy and full of flavour.",
+    "country": "Italy",
+    "region": "Tuscany",
+    "serves": 4
+  },
+
+  "ingredients": [
+    "2 tbsp olive oil",
+    "1 onion, finely diced",
+    "2 carrots, finely diced",
+    "2 celery sticks, finely diced",
+    "3 cloves garlic, minced",
+    "2 tbsp tomato purée",
+    "400g tin chopped tomatoes",
+    "2 × 400g tins butter beans, drained",
+    "300ml vegetable or chicken stock",
+    "1 tsp dried rosemary",
+    "1 tsp dried thyme",
+    "150g kale, roughly chopped",
+    "50g Parmesan, finely grated (optional)",
+    "Salt and freshly ground black pepper",
+    "Extra virgin olive oil, to serve"
+  ],
+
+  "method": [
+    "Heat the olive oil in a large saucepan over a medium heat. Cook the onion, carrot and celery for about 10 minutes until softened.",
+    "Add the garlic and tomato purée and cook for 1 minute.",
+    "Stir in the chopped tomatoes, stock, rosemary and thyme, then simmer gently for 10 minutes.",
+    "Add the butter beans and cook for another 10 minutes until heated through.",
+    "Stir in the kale and cook until just wilted, about 5 minutes.",
+    "Lightly mash a small handful of the beans to naturally thicken the sauce while keeping most of the beans whole.",
+    "Season with salt and freshly ground black pepper.",
+    "Serve with grated Parmesan if using and finish with a drizzle of extra virgin olive oil."
+  ],
+
+  "serving": {
+    "serve-with": [
+      "Rosemary Focaccia"
+    ],
+    "optional-sides": [
+      "Simple green salad"
+    ]
+  },
+
+  "planner": {
+    "prep-time-minutes": 15,
+    "cook-time-minutes": 30,
+    "freezer-label": "freezes well",
+    "cost": "budget",
+    "after-work": true
+  },
+
+  "learning": {
+    "did-you-know": "Beans have been a staple of Tuscan cooking for centuries, earning the people of Tuscany the nickname 'mangiafagioli'—'bean eaters'.",
+    "what-you-will-learn": "How simple herbs, garlic and good olive oil can transform inexpensive ingredients into a deeply satisfying meal, and how mashing a few beans naturally thickens a sauce.",
+    "skills": [
+      "Making soffritto",
+      "Building tomato sauces",
+      "Cooking leafy greens",
+      "Natural thickening"
+    ]
+  },
+
+  "nutrition": {
+    "portion-size": "",
+    "calories": "",
+    "protein": "",
+    "carbohydrates": "",
+    "fat": "",
+    "saturates": "",
+    "fibre": "",
+    "sugar": "",
+    "salt": ""
+  },
+
+  "notes": {
+    "why-its-in-the-chapman-kitchen": "An inexpensive Pantry Monday meal that showcases how a handful of cupboard staples can become a nourishing family dinner.",
+    "chapman-tips": [
+      "Use cavolo nero when it's available for an even more authentic Tuscan flavour.",
+      "Mash a few of the beans rather than adding flour or cream to thicken the sauce.",
+      "Serve with plenty of crusty bread to soak up the sauce."
+    ],
+    "batch-cooking": "Freezes very well. Portion into freezer containers and reheat gently from thawed.",
+    "leftovers": "Excellent reheated the following day and even better served on toasted focaccia."
+  },
+
+  "relationships": {
+    "similar-recipes": [
+      "Gigantes Plaki",
+      "Ribollita",
+      "Pasta e Ceci",
+      "Minestrone"
+    ]
+  },
+
+  "history": [
+    {
+      "date": "",
+      "note": ""
+    }
+  ],
+
+  "metadata": {
+    "created": "",
+    "updated": "",
+    "created-by": "Joe Chapman",
+    "updated-by": "Joe Chapman"
+  }
+}

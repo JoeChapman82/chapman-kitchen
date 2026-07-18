@@ -1,0 +1,114 @@
+{
+    "id": "019f7688-3c6b-72fb-9919-45a32cac8fca",
+    "version": 1,
+
+    "title": "Korean Egg Toast",
+
+    "overview": {
+        "description": "A popular Korean street-food breakfast of fluffy vegetable omelette in butter-toasted bread with a sweet and savoury finish.",
+        "country": "South Korea",
+        "region": "Seoul",
+        "serves": 2
+    },
+
+    "ingredients": [
+        "4 slices thick milk bread (or substitute white bread)",
+        "4 eggs",
+        "75g white cabbage, very finely shredded",
+        "½ small carrot, grated",
+        "2 spring onions, finely sliced",
+        "20g butter",
+        "2 slices mature Cheddar",
+        "",
+        "2 tsp ketchup",
+        "2 tsp mayonnaise",
+        "1 tsp sugar"
+    ],
+
+    "method": [
+        "Beat the eggs until smooth.",
+        "Stir in the cabbage, carrot and spring onions.",
+        "Season lightly with salt and black pepper.",
+        "Melt half the butter in a frying pan over a medium heat.",
+        "Pour in half the egg mixture and cook until just set.",
+        "Fold into a rectangle roughly the size of the bread.",
+        "Repeat with the remaining egg mixture.",
+        "Toast the bread in the remaining butter until golden.",
+        "Place an omelette on each slice of toast and top with the cheese.",
+        "Drizzle with ketchup and mayonnaise.",
+        "Sprinkle lightly with the sugar.",
+        "Top with the remaining toast and serve immediately."
+    ],
+
+    "serving": {
+        "serve-with": [],
+        "optional-sides": [
+            "Hash Browns",
+            "Fresh Fruit"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 10,
+        "cook-time-minutes": 10,
+        "freezer-label": "not recommended",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Korean Egg Toast became famous through street-food vendors such as Isaac Toast, where the signature sweet sprinkle of sugar balances the savoury filling.",
+        "what-you-will-learn": "How finely shredded vegetables make an omelette lighter and sweeter while adding texture.",
+        "skills": [
+            "Making omelettes",
+            "Butter-toasting bread",
+            "Balancing sweet and savoury flavours"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A quick breakfast or lunch using everyday ingredients that's likely to appeal to both adults and children.",
+        "chapman-tips": [
+            "Shred the cabbage as finely as possible so it softens quickly.",
+            "Don't skip the tiny sprinkle of sugar—it balances the flavours rather than making the toast sweet.",
+            "Cook the omelette gently so it stays fluffy.",
+            "Thick-cut bread gives the best texture."
+        ],
+        "batch-cooking": "Best cooked fresh.",
+        "leftovers": "Not recommended."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Shakshuka",
+            "Sabich",
+            "Creamy Porridge"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

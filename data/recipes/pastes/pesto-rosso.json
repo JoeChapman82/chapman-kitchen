@@ -1,0 +1,112 @@
+{
+    "id": "019f6b70-a069-7666-90e9-26ade31ca6ff",
+    "version": 1,
+
+    "title": "Pesto Rosso",
+
+    "overview": {
+        "description": "A rich Italian red pesto made from sun-dried tomatoes, Parmesan, basil and toasted nuts. Perfect stirred through pasta, spread on sandwiches or used as a flavour base.",
+        "country": "Italy",
+        "region": "Sicily",
+        "serves": 5
+    },
+
+    "ingredients": [
+        "200g oil-packed sun-dried tomatoes, drained",
+        "50g Parmesan, finely grated",
+        "40g pine nuts, lightly toasted",
+        "1 small handful fresh basil leaves",
+        "2 cloves garlic",
+        "80ml extra virgin olive oil",
+        "Freshly ground black pepper"
+    ],
+
+    "method": [
+        "Toast the pine nuts in a dry frying pan over a medium heat until lightly golden.",
+        "Allow to cool.",
+        "Place the sun-dried tomatoes, Parmesan, basil, garlic and pine nuts into a food processor.",
+        "Pulse until finely chopped.",
+        "Slowly add the olive oil while blending until a coarse but spoonable pesto forms.",
+        "Taste and season with black pepper.",
+        "Transfer to a clean jar.",
+        "Cover the surface with a thin layer of olive oil before refrigerating or freezing."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Pasta"
+        ],
+        "optional-sides": [
+            "Chicken",
+            "Roasted Vegetables",
+            "Sandwiches",
+            "Pizza",
+            "Focaccia"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 10,
+        "cook-time-minutes": 5,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "mid-range",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Pesto Rosso originated in Sicily, where sun-dried tomatoes are abundant thanks to the island's warm Mediterranean climate.",
+        "what-you-will-learn": "How to balance salty cheese, sweet tomatoes and rich olive oil into a versatile Italian sauce.",
+        "skills": [
+            "Toasting nuts",
+            "Using a food processor",
+            "Making pesto",
+            "Balancing flavours"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "Approximately 2 tbsp",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A versatile freezer staple that can transform pasta, sandwiches and roasted vegetables in minutes.",
+        "chapman-tips": [
+            "Pine nuts are traditional, but toasted cashews or blanched almonds make excellent everyday alternatives.",
+            "Don't over-blend—the pesto should retain a little texture.",
+            "Covering the surface with olive oil helps preserve its colour.",
+            "Freeze in approximately 2 tablespoon portions for quick meals."
+        ],
+        "batch-cooking": "Freeze in silicone ice cube trays or small containers for up to 6 months.",
+        "leftovers": "Stir into pasta, spread on homemade focaccia or use as a marinade for chicken."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Pesto Genovese",
+            "Focaccia",
+            "Pasta al Pesto"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

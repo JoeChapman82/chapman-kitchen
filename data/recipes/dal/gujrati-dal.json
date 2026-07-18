@@ -1,0 +1,131 @@
+{
+    "id": "019f6e85-2804-71bf-953a-72f2ab97f4b6",
+    "version": 1,
+
+    "title": "Gujarati Dal",
+
+    "overview": {
+        "description": "A sweet, tangy and gently spiced lentil curry made with toor dal, tomatoes and aromatic tempering. A classic everyday dish from Gujarat.",
+        "country": "India",
+        "region": "Gujarat",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "250g toor dal (split pigeon peas)",
+        "1 litre water",
+        "1 tbsp ghee",
+        "1 tsp black mustard seeds",
+        "1 tsp cumin seeds",
+        "8 curry leaves",
+        "2 dried red chillies",
+        "Pinch of asafoetida (hing)",
+        "1 onion, finely diced",
+        "20g fresh ginger, grated",
+        "2 green chillies, finely chopped",
+        "2 tomatoes, finely chopped",
+        "½ tsp turmeric",
+        "1 tsp ground coriander",
+        "1 tsp ground cumin",
+        "1 tbsp grated jaggery (or soft brown sugar)",
+        "1 tbsp tamarind paste",
+        "Salt, to taste",
+        "2 tbsp fresh coriander, chopped"
+    ],
+
+    "method": [
+        "Rinse the toor dal thoroughly.",
+        "Pressure cook with the water and turmeric for 15 minutes, then allow the pressure to release naturally.",
+        "Mash the cooked dal until smooth using a whisk or potato masher.",
+        "Heat the ghee over a medium heat.",
+        "Add the mustard seeds and allow them to pop.",
+        "Add the cumin seeds, dried chillies, curry leaves and asafoetida.",
+        "Cook for 30 seconds until fragrant.",
+        "Add the onion and cook for 8 minutes until softened.",
+        "Stir in the ginger and green chillies and cook for 1 minute.",
+        "Add the tomatoes and cook until softened.",
+        "Stir in the ground coriander and ground cumin.",
+        "Add the cooked dal.",
+        "Stir in the jaggery and tamarind paste.",
+        "Simmer gently for 10–15 minutes until slightly thickened.",
+        "Season to taste.",
+        "Finish with fresh coriander."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Steamed Basmati Rice"
+        ],
+        "optional-sides": [
+            "Papadums",
+            "Pickle",
+            "Plain Yoghurt"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 35,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Gujarati cuisine is famous for balancing sweet, sour and savoury flavours within the same dish, and Gujarati Dal is one of its best-known examples.",
+        "what-you-will-learn": "How to cook toor dal, prepare a traditional tempering (tadka) and balance sweetness with acidity.",
+        "skills": [
+            "Pressure cooking lentils",
+            "Preparing a tadka",
+            "Balancing sweet and sour flavours",
+            "Cooking lentils"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A completely different style of dal that shows the incredible regional variety of Indian cooking while using pantry staples.",
+        "chapman-tips": [
+            "Pressure cooking produces the smoothest dal and saves considerable time.",
+            "The finished dal should taste balanced—sweetness, tanginess and savouriness should all be noticeable without any one dominating.",
+            "Fresh curry leaves make a significant difference if you have them frozen.",
+            "Roasted cumin powder can be sprinkled over the finished dal for extra aroma."
+        ],
+        "batch-cooking": "Freeze in family-sized portions for up to 6 months.",
+        "leftovers": "Reheat gently with a splash of water if the dal thickens in the fridge."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Dal Makhani",
+            "Dal Chawal",
+            "Rajma",
+            "Chole (Punjabi Chickpea Curry)"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

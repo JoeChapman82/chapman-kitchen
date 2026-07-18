@@ -1,0 +1,113 @@
+{
+    "id": "019f739d-e62c-705d-9dc4-0e0206858d83",
+    "version": 1,
+
+    "title": "Homemade Beef Burgers",
+
+    "overview": {
+        "description": "Juicy homemade beef burgers made with well-marbled mince and simply seasoned to let the beef shine.",
+        "country": "United States",
+        "region": "Classic American",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "800g beef mince (20% fat)",
+        "1½ tsp fine salt",
+        "1 tsp freshly ground black pepper",
+        "",
+        "4 burger buns",
+        "4 slices mature Cheddar (optional)"
+    ],
+
+    "method": [
+        "Divide the mince into 4 equal portions.",
+        "Gently shape into patties approximately 2cm thick.",
+        "Press a shallow indentation into the centre of each patty with your thumb.",
+        "Season generously with the salt and pepper immediately before cooking.",
+        "Heat a heavy frying pan, griddle or barbecue until very hot.",
+        "Cook for 3–4 minutes on the first side without moving.",
+        "Flip once.",
+        "Cook for another 3–4 minutes for medium, adjusting to your preferred doneness.",
+        "Add the cheese during the final minute if using.",
+        "Rest the burgers for 3–5 minutes before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Burger Buns",
+            "Chips"
+        ],
+        "optional-sides": [
+            "Lettuce",
+            "Tomato",
+            "Red Onion",
+            "Pickles",
+            "Burger Sauce"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 10,
+        "cook-time-minutes": 10,
+        "freezer-label": "freeze before or after cooking",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Many of the world's best burger restaurants season only with salt and pepper, relying on high-quality beef rather than additional ingredients.",
+        "what-you-will-learn": "How to shape burgers correctly, avoid overworking the meat and develop a deep crust while keeping the centre juicy.",
+        "skills": [
+            "Shaping burgers",
+            "High-heat cooking",
+            "Resting meat",
+            "Building a crust"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A simple family favourite that proves great burgers come from good ingredients and good technique rather than complicated recipes.",
+        "chapman-tips": [
+            "Use beef with around 20% fat for the best flavour and juiciness.",
+            "Don't overwork the mince or the burgers become dense.",
+            "Season just before cooking rather than mixing salt into the meat.",
+            "Flip only once to develop a proper crust."
+        ],
+        "batch-cooking": "Freeze uncooked patties separated with baking paper, or freeze cooked burgers once cooled.",
+        "leftovers": "Excellent sliced into wraps or served cold in sandwiches."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Lamb Kofta",
+            "Chicken Shawarma"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

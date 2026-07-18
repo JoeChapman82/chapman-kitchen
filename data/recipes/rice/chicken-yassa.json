@@ -1,0 +1,113 @@
+{
+  "id": "019f5cb4-bb1e-76df-a9e0-0cf3409af82c",
+  "version": 1,
+
+  "title": "Chicken Yassa",
+
+  "overview": {
+    "description": "A traditional Senegalese chicken dish where chicken is marinated in lemon, mustard and onions before being slowly cooked until the onions become rich, sweet and deeply flavoured.",
+    "country": "Senegal",
+    "region": "Casamance",
+    "serves": 4
+  },
+
+  "ingredients": [
+    "8 chicken thighs (bone-in or boneless)",
+    "3 large onions, thinly sliced",
+    "3 cloves garlic, minced",
+    "2 lemons, juiced",
+    "2 tbsp Dijon mustard",
+    "2 tbsp olive oil",
+    "250ml chicken stock",
+    "2 bay leaves",
+    "1 tsp freshly ground black pepper",
+    "1 tsp salt",
+    "1 Scotch bonnet chilli (optional, left whole)",
+    "Fresh parsley, chopped"
+  ],
+
+  "method": [
+    "Combine the chicken, onions, garlic, lemon juice, Dijon mustard, black pepper and salt in a large bowl. Mix thoroughly, cover and marinate in the fridge for at least 4 hours, preferably overnight.",
+    "Remove the chicken from the marinade, reserving the onions and marinade.",
+    "Heat the olive oil in a large casserole dish over a medium-high heat and brown the chicken on both sides. Remove and set aside.",
+    "Reduce the heat to medium and add all of the reserved onions and marinade. Cook gently for about 20 minutes, stirring occasionally, until the onions become soft, sweet and lightly caramelised.",
+    "Pour in the chicken stock and add the bay leaves.",
+    "Return the chicken to the pan along with the whole Scotch bonnet if using.",
+    "Cover and simmer gently for 35–40 minutes until the chicken is tender and cooked through.",
+    "Remove the bay leaves and chilli before serving. Scatter with fresh parsley."
+  ],
+
+  "serving": {
+    "serve-with": [
+      "Flatbread"
+    ],
+    "optional-sides": [
+      "Steamed rice",
+      "Simple green salad"
+    ]
+  },
+
+  "planner": {
+    "prep-time-minutes": 260,
+    "cook-time-minutes": 60,
+    "freezer-label": "freezes well",
+    "cost": "mid-range",
+    "after-work": false
+  },
+
+  "learning": {
+    "did-you-know": "Chicken Yassa originated in the Casamance region of southern Senegal and has become one of West Africa's best-known dishes.",
+    "what-you-will-learn": "How marinating transforms both the chicken and onions, and how slow cooking develops natural sweetness without adding sugar.",
+    "skills": [
+      "Marinating meat",
+      "Caramelising onions",
+      "Balancing acidity",
+      "Slow simmering"
+    ]
+  },
+
+  "nutrition": {
+    "portion-size": "",
+    "calories": "",
+    "protein": "",
+    "carbohydrates": "",
+    "fat": "",
+    "saturates": "",
+    "fibre": "",
+    "sugar": "",
+    "salt": ""
+  },
+
+  "notes": {
+    "why-its-in-the-chapman-kitchen": "A fantastic introduction to West African cooking that relies on everyday ingredients while delivering a flavour unlike anything else in the planner.",
+    "chapman-tips": [
+      "Don't rush the onions—they're the heart of the dish.",
+      "Leaving the Scotch bonnet whole adds gentle flavour without excessive heat.",
+      "Overnight marinating produces the best result."
+    ],
+    "batch-cooking": "Freezes very well. Freeze with plenty of sauce to keep the chicken moist.",
+    "leftovers": "Excellent reheated and arguably even better the next day once the onions have developed further."
+  },
+
+  "relationships": {
+    "similar-recipes": [
+      "Moroccan Chicken Tagine",
+      "Chicken Cacciatore",
+      "Butter Chicken"
+    ]
+  },
+
+  "history": [
+    {
+      "date": "",
+      "note": ""
+    }
+  ],
+
+  "metadata": {
+    "created": "",
+    "updated": "",
+    "created-by": "Joe Chapman",
+    "updated-by": "Joe Chapman"
+  }
+}

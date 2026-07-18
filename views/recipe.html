@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Recipe</title>
+  <meta name="description" content="A family meal planner for always-on displays">
+  <meta name="theme-color" content="#d4785c">
+  <link rel="icon" href="../assets/icons/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="../assets/icons/favicon.svg">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="stylesheet" href="../assets/css/main.css">
+  <script src="../assets/js/theme.js"></script>
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="../index.html">Home</a>
+      <a href="planner.html">Planner</a>
+      <a href="search.html">Search</a>
+    </nav>
+  </header>
+  <main class="recipe-page">
+    <article id="recipe-content" hidden>
+      <div class="recipe-header-row">
+        <h1 data-field="title"></h1>
+        <button class="learn-button" id="learn-button" hidden>🎓 Learn</button>
+      </div>
+      <p class="recipe-description" data-field="overview.description"></p>
+
+      <div class="recipe-meta">
+        <span data-field="overview.country"></span>
+        <span data-field="overview.serves" data-prefix="Serves "></span>
+        <span data-field="planner.prep-time-minutes" data-prefix="Prep: " data-suffix=" min"></span>
+        <span data-field="planner.cook-time-minutes" data-prefix="Cook: " data-suffix=" min"></span>
+        <span data-field="planner.freezer-label"></span>
+        <span data-field="planner.cost"></span>
+        <span data-field="planner.after-work" data-prefix="After work: "></span>
+      </div>
+
+      <section class="recipe-section">
+        <h2>Ingredients</h2>
+        <ul data-list="ingredients"></ul>
+      </section>
+
+      <section class="recipe-section">
+        <h2>Method</h2>
+        <ol data-list="method"></ol>
+      </section>
+
+      <section class="recipe-section" data-show-if="serving" hidden>
+        <h2>Serving</h2>
+        <div class="serving-grid">
+          <div class="serving-item" data-show-if="serving.serve-with" hidden>
+            <h3>Serve with</h3>
+            <ul data-list="serving.serve-with"></ul>
+          </div>
+          <div class="serving-item" data-show-if="serving.optional-sides" hidden>
+            <h3>Optional sides</h3>
+            <ul data-list="serving.optional-sides"></ul>
+          </div>
+        </div>
+      </section>
+
+      <section class="recipe-section" data-show-if="notes" hidden>
+        <h2>Notes</h2>
+        <div class="notes-grid">
+          <div class="notes-item" data-show-if="notes.why-its-in-the-chapman-kitchen" hidden>
+            <h3>Why it's in the Chapman kitchen</h3>
+            <p data-field="notes.why-its-in-the-chapman-kitchen"></p>
+          </div>
+          <div class="notes-item" data-show-if="notes.chapman-tips" hidden>
+            <h3>Tips</h3>
+            <ul data-list="notes.chapman-tips"></ul>
+          </div>
+          <div class="notes-item" data-show-if="notes.batch-cooking" hidden>
+            <h3>Batch cooking</h3>
+            <p data-field="notes.batch-cooking"></p>
+          </div>
+          <div class="notes-item" data-show-if="notes.leftovers" hidden>
+            <h3>Leftovers</h3>
+            <p data-field="notes.leftovers"></p>
+          </div>
+        </div>
+      </section>
+      <section class="recipe-section" data-show-if="relationships.similar-recipes" hidden>
+        <h2>Similar Recipes</h2>
+        <ul data-list="relationships.similar-recipes"></ul>
+      </section>
+
+      <section class="recipe-section nutrition-section">
+        <h2>Nutrition</h2>
+        <table class="nutrition-table">
+          <thead>
+            <tr>
+              <th colspan="2">Per serving (<span data-field="nutrition.portion-size"></span>)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td>Calories</td><td data-field="nutrition.calories"></td></tr>
+            <tr><td>Protein</td><td data-field="nutrition.protein"></td></tr>
+            <tr><td>Carbohydrates</td><td data-field="nutrition.carbohydrates"></td></tr>
+            <tr><td>Fat</td><td data-field="nutrition.fat"></td></tr>
+            <tr><td>Saturates</td><td data-field="nutrition.saturates"></td></tr>
+            <tr><td>Fibre</td><td data-field="nutrition.fibre"></td></tr>
+            <tr><td>Sugar</td><td data-field="nutrition.sugar"></td></tr>
+            <tr><td>Salt</td><td data-field="nutrition.salt"></td></tr>
+          </tbody>
+        </table>
+      </section>
+
+      <details class="recipe-history" data-show-if="history" hidden>
+        <summary>History</summary>
+        <ul id="recipe-history"></ul>
+      </details>
+    </article>
+
+    <div id="recipe-error" hidden>
+      <p>Recipe not found.</p>
+      <a href="planner.html">Back to planner</a>
+    </div>
+  </main>
+
+  <div class="overlay" id="learn-overlay" role="dialog" aria-modal="true" aria-labelledby="learn-title">>
+    <div class="learn-content">
+      <button class="learn-close" id="learn-close">✕</button>
+      <h1 class="learn-title" id="learn-title"></h1>
+      <div class="learn-origin-row" id="learn-origin-row">
+        <span class="learn-flag" id="learn-flag" hidden></span>
+        <p class="learn-origin" id="learn-origin"></p>
+      </div>
+      <div class="learn-sayit" id="learn-sayit" hidden></div>
+      <div class="learn-map" id="learn-map" hidden></div>
+      <div class="learn-cards" id="learn-cards"></div>
+    </div>
+  </div>
+  <footer>
+    <p>Chapman kitchen <span class="footer-year"></span></p>
+  </footer>
+
+  <template id="list-item-template">
+    <li></li>
+  </template>
+
+  <script src="../assets/js/overlay.js"></script>
+  <script src="../assets/js/recipe.js"></script>
+  <script src="../assets/js/learn.js"></script>
+</body>
+</html>

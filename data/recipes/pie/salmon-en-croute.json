@@ -1,0 +1,127 @@
+{
+    "id": "019f65ce-8dc7-756a-b426-0830d858bd1f",
+    "version": 1,
+
+    "title": "Salmon en Croute",
+
+    "overview": {
+        "description": "Salmon fillets wrapped in puff pastry with a creamy spinach filling and baked until golden. A classic French-inspired dish that's surprisingly simple to make.",
+        "country": "France",
+        "region": "",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "4 salmon fillets",
+        "1 tbsp olive oil",
+        "250g frozen chopped spinach, thawed and well drained",
+        "150g cream cheese",
+        "1 tbsp Dijon mustard",
+        "1 tbsp chopped fresh dill",
+        "1 tbsp chopped fresh parsley",
+        "1 clove garlic, minced",
+        "1 sheet all-butter puff pastry",
+        "1 egg, beaten",
+        "Salt",
+        "Freshly ground black pepper"
+    ],
+
+    "method": [
+        "=== Filling ===",
+        "Heat the olive oil in a frying pan over a medium heat.",
+        "Cook the garlic for 1 minute.",
+        "Stir in the drained spinach and cook until any remaining moisture has evaporated.",
+        "Remove from the heat and allow to cool slightly.",
+        "Mix in the cream cheese, Dijon mustard, dill and parsley.",
+        "Season with salt and black pepper.",
+        "=== Assemble ===",
+        "Cut the pastry into four equal pieces.",
+        "Spread a layer of the spinach mixture onto each piece of pastry.",
+        "Place a salmon fillet on top of the filling.",
+        "Fold the pastry over the salmon and seal the edges well.",
+        "Transfer to a lined baking tray with the seam underneath.",
+        "Brush all over with beaten egg.",
+        "Score the pastry lightly with a knife to decorate, taking care not to cut right through.",
+        "=== Bake ===",
+        "Bake at 180°C fan (200°C conventional) for 25–30 minutes until the pastry is golden and crisp and the salmon is just cooked.",
+        "Rest for 5 minutes before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "New Potatoes",
+            "Seasonal Green Vegetables"
+        ],
+        "optional-sides": [
+            "Green Salad",
+            "Lemon Wedges",
+            "Hollandaise Sauce"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 25,
+        "cook-time-minutes": 30,
+        "freezer-label": "freeze before baking",
+        "cost": "mid-range",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "The term 'en croûte' simply means 'in a crust' in French and can refer to many foods baked inside pastry.",
+        "what-you-will-learn": "How to assemble a pastry parcel, prevent a soggy filling and bake salmon so it stays moist.",
+        "skills": [
+            "Preparing spinach",
+            "Working with puff pastry",
+            "Egg washing",
+            "Baking fish"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "One of the family's favourite meals that feels special enough for guests while remaining straightforward to prepare.",
+        "chapman-tips": [
+            "Drain the spinach thoroughly to keep the pastry crisp.",
+            "Frozen spinach works just as well as fresh in this recipe.",
+            "Don't overcook the salmon—it will continue cooking slightly while resting.",
+            "Score only the surface of the pastry to create decoration without letting the filling escape."
+        ],
+        "batch-cooking": "Assemble and freeze unbaked. Bake straight from frozen, adding around 10–15 minutes to the cooking time.",
+        "leftovers": "Best eaten fresh, but leftovers can be reheated in the oven to help retain the crisp pastry."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Paella",
+            "Goan Fish Curry",
+            "Chicken & Mushroom Pie",
+            "Spanakopita"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

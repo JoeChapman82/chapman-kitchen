@@ -1,0 +1,117 @@
+{
+    "id": "019f6a61-ea64-741c-9ebe-e7147a746438",
+    "version": 1,
+
+    "title": "Kale Pesto",
+
+    "overview": {
+        "description": "A vibrant green pesto made with kale, basil, walnuts and Parmesan. An economical, nutritious alternative to traditional basil pesto that freezes exceptionally well.",
+        "country": "Italy",
+        "region": "Inspired by Liguria",
+        "serves": 8
+    },
+
+    "ingredients": [
+        "300g kale, thick stems removed",
+        "1 bunch fresh basil leaves (about 30g)",
+        "75g walnuts",
+        "100g Parmesan, finely grated",
+        "2 cloves garlic",
+        "180ml extra virgin olive oil",
+        "Juice of ½ lemon",
+        "Freshly ground black pepper"
+    ],
+
+    "method": [
+        "Bring a pan of salted water to the boil.",
+        "Blanch the kale for 2 minutes.",
+        "Drain and immediately cool in iced water.",
+        "Drain well and squeeze out as much water as possible.",
+        "Toast the walnuts in a dry frying pan over a medium heat until lightly golden.",
+        "Allow to cool.",
+        "Place the kale, basil, walnuts, Parmesan and garlic into a food processor.",
+        "Pulse until finely chopped.",
+        "With the processor running, slowly pour in the olive oil.",
+        "Add the lemon juice and blend until the pesto reaches your preferred consistency.",
+        "Season with black pepper.",
+        "Transfer to jars or portion into freezer containers."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Pasta"
+        ],
+        "optional-sides": [
+            "Chicken",
+            "Roasted Vegetables",
+            "Sandwiches",
+            "Focaccia",
+            "Gnocchi"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 5,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Modern pestos are often made with seasonal leafy greens, allowing the classic technique to be adapted while keeping the fresh, vibrant flavour.",
+        "what-you-will-learn": "How blanching preserves the bright green colour of leafy vegetables and how to make a smooth homemade pesto.",
+        "skills": [
+            "Blanching vegetables",
+            "Toasting nuts",
+            "Making pesto",
+            "Using a food processor"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "Approximately 2 tbsp",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A healthier, more economical pesto that makes excellent use of kale while still delivering the fresh flavour of basil.",
+        "chapman-tips": [
+            "Blanching the kale keeps the pesto bright green and removes any bitterness.",
+            "Toast the walnuts for a deeper flavour.",
+            "Freeze in approximately 2 tablespoon portions for quick meals.",
+            "A thin layer of olive oil over the top helps preserve the colour during storage."
+        ],
+        "batch-cooking": "Freeze in silicone ice cube trays or small containers for up to 6 months.",
+        "leftovers": "Excellent stirred through pasta, spread on sandwiches, spooned over roasted vegetables or served with homemade gnocchi."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Pesto Rosso",
+            "Pesto Genovese",
+            "Gnocchi"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

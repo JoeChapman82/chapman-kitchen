@@ -1,0 +1,112 @@
+{
+    "id": "019f6a5d-a882-7762-9182-267389ebc863",
+    "version": 1,
+
+    "title": "Thai Red Curry Paste",
+
+    "overview": {
+        "description": "A rich, aromatic Thai red curry paste made with dried chillies, fresh aromatics and toasted spices. Batch cook and freeze for quick homemade curries.",
+        "country": "Thailand",
+        "region": "Central Thailand",
+        "serves": 5
+    },
+
+    "ingredients": [
+        "12 dried long red chillies, deseeded and soaked in warm water for 20 minutes",
+        "4 shallots, roughly chopped",
+        "6 cloves garlic",
+        "40g fresh galangal, sliced",
+        "2 stalks lemongrass, tender inner part only, sliced",
+        "Large handful coriander stems",
+        "4 makrut lime leaves, finely sliced",
+        "2 tsp shrimp paste",
+        "2 tsp coriander seeds",
+        "1 tsp cumin seeds",
+        "½ tsp white peppercorns",
+        "1 tbsp vegetable oil",
+        "2 tbsp soaking water (if needed)"
+    ],
+
+    "method": [
+        "Drain the soaked chillies, reserving the soaking water.",
+        "Toast the coriander seeds, cumin seeds and white peppercorns in a dry frying pan over a medium heat for 2–3 minutes until fragrant.",
+        "Allow to cool slightly.",
+        "Grind the toasted spices to a fine powder.",
+        "Place the chillies, shallots, garlic, galangal, lemongrass, coriander stems, makrut lime leaves, shrimp paste, ground spices and vegetable oil into a food processor or mini chopper.",
+        "Blend until a smooth paste forms, scraping down the sides as required.",
+        "Add a tablespoon or two of the reserved soaking water only if needed to help the paste blend.",
+        "Use immediately or divide into portions and freeze."
+    ],
+
+    "serving": {
+        "serve-with": [],
+        "optional-sides": []
+    },
+
+    "planner": {
+        "prep-time-minutes": 25,
+        "cook-time-minutes": 5,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Unlike many Indian curry powders, Thai curry pastes rely on fresh aromatics and herbs rather than predominantly dried spices.",
+        "what-you-will-learn": "How soaking dried chillies changes their texture, how toasted spices deepen flavour, and how to make an authentic Thai curry paste suitable for freezing.",
+        "skills": [
+            "Preparing dried chillies",
+            "Toasting spices",
+            "Grinding spices",
+            "Preparing lemongrass",
+            "Preparing galangal",
+            "Making curry paste"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "Approximately 2 tbsp",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A homemade paste delivers fresher flavour than most shop-bought alternatives while making homemade Thai curries quick enough for weeknight cooking.",
+        "chapman-tips": [
+            "Freeze in approximately 2 tablespoon portions—one portion makes a curry for four people.",
+            "Long dried red chillies provide colour without excessive heat; add a few dried bird's eye chillies if you prefer it hotter.",
+            "Coriander stems are an excellent substitute for the traditional coriander roots.",
+            "Frozen galangal and makrut lime leaves retain their flavour extremely well."
+        ],
+        "batch-cooking": "Freeze for up to 6 months in airtight containers or silicone ice cube trays.",
+        "leftovers": "Use to flavour noodle soups, marinades or stir-fries."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Thai Green Curry Paste",
+            "Thai Red Curry",
+            "Thai Green Curry"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

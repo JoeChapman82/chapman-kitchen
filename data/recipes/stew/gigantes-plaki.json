@@ -1,0 +1,113 @@
+{
+  "id": "019f5b05-3f9f-749c-b8c7-baa5a757036b",
+  "version": 1,
+
+  "title": "Gigantes Plaki",
+
+  "overview": {
+    "description": "A traditional Greek baked giant bean casserole cooked in a rich tomato sauce with herbs and olive oil. Simple pantry ingredients combine to create a hearty, satisfying vegetarian meal.",
+    "country": "Greece",
+    "region": "",
+    "serves": 4
+  },
+
+  "ingredients": [
+    "2 tbsp olive oil",
+    "1 onion, finely diced",
+    "2 carrots, finely diced",
+    "2 cloves garlic, minced",
+    "2 tbsp tomato purée",
+    "400g tin chopped tomatoes",
+    "2 × 400g tins butter beans, drained",
+    "200ml vegetable stock",
+    "1 tsp dried oregano",
+    "1 tsp dried thyme",
+    "2 bay leaves",
+    "50g fresh parsley, chopped",
+    "50g feta, crumbled (optional)",
+    "Salt and freshly ground black pepper"
+  ],
+
+  "method": [
+    "Preheat the oven to 180°C (160°C fan).",
+    "Heat the olive oil in a large ovenproof casserole or frying pan. Cook the onion and carrots for about 10 minutes until softened.",
+    "Add the garlic and tomato purée and cook for 1 minute.",
+    "Stir in the chopped tomatoes, stock, oregano, thyme and bay leaves.",
+    "Add the butter beans and simmer gently for 10 minutes until the sauce begins to thicken.",
+    "Transfer to an ovenproof dish if necessary and bake uncovered for 35–40 minutes until the sauce is rich and slightly caramelised.",
+    "Remove the bay leaves, stir through most of the parsley and season to taste.",
+    "Serve topped with the remaining parsley and crumbled feta if using."
+  ],
+
+  "serving": {
+    "serve-with": [
+      "Pita"
+    ],
+    "optional-sides": [
+      "Greek salad"
+    ]
+  },
+
+  "planner": {
+    "prep-time-minutes": 15,
+    "cook-time-minutes": 50,
+    "freezer-label": "freezes well",
+    "cost": "budget",
+    "after-work": false
+  },
+
+  "learning": {
+    "did-you-know": "In Greece, gigantes are traditionally made with giant white beans called gigantes. Butter beans make an excellent and widely available substitute in the UK.",
+    "what-you-will-learn": "How slow baking transforms a simple tomato sauce into something rich and deeply flavoured, and how Mediterranean cooking relies on herbs and olive oil rather than heavy spices.",
+    "skills": [
+      "Making a tomato sauce",
+      "Baking casseroles",
+      "Seasoning tomato-based dishes"
+    ]
+  },
+
+  "nutrition": {
+    "portion-size": "",
+    "calories": "",
+    "protein": "",
+    "carbohydrates": "",
+    "fat": "",
+    "saturates": "",
+    "fibre": "",
+    "sugar": "",
+    "salt": ""
+  },
+
+  "notes": {
+    "why-its-in-the-chapman-kitchen": "An excellent Pantry Monday meal that's inexpensive, healthy and relies almost entirely on store cupboard ingredients.",
+    "chapman-tips": [
+      "Butter beans are an excellent substitute for traditional gigantes beans.",
+      "Don't rush the baking—the slight caramelisation gives the dish much of its flavour.",
+      "A drizzle of good olive oil just before serving lifts the whole dish."
+    ],
+    "batch-cooking": "Freezes exceptionally well. Portion into containers and thaw overnight before reheating gently.",
+    "leftovers": "Excellent reheated for lunch or served on toasted bread the following day."
+  },
+
+  "relationships": {
+    "similar-recipes": [
+      "Tuscan Butter Beans",
+      "Ribollita",
+      "Mujadara"
+    ]
+  },
+
+  "history": [
+    {
+      "date": "",
+      "note": ""
+    }
+  ],
+
+  "metadata": {
+    "created": "",
+    "updated": "",
+    "created-by": "Joe Chapman",
+    "updated-by": "Joe Chapman"
+  }
+}

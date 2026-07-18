@@ -1,0 +1,127 @@
+{
+    "id": "019f6a51-15cc-72e0-b99a-c7303bbe314d",
+    "version": 1,
+
+    "title": "Chicken Jalfrezi",
+
+    "overview": {
+        "description": "A fresh, lightly spiced stir-fried chicken curry with peppers, onions and tomatoes. Brighter and drier than many restaurant versions.",
+        "country": "India",
+        "region": "Bengal (Anglo-Indian)",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "700g chicken breast, cut into bite-sized pieces",
+        "2 tbsp ghee",
+        "2 onions, sliced",
+        "1 red pepper, sliced",
+        "1 green pepper, sliced",
+        "3 cloves garlic, minced",
+        "1 tbsp grated ginger",
+        "2 green chillies, sliced",
+        "2 tomatoes, chopped",
+        "1 tsp cumin seeds",
+        "1 tsp ground coriander",
+        "1 tsp ground cumin",
+        "½ tsp turmeric",
+        "1 tsp Kashmiri chilli powder",
+        "1 tsp garam masala",
+        "Fresh coriander, chopped",
+        "Salt"
+    ],
+
+    "method": [
+        "Heat the ghee over a medium-high heat.",
+        "Add the cumin seeds and cook for 30 seconds until fragrant.",
+        "Add the onions and peppers.",
+        "Cook for 6–8 minutes until beginning to soften but still retaining some bite.",
+        "Add the garlic, ginger and green chillies.",
+        "Cook for 1 minute.",
+        "Stir in the ground coriander, cumin, turmeric and Kashmiri chilli powder.",
+        "Cook for 30 seconds.",
+        "Add the chicken and cook until lightly browned.",
+        "Stir in the chopped tomatoes.",
+        "Cook for 8–10 minutes until the tomatoes soften into a light sauce and the chicken is cooked through.",
+        "Finish with the garam masala and fresh coriander.",
+        "Season to taste before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Chapati",
+            "Basmati Rice"
+        ],
+        "optional-sides": [
+            "Raita",
+            "Pickled Onions",
+            "Mango Chutney"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 25,
+        "freezer-label": "freezes well",
+        "cost": "mid-range",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "The word 'jalfrezi' comes from Bengali and roughly means 'hot fry'. The dish was originally created to transform leftover cooked meat into a new meal.",
+        "what-you-will-learn": "How to bloom spices, cook vegetables so they retain texture and create a curry with a light, fresh sauce rather than a heavy gravy.",
+        "skills": [
+            "Blooming whole spices",
+            "Stir-frying",
+            "Balancing heat",
+            "Cooking chicken"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "Offers a completely different style of Indian curry, with crisp vegetables and a lighter sauce that's ideal for a weekday meal.",
+        "chapman-tips": [
+            "Don't overcook the peppers—they should still have a little bite.",
+            "Chicken breast works well here because the cooking time is short.",
+            "Adjust the number of green chillies to suit your family's heat preference.",
+            "Traditionally, this dish can also be made with leftover roast chicken."
+        ],
+        "batch-cooking": "Freeze once cooled in family-sized portions.",
+        "leftovers": "Excellent reheated and also works well wrapped in homemade chapatis for lunch."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Butter Chicken (Murgh Makhani)",
+            "Chicken Chettinad",
+            "Chicken Saag",
+            "Black Bean Chicken"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

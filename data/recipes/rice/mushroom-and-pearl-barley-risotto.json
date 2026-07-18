@@ -1,0 +1,110 @@
+{
+  "id": "019f5b0d-03d7-7494-9d4a-c3a08815647b",
+  "version": 1,
+
+  "title": "Mushroom & Pearl Barley Risotto",
+
+  "overview": {
+    "description": "A creamy pearl barley risotto made with mushrooms, garlic and Parmesan. Inspired by northern Italian orzotto, it's a wholesome twist on classic risotto that's economical, comforting and packed with flavour.",
+    "country": "Italy",
+    "region": "Northern Italy",
+    "serves": 4
+  },
+
+  "ingredients": [
+    "2 tbsp olive oil",
+    "25g butter",
+    "1 onion, finely diced",
+    "2 cloves garlic, minced",
+    "300g chestnut mushrooms, sliced",
+    "250g pearl barley",
+    "1 litre hot chicken or vegetable stock",
+    "75ml dry white wine (optional)",
+    "50g Parmesan, finely grated",
+    "2 tbsp fresh parsley, chopped",
+    "Salt and freshly ground black pepper"
+  ],
+
+  "method": [
+    "Heat the olive oil and butter in a large saucepan over a medium heat. Add the onion and cook for about 8 minutes until softened.",
+    "Add the garlic and mushrooms and cook until the mushrooms have released their moisture and begun to brown, about 8–10 minutes.",
+    "Stir in the pearl barley and cook for 2 minutes, coating every grain in the butter and oil.",
+    "Pour in the white wine, if using, and cook until almost completely absorbed.",
+    "Add the hot stock one ladle at a time, stirring occasionally and allowing most of the liquid to be absorbed before adding the next ladle.",
+    "Continue until the barley is tender but still has a slight bite. This should take about 35–40 minutes.",
+    "Remove from the heat and stir through the Parmesan and parsley.",
+    "Season with salt and black pepper, cover and leave to rest for 2 minutes before serving."
+  ],
+
+  "serving": {
+    "serve-with": [
+      "Garlic Focaccia"
+    ],
+    "optional-sides": [
+      "Rocket salad"
+    ]
+  },
+
+  "planner": {
+    "prep-time-minutes": 15,
+    "cook-time-minutes": 45,
+    "freezer-label": "good",
+    "cost": "budget",
+    "after-work": false
+  },
+
+  "learning": {
+    "did-you-know": "Pearl barley risotto is known as 'orzotto' in parts of northern Italy. It has a nuttier flavour than traditional risotto and is naturally higher in fibre.",
+    "what-you-will-learn": "How gradual stock additions create a creamy risotto, why mushrooms should be browned before adding liquid, and how resting the finished dish improves the texture.",
+    "skills": [
+      "Cooking pearl barley",
+      "Building a risotto",
+      "Browning mushrooms",
+      "Using stock effectively"
+    ]
+  },
+
+  "nutrition": {
+    "portion-size": "",
+    "calories": "",
+    "protein": "",
+    "carbohydrates": "",
+    "fat": "",
+    "saturates": "",
+    "fibre": "",
+    "sugar": "",
+    "salt": ""
+  },
+
+  "notes": {
+    "why-its-in-the-chapman-kitchen": "A comforting, economical meal that introduces a classic Italian cooking technique while making excellent use of inexpensive pantry ingredients.",
+    "chapman-tips": [
+      "Brown the mushrooms well before adding any liquid to maximise their flavour.",
+      "Keep the stock hot throughout cooking to maintain an even simmer.",
+      "Resist the urge to rush—the gradual addition of stock develops the creamy texture."
+    ],
+    "batch-cooking": "Best enjoyed fresh, but leftovers can be refrigerated for up to two days. It can also be shaped into arancini-style cakes and fried.",
+    "leftovers": "Loosen with a little stock when reheating, or turn into crispy risotto cakes."
+  },
+
+  "relationships": {
+    "similar-recipes": [
+      "Minestrone",
+      "Ribollita"
+    ]
+  },
+
+  "history": [
+    {
+      "date": "",
+      "note": ""
+    }
+  ],
+
+  "metadata": {
+    "created": "",
+    "updated": "",
+    "created-by": "Joe Chapman",
+    "updated-by": "Joe Chapman"
+  }
+}

@@ -1,0 +1,114 @@
+{
+    "id": "019f6b7c-3166-7309-a72c-dcc36a0decfe",
+    "version": 1,
+
+    "title": "Hang Lay Curry Paste",
+
+    "overview": {
+        "description": "A fragrant Northern Thai curry paste with Burmese influences, made from dried chillies, aromatic herbs and toasted spices. Freeze in portions for authentic Hang Lay curry.",
+        "country": "Thailand",
+        "region": "Northern Thailand (Chiang Mai)",
+        "serves": 5
+    },
+
+    "ingredients": [
+        "10 dried long red chillies, deseeded and soaked in warm water for 20 minutes",
+        "4 shallots, roughly chopped",
+        "6 cloves garlic",
+        "30g fresh ginger, sliced",
+        "30g fresh galangal, sliced",
+        "2 stalks lemongrass, tender inner part only, sliced",
+        "Large handful coriander stems",
+        "2 tsp shrimp paste",
+        "2 tsp coriander seeds",
+        "2 tsp cumin seeds",
+        "1 tsp ground turmeric",
+        "½ tsp white peppercorns",
+        "1 tbsp vegetable oil",
+        "2 tbsp chilli soaking water (if needed)"
+    ],
+
+    "method": [
+        "Drain the soaked chillies, reserving the soaking water.",
+        "Toast the coriander seeds, cumin seeds and white peppercorns in a dry frying pan over a medium heat for 2–3 minutes until fragrant.",
+        "Allow to cool slightly.",
+        "Grind the toasted spices to a fine powder.",
+        "Place the chillies, shallots, garlic, ginger, galangal, lemongrass, coriander stems, shrimp paste, turmeric, ground spices and vegetable oil into a food processor or mini chopper.",
+        "Blend until a smooth paste forms.",
+        "Scrape down the sides as needed.",
+        "Add the reserved soaking water one tablespoon at a time only if required to help the paste blend.",
+        "Use immediately or divide into portions and freeze."
+    ],
+
+    "serving": {
+        "serve-with": [],
+        "optional-sides": []
+    },
+
+    "planner": {
+        "prep-time-minutes": 25,
+        "cook-time-minutes": 5,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Hang Lay curry paste reflects centuries of cultural exchange between Northern Thailand and neighbouring Myanmar, making it quite different from Thailand's coconut-based curry pastes.",
+        "what-you-will-learn": "How to prepare dried chillies, toast spices and build a deeply aromatic curry paste suitable for freezing.",
+        "skills": [
+            "Preparing dried chillies",
+            "Toasting spices",
+            "Grinding spices",
+            "Preparing lemongrass",
+            "Preparing galangal",
+            "Making curry paste"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "Approximately 2 tbsp",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A freezer staple that makes authentic Northern Thai Hang Lay curry practical for everyday cooking.",
+        "chapman-tips": [
+            "Freeze in approximately 2 tablespoon portions—one portion makes a family curry for four.",
+            "Coriander stems provide excellent flavour while reducing waste.",
+            "Adjust the heat by increasing or decreasing the number of dried chillies.",
+            "The paste also works well as a marinade for pork before slow cooking."
+        ],
+        "batch-cooking": "Freeze for up to 6 months in silicone ice cube trays or small containers.",
+        "leftovers": "Can be used to flavour stews or as a rub for slow-roasted pork."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Gaeng Hang Lay (Northern Thai Pork Curry)",
+            "Thai Red Curry Paste",
+            "Thai Green Curry Paste"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "id": "019f6727-5a06-753b-8e94-f8465b1bff57",
+    "version": 1,
+
+    "title": "Apple Crumble",
+
+    "overview": {
+        "description": "A classic British pudding of soft baked apples beneath a crisp buttery crumble topping.",
+        "country": "United Kingdom",
+        "region": "England",
+        "serves": 6
+    },
+
+    "ingredients": [
+        "1kg Bramley apples (or cooking apples), peeled, cored and sliced",
+        "75g caster sugar",
+        "1 tsp ground cinnamon (optional)",
+        "200g plain flour",
+        "100g cold butter, diced",
+        "100g light brown sugar"
+    ],
+
+    "method": [
+        "=== Filling ===",
+        "Preheat the oven to 180°C fan (200°C conventional).",
+        "Place the sliced apples into a baking dish.",
+        "Sprinkle over the caster sugar and cinnamon, if using.",
+        "Mix gently to coat the apples evenly.",
+        "",
+        "=== Crumble ===",
+        "Place the flour and butter into a bowl.",
+        "Rub together with your fingertips until the mixture resembles coarse breadcrumbs.",
+        "Stir in the light brown sugar.",
+        "",
+        "=== Assemble ===",
+        "Scatter the crumble evenly over the apples without pressing it down.",
+        "",
+        "=== Bake ===",
+        "Bake for 40–45 minutes until the topping is golden brown and the apples are bubbling around the edges.",
+        "Allow to stand for 5–10 minutes before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Custard"
+        ],
+        "optional-sides": [
+            "Double Cream",
+            "Vanilla Ice Cream"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 45,
+        "freezer-label": "freezes well",
+        "cost": "budget",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Apple crumble became popular during the Second World War when rationing made pastry too expensive to use regularly.",
+        "what-you-will-learn": "How to make a traditional crumble topping and balance tart cooking apples with a sweet, crisp topping.",
+        "skills": [
+            "Preparing apples",
+            "Rubbing butter into flour",
+            "Making crumble topping",
+            "Baking desserts"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A timeless British pudding that's inexpensive, comforting and a brilliant way to use seasonal apples.",
+        "chapman-tips": [
+            "Bramley apples give the best balance of sweetness and sharpness.",
+            "Keep the butter cold for the lightest crumble.",
+            "Don't compact the topping—keeping it loose makes it crisp.",
+            "A handful of porridge oats or chopped nuts can be added to the topping for variation."
+        ],
+        "batch-cooking": "Freeze either unbaked or baked and cooled.",
+        "leftovers": "Reheat in the oven to restore the crisp topping."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Apple Pie",
+            "Fruit Crumble",
+            "Sticky Toffee Pudding"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

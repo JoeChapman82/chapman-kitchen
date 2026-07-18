@@ -1,0 +1,17 @@
+{
+  "name": "Chapman kitchen",
+  "short_name": "Planner",
+  "description": "A family meal planner for always-on displays",
+  "start_url": "/views/planner.html",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#fdf6ee",
+  "theme_color": "#d4785c",
+  "icons": [
+    {
+      "src": "/assets/icons/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

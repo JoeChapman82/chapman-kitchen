@@ -1,0 +1,126 @@
+{
+    "id": "019f6fba-1a52-776d-9d72-b8dff416fd06",
+    "version": 1,
+
+    "title": "Mercimek Çorbası (Turkish Red Lentil Soup)",
+
+    "overview": {
+        "description": "A smooth, comforting Turkish soup made from red lentils, vegetables and homemade chicken stock, finished with a fragrant butter, paprika and mint drizzle.",
+        "country": "Turkey",
+        "region": "Nationwide",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "2 tbsp butter",
+        "1 onion, diced",
+        "1 carrot, diced",
+        "1 tbsp tomato paste",
+        "250g red lentils, rinsed",
+        "1 litre homemade chicken stock",
+        "500ml water",
+        "1 tsp ground cumin",
+        "Salt, to taste",
+        "Freshly ground black pepper",
+        "",
+        "2 tbsp butter",
+        "1 tsp sweet paprika or pul biber (Aleppo pepper)",
+        "1 tsp dried mint",
+        "",
+        "Lemon wedges, to serve"
+    ],
+
+    "method": [
+        "Melt the butter over a medium heat.",
+        "Cook the onion and carrot for 8–10 minutes until softened.",
+        "Stir in the tomato paste and cook for 1 minute.",
+        "Add the cumin and cook for 30 seconds.",
+        "Add the rinsed lentils.",
+        "Pour in the chicken stock and water.",
+        "Bring to the boil, then reduce to a gentle simmer.",
+        "Cook for 25–30 minutes until the lentils are completely soft.",
+        "Blend until silky smooth.",
+        "Season with salt and black pepper.",
+        "",
+        "For the topping, melt the remaining butter.",
+        "Stir in the paprika (or pul biber) and dried mint.",
+        "Cook for 20 seconds until fragrant.",
+        "Serve the soup with the butter drizzled over the top and lemon wedges alongside."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Crusty Bread"
+        ],
+        "optional-sides": [
+            "Turkish Flatbread",
+            "Extra Lemon Wedges"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 10,
+        "cook-time-minutes": 35,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Mercimek Çorbası is one of Turkey's most popular everyday soups and is commonly served before almost any main meal.",
+        "what-you-will-learn": "How to make a smooth lentil soup and finish it with an infused butter that adds aroma and richness.",
+        "skills": [
+            "Cooking lentils",
+            "Blending soups",
+            "Infusing butter",
+            "Balancing flavours"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A quick, inexpensive soup built almost entirely from pantry staples that freezes beautifully and delivers a lot of flavour for very little effort.",
+        "chapman-tips": [
+            "Rinse the lentils well before cooking to remove excess starch and dust.",
+            "Blend thoroughly for the characteristic silky texture.",
+            "The paprika and mint butter is what makes this soup distinctly Turkish—don't skip it.",
+            "Always serve with fresh lemon wedges so everyone can adjust the acidity to their taste."
+        ],
+        "batch-cooking": "Freeze in family-sized portions for up to 6 months. Prepare the butter topping fresh when serving.",
+        "leftovers": "The soup thickens as it stands; loosen with a little stock or water when reheating."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Harira",
+            "Mulligatawny Soup",
+            "Avgolemono",
+            "Caldo Verde"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

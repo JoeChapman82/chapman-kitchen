@@ -1,0 +1,129 @@
+{
+    "id": "019f6e88-01c9-7128-b1df-2cb7091d68d6>",
+    "version": 1,
+
+    "title": "Sambar",
+
+    "overview": {
+        "description": "A South Indian lentil and vegetable stew made with toor dal, tamarind and sambar masala. Rich, tangy and deeply comforting.",
+        "country": "India",
+        "region": "Tamil Nadu",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "250g toor dal",
+        "1 litre water",
+        "1 tbsp vegetable oil or ghee",
+        "1 tsp black mustard seeds",
+        "1 tsp cumin seeds",
+        "8 curry leaves",
+        "Pinch of asafoetida (hing)",
+        "1 onion, sliced",
+        "2 tomatoes, chopped",
+        "150g butternut squash, diced",
+        "150g carrots, sliced",
+        "100g green beans, cut into 3cm pieces",
+        "2 tbsp sambar masala",
+        "1 tsp turmeric",
+        "1 tbsp tamarind paste",
+        "Salt, to taste",
+        "2 tbsp fresh coriander, chopped"
+    ],
+
+    "method": [
+        "Rinse the toor dal thoroughly.",
+        "Pressure cook the dal with the water and turmeric for 15 minutes, then allow the pressure to release naturally.",
+        "Mash the cooked dal until smooth.",
+        "Heat the oil or ghee over a medium heat.",
+        "Add the mustard seeds and allow them to pop.",
+        "Add the cumin seeds, curry leaves and asafoetida.",
+        "Cook for 30 seconds until fragrant.",
+        "Add the onion and cook for 6–8 minutes until softened.",
+        "Stir in the tomatoes and cook until beginning to break down.",
+        "Add the butternut squash, carrots and green beans.",
+        "Cook for 5 minutes.",
+        "Stir in the sambar masala and cook for 30 seconds.",
+        "Add the cooked dal.",
+        "Simmer gently for 15 minutes until the vegetables are tender.",
+        "Stir in the tamarind paste.",
+        "Season to taste.",
+        "Finish with fresh coriander."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Steamed Rice"
+        ],
+        "optional-sides": [
+            "Idli",
+            "Dosa",
+            "Papadums"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 40,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Every South Indian household has its own preferred version of sambar, with different vegetables and spice blends depending on the region and season.",
+        "what-you-will-learn": "How to pressure cook toor dal, prepare a South Indian tempering and balance tamarind with lentils and vegetables.",
+        "skills": [
+            "Pressure cooking lentils",
+            "Preparing a tadka",
+            "Cooking vegetable stews",
+            "Balancing acidity"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A nutritious one-pot meal that makes excellent use of pantry staples, frozen vegetables and the pressure cooker.",
+        "chapman-tips": [
+            "Pressure cooking the dal gives the smoothest texture and saves a considerable amount of time.",
+            "Use whichever vegetables are in season or already in the freezer.",
+            "Sambar masala is worth buying rather than making for everyday cooking.",
+            "Add the tamarind towards the end of cooking to preserve its bright flavour."
+        ],
+        "batch-cooking": "Freeze in family-sized portions for up to 6 months.",
+        "leftovers": "Often tastes even better the following day."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Gujarati Dal",
+            "Dal Makhani",
+            "Rajma"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

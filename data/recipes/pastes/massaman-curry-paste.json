@@ -1,0 +1,119 @@
+{
+    "id": "019f6b7d-b22b-7799-80cb-9f2cb911ffbe",
+    "version": 1,
+
+    "title": "Massaman Curry Paste",
+
+    "overview": {
+        "description": "A rich, aromatic Thai curry paste combining fresh herbs with warming whole spices. Batch cook and freeze for authentic Massaman curry.",
+        "country": "Thailand",
+        "region": "Southern Thailand",
+        "serves": 5
+    },
+
+    "ingredients": [
+        "10 dried long red chillies, deseeded and soaked in warm water for 20 minutes",
+        "4 shallots, roughly chopped",
+        "6 cloves garlic",
+        "30g fresh galangal, sliced",
+        "2 stalks lemongrass, tender inner part only, sliced",
+        "Large handful coriander stems",
+        "2 tsp shrimp paste",
+        "2 tsp coriander seeds",
+        "2 tsp cumin seeds",
+        "1 cinnamon stick",
+        "4 green cardamom pods",
+        "4 cloves",
+        "1 star anise",
+        "¼ tsp freshly grated nutmeg",
+        "½ tsp white peppercorns",
+        "1 tbsp vegetable oil",
+        "2 tbsp chilli soaking water (if needed)"
+    ],
+
+    "method": [
+        "Drain the soaked chillies, reserving the soaking water.",
+        "Toast the coriander seeds, cumin seeds, cinnamon, cardamom, cloves, star anise and white peppercorns in a dry frying pan over a medium heat for 2–3 minutes until fragrant.",
+        "Allow to cool slightly.",
+        "Remove the cinnamon from the pan and break into small pieces.",
+        "Remove the cardamom seeds from their pods and discard the pods.",
+        "Grind all the toasted spices to a fine powder.",
+        "Place the chillies, shallots, garlic, galangal, lemongrass, coriander stems, shrimp paste, ground spices, nutmeg and vegetable oil into a food processor or mini chopper.",
+        "Blend until a smooth, thick paste forms.",
+        "Scrape down the sides as required.",
+        "Add the reserved soaking water one tablespoon at a time only if needed to help the paste blend.",
+        "Use immediately or divide into portions and freeze."
+    ],
+
+    "serving": {
+        "serve-with": [],
+        "optional-sides": []
+    },
+
+    "planner": {
+        "prep-time-minutes": 30,
+        "cook-time-minutes": 5,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Massaman curry is believed to have been introduced to Thailand by Muslim traders and is one of the few Thai curries heavily influenced by Middle Eastern and Indian spices.",
+        "what-you-will-learn": "How to combine fresh Thai aromatics with toasted whole spices to produce one of Thailand's most distinctive curry pastes.",
+        "skills": [
+            "Preparing dried chillies",
+            "Toasting whole spices",
+            "Grinding spices",
+            "Preparing lemongrass",
+            "Preparing galangal",
+            "Making curry paste"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "Approximately 2 tbsp",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A freezer-friendly curry paste that opens the door to authentic homemade Massaman curry with very little extra effort.",
+        "chapman-tips": [
+            "Freeze in approximately 2 tablespoon portions—one portion makes a family curry for four.",
+            "Don't skip toasting the spices—it gives Massaman its signature depth of flavour.",
+            "Break the cinnamon stick into smaller pieces before grinding to help your grinder.",
+            "The aroma should be warm and fragrant rather than overwhelmingly spicy."
+        ],
+        "batch-cooking": "Freeze for up to 6 months in silicone ice cube trays or small containers.",
+        "leftovers": "Can also be used as a marinade for slow-cooked beef or lamb."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Massaman Curry",
+            "Thai Red Curry Paste",
+            "Hang Lay Curry Paste"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

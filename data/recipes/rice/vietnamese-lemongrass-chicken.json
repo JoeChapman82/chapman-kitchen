@@ -1,0 +1,112 @@
+{
+    "id": "019f6b80-ffe0-7119-ad53-63bd6374b85c",
+    "version": 1,
+
+    "title": "Vietnamese Lemongrass Chicken",
+
+    "overview": {
+        "description": "Tender chicken thighs marinated with lemongrass, garlic and fish sauce before being grilled or pan-fried until beautifully caramelised.",
+        "country": "Vietnam",
+        "region": "Southern Vietnam",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "700g boneless skinless chicken thighs",
+        "2 stalks lemongrass, tender inner part only, finely minced",
+        "4 cloves garlic, minced",
+        "1 shallot, finely chopped",
+        "2 tbsp fish sauce",
+        "1 tbsp oyster sauce",
+        "1 tbsp light soy sauce",
+        "1 tbsp brown sugar",
+        "1 tbsp vegetable oil",
+        "1 tsp freshly ground black pepper"
+    ],
+
+    "method": [
+        "Combine the lemongrass, garlic, shallot, fish sauce, oyster sauce, soy sauce, brown sugar, vegetable oil and black pepper.",
+        "Coat the chicken thoroughly in the marinade.",
+        "Cover and refrigerate for at least 2 hours, preferably overnight.",
+        "Heat a griddle pan or frying pan over a medium-high heat.",
+        "Cook the chicken for 5–6 minutes per side until caramelised and cooked through.",
+        "Rest for 5 minutes before slicing."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Steamed Jasmine Rice"
+        ],
+        "optional-sides": [
+            "Pickled Carrot & Daikon",
+            "Cucumber Salad",
+            "Fresh Herbs"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 135,
+        "cook-time-minutes": 15,
+        "freezer-label": "chicken freezes well in the marinade",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Lemongrass is one of the defining flavours of Vietnamese cooking, prized for its fresh citrus aroma rather than sharp acidity.",
+        "what-you-will-learn": "How to prepare lemongrass, build a balanced Vietnamese marinade and caramelise chicken over high heat.",
+        "skills": [
+            "Preparing lemongrass",
+            "Marinating meat",
+            "Pan-grilling",
+            "Caramelising"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A quick, flavour-packed meal using inexpensive chicken thighs and pantry staples while introducing authentic Vietnamese flavours.",
+        "chapman-tips": [
+            "Use only the tender lower third of the lemongrass stalk.",
+            "Marinating overnight gives the best flavour.",
+            "Don't move the chicken too often—allow it to caramelise before turning.",
+            "This also cooks beautifully on a barbecue."
+        ],
+        "batch-cooking": "Freeze the chicken in the marinade before cooking for an easy future meal.",
+        "leftovers": "Slice and use in bánh mì, rice bowls or noodle salads."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chicken Satay",
+            "Thai Green Curry",
+            "Chicken Teriyaki",
+            "Chicken Chow Mein"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

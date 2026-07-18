@@ -1,0 +1,133 @@
+{
+    "id": "019f6fb1-1ea7-7128-bdc5-9e570c7ca8ca",
+    "version": 1,
+
+    "title": "Sopa de Tortilla (Tortilla Soup)",
+
+    "overview": {
+        "description": "A traditional Mexican chicken and tomato soup finished with crispy tortilla strips, avocado, cheese and fresh lime.",
+        "country": "Mexico",
+        "region": "Central Mexico",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "2 tbsp vegetable oil",
+        "1 onion, diced",
+        "4 cloves garlic, minced",
+        "2 jalapeños, finely chopped",
+        "1 tsp ground cumin",
+        "1 tsp dried oregano",
+        "½ tsp smoked paprika",
+        "400g chopped tomatoes",
+        "1 tbsp tomato purée",
+        "1 litre homemade chicken stock",
+        "300g cooked shredded chicken",
+        "400g black beans, drained (optional)",
+        "Salt, to taste",
+        "Juice of 1 lime",
+        "4 homemade corn tortillas",
+        "Vegetable oil, for brushing",
+        "1 avocado, diced",
+        "75g feta or queso fresco",
+        "Fresh coriander",
+        "Lime wedges"
+    ],
+
+    "method": [
+        "Heat the oil over a medium heat.",
+        "Cook the onion for 8 minutes until softened.",
+        "Add the garlic and jalapeños and cook for 1 minute.",
+        "Stir in the cumin, oregano and smoked paprika.",
+        "Cook for 30 seconds.",
+        "Add the tomato purée and cook for 1 minute.",
+        "Stir in the chopped tomatoes and cook for 5 minutes.",
+        "Pour in the homemade chicken stock.",
+        "Simmer for 20 minutes.",
+        "Blend until smooth if preferred, or leave rustic with some texture.",
+        "Add the shredded chicken and black beans, if using.",
+        "Simmer for a further 10 minutes.",
+        "Season to taste and stir in the lime juice.",
+        "Meanwhile, cut the tortillas into thin strips.",
+        "Brush lightly with oil and bake at 200°C (180°C fan) for 8–10 minutes until crisp.",
+        "Ladle the soup into bowls.",
+        "Top with the tortilla strips, avocado, cheese and fresh coriander.",
+        "Serve with lime wedges."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Crispy Tortilla Strips"
+        ],
+        "optional-sides": [
+            "Avocado",
+            "Lime Wedges",
+            "Extra Coriander"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 40,
+        "freezer-label": "freeze before adding toppings",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Traditional tortilla soup is believed to have originated in central Mexico and uses stale tortillas to add flavour and texture rather than wasting them.",
+        "what-you-will-learn": "How to build a tomato-based broth, prepare crispy tortilla strips and layer fresh toppings for texture and freshness.",
+        "skills": [
+            "Building soup bases",
+            "Baking tortilla strips",
+            "Balancing acidity",
+            "Preparing garnishes"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A fresh, vibrant soup that makes excellent use of homemade tortillas, homemade chicken stock and leftover cooked chicken.",
+        "chapman-tips": [
+            "Homemade corn tortillas make noticeably better tortilla strips than shop-bought wraps.",
+            "Bake the tortilla strips rather than frying for a lighter finish.",
+            "Add the toppings immediately before serving so they stay fresh and crisp.",
+            "Blend the soup or leave it chunky depending on your preferred texture."
+        ],
+        "batch-cooking": "Freeze the soup base only. Add fresh toppings after reheating.",
+        "leftovers": "Excellent the following day with freshly baked tortilla strips."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chicken Satay",
+            "Black Bean Chicken",
+            "Mulligatawny Soup"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "id": "019f769a-e9b7-76a7-8529-a1da70fc07dd",
+    "version": 1,
+
+    "title": "Slow Cooker Rice Pudding",
+
+    "overview": {
+        "description": "A creamy traditional British rice pudding slowly cooked until the rice is tender and the milk has thickened naturally. Perfect for batch cooking and freezing.",
+        "country": "United Kingdom",
+        "region": "England",
+        "serves": 8
+    },
+
+    "ingredients": [
+        "250g pudding rice",
+        "2 litres whole milk",
+        "100g caster sugar",
+        "40g butter",
+        "1 tsp vanilla extract",
+        "½ tsp ground nutmeg"
+    ],
+
+    "method": [
+        "Lightly butter the inside of the slow cooker.",
+        "Add the pudding rice, milk, sugar, butter and vanilla.",
+        "Stir well to combine.",
+        "Sprinkle the nutmeg over the surface.",
+        "Cook on LOW for 4–5 hours.",
+        "Stir after the first hour, then once or twice more if convenient.",
+        "Continue cooking until the rice is tender and the pudding is thick and creamy.",
+        "Serve warm or allow to cool before portioning for freezing."
+    ],
+
+    "serving": {
+        "serve-with": [],
+        "optional-sides": [
+            "Jam",
+            "Golden Syrup",
+            "Cinnamon",
+            "Stewed Apples",
+            "Fresh Berries"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 10,
+        "cook-time-minutes": 300,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "budget",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Rice pudding has been eaten in Britain for centuries and was traditionally baked slowly in the cooling oven after bread had finished baking.",
+        "what-you-will-learn": "How slow cooking naturally thickens milk and why pudding rice produces a creamier texture than ordinary rice.",
+        "skills": [
+            "Slow cooking",
+            "Cooking with milk",
+            "Batch cooking"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A classic comfort pudding that costs very little to make, freezes beautifully and is ideal for keeping homemade desserts ready in the freezer.",
+        "chapman-tips": [
+            "Whole milk gives the creamiest texture without needing cream.",
+            "Don't skip the first stir—it prevents the rice settling.",
+            "The pudding thickens considerably as it cools.",
+            "Leave it slightly looser than you'd like before cooling."
+        ],
+        "batch-cooking": "Freeze in individual portions for up to three months.",
+        "leftovers": "Reheat gently in the microwave or saucepan with a splash of milk."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Apple Crumble"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

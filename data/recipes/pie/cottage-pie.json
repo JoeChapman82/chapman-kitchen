@@ -1,0 +1,126 @@
+{
+    "id": "019f6424-b9df-7578-93ff-1ec346c67b34",
+    "version": 1,
+
+    "title": "Cottage Pie",
+
+    "overview": {
+        "description": "A classic British pie made with slow-cooked beef in a rich gravy, topped with buttery mashed potato and baked until crisp and golden. A comforting family meal that freezes beautifully.",
+        "country": "United Kingdom",
+        "region": "England",
+        "serves": 8
+    },
+
+    "ingredients": [
+        "2 tbsp vegetable oil",
+        "1kg beef mince",
+        "2 onions, finely diced",
+        "2 carrots, finely diced",
+        "2 celery sticks, finely diced",
+        "3 cloves garlic, minced",
+        "2 tbsp tomato purée",
+        "2 tbsp plain flour",
+        "500ml beef stock",
+        "1 tbsp Worcestershire sauce",
+        "1 tsp dried thyme",
+        "150g frozen peas",
+        "1 bay leaf",
+        "1kg floury potatoes",
+        "75g butter",
+        "100ml whole milk",
+        "Salt",
+        "Freshly ground black pepper"
+    ],
+
+    "method": [
+        "Peel the potatoes, cut into chunks and cook in salted boiling water until tender.",
+        "Meanwhile, heat the vegetable oil in a large saucepan and brown the beef mince thoroughly.",
+        "Add the onions, carrots and celery and cook for around 10 minutes until softened.",
+        "Add the garlic and cook for 1 minute.",
+        "Stir in the tomato purée and cook for 2 minutes.",
+        "Sprinkle over the flour and stir well.",
+        "Gradually add the beef stock, followed by the Worcestershire sauce, thyme and bay leaf.",
+        "Simmer gently for 35–45 minutes until the filling has thickened.",
+        "Stir through the frozen peas during the final 5 minutes of cooking.",
+        "Drain the potatoes and mash with the butter and milk until smooth. Season well.",
+        "Remove the bay leaf and transfer the filling to a large ovenproof dish.",
+        "Spread the mashed potato evenly over the filling, creating ridges with a fork.",
+        "Bake at 200°C (180°C fan) for 30 minutes until the topping is crisp and golden.",
+        "Leave to rest for 10 minutes before serving."
+    ],
+
+    "serving": {
+        "serve-with": [],
+        "optional-sides": [
+            "Steamed Green Beans",
+            "Braised Cabbage",
+            "Extra Garden Peas"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 30,
+        "cook-time-minutes": 75,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "budget",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "The name 'Cottage Pie' dates back to the late 18th century, when potatoes became an affordable staple in rural Britain. It originally referred specifically to a pie made with beef.",
+        "what-you-will-learn": "How to make a rich beef filling, balance gravy consistency and create a crisp, golden mashed potato topping.",
+        "skills": [
+            "Making mashed potato",
+            "Reducing gravy",
+            "Batch cooking",
+            "Baking"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "An economical family classic that's ideal for filling the freezer with homemade meals. It makes excellent use of beef mince while staying simple and comforting.",
+        "chapman-tips": [
+            "Allow the filling to become properly thick before adding the mashed potato.",
+            "Adding the peas near the end keeps their colour and texture.",
+            "Creating ridges in the mash gives more crispy golden edges after baking.",
+            "A splash of leftover beef cooking liquor from the Jamie Oliver Beef Short Ribs makes an exceptional Cottage Pie."
+        ],
+        "batch-cooking": "Bake two pies while the oven is on and freeze one whole or in portions for up to three months.",
+        "leftovers": "Reheat thoroughly until piping hot. Great for lunches the following day."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Shepherd's Pie",
+            "Classic Bolognese",
+            "Lasagne",
+            "Moussaka"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": "019f7394-b384-7208-85b8-629211fbb77c",
+    "version": 1,
+
+    "title": "Chicken Shawarma",
+
+    "overview": {
+        "description": "Juicy Middle Eastern spiced chicken thighs marinated with yoghurt, lemon and warm spices, then roasted until lightly charred.",
+        "country": "Lebanon",
+        "region": "Levant",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "800g boneless skinless chicken thighs",
+        "200g Greek yoghurt",
+        "2 tbsp olive oil",
+        "Juice of 1 lemon",
+        "4 cloves garlic, minced",
+        "2 tsp ground cumin",
+        "2 tsp ground coriander",
+        "2 tsp smoked paprika",
+        "1 tsp ground turmeric",
+        "1 tsp ground cinnamon",
+        "½ tsp ground allspice",
+        "½ tsp ground cardamom",
+        "½ tsp black pepper",
+        "1 tsp salt"
+    ],
+
+    "method": [
+        "Combine the yoghurt, olive oil, lemon juice, garlic and all the spices.",
+        "Coat the chicken thoroughly in the marinade.",
+        "Cover and refrigerate for at least 8 hours, preferably overnight.",
+        "Preheat the oven to 220°C (200°C fan).",
+        "Arrange the chicken on a wire rack over a roasting tray.",
+        "Roast for 30–35 minutes until cooked through and beginning to char around the edges.",
+        "Rest for 5 minutes.",
+        "Slice the chicken into thin strips.",
+        "Return the sliced chicken to the roasting tray and roast for a further 5 minutes to crisp the edges.",
+        "Serve immediately."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Batbout or Flatbread",
+            "Toum",
+            "Shirazi Salad"
+        ],
+        "optional-sides": [
+            "Pickled Red Onion",
+            "Pickled Turnips",
+            "Hummus"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 40,
+        "freezer-label": "freezes very well",
+        "cost": "budget",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Shawarma is believed to have originated in the Ottoman Empire and spread throughout the Levant, where each country developed its own spice blend and accompaniments.",
+        "what-you-will-learn": "How to build a balanced shawarma marinade and recreate the crispy edges of rotisserie shawarma in a home oven.",
+        "skills": [
+            "Marinating meat",
+            "Roasting",
+            "Balancing spices",
+            "Resting meat"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A restaurant favourite that uses inexpensive chicken thighs, freezes well and pairs with several other recipes already in the Chapman Kitchen.",
+        "chapman-tips": [
+            "Chicken thighs stay much juicier than breast in this recipe.",
+            "Marinating overnight makes a noticeable difference.",
+            "Roasting the sliced chicken for a final few minutes creates the characteristic crispy shawarma edges.",
+            "A wire rack allows hot air to circulate and gives more even browning."
+        ],
+        "batch-cooking": "Freeze cooked sliced chicken in meal-sized portions for up to 6 months.",
+        "leftovers": "Excellent in wraps, salads, rice bowls or alongside hummus."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chicken Satay",
+            "Vietnamese Lemongrass Chicken",
+            "Sabich",
+            "Batbout"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

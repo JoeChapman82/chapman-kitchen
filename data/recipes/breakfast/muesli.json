@@ -1,0 +1,107 @@
+{
+    "id": "019f7685-5581-729d-a306-eaacf3d3495",
+    "version": 1,
+
+    "title": "Basic Muesli",
+
+    "overview": {
+        "description": "A simple homemade muesli made from rolled oats, dried fruit and seeds, ready to customise with seasonal fruit and yoghurt.",
+        "country": "Switzerland",
+        "region": "Nationwide",
+        "serves": 12
+    },
+
+    "ingredients": [
+        "500g rolled oats",
+        "100g raisins",
+        "75g chopped dried apricots",
+        "75g sunflower seeds",
+        "50g pumpkin seeds",
+        "50g flaked almonds (optional)",
+        "2 tsp ground cinnamon"
+    ],
+
+    "method": [
+        "Combine all the ingredients in a large bowl.",
+        "Mix thoroughly until evenly distributed.",
+        "Transfer to an airtight container.",
+        "Store in a cool, dry place.",
+        "Serve approximately 60g per person with milk or yoghurt."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Milk",
+            "Greek Yoghurt"
+        ],
+        "optional-sides": [
+            "Fresh Apple",
+            "Banana",
+            "Blueberries",
+            "Honey"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 10,
+        "cook-time-minutes": 0,
+        "freezer-label": "not required",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Traditional Swiss Bircher muesli was originally soaked overnight with grated apple rather than simply served with milk.",
+        "what-you-will-learn": "How to build a balanced homemade breakfast mix that can be adapted throughout the year.",
+        "skills": [
+            "Balancing ingredients",
+            "Dry storage",
+            "Batch preparation"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A quick breakfast made almost entirely from pantry staples, avoiding the added sugar found in many shop-bought mueslis.",
+        "chapman-tips": [
+            "Use jumbo rolled oats for the best texture.",
+            "Keep dried fruit in fairly large pieces so it doesn't all sink to the bottom.",
+            "Store in an airtight container for up to a month.",
+            "Add fresh fruit when serving rather than storing it in the mix."
+        ],
+        "batch-cooking": "Make a month's supply at once.",
+        "leftovers": "Simply refill the storage jar as needed."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Creamy Porridge",
+            "Bircher Muesli"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

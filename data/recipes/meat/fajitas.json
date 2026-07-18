@@ -1,0 +1,126 @@
+{
+    "id": "019f73a0-4f2b-74ad-b492-618e5b53a477",
+    "version": 1,
+
+    "title": "Chicken Fajitas",
+
+    "overview": {
+        "description": "Juicy strips of chicken breast with charred peppers and onions, served with warm tortillas and fresh toppings.",
+        "country": "United States",
+        "region": "Tex-Mex",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "600g chicken breast, thinly sliced",
+        "2 tbsp vegetable oil",
+        "2 peppers, sliced",
+        "1 large onion, sliced",
+        "",
+        "2 tsp ground cumin",
+        "2 tsp smoked paprika",
+        "1 tsp ground coriander",
+        "1 tsp dried oregano",
+        "½ tsp garlic powder",
+        "½ tsp onion powder",
+        "¼ tsp cayenne pepper (optional)",
+        "1 tsp salt",
+        "½ tsp black pepper",
+        "Juice of 1 lime",
+        "",
+        "8 flour tortillas"
+    ],
+
+    "method": [
+        "Mix the cumin, paprika, coriander, oregano, garlic powder, onion powder, cayenne (if using), salt and pepper.",
+        "Toss the chicken with the oil, spice mix and lime juice.",
+        "Leave to marinate for at least 20 minutes, or up to overnight.",
+        "Heat a large frying pan or cast-iron skillet until very hot.",
+        "Cook the chicken in batches until lightly charred and just cooked through.",
+        "Remove the chicken and keep warm.",
+        "Cook the peppers and onion over high heat until softened with some charred edges but still retaining a little bite.",
+        "Return the chicken to the pan and toss everything together for 1 minute.",
+        "Warm the tortillas.",
+        "Serve immediately."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Warm Flour Tortillas"
+        ],
+        "optional-sides": [
+            "Guacamole",
+            "Sour Cream",
+            "Grated Cheddar",
+            "Salsa",
+            "Pickled Jalapeños",
+            "Lime Wedges"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 15,
+        "freezer-label": "freeze the cooked filling only",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "The word 'fajita' originally referred to skirt steak, with chicken becoming popular much later.",
+        "what-you-will-learn": "How to cook quickly over high heat to achieve charred vegetables and juicy chicken.",
+        "skills": [
+            "Marinating",
+            "High-heat stir-frying",
+            "Cooking in batches",
+            "Balancing spices"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A quick family favourite that encourages everyone to build their own wraps using homemade tortillas if available.",
+        "chapman-tips": [
+            "Cook the chicken in batches so it sears instead of steaming.",
+            "The vegetables should still have a little bite—they're not meant to be soft.",
+            "Warm tortillas are much easier to fold and taste far better.",
+            "Finish with a squeeze of fresh lime just before serving."
+        ],
+        "batch-cooking": "Freeze the cooked chicken and vegetables together for up to 3 months. Warm fresh tortillas when serving.",
+        "leftovers": "Excellent in quesadillas, rice bowls or salads."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chicken Shawarma",
+            "Chicken Satay",
+            "Pad Thai",
+            "Homemade Flour Tortillas"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

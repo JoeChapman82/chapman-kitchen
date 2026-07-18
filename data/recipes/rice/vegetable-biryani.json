@@ -1,0 +1,141 @@
+{
+    "id": "019f6e82-736d-77f1-8711-a14ffef9808b",
+    "version": 1,
+
+    "title": "Vegetable Biryani",
+
+    "overview": {
+        "description": "Fragrant basmati rice layered with spiced vegetables and gently steamed together using the traditional dum method.",
+        "country": "India",
+        "region": "Hyderabad",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "300g basmati rice",
+        "2 tbsp vegetable oil or ghee",
+        "1 onion, thinly sliced",
+        "4 cloves garlic, minced",
+        "20g fresh ginger, grated",
+        "2 green chillies, finely chopped",
+        "2 medium potatoes, diced",
+        "2 carrots, diced",
+        "200g cauliflower florets",
+        "100g frozen peas",
+        "150g natural yoghurt",
+        "1 tsp cumin seeds",
+        "2 bay leaves",
+        "4 green cardamom pods",
+        "1 cinnamon stick",
+        "4 cloves",
+        "1 tsp ground coriander",
+        "1 tsp ground cumin",
+        "½ tsp turmeric",
+        "1 tsp Kashmiri chilli powder",
+        "1 tsp garam masala",
+        "2 tbsp chopped fresh coriander",
+        "2 tbsp chopped fresh mint",
+        "1 tbsp lemon juice",
+        "Salt, to taste",
+        "2 tbsp crispy fried onions"
+    ],
+
+    "method": [
+        "Wash the basmati rice until the water runs clear.",
+        "Soak for 30 minutes, then drain.",
+        "Bring a large pan of salted water to the boil.",
+        "Add the bay leaves, cardamom, cinnamon stick and cloves.",
+        "Cook the rice until about 70% cooked, then drain immediately.",
+        "Heat the oil or ghee over a medium heat.",
+        "Cook the onion until golden.",
+        "Add the garlic, ginger and green chillies and cook for 1 minute.",
+        "Add the cumin seeds, ground coriander, ground cumin, turmeric and Kashmiri chilli powder.",
+        "Cook for 30 seconds.",
+        "Add the potatoes, carrots and cauliflower.",
+        "Cook for 8–10 minutes.",
+        "Stir in the yoghurt and cook for 5 minutes.",
+        "Add the peas, garam masala, coriander, mint and lemon juice.",
+        "Season to taste.",
+        "Spread half the rice over the vegetables.",
+        "Cover with the remaining rice.",
+        "Scatter over the crispy fried onions.",
+        "Cover tightly with a lid.",
+        "Cook over a very low heat for 20 minutes.",
+        "Rest for 10 minutes before gently fluffing with a fork."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Raita"
+        ],
+        "optional-sides": [
+            "Mango Pickle",
+            "Cucumber Salad"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 45,
+        "cook-time-minutes": 45,
+        "freezer-label": "freezes well",
+        "cost": "budget",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "The word 'biryani' comes from a Persian word meaning 'fried before cooking', reflecting its Persian influence and layered cooking method.",
+        "what-you-will-learn": "How to parboil basmati rice, prepare a vegetable masala and finish a biryani using the traditional dum steaming technique.",
+        "skills": [
+            "Cooking basmati rice",
+            "Building a masala",
+            "Layering a biryani",
+            "Dum cooking"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A complete vegetarian meal that showcases authentic biryani technique while using everyday vegetables from the pantry and freezer.",
+        "chapman-tips": [
+            "Don't fully cook the rice before layering.",
+            "Keep the heat very low during the final steaming stage.",
+            "Fresh mint makes a noticeable difference to the finished dish.",
+            "Let the biryani rest before fluffing to prevent the rice breaking."
+        ],
+        "batch-cooking": "Freeze in family-sized portions. Reheat gently with a splash of water.",
+        "leftovers": "Excellent reheated the following day or served with a fried egg."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Rajma",
+            "Chole (Punjabi Chickpea Curry)",
+            "Pav Bhaji"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

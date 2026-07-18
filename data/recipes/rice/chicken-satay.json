@@ -1,0 +1,139 @@
+{
+    "id": "019f6a56-68dc-7762-bc9b-69ec58f3f0dd",
+    "version": 1,
+
+    "title": "Chicken Satay",
+
+    "overview": {
+        "description": "Marinated chicken skewers grilled until lightly charred and served with a rich Indonesian-style peanut satay sauce.",
+        "country": "Indonesia",
+        "region": "Java",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "700g boneless skinless chicken thighs, cut into strips",
+        "",
+        "=== Marinade ===",
+        "2 cloves garlic, minced",
+        "1 tbsp grated ginger",
+        "1 tsp ground coriander",
+        "1 tsp ground turmeric",
+        "1 tbsp kecap manis",
+        "1 tbsp vegetable oil",
+        "1 tsp brown sugar",
+        "1 tsp salt",
+        "",
+        "=== Satay Sauce ===",
+        "150g roasted unsalted peanuts",
+        "2 cloves garlic",
+        "1 small shallot",
+        "1 tbsp kecap manis",
+        "1 tbsp soy sauce",
+        "200ml coconut milk",
+        "1 tsp tamarind paste",
+        "1 tsp palm sugar (or light brown sugar)",
+        "1 small red chilli (optional)",
+        "Salt",
+        "",
+        "Wooden skewers, soaked in water"
+    ],
+
+    "method": [
+        "=== Marinate ===",
+        "Combine all the marinade ingredients.",
+        "Coat the chicken thoroughly.",
+        "Cover and refrigerate for at least 2 hours, preferably overnight.",
+        "",
+        "=== Satay Sauce ===",
+        "Blitz the roasted peanuts into a coarse powder.",
+        "Blend the garlic, shallot, chilli (if using), tamarind, kecap manis and soy sauce into a paste.",
+        "Cook the paste in a saucepan for 2–3 minutes.",
+        "Add the coconut milk and ground peanuts.",
+        "Stir in the palm sugar.",
+        "Simmer gently for 10 minutes until thick and creamy.",
+        "Season to taste.",
+        "",
+        "=== Cook ===",
+        "Thread the chicken onto skewers.",
+        "Grill, barbecue or cook on a griddle over a high heat, turning regularly, until lightly charred and cooked through.",
+        "Serve immediately with the warm satay sauce."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Steamed Jasmine Rice"
+        ],
+        "optional-sides": [
+            "Cucumber Salad",
+            "Pickled Vegetables",
+            "Prawn Crackers"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 150,
+        "cook-time-minutes": 25,
+        "freezer-label": "chicken freezes well, sauce freezes well separately",
+        "cost": "mid-range",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Satay originated in Indonesia and spread throughout Southeast Asia, with each country developing its own variation.",
+        "what-you-will-learn": "How to marinate chicken, make an authentic peanut sauce from roasted peanuts and grill meat over a high heat.",
+        "skills": [
+            "Marinating meat",
+            "Making nut sauces",
+            "Skewering",
+            "Grilling"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A fantastic introduction to Indonesian cooking using ingredients that also appear throughout the Southeast Asian recipes.",
+        "chapman-tips": [
+            "Chicken thighs stay much juicier than breast over high heat.",
+            "Roasted peanuts produce a richer, fresher sauce than peanut butter.",
+            "Kecap manis gives the satay its characteristic sweet, caramelised flavour.",
+            "Cook over very high heat to develop lightly charred edges."
+        ],
+        "batch-cooking": "Freeze the marinated chicken or the finished sauce separately.",
+        "leftovers": "Excellent served cold in wraps or sliced over noodle salads."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "West African Chicken Peanut Stew",
+            "Chicken Teriyaki",
+            "Kung Pao Chicken",
+            "Chicken Chow Mein"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

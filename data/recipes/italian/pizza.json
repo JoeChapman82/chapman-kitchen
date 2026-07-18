@@ -1,0 +1,120 @@
+{
+    "id": "019f7693-1d8d-7168-8b3c-d4d3d1a5fa0a",
+    "version": 1,
+
+    "title": "Homemade Pizza",
+
+    "overview": {
+        "description": "A crisp, airy homemade pizza made with bread flour, simple tomato sauce and your choice of toppings.",
+        "country": "Italy",
+        "region": "Home-style",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "500g strong white bread flour",
+        "325ml warm water",
+        "7g dried yeast",
+        "10g fine salt",
+        "15ml olive oil",
+        "",
+        "200g passata",
+        "1 tbsp olive oil",
+        "1 clove garlic, finely grated",
+        "1 tsp dried oregano",
+        "Salt and black pepper",
+        "",
+        "250g mozzarella, torn",
+        "Your chosen toppings"
+    ],
+
+    "method": [
+        "Mix the flour, yeast and salt in a large bowl, keeping the salt and yeast separate until mixing begins.",
+        "Add the water and olive oil.",
+        "Mix into a rough dough.",
+        "Knead for 10 minutes until smooth and elastic.",
+        "Cover and leave to rise until doubled in size, about 1–2 hours.",
+        "Meanwhile, mix the passata with the olive oil, garlic, oregano, salt and pepper.",
+        "Preheat the oven to its highest setting with a baking tray or pizza stone inside for at least 30 minutes.",
+        "Divide the dough into 4 equal portions.",
+        "Stretch each piece into a round about 30cm across without using a rolling pin if possible.",
+        "Spread over a thin layer of sauce.",
+        "Top with the mozzarella and your chosen toppings.",
+        "Bake for 8–12 minutes until the crust is golden and the cheese is bubbling.",
+        "Rest for 2 minutes before slicing."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Green Salad"
+        ],
+        "optional-sides": [
+            "Garlic Dip",
+            "Chilli Oil"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 30,
+        "cook-time-minutes": 12,
+        "freezer-label": "freeze dough or baked pizza",
+        "cost": "budget",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Most home ovens never reach the temperatures of traditional pizza ovens, so preheating the baking surface is one of the biggest improvements you can make.",
+        "what-you-will-learn": "How to make a versatile pizza dough, stretch it correctly and bake it successfully in a conventional oven.",
+        "skills": [
+            "Bread dough",
+            "Stretching dough",
+            "High-temperature baking",
+            "Balancing toppings"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A family favourite that's cheaper, healthier and more customisable than takeaway pizza, while making good use of pantry staples.",
+        "chapman-tips": [
+            "Less topping usually makes a better pizza—the dough should still be the star.",
+            "Tear mozzarella rather than slicing it so it melts more evenly.",
+            "Preheat the baking tray with the oven for the crispiest base.",
+            "A light dusting of semolina on the peel or baking paper helps the pizza slide."
+        ],
+        "batch-cooking": "Freeze individual dough balls after the first rise or freeze cooked pizza slices.",
+        "leftovers": "Reheat in a dry frying pan with a lid for a crisp base and melted cheese."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Focaccia",
+            "Pesto Rosso"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

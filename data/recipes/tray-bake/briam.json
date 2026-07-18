@@ -1,0 +1,126 @@
+{
+    "id": "019f6718-4303-735c-9c81-6d37f1452ed2",
+    "version": 1,
+
+    "title": "Briam",
+
+    "overview": {
+        "description": "A traditional Greek tray bake of seasonal vegetables slowly roasted in olive oil, tomatoes and herbs until tender and lightly caramelised.",
+        "country": "Greece",
+        "region": "",
+        "serves": 6
+    },
+
+    "ingredients": [
+        "2 aubergines, sliced",
+        "2 courgettes, sliced",
+        "4 potatoes, thinly sliced",
+        "2 onions, sliced",
+        "4 cloves garlic, sliced",
+        "2 × 400g tins chopped tomatoes",
+        "100ml olive oil",
+        "2 tsp dried oregano",
+        "2 tbsp chopped fresh parsley",
+        "Salt",
+        "Freshly ground black pepper"
+    ],
+
+    "method": [
+        "=== Prepare ===",
+        "Preheat the oven to 170°C fan (190°C conventional).",
+        "Lightly salt the aubergine slices and leave for 20 minutes.",
+        "Pat the aubergine dry with kitchen paper.",
+        "",
+        "=== Assemble ===",
+        "Layer the potatoes, onions, aubergines and courgettes in a large roasting dish.",
+        "Scatter over the sliced garlic.",
+        "Pour over the chopped tomatoes.",
+        "Drizzle with the olive oil.",
+        "Sprinkle with the oregano.",
+        "Season generously with salt and black pepper.",
+        "",
+        "=== Bake ===",
+        "Cover loosely with foil and bake for 45 minutes.",
+        "Remove the foil and continue baking for a further 40–50 minutes until the vegetables are tender and beginning to caramelise.",
+        "Scatter with the fresh parsley before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Homemade Pita",
+            "Focaccia"
+        ],
+        "optional-sides": [
+            "Greek Salad",
+            "Feta Cheese",
+            "Olives",
+            "Tzatziki"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 25,
+        "cook-time-minutes": 95,
+        "freezer-label": "freezes well",
+        "cost": "budget",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Briam is Greece's version of the many Mediterranean vegetable bakes that celebrate seasonal produce and generous olive oil.",
+        "what-you-will-learn": "How slow roasting concentrates flavour, caramelises vegetables and creates a rich sauce with very little effort.",
+        "skills": [
+            "Preparing vegetables",
+            "Layering ingredients",
+            "Slow roasting",
+            "Seasoning vegetables"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "One of the best examples in the cookbook of how simple pantry vegetables can become a complete and deeply satisfying meal.",
+        "chapman-tips": [
+            "Salting the aubergine improves both texture and flavour.",
+            "Don't rush the cooking—the caramelisation is what makes the dish special.",
+            "Good olive oil makes a noticeable difference here.",
+            "Serve with crusty bread to soak up the tomato and olive oil juices."
+        ],
+        "batch-cooking": "Freezes well and reheats beautifully.",
+        "leftovers": "Excellent the next day, either hot or at room temperature."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Ratatouille",
+            "Spanakopita",
+            "Gigantes Plaki",
+            "Tuscan Butter Beans"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

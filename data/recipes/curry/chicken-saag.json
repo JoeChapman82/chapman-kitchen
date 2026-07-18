@@ -1,0 +1,128 @@
+{
+    "id": "019f6a52-e8f2-7449-b5e5-08830f9eaf8e",
+    "version": 1,
+
+    "title": "Chicken Saag",
+
+    "overview": {
+        "description": "A traditional North Indian curry of tender chicken simmered in a richly spiced spinach sauce with garlic, ginger and warming spices.",
+        "country": "India",
+        "region": "Punjab",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "700g boneless skinless chicken thighs, cut into bite-sized pieces",
+        "2 tbsp ghee",
+        "1 tsp cumin seeds",
+        "1 onion, finely diced",
+        "4 cloves garlic, minced",
+        "1 tbsp grated ginger",
+        "2 green chillies, finely sliced",
+        "1 tsp ground coriander",
+        "½ tsp turmeric",
+        "1 tsp Kashmiri chilli powder",
+        "1 tsp garam masala",
+        "500g frozen chopped spinach, thawed",
+        "100ml water",
+        "100g natural yoghurt",
+        "Salt",
+        "Fresh coriander, chopped"
+    ],
+
+    "method": [
+        "Heat the ghee over a medium heat.",
+        "Add the cumin seeds and cook for 30 seconds until fragrant.",
+        "Cook the onion for 8–10 minutes until softened and lightly golden.",
+        "Add the garlic, ginger and green chillies.",
+        "Cook for 1 minute.",
+        "Stir in the ground coriander, turmeric and Kashmiri chilli powder.",
+        "Cook for 30 seconds.",
+        "Add the chicken and cook until lightly browned.",
+        "Stir in the spinach and water.",
+        "Simmer gently for 15 minutes until the chicken is cooked through.",
+        "Remove from the heat and allow to cool for 2 minutes.",
+        "Stir in the yoghurt until fully incorporated.",
+        "Return to a gentle heat if necessary, but do not boil once the yoghurt has been added.",
+        "Finish with the garam masala and fresh coriander.",
+        "Season to taste."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Homemade Naan",
+            "Chapati"
+        ],
+        "optional-sides": [
+            "Basmati Rice",
+            "Cucumber Raita",
+            "Lime Pickle"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 35,
+        "freezer-label": "freezes well",
+        "cost": "mid-range",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "In Indian cooking, 'saag' refers to leafy greens rather than spinach alone, although spinach is the most common version outside India.",
+        "what-you-will-learn": "How to cook with leafy greens, bloom spices, and incorporate yoghurt into a curry without splitting it.",
+        "skills": [
+            "Blooming whole spices",
+            "Cooking with spinach",
+            "Balancing spices",
+            "Using yoghurt in curries"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A healthier North Indian curry that makes excellent use of frozen spinach while showcasing how vegetables can be the main flavour rather than just an addition.",
+        "chapman-tips": [
+            "Frozen spinach works exceptionally well and is often more practical than fresh.",
+            "Don't boil the curry after adding the yoghurt or it may split.",
+            "Chicken thighs remain tender during simmering.",
+            "A little extra garlic fried in ghee and spooned over before serving makes an excellent finishing touch."
+        ],
+        "batch-cooking": "Freeze once cooled in family-sized portions.",
+        "leftovers": "The flavour deepens overnight and reheats gently on the hob."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Saag Paneer",
+            "Butter Chicken (Murgh Makhani)",
+            "Chicken Chettinad",
+            "Chicken Jalfrezi"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

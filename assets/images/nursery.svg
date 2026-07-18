@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300">
+  <!-- Sky -->
+  <rect width="600" height="300" fill="#d4eaf7"/>
+  <!-- Ground -->
+  <rect x="0" y="220" width="600" height="80" fill="#8bc34a"/>
+  <!-- Path to door -->
+  <path d="M280 300 Q300 260 320 300" fill="#c8b07a"/>
+  <!-- Sun -->
+  <circle cx="520" cy="45" r="30" fill="#ffeb3b"/>
+  <!-- Clouds -->
+  <ellipse cx="100" cy="45" rx="35" ry="14" fill="#fff"/>
+  <ellipse cx="130" cy="42" rx="25" ry="12" fill="#fff"/>
+  <ellipse cx="400" cy="55" rx="28" ry="12" fill="#fff"/>
+  <!-- Tree far left -->
+  <rect x="35" y="130" width="12" height="90" fill="#795548"/>
+  <circle cx="41" cy="110" r="35" fill="#4caf50"/>
+  <circle cx="20" cy="135" r="22" fill="#388e3c"/>
+  <circle cx="62" cy="135" r="22" fill="#388e3c"/>
+  <!-- Tree left -->
+  <rect x="120" y="145" width="10" height="75" fill="#795548"/>
+  <circle cx="125" cy="125" r="28" fill="#4caf50"/>
+  <circle cx="108" cy="145" r="18" fill="#388e3c"/>
+  <circle cx="142" cy="145" r="18" fill="#388e3c"/>
+  <!-- Building -->
+  <rect x="200" y="100" width="200" height="120" rx="3" fill="#fff3e0" stroke="#a1887f" stroke-width="2.5"/>
+  <!-- Roof -->
+  <polygon points="188,100 300,45 412,100" fill="#e65100" stroke="#bf360c" stroke-width="2"/>
+  <!-- Door -->
+  <rect x="278" y="160" width="44" height="60" rx="3" fill="#6d4c41"/>
+  <circle cx="312" cy="192" r="3.5" fill="#ffeb3b"/>
+  <!-- Windows -->
+  <rect x="215" y="115" width="35" height="30" rx="2" fill="#bbdefb" stroke="#a1887f" stroke-width="1.5"/>
+  <rect x="350" y="115" width="35" height="30" rx="2" fill="#bbdefb" stroke="#a1887f" stroke-width="1.5"/>
+  <!-- Window crosses -->
+  <line x1="232" y1="115" x2="232" y2="145" stroke="#a1887f" stroke-width="1"/>
+  <line x1="215" y1="130" x2="250" y2="130" stroke="#a1887f" stroke-width="1"/>
+  <line x1="367" y1="115" x2="367" y2="145" stroke="#a1887f" stroke-width="1"/>
+  <line x1="350" y1="130" x2="385" y2="130" stroke="#a1887f" stroke-width="1"/>
+  <!-- Sign -->
+  <rect x="255" y="58" width="90" height="22" rx="3" fill="#fff" stroke="#a1887f" stroke-width="1"/>
+  <text x="300" y="74" text-anchor="middle" font-size="14" font-family="sans-serif" fill="#4a3728">Nursery</text>
+  <!-- Tree right -->
+  <rect x="465" y="135" width="10" height="85" fill="#795548"/>
+  <circle cx="470" cy="115" r="30" fill="#4caf50"/>
+  <circle cx="452" cy="135" r="20" fill="#388e3c"/>
+  <circle cx="488" cy="135" r="20" fill="#388e3c"/>
+  <!-- Tree far right -->
+  <rect x="545" y="150" width="10" height="70" fill="#795548"/>
+  <circle cx="550" cy="130" r="26" fill="#4caf50"/>
+  <circle cx="535" cy="148" r="16" fill="#388e3c"/>
+  <circle cx="565" cy="148" r="16" fill="#388e3c"/>
+  <!-- Flowers -->
+  <circle cx="160" cy="235" r="5" fill="#e91e63"/>
+  <circle cx="175" cy="240" r="4" fill="#ff9800"/>
+  <circle cx="430" cy="232" r="5" fill="#9c27b0"/>
+  <circle cx="445" cy="238" r="4" fill="#e91e63"/>
+  <circle cx="250" cy="240" r="4" fill="#ff9800"/>
+  <circle cx="350" cy="237" r="5" fill="#e91e63"/>
+  <!-- Fence -->
+  <line x1="140" y1="220" x2="200" y2="220" stroke="#a1887f" stroke-width="2.5"/>
+  <line x1="400" y1="220" x2="460" y2="220" stroke="#a1887f" stroke-width="2.5"/>
+  <rect x="146" y="208" width="5" height="18" fill="#a1887f"/>
+  <rect x="163" y="208" width="5" height="18" fill="#a1887f"/>
+  <rect x="180" y="208" width="5" height="18" fill="#a1887f"/>
+  <rect x="406" y="208" width="5" height="18" fill="#a1887f"/>
+  <rect x="423" y="208" width="5" height="18" fill="#a1887f"/>
+  <rect x="440" y="208" width="5" height="18" fill="#a1887f"/>
+</svg>

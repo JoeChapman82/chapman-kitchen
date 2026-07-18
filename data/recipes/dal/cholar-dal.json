@@ -1,0 +1,128 @@
+{
+    "id": "019f6e8a-3c86-7469-b340-b471293471cf",
+    "version": 1,
+
+    "title": "Cholar Dal",
+
+    "overview": {
+        "description": "A fragrant Bengali lentil curry made with chana dal, whole spices and toasted coconut. Traditionally served with luchi or rice.",
+        "country": "India",
+        "region": "West Bengal",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "250g chana dal",
+        "1 litre water",
+        "1 tbsp ghee",
+        "1 bay leaf",
+        "1 cinnamon stick",
+        "3 green cardamom pods",
+        "3 cloves",
+        "1 tsp cumin seeds",
+        "1 dried red chilli",
+        "Pinch of asafoetida (hing)",
+        "20g fresh ginger, grated",
+        "1 tsp turmeric",
+        "1 tsp ground cumin",
+        "1 tsp ground coriander",
+        "1 tsp grated jaggery",
+        "30g desiccated coconut or fresh coconut, lightly toasted",
+        "Salt, to taste",
+        "2 tbsp fresh coriander, chopped"
+    ],
+
+    "method": [
+        "Rinse the chana dal thoroughly.",
+        "Pressure cook the dal with the water and turmeric for 12–15 minutes until tender but still holding its shape.",
+        "Allow the pressure to release naturally.",
+        "Heat the ghee over a medium heat.",
+        "Add the bay leaf, cinnamon, cardamom and cloves.",
+        "Cook for 30 seconds.",
+        "Add the cumin seeds, dried chilli and asafoetida.",
+        "Cook until fragrant.",
+        "Stir in the ginger and cook for 1 minute.",
+        "Add the ground cumin and ground coriander.",
+        "Cook for 30 seconds.",
+        "Add the cooked dal with enough cooking liquid to give a loose consistency.",
+        "Stir in the jaggery and salt.",
+        "Simmer gently for 10 minutes.",
+        "Fold in most of the toasted coconut.",
+        "Garnish with the remaining coconut and fresh coriander before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Steamed Basmati Rice"
+        ],
+        "optional-sides": [
+            "Luchi",
+            "Aloo Dum"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 10,
+        "cook-time-minutes": 30,
+        "freezer-label": "freezes very well",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Unlike many Indian dals, Cholar Dal is traditionally prepared without onion or garlic and is often served during festivals and celebrations in Bengal.",
+        "what-you-will-learn": "How to cook chana dal so it retains its shape, toast coconut and build flavour with whole spices.",
+        "skills": [
+            "Pressure cooking lentils",
+            "Preparing a tadka",
+            "Toasting coconut",
+            "Cooking chana dal"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A completely different style of dal that broadens the Indian section while using long-lasting pantry ingredients.",
+        "chapman-tips": [
+            "Pressure cook the dal until tender but not mushy.",
+            "Toast the coconut until lightly golden for the best flavour.",
+            "This dal should be slightly sweet rather than spicy.",
+            "The whole spices should perfume the dal without overpowering it."
+        ],
+        "batch-cooking": "Freeze in family-sized portions for up to 6 months.",
+        "leftovers": "Reheat gently with a splash of water if it thickens."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Gujarati Dal",
+            "Dal Makhani",
+            "Sambar"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

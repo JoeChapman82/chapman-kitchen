@@ -1,0 +1,116 @@
+{
+    "id": "019f6fb2-749a-73ff-9326-cbc704058cca",
+    "version": 1,
+
+    "title": "Thai Butternut Squash Soup",
+
+    "overview": {
+        "description": "A smooth, warming Thai-inspired soup of roasted butternut squash, homemade red curry paste, coconut milk and chicken stock.",
+        "country": "Thailand",
+        "region": "Central Thailand (inspired)",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "1kg butternut squash, peeled and diced",
+        "1 tbsp vegetable oil",
+        "1 onion, diced",
+        "4 cloves garlic, minced",
+        "2 tbsp homemade Thai red curry paste",
+        "400ml coconut milk",
+        "800ml homemade chicken stock",
+        "1 tbsp fish sauce",
+        "Juice of 1 lime",
+        "Fresh coriander, chopped"
+    ],
+
+    "method": [
+        "Roast the butternut squash at 200°C (180°C fan) for 30 minutes until tender and lightly caramelised.",
+        "Meanwhile, heat the oil over a medium heat.",
+        "Cook the onion for 8 minutes until softened.",
+        "Add the garlic and cook for 1 minute.",
+        "Stir in the homemade red curry paste and cook for 1 minute until fragrant.",
+        "Add the roasted squash.",
+        "Pour in the chicken stock and coconut milk.",
+        "Bring to a gentle simmer for 10 minutes.",
+        "Blend until completely smooth.",
+        "Season with the fish sauce and lime juice.",
+        "Taste and adjust if needed.",
+        "Serve topped with fresh coriander."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Crusty Bread"
+        ],
+        "optional-sides": [
+            "Naan",
+            "Toasted Pumpkin Seeds"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 45,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Thai soups are built around balancing salty, sour, sweet and spicy flavours rather than allowing one flavour to dominate.",
+        "what-you-will-learn": "How roasting vegetables develops sweetness and how Thai curry paste can be used as the flavour base for soups.",
+        "skills": [
+            "Roasting vegetables",
+            "Building soup bases",
+            "Using curry paste",
+            "Blending soups"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A simple freezer-friendly soup that makes excellent use of homemade curry paste, chicken stock and a vegetable that's already a regular in the Chapman Kitchen.",
+        "chapman-tips": [
+            "Roasting the squash gives a much deeper flavour than boiling it.",
+            "Homemade Thai red curry paste really shines in this recipe.",
+            "Season with fish sauce and lime at the end rather than salt first.",
+            "Blend until silky smooth for the best texture."
+        ],
+        "batch-cooking": "Freeze in family-sized portions for up to 6 months.",
+        "leftovers": "Reheat gently without boiling to keep the coconut milk smooth."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Thai Red Curry",
+            "Thai Green Curry",
+            "Harira"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

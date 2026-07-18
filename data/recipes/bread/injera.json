@@ -1,0 +1,100 @@
+{
+    "id": "019f5cb9-4088-7488-82be-0ea08de6c3d8",
+    "version": 1,
+
+    "title": "Injera",
+
+    "overview": {
+        "description": "A traditional Ethiopian fermented flatbread made from teff flour. Soft, slightly spongy and pleasantly tangy, injera is both the plate and the utensil for many Ethiopian meals.",
+        "country": "Ethiopia",
+        "region": "",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "500g teff flour",
+        "700ml warm water",
+        "½ tsp salt"
+    ],
+
+    "method": [
+        "Mix the teff flour and warm water into a smooth batter. Cover loosely and leave at room temperature to ferment for 48–72 hours. The batter should become bubbly and develop a pleasant sour aroma.",
+        "Stir the batter gently and add the salt.",
+        "Heat a large non-stick frying pan over a medium heat. Do not add any oil.",
+        "Pour enough batter into the pan to cover the base in a thin, even layer, swirling the pan if necessary.",
+        "Cover immediately with a lid and cook for about 2–3 minutes. The surface should become covered in tiny holes while the bottom cooks.",
+        "Do not flip the injera. It is cooked only on one side.",
+        "Carefully remove and leave to cool completely before stacking. Repeat with the remaining batter."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Doro Wat"
+        ],
+        "optional-sides": [
+            "Other Ethiopian stews"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 4320,
+        "cook-time-minutes": 20,
+        "freezer-label": "good",
+        "cost": "budget",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Injera has been made in Ethiopia for centuries. Traditionally it is served underneath the food and used instead of cutlery to scoop up stews.",
+        "what-you-will-learn": "How natural fermentation develops flavour, how batter breads differ from dough breads, and how to recognise when fermentation is complete.",
+        "skills": [
+            "Natural fermentation",
+            "Cooking batter breads",
+            "Working with teff flour"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "An authentic bread that opens the door to Ethiopian cooking. Although it requires patience, it's one of the most distinctive breads in the collection.",
+        "chapman-tips": [
+            "Temperature greatly affects fermentation time—warmer kitchens ferment faster.",
+            "The batter should smell pleasantly sour, never unpleasant.",
+            "A lid is essential to cook the top without flipping the bread."
+        ],
+        "batch-cooking": "Once cooled, stack between sheets of baking paper and freeze for up to three months.",
+        "leftovers": "Excellent reheated briefly in a covered pan or steamer."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Flatbread",
+            "Batbout"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": "019f642b-8980-74ac-88dc-acecaff0c8d7",
+    "version": 1,
+
+    "title": "Rajma",
+
+    "overview": {
+        "description": "A comforting North Indian kidney bean curry gently simmered with onions, tomatoes and warming spices. Simple, economical and one of India's great everyday meals.",
+        "country": "India",
+        "region": "Punjab",
+        "serves": 8
+    },
+
+    "ingredients": [
+        "2 tbsp vegetable oil",
+        "2 onions, finely diced",
+        "4 cloves garlic, minced",
+        "25g fresh ginger, grated",
+        "2 green chillies, finely chopped (optional)",
+        "2 tsp ground cumin",
+        "2 tsp ground coriander",
+        "1 tsp turmeric",
+        "1 tsp Kashmiri chilli powder",
+        "2 tsp garam masala",
+        "2 × 400g tins chopped tomatoes",
+        "4 × 400g tins kidney beans, drained and rinsed",
+        "400ml water",
+        "Salt",
+        "Fresh coriander, chopped"
+    ],
+
+    "method": [
+        "Heat the vegetable oil in a large saucepan over a medium heat.",
+        "Cook the onions for 10–12 minutes until soft and beginning to caramelise.",
+        "Add the garlic, ginger and green chilli, then cook for 1 minute.",
+        "Stir in the cumin, coriander, turmeric and Kashmiri chilli powder and cook for 30 seconds.",
+        "Add the chopped tomatoes and simmer for 10 minutes until thickened.",
+        "Stir in the kidney beans, water and half of the garam masala.",
+        "Simmer gently for 30–40 minutes, stirring occasionally.",
+        "Lightly mash a small portion of the beans against the side of the pan to naturally thicken the curry.",
+        "Season with salt and stir in the remaining garam masala.",
+        "Finish with freshly chopped coriander before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Steamed Basmati Rice"
+        ],
+        "optional-sides": [
+            "Chapati",
+            "Roti",
+            "Natural Yoghurt",
+            "Mango Chutney"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 55,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Rajma is one of the most popular everyday meals in North India, especially in Punjab, where it's traditionally served with rice as Rajma Chawal.",
+        "what-you-will-learn": "How to build flavour by cooking onions slowly, balancing spices and naturally thickening a bean curry.",
+        "skills": [
+            "Cooking onions",
+            "Blooming spices",
+            "Building a curry base",
+            "Batch cooking"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "One of the best value meals in the planner. Nutritious, filling, family-friendly and ideal for keeping portions in the freezer.",
+        "chapman-tips": [
+            "Cooking the onions properly is the secret to a rich curry.",
+            "Mash a few beans into the sauce rather than adding flour or cornflour.",
+            "Add the garam masala in two stages for a fresher flavour.",
+            "Homemade chapatis turn this into a complete feast."
+        ],
+        "batch-cooking": "Freeze in meal-sized portions for up to three months.",
+        "leftovers": "Often tastes even better the following day. Serve with fresh rice or use as a filling for wraps."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Dal Makhani",
+            "Chole",
+            "Dal Chawal",
+            "Gujarati Dal"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

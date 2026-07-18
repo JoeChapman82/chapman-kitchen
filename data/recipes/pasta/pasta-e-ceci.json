@@ -1,0 +1,110 @@
+{
+  "id": "019f5b01-2e6e-7418-8b39-b14d57c5df9d",
+  "version": 1,
+
+  "title": "Pasta e Ceci",
+
+  "overview": {
+    "description": "A traditional Italian pasta and chickpea soup that is hearty, economical and made almost entirely from pantry ingredients. Thick enough to be a meal on its own and perfect with homemade bread.",
+    "country": "Italy",
+    "region": "Central Italy",
+    "serves": 4
+  },
+
+  "ingredients": [
+    "2 tbsp olive oil",
+    "1 onion, finely diced",
+    "2 carrots, finely diced",
+    "2 celery sticks, finely diced",
+    "3 cloves garlic, minced",
+    "2 tbsp tomato purée",
+    "1 tsp dried oregano",
+    "½ tsp chilli flakes (optional)",
+    "2 × 400g tins chickpeas, drained (reserve the liquid if desired)",
+    "1 litre chicken or vegetable stock",
+    "150g small pasta (ditalini, small shells or macaroni)",
+    "50g Parmesan, finely grated",
+    "Salt and freshly ground black pepper",
+    "Fresh parsley, chopped",
+    "Extra virgin olive oil, to serve"
+  ],
+
+  "method": [
+    "Heat the olive oil in a large saucepan over a medium heat. Add the onion, carrot and celery and cook until softened, about 10 minutes.",
+    "Add the garlic, tomato purée, oregano and chilli flakes (if using). Cook for 1–2 minutes until fragrant.",
+    "Stir in the chickpeas and stock, then bring to a gentle simmer.",
+    "Blend about one third of the soup until smooth, then return it to the pan. This creates a naturally creamy texture without adding cream.",
+    "Add the pasta and cook until just tender, stirring occasionally to prevent it sticking.",
+    "Season to taste with salt and black pepper.",
+    "Serve topped with grated Parmesan, chopped parsley and a drizzle of extra virgin olive oil."
+  ],
+
+  "serving": {
+    "serve-with": [
+      "Rosemary Focaccia"
+    ],
+    "optional-sides": [
+      "Rustic salad"
+    ]
+  },
+
+  "planner": {
+    "prep-time-minutes": 15,
+    "cook-time-minutes": 30,
+    "freezer-label": "better fresh",
+    "cost": "budget",
+    "after-work": true
+  },
+
+  "learning": {
+    "did-you-know": "Pasta e Ceci has been enjoyed across Italy for centuries and demonstrates how simple pantry ingredients can become an incredibly satisfying meal.",
+    "what-you-will-learn": "How soffritto forms the flavour base of many Italian dishes, how blending part of a soup naturally thickens it, and how to cook pasta directly in soup.",
+    "skills": [
+      "Making soffritto",
+      "Building flavour",
+      "Cooking pasta in soup",
+      "Blending for texture"
+    ]
+  },
+
+  "nutrition": {
+    "portion-size": "",
+    "calories": "",
+    "protein": "",
+    "carbohydrates": "",
+    "fat": "",
+    "saturates": "",
+    "fibre": "",
+    "sugar": "",
+    "salt": ""
+  },
+
+  "notes": {
+    "why-its-in-the-chapman-kitchen": "A perfect Pantry Monday meal that's inexpensive, filling, nutritious and made almost entirely from cupboard staples.",
+    "chapman-tips": [
+      "Blend only part of the soup to keep plenty of texture.",
+      "Cook the pasta until just al dente as it will continue softening in the hot soup.",
+      "A drizzle of good olive oil before serving makes a noticeable difference."
+    ],
+    "batch-cooking": "The soup freezes well without the pasta. If freezing, cook and add fresh pasta when reheating for the best texture.",
+    "leftovers": "Reheat gently with a splash of stock or water, as the pasta will absorb liquid overnight."
+  },
+
+  "relationships": {
+    "similar-recipes": []
+  },
+
+  "history": [
+    {
+      "date": "",
+      "note": ""
+    }
+  ],
+
+  "metadata": {
+    "created": "",
+    "updated": "",
+    "created-by": "Joe Chapman",
+    "updated-by": "Joe Chapman"
+  }
+}

@@ -1,0 +1,127 @@
+{
+    "id": "019f65c2-dec8-7369-a79b-b16b3d112517",
+    "version": 1,
+
+    "title": "Paella",
+
+    "overview": {
+        "description": "A colourful Spanish rice dish with chicken, white fish, prawns and vegetables, gently cooked with saffron and smoked paprika. A wonderful centrepiece meal for sharing.",
+        "country": "Spain",
+        "region": "Valencia",
+        "serves": 8
+    },
+
+    "ingredients": [
+        "2 tbsp olive oil",
+        "600g chicken thighs, diced",
+        "300g frozen white fish, cut into chunks",
+        "300g raw king prawns, thawed",
+        "2 onions, diced",
+        "1 red pepper, diced",
+        "1 green pepper, diced",
+        "4 cloves garlic, minced",
+        "2 tbsp tomato purée",
+        "400g paella rice",
+        "1 tsp smoked paprika",
+        "1 pinch saffron",
+        "1 litre chicken stock",
+        "150g frozen peas",
+        "1 lemon, cut into wedges",
+        "Salt",
+        "Freshly ground black pepper",
+        "Fresh parsley, chopped"
+    ],
+
+    "method": [
+        "Heat the olive oil in a large paella pan or wide frying pan over a medium-high heat.",
+        "Brown the chicken until lightly golden, then remove and set aside.",
+        "Cook the onions and peppers for around 8 minutes until softened.",
+        "Add the garlic and cook for 1 minute.",
+        "Stir in the tomato purée and cook for 2 minutes.",
+        "Add the smoked paprika and saffron and stir for 30 seconds.",
+        "Add the paella rice and stir until well coated.",
+        "Return the chicken to the pan.",
+        "Pour in the hot chicken stock and season lightly.",
+        "Simmer gently without stirring for around 15 minutes.",
+        "Arrange the white fish and prawns over the rice and scatter over the peas.",
+        "Continue cooking for another 8–10 minutes until the seafood is cooked and the rice is tender.",
+        "Increase the heat for the final minute to develop a light socarrat (the crisp rice layer on the bottom), taking care not to burn it.",
+        "Remove from the heat, cover loosely with foil and rest for 10 minutes.",
+        "Finish with chopped parsley and serve with lemon wedges."
+    ],
+
+    "serving": {
+        "serve-with": [],
+        "optional-sides": [
+            "Green Salad",
+            "Crusty Bread",
+            "Alioli"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 45,
+        "freezer-label": "best enjoyed fresh",
+        "cost": "mid-range",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Traditional Valencian paella didn't contain seafood. The mixed seafood versions popular today developed later along Spain's Mediterranean coast.",
+        "what-you-will-learn": "How to cook paella rice by absorption, use saffron sparingly and create a traditional socarrat without burning the rice.",
+        "skills": [
+            "Cooking rice",
+            "Layering seafood",
+            "Using saffron",
+            "One-pan cooking"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A celebration meal that makes excellent use of frozen seafood while introducing classic Spanish cooking techniques.",
+        "chapman-tips": [
+            "Don't stir the rice once the stock has been added.",
+            "Add the seafood towards the end so it stays tender.",
+            "Frozen fish and prawns work beautifully in this recipe.",
+            "The socarrat—the crisp layer of rice on the bottom—is one of the best parts of a good paella."
+        ],
+        "batch-cooking": "Best cooked fresh. Leftovers can be refrigerated for up to two days and reheated thoroughly, but freezing isn't recommended as the texture of the rice and seafood deteriorates.",
+        "leftovers": "Reheat gently in a frying pan or microwave until piping hot."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Jambalaya",
+            "Goan Fish Curry",
+            "Bengali Fish Curry",
+            "Salmon en Croute"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

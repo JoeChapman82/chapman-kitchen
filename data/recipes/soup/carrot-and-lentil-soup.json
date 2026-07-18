@@ -1,0 +1,117 @@
+{
+    "id": "019f5f16-93c0-708e-86f9-25b45454a91b",
+    "version": 1,
+
+    "title": "Carrot & Lentil Soup",
+
+    "overview": {
+        "description": "A smooth, lightly spiced soup combining sweet carrots and red lentils with gentle warming spices. Filling, inexpensive and perfect for a weekday lunch or light dinner.",
+        "country": "United Kingdom",
+        "region": "",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "2 tbsp olive oil",
+        "1 onion, diced",
+        "2 cloves garlic, minced",
+        "1 tsp ground cumin",
+        "1 tsp ground coriander",
+        "¼ tsp ground turmeric",
+        "700g carrots, peeled and sliced",
+        "150g red lentils, rinsed",
+        "1 litre vegetable or chicken stock",
+        "100ml double cream (optional)",
+        "Salt",
+        "Freshly ground black pepper",
+        "Fresh coriander, chopped (optional)"
+    ],
+
+    "method": [
+        "Heat the olive oil in a large saucepan over a medium heat.",
+        "Add the onion and cook gently for about 8 minutes until softened.",
+        "Add the garlic and cook for 1 minute.",
+        "Stir in the cumin, coriander and turmeric and cook for 30 seconds until fragrant.",
+        "Add the carrots and red lentils.",
+        "Pour in the stock and bring to the boil.",
+        "Reduce to a gentle simmer and cook for about 25 minutes until the carrots and lentils are completely tender.",
+        "Blend until completely smooth.",
+        "Stir in the double cream if using and heat through gently.",
+        "Season to taste with salt and freshly ground black pepper.",
+        "Serve with a sprinkling of chopped coriander if desired."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Cheese & Chutney Sandwich"
+        ],
+        "optional-sides": [
+            "Crusty Bread",
+            "Butter"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 35,
+        "freezer-label": "freezes well",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Red lentils break down completely during cooking, making them perfect for naturally thickening soups without needing flour or cream.",
+        "what-you-will-learn": "How gently toasting ground spices develops their flavour, how lentils create a silky texture, and how to balance sweetness with savoury seasoning.",
+        "skills": [
+            "Cooking with lentils",
+            "Blooming spices",
+            "Blending soups",
+            "Seasoning"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "An inexpensive pantry-friendly soup that's nutritious, freezer-friendly and ideal for busy weekdays. The gentle spices add interest without overpowering the vegetables.",
+        "chapman-tips": [
+            "Rinse the lentils before cooking to remove excess starch.",
+            "The soup should taste gently spiced rather than like a curry.",
+            "A squeeze of lemon juice just before serving brightens the flavours."
+        ],
+        "batch-cooking": "Freeze in family-sized portions for up to three months.",
+        "leftovers": "Reheat gently with a splash of stock if the soup thickens during storage."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Leek & Potato Soup",
+            "Pea & Ham Soup",
+            "Red Lentil Soup"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

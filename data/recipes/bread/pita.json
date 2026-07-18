@@ -1,0 +1,102 @@
+{
+  "id": "019f57a5-6f95-709d-9f3c-8dde0014a140",
+  "version": 1,
+
+  "title": "Pita Bread",
+
+  "overview": {
+    "description": "Soft pocket breads that are quick to make, freeze exceptionally well and pair with countless meals from the Middle East and beyond.",
+    "country": "Middle East",
+    "region": "",
+    "serves": 8
+  },
+
+  "ingredients": [
+    "500g strong white bread flour",
+    "7g instant yeast",
+    "10g fine salt",
+    "15g olive oil",
+    "320ml warm water"
+  ],
+
+  "method": [
+    "Combine the flour, yeast and salt in a large bowl, ensuring the salt and yeast are initially kept apart. Add the olive oil and warm water, then mix until a rough dough forms.",
+    "Turn the dough onto a lightly floured surface and knead until it becomes smooth, elastic and springs back gently when pressed. Don't worry if it feels slightly sticky at first—it will become easier to handle as you knead. This usually takes about 8–10 minutes by hand.",
+    "Place the dough into a lightly oiled bowl, cover and leave somewhere warm until doubled in size. In a warm kitchen this usually takes about an hour.",
+    "Turn the dough onto the work surface and gently knock out most of the air. Divide into eight equal pieces and shape each into a ball. Cover with a tea towel and leave to rest for about 20 minutes. This allows the gluten to relax, making the dough much easier to roll.",
+    "Heat the oven to its highest setting (around 250°C if possible) with a baking stone or heavy baking tray already inside. The baking surface needs to be thoroughly hot before the pitas go in.",
+    "Roll each dough ball into a circle about 5mm thick. Try to keep the thickness even all the way across so the pocket forms evenly.",
+    "Bake one or two at a time for about 3–5 minutes until they puff up into balloons and are just beginning to colour. If they don't puff fully, the baking surface probably wasn't hot enough, but they'll still taste great.",
+    "Wrap the cooked pitas in a clean tea towel as they cool. This traps the steam and keeps them beautifully soft."
+  ],
+
+  "serving": {
+    "serve-with": [],
+    "optional-sides": []
+  },
+
+  "planner": {
+    "prep-time-minutes": 110,
+    "cook-time-minutes": 5,
+    "freezer-label": "freezes-well",
+    "cost": "budget",
+    "after-work": false
+  },
+
+  "learning": {
+    "did-you-know": "Traditional pita puffs because the intense heat rapidly turns the water inside the dough into steam. As the outside sets, the steam inflates the bread into its famous pocket.",
+    "what-you-will-learn": "How to knead bread dough, recognise a well-risen dough, shape even portions and bake at very high temperatures.",
+    "skills": [
+      "Bread making",
+      "Kneading",
+      "Proving dough",
+      "Rolling dough",
+      "High-temperature baking"
+    ]
+  },
+
+  "nutrition": {
+    "portion-size": "",
+    "calories": "",
+    "protein": "",
+    "carbohydrates": "",
+    "fat": "",
+    "saturates": "",
+    "fibre": "",
+    "sugar": "",
+    "salt": ""
+  },
+
+  "notes": {
+    "why-its-in-the-chapman-kitchen": "One batch makes enough for several meals and they freeze brilliantly. They're far better than shop-bought and use only pantry ingredients that are always available.",
+    "chapman-tips": [
+      "Freeze as soon as they've cooled completely.",
+      "Separate each pita with baking paper if freezing large batches.",
+      "Reheat straight from frozen in a toaster or hot oven."
+    ],
+    "batch-cooking": "Double the recipe while you're already making dough. The extra effort is minimal and you'll always have homemade pitas ready.",
+    "leftovers": "Keeps well for two days in an airtight container and freezes for several months."
+  },
+
+  "relationships": {
+    "similar-recipes": [
+      "<naan-uuid>",
+      "<focaccia-uuid>",
+      "<batbout-uuid>"
+    ]
+  },
+
+  "history": [
+    {
+      "date": "",
+      "note": ""
+    }
+  ],
+
+  "metadata": {
+    "created": "",
+    "updated": "",
+    "created-by": "Joe Chapman",
+    "updated-by": "Joe Chapman"
+  }
+}

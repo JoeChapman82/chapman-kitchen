@@ -1,0 +1,111 @@
+{
+    "id": "019f768d-6e6b-7292-90a2-7f6f62d472d3",
+    "version": 1,
+
+    "title": "Chicken Stock",
+
+    "overview": {
+        "description": "A rich homemade stock made from a leftover roast chicken carcass, gently simmered to extract maximum flavour.",
+        "country": "United Kingdom",
+        "region": "Traditional",
+        "serves": 12
+    },
+
+    "ingredients": [
+        "1 cooked chicken carcass",
+        "1 onion, halved (leave the skin on)",
+        "1 carrot, roughly chopped",
+        "1 celery stick, roughly chopped",
+        "2 bay leaves",
+        "8 black peppercorns",
+        "Small handful fresh parsley stalks",
+        "2.5 litres cold water"
+    ],
+
+    "method": [
+        "Break the chicken carcass into a few large pieces so it fits comfortably into a stock pot.",
+        "Add the onion, carrot, celery, bay leaves, peppercorns and parsley stalks.",
+        "Pour over the cold water.",
+        "Bring slowly to a gentle simmer.",
+        "Skim off any foam that rises during the first 15 minutes.",
+        "Simmer gently, uncovered, for 3 hours. Avoid boiling.",
+        "Strain through a fine sieve.",
+        "Discard the solids.",
+        "Allow the stock to cool quickly.",
+        "Refrigerate overnight if you wish to remove the fat.",
+        "Portion into containers and freeze."
+    ],
+
+    "serving": {
+        "serve-with": [],
+        "optional-sides": []
+    },
+
+    "planner": {
+        "prep-time-minutes": 10,
+        "cook-time-minutes": 180,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "very low",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Starting with cold water slowly draws flavour and gelatin from the bones, producing a richer stock.",
+        "what-you-will-learn": "How to extract flavour from leftover bones and create a versatile foundation for soups, sauces and stews.",
+        "skills": [
+            "Making stock",
+            "Skimming",
+            "Straining",
+            "Cooling food safely"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "One Sunday roast provides the foundation for many more meals during the following weeks. Homemade stock adds depth that shop-bought versions rarely match.",
+        "chapman-tips": [
+            "Don't add salt. Season the final dish instead.",
+            "Leave the onion skin on—it gives the stock a beautiful golden colour.",
+            "Keep the stock at a gentle simmer. Boiling makes it cloudy.",
+            "Freeze in 250ml and 500ml portions so you always have the right amount available.",
+            "Alternatiely, pressure cook for 1 hour, or slow cook for 10 hours"
+        ],
+        "batch-cooking": "Freeze for up to 6 months.",
+        "leftovers": "Use anywhere stock is called for throughout the cookbook."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chicken Ramen",
+            "Avgolemono",
+            "Hot and Sour Soup",
+            "Mulligatawny",
+            "French Onion Soup"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "id": "019f6fb6-8cf9-74ec-b4db-f77ceca94b57",
+    "version": 1,
+
+    "title": "Avgolemono",
+
+    "overview": {
+        "description": "A traditional Greek soup of chicken stock, rice, lemon and eggs. Rich and velvety without using cream.",
+        "country": "Greece",
+        "region": "Nationwide",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "1 litre homemade chicken stock",
+        "100g medium-grain rice (pudding rice works well)",
+        "250g cooked shredded chicken",
+        "3 large eggs",
+        "Juice of 2 lemons",
+        "Salt, to taste",
+        "Freshly ground black pepper",
+        "2 tbsp fresh parsley, chopped"
+    ],
+
+    "method": [
+        "Bring the chicken stock to a gentle boil.",
+        "Add the rice.",
+        "Simmer for 15–18 minutes until tender.",
+        "Stir in the shredded chicken and warm through.",
+        "Whisk the eggs until pale and slightly frothy.",
+        "Gradually whisk in the lemon juice.",
+        "Slowly whisk in one ladle of the hot stock.",
+        "Continue adding another 2–3 ladles while whisking continuously.",
+        "Remove the soup from the heat.",
+        "Slowly stir the tempered egg mixture back into the saucepan.",
+        "Return to a very low heat for 2–3 minutes, stirring constantly.",
+        "Do not allow the soup to boil.",
+        "Season with salt and black pepper.",
+        "Finish with fresh parsley."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Crusty Bread"
+        ],
+        "optional-sides": [
+            "Greek Salad"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 10,
+        "cook-time-minutes": 25,
+        "freezer-label": "freeze before adding the egg and lemon mixture",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "The name 'avgolemono' simply means 'egg and lemon', a classic Greek sauce that's also used to enrich soups.",
+        "what-you-will-learn": "How to temper eggs correctly so they thicken a soup into a silky emulsion without scrambling.",
+        "skills": [
+            "Tempering eggs",
+            "Cooking rice",
+            "Balancing acidity",
+            "Building soups"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A comforting soup that transforms homemade chicken stock into something elegant using only a few pantry ingredients.",
+        "chapman-tips": [
+            "Never boil the soup after adding the egg mixture or it may split.",
+            "Whisk continuously while tempering the eggs.",
+            "Taste before serving—the lemon should brighten the soup without dominating it.",
+            "Homemade chicken stock is the star of this recipe, so use your best batch."
+        ],
+        "batch-cooking": "Freeze the soup base without the egg and lemon mixture. After reheating, prepare the avgolemono mixture fresh and stir it in.",
+        "leftovers": "Reheat gently over a low heat without boiling."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "French Onion Soup",
+            "Harira",
+            "Chicken Ramen",
+            "Mulligatawny Soup"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

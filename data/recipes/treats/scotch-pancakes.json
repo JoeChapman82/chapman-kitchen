@@ -1,0 +1,115 @@
+{
+    "id": "019f7696-2ea6-762b-8ec1-bf3702ad7eeb",
+    "version": 1,
+
+    "title": "Scotch Pancakes",
+
+    "overview": {
+        "description": "Light, fluffy Scotch pancakes with a tender crumb, perfect for breakfast or an afternoon snack.",
+        "country": "Scotland",
+        "region": "Traditional",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "225g self-raising flour",
+        "1 tsp baking powder",
+        "25g caster sugar",
+        "1 large egg",
+        "250ml whole milk",
+        "25g melted butter",
+        "Pinch of salt",
+        "Butter or neutral oil for cooking"
+    ],
+
+    "method": [
+        "Mix together the flour, baking powder, sugar and salt.",
+        "Whisk together the egg, milk and melted butter.",
+        "Pour the wet ingredients into the dry ingredients.",
+        "Whisk until just smooth. Don't overmix.",
+        "Leave the batter to rest for 10–15 minutes.",
+        "Heat a lightly buttered frying pan or griddle over a medium heat.",
+        "Drop approximately 2 tablespoons of batter per pancake.",
+        "Cook until bubbles appear across the surface and the edges begin to set.",
+        "Flip once and cook for another 1–2 minutes until golden.",
+        "Serve warm."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Butter",
+            "Jam"
+        ],
+        "optional-sides": [
+            "Golden Syrup",
+            "Honey",
+            "Fresh Berries",
+            "Banana",
+            "Greek Yoghurt"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 10,
+        "cook-time-minutes": 15,
+        "freezer-label": "freezes well",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Scotch pancakes are thicker than crêpes but smaller than American pancakes, making them ideal for stacking or freezing.",
+        "what-you-will-learn": "How resting a batter and cooking over a moderate heat produces light, evenly risen pancakes.",
+        "skills": [
+            "Making batters",
+            "Judging pan temperature",
+            "Recognising when to flip"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A quick homemade treat using everyday cupboard ingredients that's ideal for breakfasts, lunchboxes or snacks.",
+        "chapman-tips": [
+            "Resting the batter gives the baking powder time to start working and allows the flour to fully hydrate.",
+            "Cook over a medium heat—too hot and they'll burn before the middle cooks.",
+            "Wait until bubbles cover most of the surface before flipping.",
+            "The first pancake is usually the test one—adjust the heat if needed."
+        ],
+        "batch-cooking": "Cool completely before freezing between sheets of baking paper. Reheat in the toaster or microwave.",
+        "leftovers": "Excellent toasted the next day with butter and jam."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Creamy Porridge",
+            "Muesli",
+            "Flapjacks"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

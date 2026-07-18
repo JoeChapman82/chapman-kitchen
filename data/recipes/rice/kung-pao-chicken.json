@@ -1,0 +1,118 @@
+{
+    "id": "019f5cbf-7be8-747a-9d06-3fb09d0b2d95",
+    "version": 1,
+
+    "title": "Kung Pao Chicken",
+
+    "overview": {
+        "description": "A classic Sichuan stir-fry combining tender chicken, roasted peanuts, dried chillies and a perfectly balanced sweet, sour and savoury sauce. Bold, aromatic and surprisingly quick to cook.",
+        "country": "China",
+        "region": "Sichuan",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "600g chicken thighs, diced",
+        "2 tbsp vegetable oil",
+        "8 dried red chillies, halved",
+        "1 tsp Sichuan peppercorns",
+        "3 cloves garlic, minced",
+        "2 tsp fresh ginger, grated",
+        "4 spring onions, sliced into 3cm pieces",
+        "75g roasted unsalted peanuts",
+        "2 tbsp light soy sauce",
+        "1 tbsp dark soy sauce",
+        "1 tbsp Chinese black vinegar",
+        "1 tbsp Shaoxing wine",
+        "2 tsp sugar",
+        "150ml chicken stock",
+        "2 tsp cornflour",
+        "2 tbsp water"
+    ],
+
+    "method": [
+        "Mix the cornflour with the water to make a smooth slurry.",
+        "Combine the light soy sauce, dark soy sauce, black vinegar, Shaoxing wine, sugar and chicken stock in a small bowl.",
+        "Heat a wok over a high heat until smoking hot.",
+        "Add the vegetable oil followed immediately by the dried chillies and Sichuan peppercorns. Stir-fry for about 20 seconds until fragrant, taking care not to burn them.",
+        "Add the chicken and stir-fry for 5–6 minutes until lightly browned.",
+        "Add the garlic, ginger and spring onions and cook for another 30 seconds.",
+        "Pour in the prepared sauce and bring to a simmer.",
+        "Stir in the cornflour slurry until the sauce becomes glossy and lightly coats the chicken.",
+        "Fold through the roasted peanuts just before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Steamed Rice"
+        ],
+        "optional-sides": [
+            "Stir-fried Pak Choi",
+            "Cucumber Salad"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 15,
+        "freezer-label": "good",
+        "cost": "mid-range",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Kung Pao Chicken is named after Ding Baozhen, a 19th-century governor of Sichuan Province. 'Gong Bao' was one of his official titles.",
+        "what-you-will-learn": "How Sichuan peppercorns create their famous tingling sensation, how to toast aromatics without burning them and how to balance sweet, sour and savoury flavours.",
+        "skills": [
+            "High-heat stir-frying",
+            "Cooking with Sichuan peppercorns",
+            "Balancing sauces",
+            "Building layers of flavour"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A true Sichuan classic that introduces completely different flavours from the Cantonese dishes already in the planner. It also makes excellent use of pantry ingredients once you've stocked them.",
+        "chapman-tips": [
+            "Don't skip the Sichuan peppercorns—they're what makes the dish unique.",
+            "Roasted unsalted peanuts give the best flavour.",
+            "Have every ingredient prepared before heating the wok."
+        ],
+        "batch-cooking": "Can be frozen, although the peanuts lose some crunch. For the best texture, add freshly roasted peanuts when reheating.",
+        "leftovers": "Reheat quickly over a high heat and serve with freshly cooked rice."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Black Bean Chicken",
+            "Chicken Chow Mein",
+            "Teriyaki Chicken"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

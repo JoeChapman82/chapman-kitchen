@@ -1,0 +1,153 @@
+{
+    "id": "019f6a0a-6997-760a-9e41-4a4306e99ea9",
+    "version": 1,
+
+    "title": "Butter Chicken (Murgh Makhani)",
+
+    "overview": {
+        "description": "Tender marinated chicken cooked in a rich tomato, butter and lightly spiced sauce. Based on the classic Punjabi dish from Delhi.",
+        "country": "India",
+        "region": "Punjab / Delhi",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "800g boneless skinless chicken thighs, cut into large pieces",
+        "",
+        "=== Marinade ===",
+        "150g natural yoghurt",
+        "2 cloves garlic, minced",
+        "1 tbsp grated ginger",
+        "1 tsp Kashmiri chilli powder",
+        "1 tsp ground cumin",
+        "1 tsp ground coriander",
+        "½ tsp turmeric",
+        "1 tsp garam masala",
+        "1 tsp salt",
+        "1 tbsp lemon juice",
+        "",
+        "=== Sauce ===",
+        "2 tbsp ghee",
+        "1 onion, finely diced",
+        "3 cloves garlic, minced",
+        "1 tbsp grated ginger",
+        "2 tsp Kashmiri chilli powder",
+        "1 tsp ground coriander",
+        "1 tsp ground cumin",
+        "2 tbsp tomato purée",
+        "2 × 400g tins chopped tomatoes",
+        "40g butter",
+        "100ml double cream",
+        "1 tsp sugar (optional)",
+        "1 tbsp crushed kasuri methi (dried fenugreek leaves)",
+        "Salt",
+        "Fresh coriander, chopped"
+    ],
+
+    "method": [
+        "=== Marinate ===",
+        "Combine all the marinade ingredients.",
+        "Add the chicken and coat thoroughly.",
+        "Cover and refrigerate for at least 4 hours, preferably overnight.",
+        "",
+        "=== Cook the Chicken ===",
+        "Grill, barbecue or cook the chicken in a very hot frying pan until lightly charred but not fully cooked through.",
+        "Set aside.",
+        "",
+        "=== Sauce ===",
+        "Heat the ghee over a medium heat.",
+        "Cook the onion for 10 minutes until softened.",
+        "Add the garlic and ginger and cook for 1 minute.",
+        "Add the Kashmiri chilli, cumin and coriander.",
+        "Cook for 30 seconds.",
+        "Stir in the tomato purée and cook for 2 minutes.",
+        "Add the chopped tomatoes.",
+        "Simmer for 20 minutes until thickened.",
+        "Blend until smooth.",
+        "Return to the pan.",
+        "Stir in the butter, cream and kasuri methi.",
+        "Add the chicken and any resting juices.",
+        "Simmer gently for 10–15 minutes until the chicken is fully cooked.",
+        "Taste and adjust the seasoning.",
+        "Finish with fresh coriander."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Homemade Naan",
+            "Basmati Rice"
+        ],
+        "optional-sides": [
+            "Raita",
+            "Pickled Onions",
+            "Mango Chutney"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 270,
+        "cook-time-minutes": 60,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "mid-range",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Butter Chicken was created in Delhi in the 1950s as a way to use leftover tandoori chicken by simmering it in a rich tomato and butter sauce.",
+        "what-you-will-learn": "How to marinate chicken with yoghurt, build a classic Punjabi curry base and balance tomatoes, butter and cream without overpowering the spices.",
+        "skills": [
+            "Marinating meat",
+            "Blooming spices",
+            "Reducing tomato sauce",
+            "Blending sauces",
+            "Balancing flavours"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "One of the family's favourite curries and an excellent introduction to authentic North Indian cooking.",
+        "chapman-tips": [
+            "Chicken thighs remain much juicier than breast after marinating.",
+            "Kasuri methi is one of the defining flavours of authentic Butter Chicken and is worth keeping in the pantry.",
+            "Don't skip charring the chicken—it adds the characteristic tandoori flavour.",
+            "Blend the sauce for the smooth texture found in traditional Murgh Makhani."
+        ],
+        "batch-cooking": "Freeze the finished curry in family-sized portions.",
+        "leftovers": "Often tastes even better the following day as the spices continue to develop."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chicken Tikka",
+            "Chicken Jalfrezi",
+            "Chicken Saag",
+            "Chicken Chettinad"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

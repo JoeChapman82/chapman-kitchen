@@ -1,0 +1,112 @@
+{
+    "id": "019f5f13-4b4d-760d-8b91-43c11cd54190",
+    "version": 1,
+
+    "title": "Leek & Potato Soup",
+
+    "overview": {
+        "description": "A classic British soup made with gently softened leeks and floury potatoes, blended until smooth. Simple, comforting and perfect with fresh bread or a toasted sandwich.",
+        "country": "United Kingdom",
+        "region": "",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "2 tbsp butter",
+        "2 large leeks, washed and sliced",
+        "1 onion, diced",
+        "2 cloves garlic, minced",
+        "600g floury potatoes, peeled and diced",
+        "1 litre chicken or vegetable stock",
+        "150ml double cream (optional)",
+        "Salt",
+        "Freshly ground black pepper",
+        "Fresh chives, chopped (optional)"
+    ],
+
+    "method": [
+        "Melt the butter in a large saucepan over a low to medium heat.",
+        "Add the leeks and onion and cook gently for about 10–15 minutes until completely softened but not browned.",
+        "Add the garlic and cook for 1 minute.",
+        "Add the potatoes and pour in the stock.",
+        "Bring to the boil, then reduce to a gentle simmer for 20 minutes until the potatoes are very tender.",
+        "Blend until completely smooth using a stick blender or countertop blender.",
+        "If using, stir in the double cream and heat through gently without boiling.",
+        "Season to taste with salt and freshly ground black pepper.",
+        "Serve topped with chopped chives if desired."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Ham & Cheddar Toastie"
+        ],
+        "optional-sides": [
+            "Crusty Bread",
+            "Butter"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 35,
+        "freezer-label": "freezes well",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Leeks have been grown in Britain for centuries and are one of the country's most traditional soup vegetables.",
+        "what-you-will-learn": "How gently sweating vegetables develops sweetness without caramelisation, why floury potatoes create a naturally creamy texture, and when to add cream without splitting it.",
+        "skills": [
+            "Sweating vegetables",
+            "Blending soups",
+            "Seasoning",
+            "Making smooth soups"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A dependable family favourite that's inexpensive, easy to make after work and freezes exceptionally well. It's an ideal introduction to homemade soups.",
+        "chapman-tips": [
+            "Wash the sliced leeks thoroughly as they often hide grit between the layers.",
+            "Maris Piper or King Edward potatoes produce the smoothest texture.",
+            "For a lighter soup, simply leave out the cream."
+        ],
+        "batch-cooking": "Double the recipe and freeze in family-sized portions for up to three months.",
+        "leftovers": "Reheat gently, adding a splash of stock if the soup has thickened during storage."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Pea & Ham Soup",
+            "Carrot & Lentil Soup",
+            "Minestrone"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "id": "019f739c-8cd7-752e-9791-5c9adae6d7f3",
+    "version": 1,
+
+    "title": "Okonomiyaki",
+
+    "overview": {
+        "description": "A savoury Japanese cabbage pancake with bacon, spring onions and a light batter, topped with classic okonomiyaki garnishes.",
+        "country": "Japan",
+        "region": "Osaka",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "200g plain flour",
+        "1 tsp baking powder",
+        "150ml homemade chicken or dashi stock",
+        "2 large eggs",
+        "300g white cabbage, finely shredded",
+        "4 spring onions, finely sliced",
+        "150g streaky bacon, finely chopped",
+        "1 tbsp vegetable oil",
+        "",
+        "Okonomiyaki sauce",
+        "Japanese mayonnaise",
+        "Aonori (optional)",
+        "Bonito flakes (optional)"
+    ],
+
+    "method": [
+        "Whisk together the flour and baking powder.",
+        "Gradually whisk in the stock until smooth.",
+        "Beat in the eggs.",
+        "Fold in the cabbage, spring onions and bacon.",
+        "Heat a lightly oiled frying pan over a medium heat.",
+        "Pour in half the mixture and shape into a round approximately 2cm thick.",
+        "Cook for 5–6 minutes until golden underneath.",
+        "Carefully flip using two spatulas.",
+        "Cook for another 5–6 minutes until cooked through.",
+        "Repeat with the remaining batter.",
+        "Brush generously with okonomiyaki sauce.",
+        "Drizzle over the mayonnaise.",
+        "Sprinkle with aonori and bonito flakes if using.",
+        "Serve immediately."
+    ],
+
+    "serving": {
+        "serve-with": [],
+        "optional-sides": [
+            "Pickled ginger",
+            "Steamed edamame"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 15,
+        "freezer-label": "best made fresh",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Okonomiyaki translates roughly as 'grilled how you like it', reflecting its adaptable nature.",
+        "what-you-will-learn": "How to make a light savoury batter, cook a thick pancake evenly and balance classic Japanese toppings.",
+        "skills": [
+            "Making batters",
+            "Pan frying",
+            "Flipping large pancakes",
+            "Balancing toppings"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A quick weeknight meal that turns inexpensive cabbage into something completely different and encourages using pantry staples.",
+        "chapman-tips": [
+            "Don't overmix the batter once the cabbage is added.",
+            "Finely shred the cabbage so it softens as the pancake cooks.",
+            "Cook over a medium heat—too hot and the outside burns before the centre is cooked.",
+            "Two spatulas make flipping much easier."
+        ],
+        "batch-cooking": "Not recommended. Best eaten immediately.",
+        "leftovers": "Reheat in a dry frying pan to restore a little crispness."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Dosa",
+            "Shakshuka",
+            "Frittata"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

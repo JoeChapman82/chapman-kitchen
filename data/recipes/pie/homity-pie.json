@@ -1,0 +1,123 @@
+{
+    "id": "019f6724-ad70-713b-aa19-c081fd73925b",
+    "version": 1,
+
+    "title": "Homity Pie",
+
+    "overview": {
+        "description": "A traditional British vegetarian pie filled with potatoes, onions, mature Cheddar and fresh parsley in a crisp shortcrust pastry case.",
+        "country": "United Kingdom",
+        "region": "England",
+        "serves": 6
+    },
+
+    "ingredients": [
+        "1 quantity shortcrust pastry",
+        "750g potatoes, peeled and diced",
+        "2 tbsp butter",
+        "2 onions, finely diced",
+        "200g mature Cheddar, grated",
+        "3 tbsp chopped fresh parsley",
+        "1 tsp English mustard (optional)",
+        "100ml milk",
+        "Salt",
+        "Freshly ground black pepper"
+    ],
+
+    "method": [
+        "=== Pastry ===",
+        "Line a 23cm pie dish with the shortcrust pastry.",
+        "Chill for 20 minutes.",
+        "Blind bake at 180°C fan (200°C conventional) for 15 minutes.",
+        "",
+        "=== Filling ===",
+        "Boil the potatoes in salted water for 10–12 minutes until just tender.",
+        "Drain well.",
+        "Meanwhile, melt the butter in a frying pan over a medium heat.",
+        "Cook the onions for 10–12 minutes until soft and lightly golden.",
+        "Combine the potatoes, onions, Cheddar, parsley, milk and mustard, if using.",
+        "Season generously with salt and black pepper.",
+        "",
+        "=== Bake ===",
+        "Spoon the filling into the pastry case.",
+        "Bake at 180°C fan (200°C conventional) for 30–35 minutes until golden and bubbling.",
+        "Allow to stand for 10 minutes before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Seasonal Salad"
+        ],
+        "optional-sides": [
+            "Pickled Beetroot",
+            "Chutney",
+            "Steamed Green Vegetables"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 30,
+        "cook-time-minutes": 50,
+        "freezer-label": "freezes well",
+        "cost": "budget",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Homity Pie became popular in Britain during the Second World War as a filling vegetarian meal that relied on simple home-grown ingredients.",
+        "what-you-will-learn": "How to blind bake pastry, balance a simple savoury filling and bake a pie with a crisp base.",
+        "skills": [
+            "Blind baking",
+            "Cooking potatoes",
+            "Softening onions",
+            "Pie assembly"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A classic British comfort food that turns simple pantry ingredients into a satisfying vegetarian meal.",
+        "chapman-tips": [
+            "Allow the onions to soften slowly for the best flavour.",
+            "Use a strong mature Cheddar, as it's the main flavour of the pie.",
+            "Don't overcook the potatoes before baking—they'll continue cooking in the oven.",
+            "Blind baking helps prevent a soggy pastry base."
+        ],
+        "batch-cooking": "Freeze either before or after baking.",
+        "leftovers": "Excellent cold for lunch or reheated in the oven."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Bubble and Squeak",
+            "Spanakopita",
+            "Shepherd's Pie",
+            "Cottage Pie"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

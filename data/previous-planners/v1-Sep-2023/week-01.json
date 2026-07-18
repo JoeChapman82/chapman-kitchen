@@ -1,0 +1,224 @@
+{
+    "week": 1,
+    "nursery-week": true,
+    "days": {
+        "monday": {
+            "breakfast": {
+                "meal": ["Porridge with blackberry and banana"],
+                "recipes": []
+            },
+            "morning-snack": {
+                "meal": ["Sausage roll"],
+                "recipes": []
+            },
+            "lunch": {
+                "meal": ["Mac and cheese"],
+                "recipes": []
+            },
+            "afternoon-snack": {
+                "meal": ["Fruit"],
+                "recipes": []
+            },
+            "dinner": {
+                "meal": ["Chicken in plum sauce"],
+                "recipes": [
+                    {
+                        "id": "019f5bc1-c91a-73d2-aec2-eb6aef7f6b8a",
+                        "name": "Example recipe"
+                    },
+                                        {
+                        "id": "019f6163-c3ae-712c-8917-6f251f2efa1c",
+                        "name": "Bibimbap"
+                    },
+                                        {
+                        "id": "019f5bc1-c91a-73d2-aec2-eb6aef7f6b8a",
+                        "name": "Example recipe"
+                    }
+                ]
+            }
+        },
+        "tuesday": {
+            "breakfast": {
+                "meal": ["Weetabix"],
+                "recipes": []
+            },
+            "morning-snack": {},
+            "lunch": {},
+            "afternoon-snack": {},
+            "dinner": {
+                "meal": ["Egg fried rice"],
+                "recipes": [
+                    {
+                        "id": "019f5bc1-c91a-73d2-aec2-eb6aef7f6b8a",
+                        "name": "Example recipe"
+                    },
+                                        {
+                        "id": "019f6163-c3ae-712c-8917-6f251f2efa1c",
+                        "name": "Bibimbap"
+                    },
+                                        {
+                        "id": "019f5bc1-c91a-73d2-aec2-eb6aef7f6b8a",
+                        "name": "Example recipe"
+                    }
+                ]
+            }
+        },
+        "wednesday": {
+            "breakfast": {
+                "meal": ["French toast"],
+                "recipes": []
+            },
+            "morning-snack": {},
+            "lunch": {},
+            "afternoon-snack": {},
+            "dinner": {
+                "meal": ["Chicken korma", "Aloo paratha"],
+                "recipes": [
+                    {
+                        "id": "019f5bc1-c91a-73d2-aec2-eb6aef7f6b8a",
+                        "name": "Example recipe"
+                    },
+                                        {
+                        "id": "019f6163-c3ae-712c-8917-6f251f2efa1c",
+                        "name": "Bibimbap"
+                    },
+                                        {
+                        "id": "019f5bc1-c91a-73d2-aec2-eb6aef7f6b8a",
+                        "name": "Example recipe"
+                    }
+                ]
+            }
+        },
+        "thursday": {
+            "breakfast": {
+                "meal": ["Muesli with banana"],
+                "recipes": []
+            },
+            "morning-snack": {},
+            "lunch": {},
+            "afternoon-snack": {},
+            "dinner": {
+                "meal": ["Gujrati dal", "Cheese sandwich"],
+                "recipes": [
+                    {
+                        "id": "019f5bc1-c91a-73d2-aec2-eb6aef7f6b8a",
+                        "name": "Example recipe"
+                    },
+                                        {
+                        "id": "019f6163-c3ae-712c-8917-6f251f2efa1c",
+                        "name": "Bibimbap"
+                    },
+                                        {
+                        "id": "019f5bc1-c91a-73d2-aec2-eb6aef7f6b8a",
+                        "name": "Example recipe"
+                    }
+                ]
+            }
+        },
+        "friday": {
+            "breakfast": {
+                "meal": ["Avacado on toast"],
+                "recipes": []
+            },
+            "morning-snack": {
+                "meal": ["Mackerel"],
+                "recipes": []
+            },
+            "lunch": {
+                "meal": ["Pad kee mao"],
+                "recipes": []
+            },
+            "afternoon-snack": {
+                "meal": ["Fruit"],
+                "recipes": []
+            },
+            "dinner": {
+                "meal": ["Salmon en croute"],
+                "recipes": [
+                    {
+                        "id": "019f5bc1-c91a-73d2-aec2-eb6aef7f6b8a",
+                        "name": "Example recipe"
+                    },
+                                        {
+                        "id": "019f61f0-9c3b-7ef4-89ce-a6568ca3e6e7",
+                        "name": "Bibimbap"
+                    },
+                                        {
+                        "id": "019f5bc1-c91a-73d2-aec2-eb6aef7f6b8a",
+                        "name": "Example recipe"
+                    }
+                ]
+            }
+        },
+        "saturday": {
+            "breakfast": {
+                "meal": ["Pancakes"],
+                "recipes": []
+            },
+            "morning-snack": {
+                "meal": ["Yogurt"],
+                "recipes": []
+            },
+            "lunch": {
+                "meal": ["Frittata"],
+                "recipes": []
+            },
+            "afternoon-snack": {
+                "meal": ["Fruit"],
+                "recipes": []
+            },
+            "dinner": {
+                "meal": ["Burgers", "Sponge pudding"],
+                "recipes": [
+                    {
+                        "id": "019f5bc1-c91a-73d2-aec2-eb6aef7f6b8a",
+                        "name": "Example recipe"
+                    },
+                                        {
+                        "id": "019f61f0-9c3b-7ef4-89ce-a6568ca3e6e7",
+                        "name": "Bibimbap"
+                    },
+                                        {
+                        "id": "019f5bc1-c91a-73d2-aec2-eb6aef7f6b8a",
+                        "name": "Example recipe"
+                    }
+                ]
+            }
+        },
+        "sunday": {
+            "breakfast": {
+                "meal": ["Cous cous"],
+                "recipes": []
+            },
+            "morning-snack": {
+                "meal": ["Gyoza"],
+                "recipes": []
+            },
+            "lunch": {
+                "meal": ["Pesto rosso"],
+                "recipes": []
+            },
+            "afternoon-snack": {
+                "meal": ["Fruit"],
+                "recipes": []
+            },
+            "dinner": {
+                "meal": ["Lamb Sunday lunch"],
+                "recipes": [
+                    {
+                        "id": "019f5bc1-c91a-73d2-aec2-eb6aef7f6b8a",
+                        "name": "Example recipe"
+                    },
+                                        {
+                        "id": "019f61f0-9c3b-7ef4-89ce-a6568ca3e6e7",
+                        "name": "Bibimbap"
+                    },
+                                        {
+                        "id": "019f5bc1-c91a-73d2-aec2-eb6aef7f6b8a",
+                        "name": "Example recipe"
+                    }
+                ]
+            }
+        }
+    }
+}

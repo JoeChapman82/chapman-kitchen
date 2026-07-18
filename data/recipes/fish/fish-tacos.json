@@ -1,0 +1,124 @@
+{
+    "id": "019f73a3-31f7-714c-8295-c9bbee775740",
+    "version": 1,
+
+    "title": "Fish Tacos",
+
+    "overview": {
+        "description": "Soft tortillas filled with spiced white fish, crunchy cabbage and a fresh lime yoghurt sauce.",
+        "country": "Mexico",
+        "region": "Baja California (inspired)",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "600g cod, haddock or pollock fillets",
+        "2 tbsp vegetable oil",
+        "2 tsp ground cumin",
+        "2 tsp smoked paprika",
+        "1 tsp ground coriander",
+        "½ tsp garlic powder",
+        "½ tsp onion powder",
+        "½ tsp salt",
+        "¼ tsp black pepper",
+        "",
+        "8 flour tortillas",
+        "200g white cabbage, finely shredded",
+        "1 small red onion, finely sliced",
+        "",
+        "150g Greek yoghurt",
+        "Juice of 1 lime",
+        "1 tbsp chopped coriander",
+        "1 small garlic clove, grated"
+    ],
+
+    "method": [
+        "Mix the cumin, paprika, coriander, garlic powder, onion powder, salt and pepper.",
+        "Pat the fish dry and coat with the oil and spice mixture.",
+        "Mix together the yoghurt, lime juice, coriander and garlic to make the sauce.",
+        "Heat a large frying pan over a medium-high heat.",
+        "Cook the fish for 3–4 minutes per side until just cooked and it flakes easily.",
+        "Rest for 2 minutes before breaking into large flakes.",
+        "Warm the tortillas.",
+        "Fill each tortilla with cabbage, fish and red onion.",
+        "Drizzle over the lime yoghurt sauce.",
+        "Serve immediately."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Lime Wedges"
+        ],
+        "optional-sides": [
+            "Guacamole",
+            "Salsa",
+            "Mexican Rice",
+            "Pickled Jalapeños"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 10,
+        "freezer-label": "freeze cooked fish only",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Modern fish tacos are strongly associated with Baja California, where freshly caught fish is often grilled or fried and served in warm tortillas.",
+        "what-you-will-learn": "How to cook delicate white fish without drying it out and how fresh toppings balance warm spices.",
+        "skills": [
+            "Cooking white fish",
+            "Balancing textures",
+            "Making quick sauces",
+            "Preparing tacos"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A quick, healthy meal that makes excellent use of frozen white fish and homemade tortillas.",
+        "chapman-tips": [
+            "Pollock is an excellent budget-friendly choice and works just as well as cod.",
+            "Don't overcook the fish—it should just flake apart.",
+            "Drying the fish before seasoning helps it brown better.",
+            "The cool yoghurt sauce balances the warm spices beautifully."
+        ],
+        "batch-cooking": "The sauce is best made fresh. Cooked fish can be frozen, although the texture is at its best when freshly cooked.",
+        "leftovers": "Excellent flaked into a salad or rice bowl the following day."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chicken Fajitas",
+            "Homemade Flour Tortillas",
+            "Chicken Enchiladas"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

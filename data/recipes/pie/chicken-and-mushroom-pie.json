@@ -1,0 +1,132 @@
+{
+    "id": "019f65c8-6dfb-7294-8e21-a389cb3aea88",
+    "version": 1,
+
+    "title": "Chicken & Mushroom Pie",
+
+    "overview": {
+        "description": "Tender chicken and mushrooms in a creamy herb sauce, baked beneath a golden pastry lid. Classic British comfort food that's perfect for batch cooking.",
+        "country": "United Kingdom",
+        "region": "",
+        "serves": 8
+    },
+
+    "ingredients": [
+        "2 tbsp butter",
+        "2 onions, diced",
+        "500g chestnut mushrooms, sliced",
+        "4 cloves garlic, minced",
+        "1kg chicken thighs, diced",
+        "2 tbsp plain flour",
+        "750ml chicken stock",
+        "150ml double cream",
+        "2 tsp Dijon mustard",
+        "2 tsp fresh thyme leaves",
+        "2 tbsp chopped fresh parsley",
+        "Salt",
+        "Freshly ground black pepper",
+        "1 quantity shortcrust pastry",
+        "1 egg, beaten"
+    ],
+
+    "method": [
+        "=== Filling ===",
+        "Heat the butter in a large saucepan over a medium heat.",
+        "Cook the onions for 8–10 minutes until softened.",
+        "Add the mushrooms and cook until their liquid has evaporated and they begin to brown.",
+        "Stir in the garlic and cook for 1 minute.",
+        "Add the chicken and cook until lightly coloured.",
+        "Sprinkle over the flour and stir well for 2 minutes.",
+        "Gradually add the chicken stock, stirring continuously until smooth.",
+        "Add the cream, Dijon mustard and thyme.",
+        "Simmer gently for 15–20 minutes until the sauce has thickened and the chicken is cooked.",
+        "Season with salt and pepper.",
+        "Stir through the chopped parsley and allow the filling to cool slightly.",
+        "=== Assemble & Bake ===",
+        "Transfer the filling to a large pie dish.",
+        "Top with the prepared pastry and trim the edges.",
+        "Cut a small steam hole in the centre.",
+        "Brush with beaten egg.",
+        "Bake at 180°C fan (200°C conventional) for 30–35 minutes until the pastry is deep golden and crisp.",
+        "Allow to stand for 10 minutes before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Mashed Potato",
+            "Seasonal Vegetables"
+        ],
+        "optional-sides": [
+            "Garden Peas",
+            "Buttered Greens",
+            "Gravy"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 35,
+        "cook-time-minutes": 55,
+        "freezer-label": "freezes well",
+        "cost": "mid-range",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Chicken and mushroom pie has been a staple of British home cooking for generations, combining simple ingredients into one of the country's favourite comfort foods.",
+        "what-you-will-learn": "How to make a creamy pie filling, thicken a sauce with flour and bake a crisp pastry lid.",
+        "skills": [
+            "Making a roux",
+            "Building a cream sauce",
+            "Pie assembly",
+            "Egg washing",
+            "Baking"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A classic freezer-friendly comfort meal that's ideal for Saturday batch cooking and makes excellent leftovers.",
+        "chapman-tips": [
+            "Chicken thighs stay much juicier than breast meat in pies.",
+            "Cool the filling slightly before adding the pastry to help keep it crisp.",
+            "Chestnut mushrooms provide a deeper flavour than white mushrooms.",
+            "Leftover roast chicken can be used instead—simply stir it into the finished sauce and reduce the simmering time."
+        ],
+        "batch-cooking": "Freeze either the finished baked pie or an assembled unbaked pie for up to three months.",
+        "leftovers": "Reheat in the oven to keep the pastry crisp."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Steak Pie",
+            "Lancashire Hotpot",
+            "Chicken Fricassée",
+            "Cottage Pie"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

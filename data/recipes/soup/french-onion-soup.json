@@ -1,0 +1,118 @@
+{
+    "id": "019f6faf-a83f-7704-a4f8-98f3216faf29",
+    "version": 1,
+
+    "title": "French Onion Soup",
+
+    "overview": {
+        "description": "A rich French soup of deeply caramelised onions in beef stock, topped with toasted bread and melted cheese.",
+        "country": "France",
+        "region": "Île-de-France",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "1kg brown onions, thinly sliced",
+        "50g butter",
+        "1 tbsp plain flour",
+        "150ml dry white wine",
+        "1.2 litres homemade beef stock",
+        "1 bay leaf",
+        "2 sprigs fresh thyme",
+        "Salt, to taste",
+        "Freshly ground black pepper",
+        "4 slices baguette",
+        "150g Gruyère, grated"
+    ],
+
+    "method": [
+        "Melt the butter in a large heavy-based saucepan over a medium-low heat.",
+        "Add the onions with a pinch of salt.",
+        "Cook gently for 40–50 minutes, stirring regularly, until deeply golden and caramelised.",
+        "Sprinkle over the flour and cook for 1 minute.",
+        "Pour in the white wine and scrape the bottom of the pan to deglaze.",
+        "Cook until the wine has reduced by about half.",
+        "Add the beef stock, bay leaf and thyme.",
+        "Bring to a gentle simmer and cook for 25 minutes.",
+        "Remove the bay leaf and thyme stems.",
+        "Season to taste with salt and black pepper.",
+        "Ladle into ovenproof bowls.",
+        "Top each bowl with a slice of toasted baguette.",
+        "Cover generously with the grated Gruyère.",
+        "Grill until the cheese is bubbling and golden."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Green Salad"
+        ],
+        "optional-sides": [
+            "Extra crusty bread"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 80,
+        "freezer-label": "freeze before adding bread and cheese",
+        "cost": "moderate",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "French onion soup dates back centuries, but the gratinéed version with bread and cheese became especially popular in Paris during the 19th century.",
+        "what-you-will-learn": "How to properly caramelise onions, deglaze a pan and finish a soup under the grill.",
+        "skills": [
+            "Caramelising onions",
+            "Deglazing",
+            "Building stock-based soups",
+            "Gratinating"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A classic soup that showcases the flavour of homemade beef stock and demonstrates how patience transforms simple ingredients.",
+        "chapman-tips": [
+            "Don't rush the onions—deep caramelisation is where almost all of the flavour comes from.",
+            "Homemade beef stock makes a noticeable difference.",
+            "Gruyère is traditional, but a good mature Cheddar also works well.",
+            "Freeze the soup before adding the bread and cheese, then finish under the grill after reheating."
+        ],
+        "batch-cooking": "Freeze the soup base in portions for up to 6 months.",
+        "leftovers": "Reheat gently and add fresh bread and cheese before serving."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Harira",
+            "Mulligatawny Soup",
+            "Minestrone"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

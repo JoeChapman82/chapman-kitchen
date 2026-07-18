@@ -1,0 +1,122 @@
+{
+  "id": "019f5cb3-567f-71de-abf8-07bc0046cd6d",
+  "version": 1,
+
+  "title": "Moroccan Chicken Tagine",
+
+  "overview": {
+    "description": "A fragrant Moroccan chicken stew gently simmered with warming spices, vegetables and dried apricots. Rich without being hot, it's a comforting family meal that showcases the balance of sweet and savoury flavours found throughout Moroccan cooking.",
+    "country": "Morocco",
+    "region": "",
+    "serves": 4
+  },
+
+  "ingredients": [
+    "8 chicken thighs (bone-in or boneless)",
+    "2 tbsp olive oil",
+    "2 onions, sliced",
+    "3 cloves garlic, minced",
+    "2 carrots, sliced",
+    "1 red pepper, sliced",
+    "2 tbsp tomato purée",
+    "400g tin chopped tomatoes",
+    "400ml chicken stock",
+    "150g dried apricots, halved",
+    "400g tin chickpeas, drained",
+    "1 tsp ground cumin",
+    "1 tsp ground coriander",
+    "1 tsp paprika",
+    "1 tsp ground cinnamon",
+    "½ tsp ground ginger",
+    "¼ tsp turmeric",
+    "Salt and freshly ground black pepper",
+    "Fresh coriander, chopped",
+    "50g toasted flaked almonds (optional)"
+  ],
+
+  "method": [
+    "Heat the olive oil in a large casserole dish over a medium-high heat. Brown the chicken on both sides, then remove and set aside.",
+    "Reduce the heat to medium and cook the onions and carrots until softened, about 8–10 minutes.",
+    "Add the garlic and all of the spices. Cook for 1 minute until fragrant.",
+    "Stir in the tomato purée and cook for another minute.",
+    "Add the chopped tomatoes, chicken stock, red pepper, chickpeas and dried apricots, stirring well.",
+    "Return the chicken to the pan, ensuring it is mostly covered by the sauce.",
+    "Cover and simmer gently for 45 minutes, or until the chicken is tender and cooked through.",
+    "Remove the lid for the final 10 minutes if you'd like the sauce to reduce slightly.",
+    "Season to taste and scatter with chopped coriander and toasted almonds before serving."
+  ],
+
+  "serving": {
+    "serve-with": [
+      "Batbout"
+    ],
+    "optional-sides": [
+      "Steamed couscous",
+      "Natural yoghurt"
+    ]
+  },
+
+  "planner": {
+    "prep-time-minutes": 20,
+    "cook-time-minutes": 60,
+    "freezer-label": "freezes well",
+    "cost": "mid-range",
+    "after-work": false
+  },
+
+  "learning": {
+    "did-you-know": "Traditional Moroccan tagines are named after the distinctive clay pot they're cooked in. The conical lid returns moisture to the food, allowing long, gentle cooking.",
+    "what-you-will-learn": "How warming spices work together without creating heat, how dried fruit balances savoury dishes, and how slow simmering develops rich flavour.",
+    "skills": [
+      "Browning meat",
+      "Blooming spices",
+      "Slow cooking",
+      "Balancing sweet and savoury flavours"
+    ]
+  },
+
+  "nutrition": {
+    "portion-size": "",
+    "calories": "",
+    "protein": "",
+    "carbohydrates": "",
+    "fat": "",
+    "saturates": "",
+    "fibre": "",
+    "sugar": "",
+    "salt": ""
+  },
+
+  "notes": {
+    "why-its-in-the-chapman-kitchen": "One of the anchor meals for Chicken Around the World. It's family-friendly, freezes beautifully and introduces Moroccan flavours without requiring specialist ingredients.",
+    "chapman-tips": [
+      "Chicken thighs stay much juicier than breast during long cooking.",
+      "Taste before serving—a squeeze of lemon can brighten the finished dish.",
+      "Good quality paprika makes a noticeable difference."
+    ],
+    "batch-cooking": "Excellent for batch cooking. Freeze in family-sized portions for up to three months.",
+    "leftovers": "Reheats beautifully and is arguably even better the following day as the spices continue to develop."
+  },
+
+  "relationships": {
+    "similar-recipes": [
+      "Chicken Yassa",
+      "Chicken Cacciatore",
+      "West African Chicken Peanut Stew"
+    ]
+  },
+
+  "history": [
+    {
+      "date": "",
+      "note": ""
+    }
+  ],
+
+  "metadata": {
+    "created": "",
+    "updated": "",
+    "created-by": "Joe Chapman",
+    "updated-by": "Joe Chapman"
+  }
+}

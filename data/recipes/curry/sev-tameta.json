@@ -1,0 +1,123 @@
+{
+    "id": "019f6e86-96e9-70ff-a369-188f8fb516b9",
+    "version": 1,
+
+    "title": "Sev Tameta Nu Shaak",
+
+    "overview": {
+        "description": "A classic Gujarati tomato curry finished with crispy sev. Sweet, tangy and gently spiced, it's a quick meal that comes together in under 30 minutes.",
+        "country": "India",
+        "region": "Gujarat",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "2 tbsp vegetable oil",
+        "1 tsp mustard seeds",
+        "1 tsp cumin seeds",
+        "8 curry leaves",
+        "Pinch of asafoetida (hing)",
+        "2 green chillies, finely chopped",
+        "20g fresh ginger, grated",
+        "600g ripe tomatoes, chopped",
+        "½ tsp turmeric",
+        "1 tsp ground coriander",
+        "1 tsp ground cumin",
+        "1 tsp Kashmiri chilli powder",
+        "1 tsp jaggery",
+        "1 tsp amchur",
+        "Salt, to taste",
+        "150g thick nylon sev",
+        "2 tbsp fresh coriander, chopped"
+    ],
+
+    "method": [
+        "Heat the oil over a medium heat.",
+        "Add the mustard seeds and allow them to pop.",
+        "Add the cumin seeds, curry leaves and asafoetida and cook for 30 seconds.",
+        "Stir in the ginger and green chillies and cook for 1 minute.",
+        "Add the tomatoes and cook for 10–12 minutes until they break down into a thick sauce.",
+        "Stir in the turmeric, ground coriander, ground cumin and Kashmiri chilli powder.",
+        "Cook for 1 minute.",
+        "Add the jaggery, amchur and salt.",
+        "Simmer gently for 5 minutes.",
+        "Taste and adjust the balance of sweetness, acidity and seasoning.",
+        "Stir through half the sev just before serving.",
+        "Scatter the remaining sev and fresh coriander over the top immediately before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Chapati",
+            "Phulka"
+        ],
+        "optional-sides": [
+            "Plain yoghurt",
+            "Gujarati Dal"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 10,
+        "cook-time-minutes": 20,
+        "freezer-label": "freeze without the sev",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Sev Tameta is one of Gujarat's most recognisable home-style dishes and is traditionally made when fresh vegetables are limited.",
+        "what-you-will-learn": "How to balance sweet, sour and savoury flavours, and how to preserve texture by adding sev at the last moment.",
+        "skills": [
+            "Preparing a tadka",
+            "Balancing flavours",
+            "Cooking tomato-based curries"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A fast pantry meal with surprisingly complex flavours that uses ingredients already found in the Chapman Kitchen.",
+        "chapman-tips": [
+            "Use ripe tomatoes for the best flavour.",
+            "Taste before serving—the sweetness and acidity should be in balance.",
+            "Only add the sev immediately before serving or it will lose its texture.",
+            "Roasted cumin powder makes an excellent finishing garnish alongside the coriander."
+        ],
+        "batch-cooking": "Freeze the tomato curry only. Add fresh sev after reheating.",
+        "leftovers": "The curry reheats well, but always add fresh sev just before serving."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Gujarati Dal",
+            "Pav Bhaji",
+            "Chole (Punjabi Chickpea Curry)"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "id": "<uuid>",
+    "version": 1,
+
+    "title": "<recipe title>",
+
+    "overview": {
+        "description": "",
+        "country": "",
+        "region": "",
+        "serves": 4
+    },
+
+    "ingredients": [
+        ""
+    ],
+
+    "method": [
+        ""
+    ],
+
+    "serving": {
+        "serve-with": [],
+        "optional-sides": []
+    },
+
+    "planner": {
+        "prep-time-minutes": 0,
+        "cook-time-minutes": 0,
+        "freezer-label": "",
+        "cost": "",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "",
+        "what-you-will-learn": "",
+        "skills": []
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "",
+        "chapman-tips": [],
+        "batch-cooking": "",
+        "leftovers": ""
+    },
+
+    "relationships": {
+        "similar-recipes": []
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

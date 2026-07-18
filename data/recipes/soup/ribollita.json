@@ -1,0 +1,113 @@
+{
+  "id": "019f5b02-651e-7597-942c-8ba989a8b04f",
+  "version": 1,
+
+  "title": "Ribollita",
+
+  "overview": {
+    "description": "A hearty Tuscan bread and vegetable soup thickened with day-old bread and cannellini beans. Traditionally made with leftover vegetables and bread, it's a comforting, economical meal that's even better the following day.",
+    "country": "Italy",
+    "region": "Tuscany",
+    "serves": 4
+  },
+
+  "ingredients": [
+    "2 tbsp olive oil",
+    "1 onion, finely diced",
+    "2 carrots, finely diced",
+    "2 celery sticks, finely diced",
+    "3 cloves garlic, minced",
+    "2 tbsp tomato purée",
+    "1 tsp dried thyme",
+    "1 tsp dried rosemary",
+    "2 × 400g tins cannellini beans, drained",
+    "400g tin chopped tomatoes",
+    "1 litre chicken or vegetable stock",
+    "200g kale, roughly chopped",
+    "200g day-old rustic bread, torn into pieces",
+    "50g Parmesan, finely grated (optional)",
+    "Salt and freshly ground black pepper",
+    "Extra virgin olive oil, to serve"
+  ],
+
+  "method": [
+    "Heat the olive oil in a large saucepan over a medium heat. Cook the onion, carrot and celery for about 10 minutes until softened.",
+    "Add the garlic, tomato purée, thyme and rosemary. Cook for 1–2 minutes until fragrant.",
+    "Stir in the cannellini beans, chopped tomatoes and stock, then simmer gently for 20 minutes.",
+    "Add the kale and cook for another 5 minutes until tender.",
+    "Lightly mash some of the beans against the side of the pan to naturally thicken the soup.",
+    "Stir in the torn bread and cook for a further 5 minutes until it breaks down and thickens the soup.",
+    "Season with salt and black pepper to taste.",
+    "Serve with grated Parmesan (if using) and a generous drizzle of extra virgin olive oil."
+  ],
+
+  "serving": {
+    "serve-with": [
+      "Rustic Country Loaf"
+    ],
+    "optional-sides": []
+  },
+
+  "planner": {
+    "prep-time-minutes": 15,
+    "cook-time-minutes": 40,
+    "freezer-label": "good",
+    "cost": "budget",
+    "after-work": true
+  },
+
+  "learning": {
+    "did-you-know": "Ribollita means 'reboiled'. Tuscan families traditionally reheated the soup over several days, and many believe it tastes even better after resting overnight.",
+    "what-you-will-learn": "How stale bread can be used to naturally thicken soup, how to build a traditional Italian soffritto, and how humble ingredients create rich flavour.",
+    "skills": [
+      "Making soffritto",
+      "Using stale bread",
+      "Natural thickening",
+      "Batch cooking"
+    ]
+  },
+
+  "nutrition": {
+    "portion-size": "",
+    "calories": "",
+    "protein": "",
+    "carbohydrates": "",
+    "fat": "",
+    "saturates": "",
+    "fibre": "",
+    "sugar": "",
+    "salt": ""
+  },
+
+  "notes": {
+    "why-its-in-the-chapman-kitchen": "A perfect Pantry Monday meal that celebrates reducing food waste while producing a filling, nutritious family dinner.",
+    "chapman-tips": [
+      "Day-old bread works much better than fresh bread.",
+      "Don't blend the soup—the rustic texture is part of its character.",
+      "A good quality olive oil added at the table makes a big difference."
+    ],
+    "batch-cooking": "Freezes well, although the bread softens further. Alternatively, freeze before adding the bread and stir fresh bread in when reheating.",
+    "leftovers": "Often tastes even better the following day. Add a splash of stock when reheating if it has become too thick."
+  },
+
+  "relationships": {
+    "similar-recipes": [
+      "Pasta e Ceci",
+      "Minestrone"
+    ]
+  },
+
+  "history": [
+    {
+      "date": "",
+      "note": ""
+    }
+  ],
+
+  "metadata": {
+    "created": "",
+    "updated": "",
+    "created-by": "Joe Chapman",
+    "updated-by": "Joe Chapman"
+  }
+}

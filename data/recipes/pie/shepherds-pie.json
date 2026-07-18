@@ -1,0 +1,123 @@
+{
+    "id": "019f6423-b0ba-7691-ac34-28459b30f6b4",
+    "version": 1,
+
+    "title": "Shepherd's Pie",
+
+    "overview": {
+        "description": "A traditional British pie made with slow-cooked lamb in a rich gravy, topped with creamy mashed potato and baked until golden. Proper comfort food that's ideal for batch cooking.",
+        "country": "United Kingdom",
+        "region": "England",
+        "serves": 8
+    },
+
+    "ingredients": [
+        "2 tbsp vegetable oil",
+        "1kg lamb mince",
+        "2 onions, finely diced",
+        "2 carrots, finely diced",
+        "2 celery sticks, finely diced",
+        "3 cloves garlic, minced",
+        "2 tbsp tomato purée",
+        "2 tbsp plain flour",
+        "500ml lamb or beef stock",
+        "1 tbsp Worcestershire sauce",
+        "2 tsp fresh thyme leaves (or 1 tsp dried)",
+        "1 bay leaf",
+        "1kg floury potatoes",
+        "75g butter",
+        "100ml whole milk",
+        "Salt",
+        "Freshly ground black pepper"
+    ],
+
+    "method": [
+        "Peel the potatoes, cut into chunks and cook in salted boiling water until tender.",
+        "Meanwhile, heat the oil in a large saucepan and brown the lamb mince thoroughly.",
+        "Add the onions, carrots and celery and cook for 10 minutes until softened.",
+        "Stir in the garlic and cook for 1 minute.",
+        "Add the tomato purée and cook for 2 minutes.",
+        "Sprinkle over the flour and stir well.",
+        "Gradually add the stock, followed by the Worcestershire sauce, thyme and bay leaf.",
+        "Simmer gently for 35–45 minutes until the filling has thickened.",
+        "Drain the potatoes and mash with the butter and milk until smooth. Season to taste.",
+        "Remove the bay leaf from the filling and transfer it to a large ovenproof dish.",
+        "Spread the mashed potato evenly over the filling, roughing the surface with a fork.",
+        "Bake at 200°C (180°C fan) for 30 minutes until the topping is golden and the filling is bubbling.",
+        "Leave to rest for 10 minutes before serving."
+    ],
+
+    "serving": {
+        "serve-with": [],
+        "optional-sides": [
+            "Garden Peas",
+            "Green Beans",
+            "Braised Cabbage"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 30,
+        "cook-time-minutes": 75,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "mid-range",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "A Shepherd's Pie is traditionally made with lamb. When beef is used, the dish is properly called Cottage Pie.",
+        "what-you-will-learn": "How to build a rich meat filling, make smooth mashed potato and create a crisp, golden topping.",
+        "skills": [
+            "Making mashed potato",
+            "Building a gravy",
+            "Baking",
+            "Batch cooking"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A classic family favourite that freezes beautifully and fits perfectly into Saturday batch cooking.",
+        "chapman-tips": [
+            "Allow the filling to reduce properly before topping with the mash.",
+            "Drag a fork across the potato to create ridges that brown beautifully in the oven.",
+            "A little grated Parmesan on top isn't traditional, but makes an excellent golden crust if you have some to use."
+        ],
+        "batch-cooking": "Bake two pies while the oven is on and freeze one whole or in individual portions for up to three months.",
+        "leftovers": "Reheat thoroughly in the oven or microwave until piping hot."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Cottage Pie",
+            "Moussaka",
+            "Lasagne",
+            "Lancashire Hotpot"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

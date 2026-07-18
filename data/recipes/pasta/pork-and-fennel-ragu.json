@@ -1,0 +1,124 @@
+{
+    "id": "019f768f-22c8-73cb-b314-9cc8f63e7a72",
+    "version": 1,
+
+    "title": "Pork & Fennel Ragù",
+
+    "overview": {
+        "description": "A slow-simmered Italian pork ragù with fennel, white wine and a touch of tomato, finished with milk for a rich, silky sauce.",
+        "country": "Italy",
+        "region": "Tuscany",
+        "serves": 6
+    },
+
+    "ingredients": [
+        "750g pork mince (15–20% fat)",
+        "1 fennel bulb, finely diced",
+        "1 onion, finely diced",
+        "1 carrot, finely diced",
+        "1 celery stick, finely diced",
+        "3 cloves garlic, minced",
+        "2 tbsp olive oil",
+        "1 tbsp fennel seeds, lightly crushed",
+        "150ml dry white wine",
+        "2 tbsp tomato purée",
+        "400g chopped tomatoes",
+        "300ml homemade chicken stock",
+        "100ml whole milk",
+        "2 bay leaves",
+        "Salt and black pepper"
+    ],
+
+    "method": [
+        "Heat the olive oil in a large saucepan over a medium heat.",
+        "Cook the onion, carrot, celery and fennel for 10 minutes until softened.",
+        "Add the garlic and crushed fennel seeds and cook for 1 minute.",
+        "Increase the heat and add the pork mince.",
+        "Cook until well browned, breaking it into small pieces.",
+        "Stir in the tomato purée and cook for 2 minutes.",
+        "Pour in the white wine and reduce by half.",
+        "Add the chopped tomatos, chicken stock and bay leaves.",
+        "Bring to a gentle simmer.",
+        "Cook uncovered for 1½–2 hours, stirring occasionally.",
+        "Stir in the milk during the final 10 minutes.",
+        "Taste and season with salt and black pepper.",
+        "Remove the bay leaves before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Pappardelle",
+            "Tagliatelle"
+        ],
+        "optional-sides": [
+            "Parmesan",
+            "Green Salad"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 120,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "budget",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Many Italian ragùs use surprisingly little tomato. The meat, wine and slow cooking provide most of the flavour.",
+        "what-you-will-learn": "How to build flavour by browning meat properly and gently reducing a slow-cooked ragù.",
+        "skills": [
+            "Soffritto",
+            "Deglazing",
+            "Slow simmering",
+            "Balancing sauces"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A freezer-friendly pasta sauce that's inexpensive, comforting and a nice alternative to beef ragù.",
+        "chapman-tips": [
+            "Take time to brown the pork well—it adds a huge amount of flavour.",
+            "Lightly crushing the fennel seeds releases their aroma.",
+            "The milk rounds out the sauce and softens the acidity.",
+            "This tastes even better the following day.",
+            "Finish cooking the pasta in the ragù with a splash of pasta water for 1–2 minutes. The starch helps the sauce cling to every strand instead of sitting underneath it."
+        ],
+        "batch-cooking": "Double the recipe and freeze in family-sized portions.",
+        "leftovers": "Excellent in lasagne, on baked potatoes or stirred through gnocchi."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Lasagne",
+            "Vegetable Lasagne",
+            "Carbonara"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

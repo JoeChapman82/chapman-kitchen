@@ -1,0 +1,112 @@
+{
+    "id": "019f5cc1-438d-7513-9b7b-a4f3505be338",
+    "version": 1,
+
+    "title": "Teriyaki Chicken",
+
+    "overview": {
+        "description": "Juicy chicken glazed in a homemade teriyaki sauce made from soy sauce, mirin, sake and sugar. Sweet, savoury and beautifully glossy, it's a Japanese classic that's surprisingly simple to make.",
+        "country": "Japan",
+        "region": "",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "600g chicken thighs, boneless and skinless",
+        "2 tbsp vegetable oil",
+        "4 tbsp light soy sauce",
+        "4 tbsp mirin",
+        "2 tbsp sake",
+        "2 tbsp sugar",
+        "2 tsp fresh ginger, grated",
+        "2 cloves garlic, minced",
+        "2 spring onions, finely sliced",
+        "1 tsp sesame seeds (optional)"
+    ],
+
+    "method": [
+        "In a small bowl, combine the soy sauce, mirin, sake, sugar, ginger and garlic. Stir until the sugar has mostly dissolved.",
+        "Heat the vegetable oil in a large frying pan over a medium-high heat.",
+        "Add the chicken and cook for about 5–6 minutes on each side until golden and nearly cooked through.",
+        "Reduce the heat to medium and pour in the teriyaki sauce.",
+        "Cook for 4–5 minutes, turning the chicken regularly, until the sauce has reduced to a thick, glossy glaze that coats the chicken.",
+        "Remove from the heat and allow the chicken to rest for a couple of minutes.",
+        "Slice the chicken if serving whole, then spoon over any remaining glaze.",
+        "Scatter with the spring onions and sesame seeds before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Steamed Rice"
+        ],
+        "optional-sides": [
+            "Steamed Broccoli",
+            "Edamame",
+            "Quick Pickled Cucumber"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 10,
+        "cook-time-minutes": 20,
+        "freezer-label": "good",
+        "cost": "mid-range",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "The word 'teriyaki' comes from the Japanese words 'teri' (glaze or shine) and 'yaki' (to grill or cook). The glossy finish is the defining feature of the dish.",
+        "what-you-will-learn": "How to make a traditional teriyaki glaze from scratch, how reduction thickens a sauce naturally, and how Japanese cooking often relies on a handful of high-quality ingredients.",
+        "skills": [
+            "Pan-frying chicken",
+            "Reducing sauces",
+            "Making a teriyaki glaze",
+            "Balancing sweet and savoury flavours"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A brilliant weeknight meal that introduces classic Japanese flavours while using just a handful of ingredients. Making the sauce from scratch is quick and produces a far better result than bottled alternatives.",
+        "chapman-tips": [
+            "Don't let the sauce boil too fiercely once it begins to reduce or it may become too salty.",
+            "Chicken thighs stay much juicier than breast.",
+            "Use good-quality mirin if possible—it makes a noticeable difference to the finished glaze."
+        ],
+        "batch-cooking": "Freeze cooked chicken and sauce together for up to three months.",
+        "leftovers": "Excellent served cold in a lunchbox with rice or reheated gently in a frying pan."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Black Bean Chicken",
+            "Chicken Chow Mein",
+            "Kung Pao Chicken"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "id": "019f671b-192e-76f8-8168-cf59307bb0c3",
+    "version": 1,
+
+    "title": "Red Red",
+
+    "overview": {
+        "description": "A traditional Ghanaian black-eyed bean stew cooked with tomatoes, onions and red palm oil. Rich, comforting and packed with flavour despite its simple ingredients.",
+        "country": "Ghana",
+        "region": "West Africa",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "2 tbsp red palm oil (or vegetable oil)",
+        "2 onions, finely sliced",
+        "3 cloves garlic, minced",
+        "1 tsp grated ginger",
+        "1 red chilli, finely chopped (optional)",
+        "2 tbsp tomato purée",
+        "2 × 400g tins chopped tomatoes",
+        "2 × 400g tins black-eyed beans, drained",
+        "250ml vegetable stock",
+        "1 tsp smoked paprika",
+        "Salt",
+        "Freshly ground black pepper",
+        "Fresh parsley or coriander, chopped"
+    ],
+
+    "method": [
+        "Heat the palm oil over a medium heat.",
+        "Cook the onions for 10–12 minutes until soft and beginning to caramelise.",
+        "Add the garlic, ginger and chilli and cook for 1 minute.",
+        "Stir in the tomato purée and cook for 2 minutes.",
+        "Add the chopped tomatoes and smoked paprika.",
+        "Simmer for 10 minutes.",
+        "Add the black-eyed beans and vegetable stock.",
+        "Simmer gently for 20 minutes until thickened.",
+        "Lightly mash some of the beans to thicken the sauce while leaving plenty whole.",
+        "Season to taste.",
+        "Scatter with chopped herbs before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Flatbread"
+        ],
+        "optional-sides": [
+            "Fried Plantain",
+            "Steamed Rice",
+            "Avocado"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 10,
+        "cook-time-minutes": 45,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "The name 'Red Red' comes from the red colour of both the palm oil and the tomato sauce used in the dish.",
+        "what-you-will-learn": "How caramelising onions builds sweetness, how palm oil contributes flavour, and how partially mashing beans naturally thickens a stew.",
+        "skills": [
+            "Caramelising onions",
+            "Building a tomato base",
+            "Cooking beans",
+            "Balancing richness"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "One of the most economical meals in the cookbook while introducing authentic West African flavours using mostly pantry ingredients.",
+        "chapman-tips": [
+            "Red palm oil gives the dish its distinctive flavour and colour.",
+            "Mash only a few beans to naturally thicken the stew.",
+            "Don't rush the onions—they provide much of the sweetness.",
+            "Fried plantain is the traditional accompaniment if you can find ripe plantains."
+        ],
+        "batch-cooking": "Excellent for freezing in meal-sized portions.",
+        "leftovers": "Often tastes even better the following day."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "West African Chicken Peanut Stew",
+            "Koshari",
+            "Mujadara",
+            "Rajma"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

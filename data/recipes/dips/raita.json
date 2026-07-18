@@ -1,0 +1,112 @@
+{
+    "id": "019f6e83-d4f3-75ab-80e4-f0f6ad12a009",
+    "version": 1,
+
+    "title": "Cucumber Raita",
+
+    "overview": {
+        "description": "A cool, refreshing yoghurt accompaniment with cucumber, cumin and fresh herbs. Perfect alongside spicy Indian dishes.",
+        "country": "India",
+        "region": "North India",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "400g Greek yoghurt",
+        "½ cucumber, grated",
+        "½ tsp salt",
+        "½ tsp roasted cumin powder",
+        "1 tbsp fresh coriander, finely chopped",
+        "1 tbsp fresh mint, finely chopped",
+        "¼ tsp Kashmiri chilli powder (optional)"
+    ],
+
+    "method": [
+        "Grate the cucumber.",
+        "Sprinkle with the salt and leave for 10 minutes.",
+        "Squeeze out as much liquid as possible.",
+        "Place the yoghurt in a bowl.",
+        "Stir in the cucumber, roasted cumin, coriander and mint.",
+        "Mix until well combined.",
+        "Taste and adjust the seasoning if needed.",
+        "Sprinkle with Kashmiri chilli powder before serving, if using.",
+        "Chill until required."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Vegetable Biryani",
+            "Aloo Paratha",
+            "Butter Chicken",
+            "Chicken Chettinad",
+            "Chicken Jalfrezi",
+            "Chicken Saag",
+            "Pav Bhaji"
+        ],
+        "optional-sides": []
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 0,
+        "freezer-label": "do not freeze",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Raita is designed to cool the palate and balance richly spiced dishes rather than simply adding another flavour.",
+        "what-you-will-learn": "How to prepare cucumber correctly and season yoghurt so it complements rather than overpowers a meal.",
+        "skills": [
+            "Preparing cucumber",
+            "Balancing seasoning",
+            "Making cold accompaniments"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A simple, cooling accompaniment that pairs with almost every Indian meal in the collection.",
+        "chapman-tips": [
+            "Always squeeze the cucumber well to stop the raita becoming watery.",
+            "Roast and grind your own cumin seeds for the best flavour.",
+            "Greek yoghurt gives a thicker, creamier raita.",
+            "Serve well chilled."
+        ],
+        "batch-cooking": "Not suitable for freezing.",
+        "leftovers": "Best eaten within 24 hours."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Vegetable Biryani",
+            "Aloo Paratha",
+            "Chole (Punjabi Chickpea Curry)"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

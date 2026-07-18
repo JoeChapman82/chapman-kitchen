@@ -1,0 +1,119 @@
+{
+    "id": "019f5cb7-a65f-7436-af19-d892d2ed5db0",
+    "version": 1,
+
+    "title": "West African Chicken Peanut Stew",
+
+    "overview": {
+        "description": "A rich and comforting chicken stew made with tomatoes, peanut butter, sweet potatoes and warming spices. Creamy without using dairy, it's one of West Africa's best-loved family meals.",
+        "country": "Ghana",
+        "region": "West Africa",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "8 chicken thighs (bone-in or boneless)",
+        "2 tbsp vegetable oil",
+        "1 large onion, diced",
+        "3 cloves garlic, minced",
+        "1 tbsp fresh ginger, grated",
+        "1 tsp ground cumin",
+        "1 tsp ground coriander",
+        "½ tsp chilli flakes",
+        "2 tbsp tomato purée",
+        "400g tin chopped tomatoes",
+        "750ml chicken stock",
+        "2 medium sweet potatoes, peeled and diced",
+        "150g smooth peanut butter",
+        "400g tin chickpeas, drained",
+        "Salt",
+        "Freshly ground black pepper",
+        "Fresh coriander, chopped"
+    ],
+
+    "method": [
+        "Heat the oil in a large casserole dish over a medium-high heat. Brown the chicken on both sides, then remove and set aside.",
+        "Reduce the heat to medium and cook the onion for about 8 minutes until softened.",
+        "Add the garlic, ginger, cumin, coriander and chilli flakes. Cook for 1 minute until fragrant.",
+        "Stir in the tomato purée and cook for another minute.",
+        "Add the chopped tomatoes, stock and sweet potatoes, then bring to a gentle simmer.",
+        "Return the chicken to the pan, cover and cook for 30 minutes.",
+        "Whisk the peanut butter with a ladle of the hot cooking liquid until smooth, then stir it back into the stew.",
+        "Add the chickpeas and simmer uncovered for a further 15 minutes until the sauce is rich and the sweet potatoes are tender.",
+        "Season to taste and scatter with fresh coriander before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Flatbread"
+        ],
+        "optional-sides": [
+            "Steamed rice"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 60,
+        "freezer-label": "freezes well",
+        "cost": "mid-range",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Groundnuts (peanuts) were introduced to West Africa centuries ago and are now a staple ingredient in many regional stews and soups.",
+        "what-you-will-learn": "How peanut butter can create a silky, deeply savoury sauce, why it should be mixed with hot stock before adding, and how sweet potato balances the richness naturally.",
+        "skills": [
+            "Building layered flavours",
+            "Cooking with peanut butter",
+            "Balancing sweet and savoury",
+            "Slow simmering"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A fantastic introduction to another corner of African cooking. It's hearty, nutritious, freezes exceptionally well and uses ingredients that are easy to find in UK supermarkets.",
+        "chapman-tips": [
+            "Use 100% peanut butter if possible for the cleanest flavour.",
+            "Whisking the peanut butter with hot stock prevents lumps.",
+            "Add a squeeze of lime before serving for extra freshness if you have one."
+        ],
+        "batch-cooking": "Ideal for batch cooking. Freeze in family portions for up to three months.",
+        "leftovers": "The sauce becomes even richer overnight and reheats beautifully."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chicken Yassa",
+            "Doro Wat",
+            "Moroccan Chicken Tagine",
+            "Butter Chicken"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "id": "019f670b-e842-743d-b8c5-75b91a3f483e",
+    "version": 1,
+
+    "title": "Batbout",
+
+    "overview": {
+        "description": "A soft Moroccan stovetop flatbread with a pocket similar to pita. Perfect for tagines, soups and sandwiches.",
+        "country": "Morocco",
+        "region": "North Africa",
+        "serves": 8
+    },
+
+    "ingredients": [
+        "500g strong white bread flour",
+        "100g fine semolina",
+        "10g salt",
+        "7g instant yeast",
+        "350ml warm water",
+        "1 tbsp olive oil"
+    ],
+
+    "method": [
+        "=== Mix ===",
+        "Combine the flour, semolina, salt and yeast in a large bowl.",
+        "Add the warm water and olive oil.",
+        "Mix until a shaggy dough forms.",
+        "",
+        "=== Knead ===",
+        "Knead for 8–10 minutes until smooth and elastic.",
+        "",
+        "=== First Rise ===",
+        "Place the dough in a lightly oiled bowl.",
+        "Cover and leave to rise for around 1 hour, or until doubled in size.",
+        "",
+        "=== Shape ===",
+        "Divide the dough into 8 equal pieces.",
+        "Shape into balls.",
+        "Flatten each ball into a disc approximately 1cm thick.",
+        "Cover with a tea towel and leave to rest for 20 minutes.",
+        "",
+        "=== Cook ===",
+        "Heat a dry frying pan or cast iron skillet over a medium heat.",
+        "Cook each batbout for 3–4 minutes on each side.",
+        "Turn several times during cooking until evenly browned and puffed.",
+        "",
+        "=== Cool ===",
+        "Transfer to a wire rack and allow to cool slightly before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Moroccan Chicken Tagine",
+            "Harira",
+            "Khlii & Eggs"
+        ],
+        "optional-sides": [
+            "Olive Oil",
+            "Butter",
+            "Honey"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 100,
+        "cook-time-minutes": 30,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "budget",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Batbout is unusual because it is cooked on a hot pan rather than baked in an oven, giving it a soft texture and characteristic pocket.",
+        "what-you-will-learn": "How to make an enriched flatbread, develop gluten through kneading and cook bread successfully on the hob.",
+        "skills": [
+            "Mixing dough",
+            "Kneading",
+            "Proving",
+            "Shaping",
+            "Pan cooking bread"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "One of the most versatile breads in the cookbook. It works equally well with Moroccan meals, soups and sandwiches, while requiring no oven.",
+        "chapman-tips": [
+            "Don't let the frying pan become too hot or the outside will brown before the inside cooks.",
+            "Turning the bread several times helps create an even pocket.",
+            "Keep the cooked batbout covered with a clean tea towel to retain their softness.",
+            "They freeze exceptionally well and reheat in just a few minutes."
+        ],
+        "batch-cooking": "Freeze once completely cooled.",
+        "leftovers": "Split and toast for sandwiches or warm gently in a dry frying pan."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Pita",
+            "Naan",
+            "Chapati",
+            "Focaccia"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

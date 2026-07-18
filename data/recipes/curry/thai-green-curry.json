@@ -1,0 +1,116 @@
+{
+    "id": "019f6b74-9357-71e8-bf80-87780e5e5246",
+    "version": 1,
+
+    "title": "Thai Green Curry",
+
+    "overview": {
+        "description": "A fragrant Thai curry with homemade green curry paste, tender chicken, coconut milk and fresh herbs. Bright, aromatic and gently spicy.",
+        "country": "Thailand",
+        "region": "Central Thailand",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "700g boneless skinless chicken thighs, sliced",
+        "2 tbsp Thai Green Curry Paste",
+        "400ml coconut milk",
+        "150ml chicken stock",
+        "1 tbsp vegetable oil",
+        "1 courgette, sliced",
+        "150g bamboo shoots, drained",
+        "4 makrut lime leaves",
+        "1 tbsp fish sauce",
+        "1 tsp palm sugar",
+        "Handful Thai basil leaves"
+    ],
+
+    "method": [
+        "Heat the oil over a medium heat.",
+        "Add the Thai Green Curry Paste.",
+        "Cook for 2–3 minutes until fragrant.",
+        "Pour in half the coconut milk and simmer until the oil begins to separate.",
+        "Add the chicken and coat well in the curry paste.",
+        "Pour in the remaining coconut milk and chicken stock.",
+        "Add the courgette, bamboo shoots and makrut lime leaves.",
+        "Simmer gently for 12–15 minutes until the chicken is cooked through and the courgette is just tender.",
+        "Stir in the fish sauce and palm sugar.",
+        "Remove the makrut lime leaves if preferred.",
+        "Fold through the Thai basil immediately before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Steamed Jasmine Rice"
+        ],
+        "optional-sides": [
+            "Cucumber Salad",
+            "Spring Rolls"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 20,
+        "freezer-label": "freezes well",
+        "cost": "mid-range",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Green curry is generally hotter than red curry because it uses fresh green chillies rather than dried red ones.",
+        "what-you-will-learn": "How to cook with homemade curry paste, coconut milk and fresh Thai herbs to create a balanced Southeast Asian curry.",
+        "skills": [
+            "Cooking curry paste",
+            "Balancing flavours",
+            "Cooking with coconut milk",
+            "Using Thai basil"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A quick homemade curry that showcases the flavour of the frozen homemade green curry paste.",
+        "chapman-tips": [
+            "One frozen portion of Thai Green Curry Paste is all you need for a family meal.",
+            "Thai basil should be stirred in at the very end to preserve its aroma.",
+            "Don't overcook the courgette—it should still have a little bite.",
+            "Makrut lime leaves perfume the curry but aren't usually eaten."
+        ],
+        "batch-cooking": "Freeze once cooled. Fresh Thai basil is best added after reheating if available.",
+        "leftovers": "Reheat gently over a low heat to preserve the coconut milk."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Thai Green Curry Paste",
+            "Thai Red Curry",
+            "Chicken Satay"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

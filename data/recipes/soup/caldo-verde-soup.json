@@ -1,0 +1,115 @@
+{
+    "id": "019f6fb8-1e65-714b-817b-430e14a38262",
+    "version": 1,
+
+    "title": "Caldo Verde",
+
+    "overview": {
+        "description": "A traditional Portuguese soup of potatoes, onions, kale and chorizo in a rich chicken stock.",
+        "country": "Portugal",
+        "region": "Northern Portugal",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "1 tbsp olive oil",
+        "150g cooking chorizo, sliced",
+        "1 large onion, diced",
+        "2 cloves garlic, minced",
+        "700g floury potatoes, peeled and diced",
+        "1 litre homemade chicken stock",
+        "150g curly kale, finely shredded",
+        "Salt, to taste",
+        "Freshly ground black pepper"
+    ],
+
+    "method": [
+        "Heat the olive oil over a medium heat.",
+        "Cook the chorizo until lightly browned and it has released some of its oil.",
+        "Remove half of the chorizo and reserve for serving.",
+        "Cook the onion in the remaining oil and chorizo fat for 8 minutes until softened.",
+        "Add the garlic and cook for 1 minute.",
+        "Add the potatoes and chicken stock.",
+        "Bring to the boil, then simmer for 20 minutes until the potatoes are tender.",
+        "Blend until smooth.",
+        "Return to a gentle simmer.",
+        "Stir in the shredded kale and cook for 5 minutes until just tender.",
+        "Season with salt and black pepper.",
+        "Serve topped with the reserved chorizo."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Crusty Bread"
+        ],
+        "optional-sides": [
+            "Olives"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 35,
+        "freezer-label": "freeze before adding the reserved chorizo garnish",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Caldo Verde is considered Portugal's national soup and is traditionally served at festivals and family celebrations.",
+        "what-you-will-learn": "How to create a silky potato soup and use cured sausage to add depth of flavour with only a small amount.",
+        "skills": [
+            "Building soup bases",
+            "Blending soups",
+            "Rendering sausage",
+            "Preparing kale"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A comforting soup that uses everyday ingredients already found in the Chapman Kitchen while introducing a Portuguese classic.",
+        "chapman-tips": [
+            "Slice the kale as finely as possible so it softens quickly and keeps its delicate texture.",
+            "Use floury potatoes for the smoothest soup.",
+            "Your homemade chicken stock provides plenty of flavour without needing additional seasoning.",
+            "Add the kale towards the end so it stays bright green.",
+            "If you have homemade ham stock, use it in place of the chicken stock for an even more traditional flavour."
+        ],
+        "batch-cooking": "Freeze in family-sized portions for up to 6 months. Add freshly crisped chorizo after reheating if desired.",
+        "leftovers": "Reheat gently without boiling to preserve the kale's colour."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "French Onion Soup",
+            "Harira",
+            "Thai Butternut Squash Soup"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

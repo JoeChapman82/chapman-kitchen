@@ -1,0 +1,123 @@
+{
+    "id": "019f6b88-0d68-748e-8ea1-863f2732691f",
+    "version": 1,
+
+    "title": "Chole (Punjabi Chickpea Curry)",
+
+    "overview": {
+        "description": "A hearty North Indian chickpea curry with tomatoes, onions and warming spices. Rich, comforting and ideal with rice or freshly made naan.",
+        "country": "India",
+        "region": "Punjab",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "300g dried chickpeas, soaked overnight",
+        "2 tbsp vegetable oil or ghee",
+        "1 tsp cumin seeds",
+        "2 onions, finely diced",
+        "4 cloves garlic, minced",
+        "20g fresh ginger, grated",
+        "2 green chillies, finely chopped",
+        "400g chopped tomatoes",
+        "2 tsp ground coriander",
+        "1 tsp ground cumin",
+        "1 tsp Kashmiri chilli powder",
+        "½ tsp ground turmeric",
+        "1 tsp garam masala",
+        "1 tsp amchur (or juice of ½ lemon)",
+        "Salt, to taste",
+        "Fresh coriander, chopped"
+    ],
+
+    "method": [
+        "Drain the soaked chickpeas and place in a saucepan with fresh water.",
+        "Bring to the boil, then simmer for 60–90 minutes until tender. Drain, reserving a little cooking liquid.",
+        "Heat the oil or ghee over a medium heat.",
+        "Add the cumin seeds and cook for 30 seconds until fragrant.",
+        "Cook the onions for 10–12 minutes until deeply golden.",
+        "Add the garlic, ginger and green chillies and cook for 1 minute.",
+        "Stir in the coriander, cumin, Kashmiri chilli powder and turmeric. Cook for 30 seconds.",
+        "Add the tomatoes and cook for 10 minutes until thickened.",
+        "Stir in the cooked chickpeas and a splash of the reserved cooking liquid.",
+        "Simmer gently for 15 minutes, lightly crushing a few chickpeas against the side of the pan to naturally thicken the sauce.",
+        "Stir in the garam masala and amchur (or lemon juice).",
+        "Season to taste and garnish with fresh coriander."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Basmati Rice",
+            "Quick No-Yeast Naan"
+        ],
+        "optional-sides": [
+            "Raita",
+            "Pickled Onions"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 720,
+        "cook-time-minutes": 120,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "budget",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Chole is one of the signature dishes of Punjab and is traditionally served with bhature, a deep-fried leavened bread.",
+        "what-you-will-learn": "How to build a deeply flavoured curry by browning onions well and allowing the tomatoes to cook down before adding the chickpeas.",
+        "skills": [
+            "Cooking dried chickpeas",
+            "Blooming spices",
+            "Building a curry base",
+            "Naturally thickening sauces"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "An inexpensive pantry meal that's packed with flavour and freezes beautifully, making it ideal for batch cooking.",
+        "chapman-tips": [
+            "Cook the onions until they're properly golden—this is where much of the flavour comes from.",
+            "Crushing a few chickpeas naturally thickens the curry without adding flour or cornflour.",
+            "Amchur gives the authentic tang, but lemon juice is an excellent substitute.",
+            "This curry tastes even better the next day."
+        ],
+        "batch-cooking": "Freeze in family-sized portions for up to 6 months.",
+        "leftovers": "Serve with rice, naan or use as a filling for wraps."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Rajma",
+            "Dal Makhani",
+            "Dal Chawal"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

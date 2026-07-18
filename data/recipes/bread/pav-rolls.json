@@ -1,0 +1,111 @@
+{
+    "id": "019f6e81-295a-731c-ae1f-4cbba447b937",
+    "version": 1,
+
+    "title": "Pav Rolls",
+
+    "overview": {
+        "description": "Soft, buttery Indian bread rolls traditionally served with Pav Bhaji. Light, fluffy and baked together so they pull apart easily.",
+        "country": "India",
+        "region": "Maharashtra",
+        "serves": 8
+    },
+
+    "ingredients": [
+        "500g strong white bread flour",
+        "7g instant yeast",
+        "30g sugar",
+        "8g salt",
+        "25g softened butter",
+        "250ml warm milk",
+        "50ml warm water",
+        "Butter, melted, for brushing"
+    ],
+
+    "method": [
+        "Place the flour, yeast, sugar, salt, butter, milk and water into the bread maker in the order recommended by the manufacturer.",
+        "Run the dough programme.",
+        "Turn the dough onto a lightly floured surface.",
+        "Divide into 8 equal pieces.",
+        "Shape each piece into a smooth ball by stretching the surface underneath.",
+        "Arrange the balls in a greased square or rectangular baking tin so they are just touching.",
+        "Cover and prove for 45–60 minutes until doubled in size.",
+        "Bake at 190°C (170°C fan) for 20–25 minutes until golden brown.",
+        "Brush generously with melted butter while still hot.",
+        "Allow to cool slightly before pulling apart."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Pav Bhaji"
+        ],
+        "optional-sides": [
+            "Butter"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 100,
+        "cook-time-minutes": 25,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "budget",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "The name 'pav' comes from the Portuguese word for bread and reflects the Portuguese influence on western India.",
+        "what-you-will-learn": "How to shape soft bread rolls and bake them together to produce their characteristic pull-apart texture.",
+        "skills": [
+            "Using a bread maker",
+            "Shaping rolls",
+            "Final proving",
+            "Bread baking"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "Fresh pav transforms homemade Pav Bhaji and the bread maker makes them almost effortless.",
+        "chapman-tips": [
+            "Bake the rolls touching each other to keep the sides soft.",
+            "Brushing with butter immediately after baking keeps the crust tender.",
+            "The dough also makes excellent burger buns if shaped individually.",
+            "Freeze once cooled and refresh for a few minutes in a warm oven."
+        ],
+        "batch-cooking": "Freeze for up to 3 months.",
+        "leftovers": "Excellent for breakfast rolls, sandwiches or toasted with butter."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Pav Bhaji",
+            "Quick No-Yeast Naan",
+            "Batbout"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "id": "019f76be-348c-7501-9442-dfb16a078361",
+    "version": 1,
+
+    "title": "Eggs Benedict",
+
+    "overview": {
+        "description": "Toasted English muffins topped with ham, perfectly poached eggs and silky homemade Hollandaise sauce.",
+        "country": "United States",
+        "region": "New York",
+        "serves": 2
+    },
+
+    "ingredients": [
+        "2 English muffins, split",
+        "4 eggs",
+        "4 slices ham",
+        "",
+        "2 egg yolks",
+        "125g unsalted butter",
+        "1 tbsp lemon juice",
+        "Pinch of salt",
+        "Pinch of cayenne pepper (optional)",
+        "",
+        "1 tbsp white vinegar (for poaching)"
+    ],
+
+    "method": [
+        "Melt the butter gently until just melted. Keep warm.",
+        "Whisk together the egg yolks and lemon juice in a heatproof bowl.",
+        "Place over a pan of barely simmering water.",
+        "Whisk constantly until the mixture thickens.",
+        "Slowly drizzle in the melted butter while whisking continuously.",
+        "Season with salt and cayenne, then keep warm.",
+        "Bring a saucepan of water to a gentle simmer and add the vinegar.",
+        "Crack each egg into a small bowl.",
+        "Create a gentle swirl in the water and carefully slide in the eggs.",
+        "Poach for approximately 3 minutes until the whites are set but the yolks remain runny.",
+        "Meanwhile, toast the English muffins and warm the ham.",
+        "Top each muffin half with ham, a poached egg and a generous spoonful of Hollandaise.",
+        "Serve immediately."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Fresh Fruit"
+        ],
+        "optional-sides": [
+            "Wilted Spinach",
+            "Grilled Asparagus"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 10,
+        "cook-time-minutes": 20,
+        "freezer-label": "not suitable",
+        "cost": "mid-range",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Despite its name, Eggs Benedict is generally believed to have been created in New York in the late nineteenth century rather than in England.",
+        "what-you-will-learn": "How to make a stable Hollandaise sauce, poach eggs successfully and coordinate several cooking tasks to finish together.",
+        "skills": [
+            "Poaching eggs",
+            "Making emulsions",
+            "Timing multiple components",
+            "Water bath cooking"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A classic weekend breakfast that teaches several core cooking techniques in one rewarding dish.",
+        "chapman-tips": [
+            "Fresh eggs hold together much better when poached.",
+            "Keep the poaching water just below a boil—vigorous bubbling will break the eggs apart.",
+            "If the Hollandaise becomes too thick, whisk in a teaspoon of warm water.",
+            "Have everything ready before poaching the eggs so they can be served immediately.",
+            "Crack each egg into a small ramekin or teacup first. It makes it much easier to slide the egg gently into the water and lets you check for any shell before cooking."
+        ],
+        "batch-cooking": "Not suitable.",
+        "leftovers": "Best enjoyed fresh."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Scotch Pancakes",
+            "Korean Egg Toast",
+            "Shakshuka"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

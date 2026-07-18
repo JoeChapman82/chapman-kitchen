@@ -1,0 +1,116 @@
+{
+    "id": "019f6b89-a9a8-711e-bbf7-34233667ff90",
+    "version": 1,
+
+    "title": "Bhature",
+
+    "overview": {
+        "description": "Soft, fluffy North Indian deep-fried bread traditionally served with Punjabi Chole. Crisp outside with a light, airy interior.",
+        "country": "India",
+        "region": "Punjab",
+        "serves": 8
+    },
+
+    "ingredients": [
+        "500g plain flour",
+        "1 tsp baking powder",
+        "½ tsp bicarbonate of soda",
+        "1 tsp sugar",
+        "1 tsp salt",
+        "200g natural yoghurt",
+        "2 tbsp vegetable oil",
+        "50-80ml warm water, as needed",
+        "Vegetable oil, for deep frying"
+    ],
+
+    "method": [
+        "Mix together the plain flour, baking powder, bicarbonate of soda, sugar and salt.",
+        "Add the yoghurt and vegetable oil.",
+        "Mix into a soft dough, adding warm water a little at a time if needed.",
+        "Knead for 8–10 minutes until smooth and elastic.",
+        "Cover and rest for 2 hours.",
+        "Divide into 8 equal balls.",
+        "Roll each into an oval or circle about 3–4mm thick.",
+        "Heat the frying oil to approximately 180°C.",
+        "Carefully lower one bhatura into the oil.",
+        "Gently press it beneath the surface with a slotted spoon until it puffs.",
+        "Turn and fry for about 30 seconds on the second side.",
+        "Remove and drain on kitchen paper.",
+        "Repeat with the remaining dough."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Chole (Punjabi Chickpea Curry)"
+        ],
+        "optional-sides": [
+            "Pickled Onions",
+            "Mango Pickle"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 140,
+        "cook-time-minutes": 20,
+        "freezer-label": "best made fresh",
+        "cost": "budget",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Bhature and Chole are one of North India's most iconic food pairings, especially around Delhi and Punjab.",
+        "what-you-will-learn": "How to make a soft enriched dough and deep fry bread until it puffs into a light, airy bhatura.",
+        "skills": [
+            "Mixing enriched dough",
+            "Kneading",
+            "Rolling dough",
+            "Deep frying"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "2 bhature",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "The traditional accompaniment to Chole and a great recipe for occasional weekend meals.",
+        "chapman-tips": [
+            "Keep the oil hot enough for the bhature to puff quickly without absorbing excess oil.",
+            "Don't stack them immediately after frying or they'll soften.",
+            "A soft dough produces the lightest texture.",
+            "Serve as soon as possible after frying."
+        ],
+        "batch-cooking": "Not recommended. Bhature are at their best freshly fried.",
+        "leftovers": "Can be reheated in a hot oven, although they lose some of their characteristic puffiness."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chole (Punjabi Chickpea Curry)",
+            "Quick No-Yeast Naan",
+            "Batbout"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

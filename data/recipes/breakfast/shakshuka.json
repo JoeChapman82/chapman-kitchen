@@ -1,0 +1,120 @@
+{
+    "id": "019f65d4-dba7-738a-89fb-61e0b449678d",
+    "version": 1,
+
+    "title": "Shakshuka",
+
+    "overview": {
+        "description": "Eggs gently poached in a rich tomato and pepper sauce flavoured with cumin, paprika and garlic. A classic North African breakfast that's equally good for brunch or a light dinner.",
+        "country": "Tunisia",
+        "region": "North Africa",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "2 tbsp olive oil",
+        "1 onion, diced",
+        "1 red pepper, diced",
+        "3 cloves garlic, minced",
+        "2 tsp ground cumin",
+        "2 tsp smoked paprika",
+        "¼ tsp chilli flakes (optional)",
+        "2 × 400g tins chopped tomatoes",
+        "1 tsp soft brown sugar (optional)",
+        "8 eggs",
+        "Salt",
+        "Freshly ground black pepper",
+        "Fresh parsley, chopped"
+    ],
+
+    "method": [
+        "Heat the olive oil in a large frying pan over a medium heat.",
+        "Cook the onion and pepper for 8–10 minutes until softened.",
+        "Add the garlic and cook for 1 minute.",
+        "Stir in the cumin, smoked paprika and chilli flakes, cooking for 30 seconds.",
+        "Add the chopped tomatoes and sugar, if using.",
+        "Season with salt and black pepper.",
+        "Simmer gently for 15–20 minutes until the sauce has thickened.",
+        "Make eight small wells in the sauce.",
+        "Crack an egg into each well.",
+        "Cover with a lid and cook for 6–8 minutes until the egg whites are set but the yolks remain runny.",
+        "Scatter with chopped parsley before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Crusty Loaf"
+        ],
+        "optional-sides": [
+            "Feta Cheese",
+            "Natural Yoghurt",
+            "Harissa"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 10,
+        "cook-time-minutes": 30,
+        "freezer-label": "freeze sauce only",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Although now strongly associated with the Middle East, Shakshuka is believed to have originated in North Africa before spreading across the region.",
+        "what-you-will-learn": "How to build a simple tomato sauce, bloom spices and gently poach eggs directly in the sauce.",
+        "skills": [
+            "Softening vegetables",
+            "Blooming spices",
+            "Reducing tomato sauce",
+            "Poaching eggs"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A nutritious, inexpensive breakfast that uses pantry staples and introduces North African flavours in an approachable way.",
+        "chapman-tips": [
+            "Reduce the tomato sauce well before adding the eggs.",
+            "Use the back of a spoon to make wells for the eggs.",
+            "Covering the pan helps the egg whites set evenly.",
+            "Frozen crusty bread works well after a quick refresh in the oven."
+        ],
+        "batch-cooking": "The tomato sauce freezes well. Defrost, reheat and add freshly cracked eggs when serving.",
+        "leftovers": "Leftover sauce makes an excellent pasta sauce or base for baked beans."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Eggs in Purgatory",
+            "Huevos Rancheros",
+            "Strapatsada",
+            "French Onion Soup"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

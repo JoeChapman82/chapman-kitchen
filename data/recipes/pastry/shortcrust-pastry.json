@@ -1,0 +1,104 @@
+{
+    "id": "019f7697-f0cd-7489-80a9-8190884d6225",
+    "version": 1,
+
+    "title": "All-Butter Shortcrust Pastry",
+
+    "overview": {
+        "description": "A crisp, buttery shortcrust pastry suitable for both savoury pies and sweet tarts.",
+        "country": "United Kingdom",
+        "region": "Traditional",
+        "serves": "One 23cm pie or tart"
+    },
+
+    "ingredients": [
+        "250g plain flour",
+        "125g cold unsalted butter, diced",
+        "½ tsp fine salt",
+        "60–80ml ice-cold water"
+    ],
+
+    "method": [
+        "Mix the flour and salt together in a large bowl.",
+        "Rub the cold butter into the flour until the mixture resembles coarse breadcrumbs, leaving a few pea-sized pieces of butter.",
+        "Add the cold water a tablespoon at a time, mixing gently with a knife until the dough just comes together.",
+        "Bring the dough together with your hands without kneading.",
+        "Flatten into a disc, wrap and chill for at least 30 minutes.",
+        "Lightly flour the work surface.",
+        "Roll from the centre outwards, turning the pastry a quarter turn every few rolls.",
+        "Roll to approximately 3mm thick.",
+        "Lift the pastry with the rolling pin and gently line your tin.",
+        "Trim any excess and chill again for 15–20 minutes before baking or filling."
+    ],
+
+    "serving": {
+        "serve-with": [],
+        "optional-sides": []
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 0,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Visible flecks of butter are a good thing—they melt during baking to create a flaky, tender pastry.",
+        "what-you-will-learn": "How to handle pastry lightly, keep the butter cold and roll evenly without shrinking.",
+        "skills": [
+            "Rubbing in",
+            "Hydrating dough",
+            "Rolling pastry",
+            "Lining tins"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A versatile master recipe that supports pies, tarts and quiches throughout the cookbook.",
+        "chapman-tips": [
+            "Cold ingredients are the secret to crisp pastry.",
+            "Stop adding water as soon as the dough comes together.",
+            "Don't knead the dough or it will become tough.",
+            "Chilling before rolling and again before baking helps prevent shrinkage."
+        ],
+        "batch-cooking": "Wrap well and freeze for up to 3 months. Defrost overnight in the fridge before using.",
+        "leftovers": "Use pastry offcuts for cheese straws, jam tarts or decorative pie tops."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chicken & Mushroom Pie",
+            "Steak Pie",
+            "Homity Pie",
+            "Apple Crumble"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "id": "019f642f-294c-755a-940f-913b84308c81",
+    "version": 1,
+
+    "title": "Chilli con Carne",
+
+    "overview": {
+        "description": "A rich, slow-simmered beef chilli with kidney beans, tomatoes and warming spices. A perfect batch-cooking meal that freezes exceptionally well.",
+        "country": "Mexico / Tex-Mex",
+        "region": "Tex-Mex",
+        "serves": 8
+    },
+
+    "ingredients": [
+        "2 tbsp vegetable oil",
+        "1kg beef mince (5–10% fat)",
+        "2 onions, finely diced",
+        "2 carrots, finely diced",
+        "2 celery sticks, finely diced",
+        "4 cloves garlic, minced",
+        "2 tbsp tomato purée",
+        "2 tsp ground cumin",
+        "2 tsp smoked paprika",
+        "2 tsp ground coriander",
+        "1 tsp dried oregano",
+        "1 tsp mild chilli powder",
+        "½ tsp cayenne pepper (optional)",
+        "2 × 400g tins chopped tomatoes",
+        "500ml beef stock",
+        "2 × 400g tins kidney beans, drained and rinsed",
+        "1 tsp soft brown sugar",
+        "1 tbsp Worcestershire sauce",
+        "Salt",
+        "Freshly ground black pepper",
+        "Fresh coriander, chopped"
+    ],
+
+    "method": [
+        "Heat the vegetable oil in a large saucepan or casserole over a medium-high heat.",
+        "Brown the beef mince thoroughly, breaking it into small pieces as it cooks.",
+        "Add the onions, carrots and celery and cook for around 10 minutes until softened.",
+        "Stir in the garlic and cook for 1 minute.",
+        "Add the tomato purée and cook for 2 minutes.",
+        "Stir in the cumin, smoked paprika, coriander, oregano, chilli powder and cayenne (if using) and cook for 30 seconds.",
+        "Add the chopped tomatoes, beef stock, Worcestershire sauce and brown sugar.",
+        "Bring to a gentle simmer and cook uncovered for around 1 hour, stirring occasionally.",
+        "Add the kidney beans and continue cooking for another 20–30 minutes until the sauce has thickened.",
+        "Season to taste with salt and black pepper.",
+        "Finish with freshly chopped coriander before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Steamed Rice"
+        ],
+        "optional-sides": [
+            "Homemade Tortillas",
+            "Sour Cream",
+            "Grated Cheddar",
+            "Guacamole",
+            "Fresh Coriander"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 90,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "budget",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Although inspired by Mexican flavours, the bean-filled version of chilli is most closely associated with Tex-Mex home cooking.",
+        "what-you-will-learn": "How to balance warming spices, develop flavour through slow simmering and cook a meal that's ideal for batch freezing.",
+        "skills": [
+            "Browning mince",
+            "Blooming spices",
+            "Slow simmering",
+            "Batch cooking"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "One of the best batch-cooking recipes in the collection. It's economical, family-friendly and keeps brilliantly in the freezer.",
+        "chapman-tips": [
+            "Cook the mince until properly browned before adding the vegetables.",
+            "A long, gentle simmer develops a richer flavour than adding more spices.",
+            "Adjust the heat at the table rather than making the whole pot too spicy for the children.",
+            "This recipe is even better the following day."
+        ],
+        "batch-cooking": "Freeze in meal-sized portions for up to three months.",
+        "leftovers": "Serve with baked potatoes, nachos, tacos or use as a filling for burritos."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Classic Bolognese",
+            "Rajma",
+            "Vegetable & Black Bean Chilli",
+            "Jambalaya"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

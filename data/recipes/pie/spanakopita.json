@@ -1,0 +1,126 @@
+{
+    "id": "019f6713-0fd0-707b-827d-6cfb0ff073d0",
+    "version": 1,
+
+    "title": "Spanakopita",
+
+    "overview": {
+        "description": "A traditional Greek spinach and feta pie baked in crisp filo pastry. Rich enough to be satisfying while still feeling fresh and light.",
+        "country": "Greece",
+        "region": "",
+        "serves": 8
+    },
+
+    "ingredients": [
+        "1kg frozen chopped spinach, thawed and thoroughly squeezed dry",
+        "250g feta, crumbled",
+        "4 spring onions, finely sliced",
+        "2 tbsp chopped fresh dill",
+        "2 tbsp chopped fresh parsley",
+        "2 eggs",
+        "12 sheets filo pastry",
+        "100g butter, melted",
+        "2 tbsp olive oil",
+        "Freshly ground black pepper"
+    ],
+
+    "method": [
+        "=== Filling ===",
+        "Heat the olive oil in a frying pan over a medium heat.",
+        "Cook the spring onions for 3–4 minutes until softened.",
+        "Allow to cool slightly.",
+        "Combine the spinach, feta, spring onions, dill, parsley and eggs in a large bowl.",
+        "Season with black pepper.",
+        "Mix until evenly combined.",
+        "",
+        "=== Assemble ===",
+        "Brush a baking dish with a little melted butter.",
+        "Lay in one sheet of filo pastry and brush lightly with butter.",
+        "Repeat with six sheets.",
+        "Spread the filling evenly over the pastry.",
+        "Cover with the remaining filo sheets, brushing each with melted butter.",
+        "Tuck the edges neatly into the dish.",
+        "Score the top layers into serving portions without cutting right through.",
+        "",
+        "=== Bake ===",
+        "Bake at 180°C fan (200°C conventional) for 40–45 minutes until crisp and deep golden.",
+        "Allow to cool for 10 minutes before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Greek Salad"
+        ],
+        "optional-sides": [
+            "Tzatziki",
+            "Olives",
+            "Roasted Tomatoes"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 30,
+        "cook-time-minutes": 45,
+        "freezer-label": "freezes well",
+        "cost": "mid-range",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Spanakopita has been enjoyed throughout Greece for centuries and belongs to a family of savoury pies known as 'pites'.",
+        "what-you-will-learn": "How to prepare spinach properly, work with delicate filo pastry and create crisp pastry layers.",
+        "skills": [
+            "Preparing spinach",
+            "Working with filo pastry",
+            "Layering pastry",
+            "Baking"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A fantastic vegetarian centrepiece that introduces filo pastry while making excellent use of frozen spinach.",
+        "chapman-tips": [
+            "Squeeze as much water as possible from the spinach before mixing the filling.",
+            "Keep the filo covered with a damp tea towel while working to prevent it drying out.",
+            "Brush each layer lightly—you don't need to soak the pastry with butter.",
+            "Scoring before baking makes serving much easier."
+        ],
+        "batch-cooking": "Freeze either before or after baking for up to three months.",
+        "leftovers": "Reheat in the oven or air fryer to restore the crisp pastry."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Salmon en Croute",
+            "Briam",
+            "Saag Paneer",
+            "Falafel & Hummus Pita"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

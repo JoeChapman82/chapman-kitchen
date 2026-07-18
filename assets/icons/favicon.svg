@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Chef hat icon">
+  <title>Chef hat</title>
+  <rect width="64" height="64" rx="8" fill="transparent" />
+  <!-- Simple stylized chef hat -->
+  <g transform="translate(6,12)">
+    <path d="M46 18c0 6.6-6 12-14 12H18c-8.8 0-16-7.2-16-16 0-8 6.8-14 15-14 2.2 0 4.2.5 6 1.4C26.6 1.8 31 0 36 0c7.2 0 14 5.2 14 12 0 1.6-.3 3.1-.9 4.5C50.5 17.2 46 18 46 18z" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+    <path d="M6 30c0 3.3 5 6 12 6h14c7 0 12-2.7 12-6v-6H6v6z" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+    <path d="M10 32c3 1.6 7 2.5 12 2.5h14c5 0 9-1 12-2.5" fill="none" stroke="#ddd" stroke-width="0.8"/>
+  </g>
+</svg>

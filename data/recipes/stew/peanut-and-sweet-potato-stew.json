@@ -1,0 +1,124 @@
+{
+    "id": "019f671e-7223-707d-a7dc-7b41e2f13f77",
+    "version": 1,
+
+    "title": "Peanut & Sweet Potato Stew",
+
+    "overview": {
+        "description": "A hearty West African-inspired stew of sweet potatoes, black-eyed beans and peanut butter simmered with tomatoes and warming spices.",
+        "country": "West Africa",
+        "region": "",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "2 tbsp vegetable oil",
+        "1 onion, diced",
+        "2 cloves garlic, minced",
+        "1 tbsp grated ginger",
+        "1 tsp ground cumin",
+        "1 tsp ground coriander",
+        "½ tsp smoked paprika",
+        "1 × 400g tin chopped tomatoes",
+        "500g sweet potatoes, peeled and diced",
+        "1 × 400g tin black-eyed beans, drained",
+        "750ml vegetable stock",
+        "3 tbsp natural peanut butter",
+        "100g spinach, fresh or frozen",
+        "Salt",
+        "Freshly ground black pepper",
+        "Fresh coriander, chopped"
+    ],
+
+    "method": [
+        "Heat the oil in a large saucepan over a medium heat.",
+        "Cook the onion for 6–8 minutes until softened.",
+        "Add the garlic and ginger and cook for 1 minute.",
+        "Stir in the cumin, coriander and smoked paprika and cook for 30 seconds.",
+        "Add the chopped tomatoes and cook for 5 minutes.",
+        "Stir in the sweet potatoes, black-eyed beans and vegetable stock.",
+        "Bring to the boil, then reduce to a gentle simmer.",
+        "Cook for 20–25 minutes until the sweet potatoes are tender.",
+        "Stir the peanut butter into a little hot cooking liquid until smooth, then return it to the pan.",
+        "Add the spinach and cook until just wilted.",
+        "Season with salt and black pepper.",
+        "Scatter with chopped coriander before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Flatbread"
+        ],
+        "optional-sides": [
+            "Steamed Rice",
+            "Natural Yoghurt",
+            "Chilli Flakes"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 40,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Groundnuts (peanuts) feature prominently in many West African cuisines, where they're used to enrich soups, stews and sauces.",
+        "what-you-will-learn": "How peanut butter can thicken and enrich a stew, and how balancing sweet vegetables with savoury spices creates depth of flavour.",
+        "skills": [
+            "Building a stew",
+            "Blooming spices",
+            "Cooking root vegetables",
+            "Finishing with leafy greens"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "An inexpensive, nutritious vegetarian meal that introduces West African flavours while making excellent use of pantry ingredients.",
+        "chapman-tips": [
+            "Use smooth peanut butter with as few ingredients as possible.",
+            "Mix the peanut butter with a little hot stock before adding it to prevent lumps.",
+            "Frozen spinach works perfectly here.",
+            "The stew thickens as it cools and often tastes even better the following day."
+        ],
+        "batch-cooking": "Freeze in individual portions for quick weekday meals.",
+        "leftovers": "Excellent reheated and also works well served over rice the next day."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "West African Chicken Peanut Stew",
+            "Red Red",
+            "Moroccan Vegetable Tagine",
+            "Sweet Potato Curry"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

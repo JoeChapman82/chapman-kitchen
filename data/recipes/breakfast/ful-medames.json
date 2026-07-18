@@ -1,0 +1,121 @@
+{
+    "id": "019f65d5-d5f5-72ef-a384-4dfdc5a9be63",
+    "version": 1,
+
+    "title": "Ful Medames",
+
+    "overview": {
+        "description": "A traditional Egyptian breakfast of gently seasoned fava beans topped with fried eggs and served with warm flatbread. Nutritious, economical and surprisingly filling.",
+        "country": "Egypt",
+        "region": "North Africa",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "2 × 400g tins fava (broad) beans, drained",
+        "2 tbsp olive oil",
+        "2 cloves garlic, minced",
+        "1 tsp ground cumin",
+        "½ tsp ground coriander",
+        "Juice of ½ lemon",
+        "Salt",
+        "Freshly ground black pepper",
+        "4 eggs",
+        "Fresh parsley, chopped"
+    ],
+
+    "method": [
+        "Heat 1 tablespoon of the olive oil in a saucepan over a medium heat.",
+        "Cook the garlic for 1 minute until fragrant.",
+        "Add the cumin and coriander and cook for 30 seconds.",
+        "Stir in the fava beans.",
+        "Add a splash of water if needed and simmer gently for 8–10 minutes.",
+        "Lightly mash some of the beans while leaving plenty whole.",
+        "Stir in the lemon juice and season with salt and black pepper.",
+        "Meanwhile, heat the remaining olive oil in a frying pan.",
+        "Fry the eggs to your preferred level of doneness.",
+        "Divide the beans between four bowls.",
+        "Top each portion with a fried egg.",
+        "Finish with chopped parsley."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Batbout",
+            "Pita",
+            "Flatbread"
+        ],
+        "optional-sides": [
+            "Sliced tomatoes",
+            "Cucumber",
+            "Feta cheese",
+            "Chilli flakes"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 10,
+        "cook-time-minutes": 15,
+        "freezer-label": "freeze bean mixture only",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Ful Medames has been eaten in Egypt for thousands of years and remains one of the country's most popular breakfasts.",
+        "what-you-will-learn": "How to season beans simply with spices and lemon, and how to create texture by partially mashing them.",
+        "skills": [
+            "Cooking beans",
+            "Blooming spices",
+            "Frying eggs",
+            "Balancing acidity"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "An inexpensive breakfast that introduces Egyptian cooking while making excellent use of pantry ingredients.",
+        "chapman-tips": [
+            "Don't mash all of the beans—the mixture should have plenty of texture.",
+            "Fresh lemon juice is essential for balancing the earthy flavour of the beans.",
+            "Warm the bread just before serving.",
+            "If you can't find tinned fava beans, dried beans cooked until soft work beautifully."
+        ],
+        "batch-cooking": "Freeze the bean mixture for up to three months. Fry fresh eggs when serving.",
+        "leftovers": "The bean mixture also makes an excellent lunch served in warm pita."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Shakshuka",
+            "Koshari",
+            "Mujadara",
+            "Dal Chawal"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

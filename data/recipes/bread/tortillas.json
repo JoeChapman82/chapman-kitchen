@@ -1,0 +1,124 @@
+{
+    "id": "019f670e-d580-7155-a0ad-95751bd3d22a",
+    "version": 1,
+
+    "title": "Flour Tortillas",
+
+    "overview": {
+        "description": "Soft homemade flour tortillas that are perfect for fajitas, enchiladas, burritos and wraps. Simple to make and far superior to shop-bought versions.",
+        "country": "Mexico",
+        "region": "Northern Mexico",
+        "serves": 12
+    },
+
+    "ingredients": [
+        "500g plain flour",
+        "10g salt",
+        "75g lard (or vegetable shortening)",
+        "300ml warm water"
+    ],
+
+    "method": [
+        "=== Mix ===",
+        "Combine the flour and salt in a large bowl.",
+        "Rub the lard into the flour until the mixture resembles coarse breadcrumbs.",
+        "Gradually add the warm water, mixing until a dough forms.",
+
+        "=== Knead ===",
+        "Knead for 8–10 minutes until smooth and elastic.",
+
+        "=== Rest ===",
+        "Cover the dough and leave to rest for 30 minutes.",
+
+        "=== Shape ===",
+        "Divide the dough into 12 equal pieces.",
+        "Roll each piece into a ball.",
+        "Cover and rest for 10 minutes.",
+        "Roll each ball into a thin circle approximately 20–22cm across.",
+
+        "=== Cook ===",
+        "Heat a dry cast iron pan or heavy frying pan over a medium-high heat.",
+        "Cook each tortilla for 30–60 seconds on the first side until bubbles appear.",
+        "Turn and cook for a further 20–40 seconds.",
+        "Avoid overcooking to keep the tortillas soft.",
+
+        "=== Cool ===",
+        "Stack the cooked tortillas inside a clean tea towel to keep them warm and soft."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Chicken Fajitas",
+            "Enchiladas",
+            "Burritos",
+            "Fish Tacos"
+        ],
+        "optional-sides": []
+    },
+
+    "planner": {
+        "prep-time-minutes": 50,
+        "cook-time-minutes": 20,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Flour tortillas originated in northern Mexico, where wheat grows more readily than maize.",
+        "what-you-will-learn": "How fat affects dough texture, how resting relaxes gluten and how to cook flatbreads quickly on a hot pan.",
+        "skills": [
+            "Mixing dough",
+            "Kneading",
+            "Rolling evenly",
+            "Pan cooking bread"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "Homemade tortillas transform Mexican meals and cost a fraction of shop-bought packs.",
+        "chapman-tips": [
+            "Keep the dough covered whenever you're not working with it.",
+            "A hot pan cooks the tortilla before it dries out.",
+            "Stack cooked tortillas under a tea towel to keep them flexible.",
+            "Freeze with baking paper between each tortilla for easy separation."
+        ],
+        "batch-cooking": "Freeze in stacks once completely cool.",
+        "leftovers": "Use for wraps, quesadillas or homemade tortilla chips."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Pita",
+            "Chapati",
+            "Batbout",
+            "Naan"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

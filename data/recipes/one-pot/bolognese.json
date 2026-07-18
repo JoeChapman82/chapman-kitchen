@@ -1,0 +1,121 @@
+{
+    "id": "019f61e8-8228-7166-9f6e-2172d3df1718",
+    "version": 1,
+
+    "title": "Bolognese",
+
+    "overview": {
+        "description": "A rich, slow-cooked Italian meat sauce built on a soffritto, good quality beef and plenty of time. Perfect served with pasta or as the foundation for lasagne and many other family favourites.",
+        "country": "Italy",
+        "region": "Emilia-Romagna",
+        "serves": 8
+    },
+
+    "ingredients": [
+        "2 tbsp olive oil",
+        "2 onions, finely diced",
+        "2 carrots, finely diced",
+        "2 celery sticks, finely diced",
+        "4 cloves garlic, minced",
+        "1kg beef mince",
+        "2 tbsp tomato purée",
+        "2 × 400g tins chopped tomatoes",
+        "300ml beef stock",
+        "150ml whole milk",
+        "2 bay leaves",
+        "1 tsp dried oregano",
+        "Salt",
+        "Freshly ground black pepper"
+    ],
+
+    "method": [
+        "Heat the olive oil in a large heavy-based saucepan over a medium heat.",
+        "Cook the onion, carrot and celery for 15–20 minutes until very soft and sweet but not browned.",
+        "Add the garlic and cook for 1 minute.",
+        "Add the beef mince and cook until well browned, breaking it up as it cooks.",
+        "Stir in the tomato purée and cook for 2 minutes.",
+        "Add the chopped tomatoes, beef stock, milk and bay leaves.",
+        "Season lightly with salt, pepper and oregano.",
+        "Bring to a gentle simmer.",
+        "Cook uncovered for 2–3 hours, stirring occasionally, until rich, thick and deeply flavoured.",
+        "Remove the bay leaves before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Fresh Pasta",
+            "Spaghetti",
+            "Lasagne"
+        ],
+        "optional-sides": [
+            "Parmesan",
+            "Focaccia"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 25,
+        "cook-time-minutes": 180,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "mid-range",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Traditional Bolognese (Ragù alla Bolognese) is slowly simmered and often includes milk, which softens the acidity of the tomatoes and enriches the finished sauce.",
+        "what-you-will-learn": "How to build flavour from a soffritto, why patience is essential for a great ragù and how slow cooking transforms simple ingredients.",
+        "skills": [
+            "Making a soffritto",
+            "Slow cooking",
+            "Reducing sauces",
+            "Batch cooking"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "This is one of the foundation recipes of the entire cookbook. A single batch becomes multiple future meals and freezes beautifully.",
+        "chapman-tips": [
+            "Don't rush the soffritto. It provides much of the sweetness in the finished sauce.",
+            "If you have homemade beef stock, use it.",
+            "If you've recently made the Jamie Oliver Beef Short Ribs, replace some or all of the beef stock with the reserved cooking liquor for an even richer sauce.",
+            "The sauce is even better the following day."
+        ],
+        "batch-cooking": "Divide into meal-sized portions and freeze for up to three months.",
+        "leftovers": "Perfect for lasagne, pasta bakes, stuffed vegetables or simply reheated with fresh pasta."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Lasagne",
+            "Jamie Oliver Beef Short Ribs",
+            "Hungarian Goulash",
+            "Moussaka"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

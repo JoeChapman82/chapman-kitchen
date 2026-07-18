@@ -1,0 +1,126 @@
+{
+    "id": "019f7399-e2b1-7326-87f9-9b8ce237a8da",
+    "version": 1,
+
+    "title": "Pad Thai",
+
+    "overview": {
+        "description": "Thailand's famous stir-fried rice noodle dish with chicken, egg, beansprouts and a balanced tamarind sauce.",
+        "country": "Thailand",
+        "region": "Central Thailand",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "300g dried rice stick noodles (3–5mm)",
+        "500g chicken breast, thinly sliced",
+        "2 tbsp vegetable oil",
+        "3 cloves garlic, finely chopped",
+        "2 shallots, finely sliced",
+        "3 eggs, lightly beaten",
+        "200g beansprouts",
+        "4 spring onions, cut into 4cm lengths",
+        "60g roasted peanuts, roughly chopped",
+        "",
+        "3 tbsp tamarind concentrate",
+        "3 tbsp fish sauce",
+        "2 tbsp palm sugar",
+        "1 tbsp light soy sauce",
+        "",
+        "Lime wedges",
+        "Extra beansprouts",
+        "Extra peanuts",
+        "Chilli flakes"
+    ],
+
+    "method": [
+        "Soak the rice noodles in warm water for 30–40 minutes until flexible but not fully soft.",
+        "Mix together the tamarind, fish sauce, palm sugar and soy sauce until the sugar has dissolved.",
+        "Heat a wok over a high heat.",
+        "Add the oil.",
+        "Cook the chicken until just cooked through, then remove.",
+        "Cook the shallots and garlic for 30 seconds.",
+        "Push everything to one side and scramble the eggs.",
+        "Add the drained noodles.",
+        "Pour over the sauce.",
+        "Toss until the noodles absorb the sauce and become tender.",
+        "Return the chicken to the wok.",
+        "Add the beansprouts, spring onions and half the peanuts.",
+        "Toss for 30–60 seconds.",
+        "Serve immediately with the remaining peanuts, lime wedges, fresh beansprouts and chilli flakes."
+    ],
+
+    "serving": {
+        "serve-with": [],
+        "optional-sides": [
+            "Lime wedges",
+            "Extra chilli flakes"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 10,
+        "freezer-label": "best made fresh",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Pad Thai was promoted by the Thai government in the 1930s as part of a campaign to create a national dish.",
+        "what-you-will-learn": "How to balance sweet, sour and salty flavours while stir-frying noodles over high heat.",
+        "skills": [
+            "Preparing rice noodles",
+            "High-heat stir-frying",
+            "Balancing sauces",
+            "Wok cooking"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "An authentic Thai favourite that uses ingredients already stocked in the Chapman Kitchen and cooks in minutes.",
+        "chapman-tips": [
+            "Don't over-soak the noodles—they finish cooking in the wok.",
+            "Have every ingredient prepared before turning on the heat.",
+            "Taste before serving. The ideal balance is salty, sour and gently sweet.",
+            "Cook in batches if your wok is small to maintain high heat."
+        ],
+        "batch-cooking": "Not recommended. Best cooked fresh.",
+        "leftovers": "Reheat quickly in a hot wok, but the noodles are at their best immediately after cooking."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Pad Kee Mao",
+            "Chicken Satay",
+            "Thai Red Curry",
+            "Thai Green Curry"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

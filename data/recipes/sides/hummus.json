@@ -1,0 +1,106 @@
+{
+  "id": "019f57a5-21de-75a9-ae2b-1974756d9af9",
+  "version": 1,
+
+  "title": "Hummus",
+
+  "overview": {
+    "description": "A smooth, creamy hummus made from chickpeas, tahini, lemon and garlic. Simple ingredients, balanced flavour and a silky texture make this a versatile accompaniment for countless meals.",
+    "country": "Middle East",
+    "region": "",
+    "serves": 6
+  },
+
+  "ingredients": [
+    "2 x 400g tins chickpeas, drained (reserve 100ml of the liquid)",
+    "100g tahini",
+    "2 cloves garlic",
+    "1 large lemon, juiced",
+    "3 tbsp extra virgin olive oil",
+    "1 tsp ground cumin",
+    "1 tsp fine salt",
+    "50-100ml ice cold water"
+  ],
+
+  "method": [
+    "Drain the chickpeas, reserving about 100ml of the liquid. Rinse the chickpeas well under cold water.",
+    "Add the chickpeas, tahini, garlic, lemon juice, olive oil, cumin and salt to a food processor.",
+    "Blend for about 2 minutes until the mixture begins to smooth out, scraping down the sides of the bowl as needed.",
+    "With the processor still running, gradually add the reserved chickpea liquid followed by the ice-cold water until the hummus becomes light, smooth and creamy. The exact amount of water will depend on the chickpeas and your preferred consistency.",
+    "Taste and adjust the seasoning. A little more lemon brightens the flavour, while a little more salt often brings everything together.",
+    "Transfer to a serving bowl. Use the back of a spoon to create a shallow swirl, then drizzle with a little olive oil before serving."
+  ],
+
+  "serving": {
+    "serve-with": [
+      "Pita Bread",
+      "Falafel",
+      "Vegetable sticks"
+    ],
+    "optional-sides": [
+      "Paprika",
+      "Sumac",
+      "Chopped parsley",
+      "Whole chickpeas"
+    ]
+  },
+
+  "planner": {
+    "prep-time-minutes": 15,
+    "cook-time-minutes": 0,
+    "freezer-label": "good",
+    "cost": "budget",
+    "after-work": true
+  },
+
+  "learning": {
+    "did-you-know": "Adding ice-cold water while blending helps create a lighter, fluffier hummus. Many cooks also find it produces a creamier texture than using extra oil alone.",
+    "what-you-will-learn": "How to balance acidity, salt and richness, and how liquid affects the final texture of blended dips.",
+    "skills": [
+      "Food processor techniques",
+      "Seasoning to taste",
+      "Balancing flavours"
+    ]
+  },
+
+  "nutrition": {
+    "portion-size": "",
+    "calories": "",
+    "protein": "",
+    "carbohydrates": "",
+    "fat": "",
+    "saturates": "",
+    "fibre": "",
+    "sugar": "",
+    "salt": ""
+  },
+
+  "notes": {
+    "why-its-in-the-chapman-kitchen": "Uses mostly pantry ingredients, takes only minutes to make and works as part of many meals or simply as a healthy snack.",
+    "chapman-tips": [
+      "Blend for longer than you think; extra blending makes a noticeable difference.",
+      "Taste before serving. Hummus often needs a final squeeze of lemon or pinch of salt.",
+      "For an extra smooth finish, peel the chickpeas if you have the time, although we usually don't bother."
+    ],
+    "batch-cooking": "Keeps well in the fridge for several days. Stir before serving if it thickens slightly.",
+    "leftovers": "Excellent in sandwiches, wraps or as a topping for baked potatoes."
+  },
+
+  "relationships": {
+    "similar-recipes": []
+  },
+
+  "history": [
+    {
+      "date": "",
+      "note": ""
+    }
+  ],
+
+  "metadata": {
+    "created": "",
+    "updated": "",
+    "created-by": "Joe Chapman",
+    "updated-by": "Joe Chapman"
+  }
+}

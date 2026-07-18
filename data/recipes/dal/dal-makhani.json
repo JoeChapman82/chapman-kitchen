@@ -1,0 +1,126 @@
+{
+    "id": "019f642d-9c0f-71b0-86fa-0f4f5112636d",
+    "version": 1,
+
+    "title": "Dal Makhani",
+
+    "overview": {
+        "description": "A rich and creamy North Indian dal made with whole black urad dal and kidney beans, slowly cooked with tomatoes, butter and aromatic spices until silky smooth.",
+        "country": "India",
+        "region": "Punjab",
+        "serves": 8
+    },
+
+    "ingredients": [
+        "300g whole black urad dal",
+        "100g dried kidney beans",
+        "2 tbsp butter",
+        "1 tbsp vegetable oil",
+        "2 onions, finely diced",
+        "4 cloves garlic, minced",
+        "25g fresh ginger, grated",
+        "2 green chillies, finely chopped (optional)",
+        "2 tsp ground cumin",
+        "2 tsp ground coriander",
+        "1 tsp turmeric",
+        "1 tsp Kashmiri chilli powder",
+        "2 × 400g tins chopped tomatoes",
+        "2 tsp garam masala",
+        "100ml double cream",
+        "Salt",
+        "Fresh coriander, chopped"
+    ],
+
+    "method": [
+        "Soak the urad dal and kidney beans overnight in plenty of cold water.",
+        "Drain and rinse the beans, then cover with fresh water and simmer until completely tender, around 1½–2 hours.",
+        "Heat the butter and vegetable oil in a large saucepan over a medium heat.",
+        "Cook the onions for 10–12 minutes until soft and lightly browned.",
+        "Add the garlic, ginger and green chilli and cook for 1 minute.",
+        "Stir in the cumin, coriander, turmeric and Kashmiri chilli powder and cook for 30 seconds.",
+        "Add the chopped tomatoes and cook until thickened, about 10 minutes.",
+        "Stir in the cooked dal and kidney beans along with enough of their cooking liquid to create a thick but spoonable consistency.",
+        "Simmer gently for 45–60 minutes, stirring regularly to prevent sticking.",
+        "Lightly mash some of the beans against the side of the pan to create a naturally creamy texture.",
+        "Stir in the garam masala, double cream and season with salt.",
+        "Finish with fresh coriander before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Naan"
+        ],
+        "optional-sides": [
+            "Steamed Basmati Rice",
+            "Chapati",
+            "Raita"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 720,
+        "cook-time-minutes": 180,
+        "freezer-label": "freezes exceptionally well",
+        "cost": "budget",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Dal Makhani originated in Punjab and literally means 'buttery lentils'. Traditionally it is cooked slowly for many hours to develop its famous creamy texture.",
+        "what-you-will-learn": "How slow cooking develops flavour, how to prepare dried pulses and how to create creaminess without blending.",
+        "skills": [
+            "Preparing dried pulses",
+            "Cooking lentils",
+            "Building a curry base",
+            "Slow cooking",
+            "Batch cooking"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "One of the richest vegetarian dishes in the planner and an excellent showcase for pantry ingredients. Perfect for freezing and one of the family's regular Indian meals.",
+        "chapman-tips": [
+            "Don't rush the cooking—time is the secret ingredient.",
+            "Mash some of the lentils rather than blending the curry.",
+            "The flavour improves dramatically overnight.",
+            "Serve with homemade naan for a restaurant-quality meal."
+        ],
+        "batch-cooking": "Freeze in meal-sized portions for up to three months.",
+        "leftovers": "Often even better the following day after the flavours have developed further."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Rajma",
+            "Dal Chawal",
+            "Chole",
+            "Gujarati Dal"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

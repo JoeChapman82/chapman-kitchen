@@ -1,0 +1,117 @@
+{
+    "id": "019f7397-83a7-7085-8ef1-3bdcd825c20d",
+    "version": 1,
+
+    "title": "Lamb Kofta",
+
+    "overview": {
+        "description": "Juicy Middle Eastern lamb koftas flavoured with fresh herbs, garlic and warm spices, grilled until lightly charred.",
+        "country": "Lebanon",
+        "region": "Levant",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "750g lamb mince (20% fat)",
+        "1 small onion, very finely grated",
+        "4 cloves garlic, minced",
+        "20g fresh parsley, finely chopped",
+        "15g fresh mint, finely chopped",
+        "2 tsp ground cumin",
+        "2 tsp ground coriander",
+        "1 tsp ground cinnamon",
+        "½ tsp allspice",
+        "½ tsp black pepper",
+        "1½ tsp salt"
+    ],
+
+    "method": [
+        "Combine all the ingredients in a large bowl.",
+        "Mix thoroughly for 3–4 minutes until the mixture becomes slightly sticky.",
+        "Cover and chill for at least 30 minutes.",
+        "Divide into 8 equal portions.",
+        "Shape each portion firmly around a metal or soaked wooden skewer.",
+        "Preheat the grill to high or heat a griddle pan until very hot.",
+        "Cook for 4–5 minutes per side until browned and cooked through.",
+        "Rest for 5 minutes before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Batbout",
+            "Toum",
+            "Shirazi Salad"
+        ],
+        "optional-sides": [
+            "Hummus",
+            "Pickled Turnips",
+            "Rice"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 10,
+        "freezer-label": "freeze before or after cooking",
+        "cost": "moderate",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "The word 'kofta' comes from a Persian word meaning 'to pound', referring to the traditional method of preparing minced meat.",
+        "what-you-will-learn": "How to properly work minced meat so it binds naturally without eggs or breadcrumbs, and how to shape koftas around skewers.",
+        "skills": [
+            "Working minced meat",
+            "Shaping koftas",
+            "Grilling",
+            "Balancing spices"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A quick, flavour-packed lamb dish that pairs naturally with several other Chapman Kitchen recipes.",
+        "chapman-tips": [
+            "Use lamb with around 20% fat for the juiciest koftas.",
+            "Mixing the meat thoroughly develops the proteins that hold everything together.",
+            "Wet your hands before shaping to stop the mixture sticking.",
+            "If cooking on a barbecue, turn only once a good crust has formed.",
+            "Work the meat, don't just mix it. For kofta, burgers and sausage meat, you're not just combining ingredients—you're developing the meat proteins (myosin), which is what makes everything hold together naturally."
+        ],
+        "batch-cooking": "Freeze shaped uncooked koftas on a tray before transferring to freezer bags, or freeze fully cooked koftas.",
+        "leftovers": "Excellent sliced into wraps, salads or rice bowls."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chicken Shawarma",
+            "Batbout",
+            "Sabich"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

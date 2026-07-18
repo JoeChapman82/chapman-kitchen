@@ -1,0 +1,116 @@
+{
+    "id": "019f6163-c3ae-712c-8917-6f251f2efa1c",
+    "version": 1,
+
+    "title": "Bibimbap",
+
+    "overview": {
+        "description": "A colourful Korean rice bowl topped with seasoned vegetables, marinated beef, a fried egg and a spicy gochujang sauce. Mix everything together before eating for a beautifully balanced meal.",
+        "country": "South Korea",
+        "region": "",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "500g beef steak (sirloin or rump), thinly sliced",
+        "300g jasmine or short grain rice",
+        "2 carrots, julienned",
+        "200g spinach",
+        "200g mushrooms, sliced",
+        "1 courgette, julienned",
+        "4 eggs",
+        "2 cloves garlic, minced",
+        "2 tbsp light soy sauce",
+        "1 tbsp sesame oil",
+        "1 tsp sugar",
+        "2 tbsp vegetable oil",
+        "2 spring onions, sliced",
+        "Sesame seeds"
+    ],
+
+    "method": [
+        "Cook the rice according to the packet instructions and keep warm.",
+        "Mix the beef with the soy sauce, sesame oil, garlic and sugar. Leave to marinate for about 20 minutes.",
+        "Lightly cook each vegetable separately using a little vegetable oil so each keeps its own colour and texture.",
+        "Cook the marinated beef in a very hot frying pan or wok until just cooked through.",
+        "Fry the eggs until the whites are set but the yolks remain runny.",
+        "Divide the rice between four bowls.",
+        "Arrange the vegetables and beef in neat sections over the rice.",
+        "Top each bowl with a fried egg.",
+        "Serve sprinkled with spring onions, sesame seeds and the gochujang sauce."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Gochujang Sauce"
+        ],
+        "optional-sides": [
+            "Kimchi",
+            "Cucumber Salad"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 35,
+        "cook-time-minutes": 20,
+        "freezer-label": "better fresh",
+        "cost": "mid-range",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Bibimbap literally means 'mixed rice'. Although it's beautifully arranged when served, it's traditionally stirred together before eating.",
+        "what-you-will-learn": "How to prepare several simple components, cook vegetables individually to preserve their flavour, and balance textures in one bowl.",
+        "skills": [
+            "Marinating meat",
+            "Preparing vegetables",
+            "Cooking rice",
+            "Plating"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A fantastic way to introduce Korean cooking while encouraging plenty of vegetables. It also teaches preparation and organisation rather than difficult cooking techniques.",
+        "chapman-tips": [
+            "Cook each vegetable separately so every ingredient keeps its own flavour.",
+            "Runny egg yolks become part of the sauce when mixed through.",
+            "Don't skip the gochujang—it gives the dish its distinctive character."
+        ],
+        "batch-cooking": "Prepare the vegetables and beef ahead of time, then assemble fresh.",
+        "leftovers": "Excellent for lunch the following day, although the egg is best cooked fresh."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Black Bean Chicken",
+            "Chicken Chow Mein",
+            "Pad Kee Mao"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}
