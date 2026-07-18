@@ -2,7 +2,7 @@
   "name": "Chapman kitchen",
   "short_name": "Planner",
   "description": "A family meal planner for always-on displays",
-  "start_url": "/views/planner.html",
+  "start_url": "/chapman-kitchen/views/planner.html",
   "display": "standalone",
   "orientation": "landscape",
   "background_color": "#fdf6ee",
