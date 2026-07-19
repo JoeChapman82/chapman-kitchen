@@ -1,0 +1,112 @@
+{
+    "id": "019f7bfe-7740-706c-a976-5580f9e41912",
+    "version": 1,
+
+    "title": "Strapatsada",
+
+    "overview": {
+        "description": "A simple Greek breakfast of softly scrambled eggs gently cooked with ripe tomatoes, olive oil and feta.",
+        "country": "Greece",
+        "region": "Nationwide",
+        "serves": 2
+    },
+
+    "ingredients": [
+        "4 large ripe tomatoes, grated or finely chopped",
+        "4 eggs",
+        "2 tbsp extra virgin olive oil",
+        "100g feta, crumbled",
+        "1 tbsp chopped fresh oregano or parsley",
+        "Salt",
+        "Black pepper"
+    ],
+
+    "method": [
+        "Heat the olive oil over a medium heat.",
+        "Add the grated tomatoes.",
+        "Cook gently for 10–15 minutes until much of the liquid has evaporated.",
+        "Season lightly with black pepper. Add very little salt as the feta is already salty.",
+        "Lightly beat the eggs.",
+        "Reduce the heat to low.",
+        "Pour the eggs into the tomatoes.",
+        "Stir slowly until the eggs are softly scrambled and still creamy.",
+        "Fold through most of the feta.",
+        "Scatter over the remaining feta and herbs.",
+        "Serve immediately."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Crusty Bread"
+        ],
+        "optional-sides": [
+            "Olives",
+            "Cucumber",
+            "Extra Virgin Olive Oil"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 10,
+        "cook-time-minutes": 20,
+        "freezer-label": "not suitable",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Strapatsada is a traditional Greek farmhouse breakfast that makes the most of summer tomatoes when they're at their sweetest.",
+        "what-you-will-learn": "How slowly reducing fresh tomatoes concentrates their sweetness before gently scrambling eggs into the sauce.",
+        "skills": [
+            "Reducing tomatoes",
+            "Soft scrambling eggs",
+            "Seasoning with cheese"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A wonderfully simple breakfast that makes the most of good tomatoes and teaches that a few quality ingredients are often all you need.",
+        "chapman-tips": [
+            "The tomatoes should become thick and jammy before adding the eggs.",
+            "Cook the eggs gently—they should stay soft and creamy.",
+            "Taste before adding salt because feta contributes plenty.",
+            "Use the ripest tomatoes you can find."
+        ],
+        "batch-cooking": "Not suitable.",
+        "leftovers": "Best eaten immediately."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Eggs in Purgatory",
+            "Shakshuka",
+            "Çılbır"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

@@ -27,21 +27,24 @@ if (plannerFileParam) {
 }
 
 function loadPlanner(url) {
-  fetch(url)
-  .then(res => {
-    if (!res.ok) throw new Error('Failed to load planner');
-    return res.json();
-  })
-  .then(data => {
-    if (data.week) {
+  Promise.all([
+    fetch(url)
+      .then(res => {
+        if (!res.ok) throw new Error('Failed to load planner');
+        return res.json();
+      }),
+    fetch('../data/recipes/index.json').then(res => res.json())
+  ])
+  .then(([plannerData, recipeIndex]) => {
+    if (plannerData.week) {
       const label = document.getElementById('week-label');
-      label.textContent = 'Week ' + data.week;
-      label.setAttribute('aria-label', 'Home - Week ' + data.week);
+      label.textContent = 'Week ' + plannerData.week;
+      label.setAttribute('aria-label', 'Home - Week ' + plannerData.week);
     }
     positionGrid();
-    populateMeals(data.days);
-    if (data['nursery-week']) applyNurseryOverlay();
-    setupMealOverlay();
+    populateMeals(plannerData.days);
+    if (plannerData['nursery-week']) applyNurseryOverlay();
+    setupMealOverlay(recipeIndex);
   })
   .catch(() => {
     document.querySelector('.planner-grid').innerHTML = '<div class="cell" style="grid-column:1/-1;grid-row:1/-1;font-size:1.5rem;">Unable to load planner</div>';
@@ -99,7 +102,7 @@ function applyNurseryOverlay() {
   grid.appendChild(nursery);
 }
 
-function setupMealOverlay() {
+function setupMealOverlay(recipeIndex) {
   const mealOverlay = setupOverlay('meal-overlay', 'overlay-close');
   const overlayTitle = document.getElementById('overlay-title');
   const overlayRecipes = document.getElementById('overlay-recipes');
@@ -115,10 +118,10 @@ function setupMealOverlay() {
     if (recipes.length === 0) {
       overlayRecipes.innerHTML = '<li class="no-recipes">No recipes linked</li>';
     } else {
-      recipes.forEach(function(r) {
+      recipes.forEach(function(id) {
         const clone = template.content.cloneNode(true);
-        clone.querySelector('a').href = 'recipe.html?id=' + r.id;
-        clone.querySelector('a').textContent = r.name;
+        clone.querySelector('a').href = 'recipe.html?id=' + id;
+        clone.querySelector('a').textContent = recipeIndex[id].title;
         overlayRecipes.appendChild(clone);
       });
     }

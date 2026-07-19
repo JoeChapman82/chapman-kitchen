@@ -1,0 +1,113 @@
+{
+    "id": "019f7c01-f5e2-70fb-a1aa-de1fd4406de6",
+    "version": 1,
+
+    "title": "Tamago Sando",
+
+    "overview": {
+        "description": "A classic Japanese egg sandwich made with creamy egg salad between soft, fluffy milk bread.",
+        "country": "Japan",
+        "region": "Nationwide",
+        "serves": 2
+    },
+
+    "ingredients": [
+        "4 large eggs",
+        "4 slices soft white bread (preferably milk bread)",
+        "3 tbsp Japanese mayonnaise",
+        "½ tsp sugar",
+        "Salt",
+        "White pepper",
+        "Butter (optional)"
+    ],
+
+    "method": [
+        "Place the eggs in a saucepan of cold water.",
+        "Bring to the boil, then cook for 9 minutes.",
+        "Transfer immediately to iced water and cool completely.",
+        "Peel the eggs.",
+        "Mash two eggs thoroughly with a fork.",
+        "Roughly chop the remaining two eggs for a mixture of smooth and chunky texture.",
+        "Mix with the Japanese mayonnaise, sugar, a pinch of salt and a little white pepper.",
+        "Lightly butter the bread if using.",
+        "Spread the egg mixture generously between the slices.",
+        "Trim the crusts if desired.",
+        "Cut in half and serve immediately."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Fresh Fruit"
+        ],
+        "optional-sides": [
+            "Cucumber",
+            "Miso Soup"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 10,
+        "cook-time-minutes": 10,
+        "freezer-label": "not suitable",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Tamago Sando is sold everywhere in Japan, from convenience stores to specialist cafés, and is famous for its soft texture and perfectly cooked eggs.",
+        "what-you-will-learn": "How varying the texture of the eggs creates a more interesting filling, and why simplicity demands careful attention to detail.",
+        "skills": [
+            "Boiling eggs",
+            "Mixing fillings",
+            "Knife skills",
+            "Presentation"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A quick, satisfying breakfast or lunch that proves a handful of everyday ingredients can produce something genuinely special.",
+        "chapman-tips": [
+            "Using both mashed and chopped eggs gives the best texture.",
+            "Cool the eggs completely before mixing with the mayonnaise.",
+            "Japanese mayonnaise gives the most authentic flavour, but homemade or good-quality regular mayonnaise also works well.",
+            "Trim the crusts just before serving so the bread stays soft.",
+            "Don't overwork the filling. A few larger pieces of egg make the sandwich much more interesting than a completely smooth paste."
+        ],
+        "batch-cooking": "Not suitable.",
+        "leftovers": "Best eaten the day it is made."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Korean Egg Toast",
+            "Eggs Benedict",
+            "Masala Omelette"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

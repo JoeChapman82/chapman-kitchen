@@ -1,0 +1,118 @@
+{
+    "id": "019f7bf8-41fe-765f-aa65-fdaf7864af24",
+    "version": 1,
+
+    "title": "Croque Madame",
+
+    "overview": {
+        "description": "A classic French toasted ham and cheese sandwich topped with creamy béchamel, melted Gruyère and a fried egg.",
+        "country": "France",
+        "region": "Paris",
+        "serves": 2
+    },
+
+    "ingredients": [
+        "4 slices good-quality white bread",
+        "2 slices cooked ham",
+        "100g Gruyère, grated",
+        "2 eggs",
+        "20g butter (for frying)",
+        "",
+        "20g butter",
+        "20g plain flour",
+        "200ml whole milk",
+        "Pinch of grated nutmeg",
+        "Salt",
+        "Black pepper"
+    ],
+
+    "method": [
+        "Melt the butter in a small saucepan.",
+        "Whisk in the flour and cook for 1 minute.",
+        "Gradually whisk in the milk until smooth.",
+        "Cook until thickened.",
+        "Season with salt, pepper and a pinch of nutmeg.",
+        "Butter both sides of the bread before frying or air frying to toast",
+        "Place the ham and half of the Gruyère between two slices of bread.",
+        "Spread the béchamel over the tops of the sandwiches.",
+        "Sprinkle with the remaining Gruyère.",
+        "Bake under a hot grill until golden and bubbling.",
+        "Meanwhile fry the eggs until the whites are set and the yolks remain runny.",
+        "Place one egg on top of each sandwich and serve immediately."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Green Salad"
+        ],
+        "optional-sides": [
+            "Cornichons",
+            "Dijon Mustard"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 10,
+        "cook-time-minutes": 15,
+        "freezer-label": "not suitable",
+        "cost": "mid-range",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "The fried egg turns a Croque Monsieur into a Croque Madame, supposedly because the egg resembles a lady's hat.",
+        "what-you-will-learn": "How a simple béchamel transforms a toasted sandwich into a classic French café dish.",
+        "skills": [
+            "Making béchamel",
+            "Grilling",
+            "Frying eggs",
+            "Layering flavours"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A comforting weekend breakfast or light lunch that introduces another classic French technique using familiar ingredients.",
+        "chapman-tips": [
+            "Gruyère gives the traditional flavour, but mature Cheddar makes an excellent substitute.",
+            "Don't make the béchamel too thick—it should spread easily.",
+            "Toast the bread lightly first so it stays crisp underneath.",
+            "A runny yolk is part of what makes this dish special."
+        ],
+        "batch-cooking": "Not suitable.",
+        "leftovers": "Best enjoyed fresh."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Eggs Benedict",
+            "Korean Egg Toast",
+            "Scotch Pancakes"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

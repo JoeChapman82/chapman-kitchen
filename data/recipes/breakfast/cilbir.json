@@ -1,0 +1,116 @@
+{
+    "id": "019f7bf5-c73d-769b-9fbd-a7cdc37130b6",
+    "version": 1,
+
+    "title": "Çılbır",
+
+    "overview": {
+        "description": "Turkish poached eggs served over garlicky yoghurt and finished with a warm butter and chilli sauce.",
+        "country": "Turkey",
+        "region": "Ottoman",
+        "serves": 2
+    },
+
+    "ingredients": [
+        "4 eggs",
+        "300g Greek yoghurt",
+        "1 clove garlic, finely grated",
+        "30g butter",
+        "1 tsp Aleppo pepper (or ½ tsp paprika plus a pinch of chilli flakes)",
+        "1 tsp dried mint",
+        "Salt",
+        "1 tbsp white vinegar (optional, for poaching)"
+    ],
+
+    "method": [
+        "Bring the yoghurt to room temperature.",
+        "Mix the yoghurt with the garlic and a pinch of salt.",
+        "Spread onto two shallow bowls.",
+        "Bring a saucepan of water to a gentle simmer.",
+        "Add the vinegar if using.",
+        "Poach the eggs for 3–4 minutes until the whites are set and the yolks remain runny.",
+        "Meanwhile, melt the butter in a small pan.",
+        "Add the Aleppo pepper and mint.",
+        "Cook for 30 seconds until fragrant.",
+        "Place the poached eggs on top of the yoghurt.",
+        "Spoon over the warm butter sauce.",
+        "Serve immediately."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Warm Crusty Bread"
+        ],
+        "optional-sides": [
+            "Pita",
+            "Batbout",
+            "Cucumber",
+            "Tomatoes"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 5,
+        "cook-time-minutes": 10,
+        "freezer-label": "not suitable",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Çılbır dates back to the Ottoman Empire and has been enjoyed in Turkey for centuries.",
+        "what-you-will-learn": "How warm and cold elements can be combined to create contrast in a dish, and how flavoured butter can transform simple ingredients.",
+        "skills": [
+            "Poaching eggs",
+            "Making infused butter",
+            "Balancing flavours"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A simple but impressive egg dish built almost entirely from staples already found in the Chapman Kitchen.",
+        "chapman-tips": [
+            "Cold yoghurt straight from the fridge can dull the flavours—room temperature works much better.",
+            "Don't let the butter brown unless you specifically want a nuttier flavour.",
+            "Good bread is essential for mopping up the yoghurt, egg yolk and butter.",
+            "Fresh eggs make poaching much easier.",
+            "Warm the serving bowls with hot water while poaching the eggs. The dish comes together very quickly and warm bowls stop the yoghurt and eggs cooling down too fast."
+        ],
+        "batch-cooking": "Not suitable.",
+        "leftovers": "Best eaten immediately."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Eggs Benedict",
+            "Shakshuka",
+            "Ful Medames"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

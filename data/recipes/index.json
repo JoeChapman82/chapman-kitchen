@@ -35,13 +35,29 @@
         "path": "bread/tortillas.json",
         "title": "Flour Tortillas"
     },
+    "019f7bf5-c73d-769b-9fbd-a7cdc37130b6": {
+        "path": "breakfast/cilbir.json",
+        "title": "Çılbır"
+    },
+    "019f7bf8-41fe-765f-aa65-fdaf7864af24": {
+        "path": "breakfast/croque-madame.json",
+        "title": "Croque Madame"
+    },
     "019f76be-348c-7501-9442-dfb16a078361": {
         "path": "breakfast/eggs-benedict.json",
         "title": "Eggs Benedict"
     },
+    "019f7bfa-f397-7429-862c-a9d8a006dac3": {
+        "path": "breakfast/eggs-in-purgatory.json",
+        "title": "Eggs in Purgatory (Uova in Purgatorio)"
+    },
     "019f65d5-d5f5-72ef-a384-4dfdc5a9be63": {
         "path": "breakfast/ful-medames.json",
         "title": "Ful Medames"
+    },
+    "019f7c04-3faa-776d-8a0b-e3afc7069414": {
+        "path": "breakfast/huevos-rancheros.json",
+        "title": "Huevos Rancheros"
     },
     "019f65d7-b947-70ca-b22f-60ca1749596c": {
         "path": "breakfast/khlii-and-eggs.json",
@@ -51,9 +67,17 @@
         "path": "breakfast/korean-egg-toast.json",
         "title": "Korean Egg Toast"
     },
+    "019f7c00-6b0e-71ab-b0c5-80c9ac6392eb": {
+        "path": "breakfast/masala-omelette.json",
+        "title": "Masala Omelette"
+    },
     "019f7685-5581-729d-a306-eaacf3d3495": {
         "path": "breakfast/muesli.json",
         "title": "Basic Muesli"
+    },
+    "019f7bfc-75e1-741b-ba9e-2000b33392bf": {
+        "path": "breakfast/pan-con-tomate.json",
+        "title": "Pan con Tomate (Pa amb Tomàquet)"
     },
     "019f767e-ce66-7075-b818-f26d335779e5": {
         "path": "breakfast/porridge.json",
@@ -66,6 +90,14 @@
     "019f65d4-dba7-738a-89fb-61e0b449678d": {
         "path": "breakfast/shakshuka.json",
         "title": "Shakshuka"
+    },
+    "019f7bfe-7740-706c-a976-5580f9e41912": {
+        "path": "breakfast/strapatsada.json",
+        "title": "Strapatsada"
+    },
+    "019f7c01-f5e2-70fb-a1aa-de1fd4406de6": {
+        "path": "breakfast/tamago-sando.json",
+        "title": "Tamago Sando"
     },
     "019f6a0a-6997-760a-9e41-4a4306e99ea9": {
         "path": "curry/butter-chicken.json",

@@ -1,0 +1,126 @@
+{
+    "id": "019f7c04-3faa-776d-8a0b-e3afc7069414",
+    "version": 1,
+
+    "title": "Huevos Rancheros",
+
+    "overview": {
+        "description": "Lightly fried tortillas topped with ranchero tomato sauce, fried eggs and fresh garnishes.",
+        "country": "Mexico",
+        "region": "Nationwide",
+        "serves": 2
+    },
+
+    "ingredients": [
+        "2 flour or corn tortillas",
+        "4 eggs",
+        "1 tbsp vegetable oil",
+        "",
+        "1 tbsp olive oil",
+        "½ onion, finely diced",
+        "2 cloves garlic, minced",
+        "400g chopped tomatoes",
+        "1 jalapeño or green chilli, finely chopped",
+        "½ tsp ground cumin",
+        "½ tsp dried oregano",
+        "Salt",
+        "Black pepper",
+        "",
+        "Fresh coriander",
+        "Crumbled feta or queso fresco (optional)"
+    ],
+
+    "method": [
+        "Heat the olive oil in a saucepan over a medium heat.",
+        "Cook the onion until softened.",
+        "Add the garlic, chilli, cumin and oregano and cook for 1 minute.",
+        "Stir in the tomatoes.",
+        "Season with salt and pepper.",
+        "Simmer for 15 minutes until slightly thickened.",
+        "Meanwhile, lightly fry the tortillas for 20–30 seconds per side until warmed and just beginning to crisp.",
+        "Drain on kitchen paper.",
+        "Fry the eggs until the whites are set and the yolks remain runny.",
+        "Place each tortilla onto a plate.",
+        "Spoon over the ranchero sauce.",
+        "Top with two fried eggs.",
+        "Finish with fresh coriander and crumbled cheese if using."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Refried Beans"
+        ],
+        "optional-sides": [
+            "Avocado",
+            "Lime Wedges",
+            "Hot Sauce"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 10,
+        "cook-time-minutes": 20,
+        "freezer-label": "freeze the sauce only",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Huevos Rancheros means 'Rancher's Eggs' and was traditionally eaten as a hearty breakfast by farm workers in rural Mexico.",
+        "what-you-will-learn": "How to make a simple ranchero sauce and combine crisp tortillas with fried eggs for contrasting textures.",
+        "skills": [
+            "Making tomato sauces",
+            "Frying eggs",
+            "Cooking tortillas",
+            "Balancing textures"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A colourful breakfast that makes excellent use of homemade tortillas and pantry staples while introducing another classic world breakfast.",
+        "chapman-tips": [
+            "Don't over-fry the tortillas—they should still be flexible enough to cut easily.",
+            "A runny yolk enriches the tomato sauce beautifully.",
+            "Make extra ranchero sauce and freeze it for future breakfasts.",
+            "Fresh coriander and a squeeze of lime brighten the whole dish.",
+            "Warm the plates while cooking. Huevos Rancheros cools surprisingly quickly, and warm plates keep the eggs and sauce at their best."
+        ],
+        "batch-cooking": "The ranchero sauce freezes well in meal-sized portions.",
+        "leftovers": "Leftover sauce is excellent with grilled chicken, rice or as a filling for burritos."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Shakshuka",
+            "Eggs in Purgatory",
+            "Masala Omelette",
+            "Fish Tacos"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

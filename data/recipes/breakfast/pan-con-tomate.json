@@ -1,0 +1,110 @@
+{
+    "id": "019f7bfc-75e1-741b-ba9e-2000b33392bf",
+    "version": 1,
+
+    "title": "Pan con Tomate (Pa amb Tomàquet)",
+
+    "overview": {
+        "description": "A classic Catalan breakfast of toasted bread rubbed with garlic and ripe tomato, finished with olive oil and flaky sea salt.",
+        "country": "Spain",
+        "region": "Catalonia",
+        "serves": 2
+    },
+
+    "ingredients": [
+        "4 slices rustic bread",
+        "2 very ripe tomatoes",
+        "1 garlic clove",
+        "2 tbsp extra virgin olive oil",
+        "Flaky sea salt",
+        "Black pepper (optional)"
+    ],
+
+    "method": [
+        "Toast the bread until crisp but still slightly chewy in the centre.",
+        "Peel the garlic clove.",
+        "Lightly rub one side of each slice with the garlic.",
+        "Cut the tomatoes in half.",
+        "Rub the cut side of each tomato firmly over the bread until most of the flesh has been transferred.",
+        "Drizzle generously with extra virgin olive oil.",
+        "Finish with flaky sea salt and a little black pepper if desired.",
+        "Serve immediately."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Jamón Serrano",
+            "Manchego Cheese"
+        ],
+        "optional-sides": [
+            "Olives",
+            "Fresh Fruit",
+            "Boiled Eggs"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 5,
+        "cook-time-minutes": 5,
+        "freezer-label": "not suitable",
+        "cost": "very low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Pa amb Tomàquet has been enjoyed in Catalonia for well over a century and is often served from breakfast through to dinner.",
+        "what-you-will-learn": "How high-quality ingredients and simple techniques can produce outstanding flavour.",
+        "skills": [
+            "Toasting bread",
+            "Ingredient selection",
+            "Balancing seasoning"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "An incredibly simple breakfast that celebrates good bread, ripe tomatoes and excellent olive oil while using ingredients almost always found in the kitchen during summer.",
+        "chapman-tips": [
+            "Use the ripest tomatoes you can find—they're the star of the dish.",
+            "Don't be tempted to spread the tomato with a spoon. Rubbing the tomato into the bread gives the traditional texture.",
+            "Finish with your best extra virgin olive oil.",
+            "Eat immediately while the toast is still crisp.",
+            "If your tomatoes aren't at their best, leave them on the kitchen counter for a day or two rather than refrigerating them. Cold tomatoes lose much of their flavour."
+        ],
+        "batch-cooking": "Not suitable.",
+        "leftovers": "Best made fresh."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Eggs in Purgatory",
+            "Croque Madame",
+            "Homemade Pizza"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

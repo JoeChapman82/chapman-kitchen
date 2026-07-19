@@ -103,6 +103,13 @@ function buildLearnContent() {
       });
   }
 
+  // Description
+  console.log(recipeData.overview);
+
+  if(recipeData.overview?.description) {
+    addCard(cards, 'Description', recipeData.overview.description, 'fact');
+  }
+
   // Learning sections
   if (recipeData.learning) {
     if (recipeData.learning['did-you-know']) {

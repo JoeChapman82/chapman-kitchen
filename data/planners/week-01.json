@@ -5,24 +5,15 @@
         "monday": {
             "breakfast": {
                 "meal": ["Porridge with blackberry and banana"],
-                "recipes": [{
-                    "id": "019f767e-ce66-7075-b818-f26d335779e5",
-                    "name": "Porridge"
-                }]
+                "recipes": ["019f767e-ce66-7075-b818-f26d335779e5"]
             },
             "morning-snack": {
                 "meal": ["Sausage roll"],
-                "recipes": [{
-                    "id": "019f769e-bd22-71dd-9354-70363a99be3c",
-                    "name": "Sausage roll"
-                }]
+                "recipes": ["019f769e-bd22-71dd-9354-70363a99be3c"]
             },
             "lunch": {
                 "meal": ["Pork and fennel ragu"],
-                "recipes": [{
-                    "id": "019f768f-22c8-73cb-b314-9cc8f63e7a72",
-                    "name": "Pork and fennel ragu"
-                }]
+                "recipes": ["019f768f-22c8-73cb-b314-9cc8f63e7a72"]
             },
             "afternoon-snack": {
                 "meal": ["Fruit"],
@@ -30,12 +21,7 @@
             },
             "dinner": {
                 "meal": ["Tuscan butter beans", "Foccacia"],
-                "recipes": [
-                    {
-                        "id": "019f5b0c-c823-77ed-90fc-df5fa3b3af1c",
-                        "name": "Tuscan butter beans"
-                    }
-                ]
+                "recipes": ["019f5b0c-c823-77ed-90fc-df5fa3b3af1c"]
             }
         },
         "tuesday": {
@@ -48,58 +34,33 @@
             "afternoon-snack": {},
             "dinner": {
                 "meal": ["Black bean chicken"],
-                "recipes": [
-                    {
-                        "id": "019f5cbb-a138-74bb-a484-afb8d73c44a7",
-                        "name": "Black bean chicken"
-                    }
-                ]
+                "recipes": ["019f5cbb-a138-74bb-a484-afb8d73c44a7"]
             }
         },
         "wednesday": {
             "breakfast": {
                 "meal": ["Korean egg toast"],
-                "recipes": [{
-                    "id": "019f7688-3c6b-72fb-9919-45a32cac8fca",
-                    "name": "Korean egg toast"
-                }]
+                "recipes": ["019f7688-3c6b-72fb-9919-45a32cac8fca"]
             },
             "morning-snack": {},
             "lunch": {},
             "afternoon-snack": {},
             "dinner": {
                 "meal": ["Aloo paratha", "Cucumber raita"],
-                "recipes": [
-                    {
-                        "id": "019f6e7d-f9a8-779e-8573-2a32f90d145b",
-                        "name": "Aloo paratha"
-                    },
-                    {
-                        "id": "019f6e83-d4f3-75ab-80e4-f0f6ad12a009",
-                        "name": "Cucumber raita"
-                    }
-                ]
+                "recipes": ["019f6e7d-f9a8-779e-8573-2a32f90d145b", "019f6e83-d4f3-75ab-80e4-f0f6ad12a009"]
             }
         },
         "thursday": {
             "breakfast": {
                 "meal": ["Muesli with banana"],
-                "recipes": [{
-                    "id": "019f7685-5581-729d-a306-eaacf3d3495",
-                    "name": "Basic muesli"
-                }]
+                "recipes": ["019f7685-5581-729d-a306-eaacf3d3495"]
             },
             "morning-snack": {},
             "lunch": {},
             "afternoon-snack": {},
             "dinner": {
                 "meal": ["Avgolemono", "Halloumi and pepper"],
-                "recipes": [
-                    {
-                        "id": "019f6fb6-8cf9-74ec-b4db-f77ceca94b57",
-                        "name": "Avgolemono"
-                    }
-                ]
+                "recipes": ["019f6fb6-8cf9-74ec-b4db-f77ceca94b57"]
             }
         },
         "friday": {
@@ -121,23 +82,13 @@
             },
             "dinner": {
                 "meal": ["Pizza party", "Flapjack"],
-                "recipes": [
-                    {
-                        "id": "019f7693-1d8d-7168-8b3c-d4d3d1a5fa0a",
-                        "name": "Pizza"
-                    }
-                ]
+                "recipes": ["019f7693-1d8d-7168-8b3c-d4d3d1a5fa0a"]
             }
         },
         "saturday": {
             "breakfast": {
                 "meal": ["Scotch pancakes"],
-                "recipes": [
-                    {
-                        "id": "019f7696-2ea6-762b-8ec1-bf3702ad7eeb",
-                        "name": "Scotch pancakes"
-                    }
-                ]
+                "recipes": ["019f7696-2ea6-762b-8ec1-bf3702ad7eeb"]
             },
             "morning-snack": {
                 "meal": ["Yogurt"],
@@ -146,18 +97,9 @@
             "lunch": {
                 "meal": ["Falafel, Pita, Hummus"],
                 "recipes": [
-                    {
-                        "id": "019f57a4-777a-7a93-9c35-e240781fb1a6",
-                        "name": "Falafel"
-                    },
-                                        {
-                        "id": "019f57a5-6f95-709d-9f3c-8dde0014a140",
-                        "name": "Pita bread"
-                    },
-                                        {
-                        "id": "019f57a5-21de-75a9-ae2b-1974756d9af9",
-                        "name": "Hummus"
-                    }
+                    "019f57a4-777a-7a93-9c35-e240781fb1a6",
+                    "019f57a5-6f95-709d-9f3c-8dde0014a140",
+                    "019f57a5-21de-75a9-ae2b-1974756d9af9"
                 ]
             },
             "afternoon-snack": {
@@ -167,24 +109,15 @@
             "dinner": {
                 "meal": ["Currywurst", "Rice pudding"],
                 "recipes": [
-                    {
-                        "id": "019f6152-fe23-7531-b876-ed690031aae4",
-                        "name": "Currywurst"
-                    },
-                                        {
-                        "id": "019f769a-e9b7-76a7-8529-a1da70fc07dd",
-                        "name": "Rice pudding"
-                    }
+                    "019f6152-fe23-7531-b876-ed690031aae4",
+                    "019f769a-e9b7-76a7-8529-a1da70fc07dd"
                 ]
             }
         },
         "sunday": {
             "breakfast": {
                 "meal": ["Eggs benedict"],
-                "recipes": [{
-                    "id": "019f76be-348c-7501-9442-dfb16a078361",
-                    "name": "Eggs benedict"
-                }]
+                "recipes": ["019f76be-348c-7501-9442-dfb16a078361"]
             },
             "morning-snack": {
                 "meal": ["Vegetable cutlet"],
@@ -192,10 +125,7 @@
             },
             "lunch": {
                 "meal": ["Chow mein"],
-                "recipes": [{
-                    "id": "019f5cbd-b0e7-752a-ba1a-900aac859f6f",
-                    "name": "Chicken chow mein"
-                }]
+                "recipes": ["019f5cbd-b0e7-752a-ba1a-900aac859f6f"]
             },
             "afternoon-snack": {
                 "meal": ["Fruit"],

@@ -245,7 +245,10 @@ body.planner {
   grid-template-columns: auto repeat(5, 1fr);
   grid-template-rows: auto repeat(7, 1fr);
   width: 100vw;
+  height: 100vh;
+  height: -webkit-fill-available; 
   height: 100dvh;
+  max-height: 100vh;
 }
 
 .planner-grid .cell {
@@ -292,7 +295,7 @@ body.planner {
 .planner-grid .meal {
   background: var(--bg-cell);
   color: var(--text-color);
-  font-size: clamp(0.7rem, 2vw, 1.6rem);
+  font-size: clamp(0.4rem, 1.5vw, 1.6rem);
   font-weight: normal;
   cursor: pointer;
 }
@@ -557,8 +560,8 @@ body.planner {
   border-bottom: 1px solid var(--bg-surface);
 }
 
-/* Search page */
-.search-page {
+/* View recipes page */
+.view-recipes-page {
   max-width: 900px;
   width: 100%;
   margin: 0 auto;
@@ -566,7 +569,7 @@ body.planner {
   flex: 1;
 }
 
-.search-page h1 {
+.view-recipes-page h1 {
   color: var(--accent-color);
   font-size: clamp(1.5rem, 4vw, 2.2rem);
   margin-bottom: 2rem;
@@ -590,6 +593,40 @@ body.planner {
 .search-input-wrapper input:focus {
   outline: none;
   border-color: var(--accent-bold);
+}
+
+/* recipe tree */
+.recipe-tree {
+  margin-top: .5rem;
+  padding-top: .5rem;
+}
+
+.recipe-tree summary {
+  cursor: pointer;
+  color: var(--accent-color);
+  font-size: clamp(1rem, 2vw, 1.4rem);
+  font-weight: 600;
+  padding: 0.5rem 0;
+}
+
+.recipe-tree ul {
+  list-style: none;
+  padding: 1rem 0 0 0;
+}
+
+.recipe-tree li {
+  padding: 0.4rem 0;
+  color: var(--text-color);
+  font-size: 1rem;
+}
+
+.recipe-tree-link {
+  display: block;
+  margin-left: 1rem;
+  padding: .25rem;
+  color: var(--accent-bold);
+  text-decoration: none;
+  font-size: clamp(1rem, 2vw, 1.4rem);
 }
 
 /* Learn button */

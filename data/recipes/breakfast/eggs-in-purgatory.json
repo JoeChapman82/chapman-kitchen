@@ -1,0 +1,117 @@
+{
+    "id": "019f7bfa-f397-7429-862c-a9d8a006dac3",
+    "version": 1,
+
+    "title": "Eggs in Purgatory (Uova in Purgatorio)",
+
+    "overview": {
+        "description": "Eggs gently poached in a rich garlic and tomato sauce with basil, chilli and Parmesan.",
+        "country": "Italy",
+        "region": "Campania",
+        "serves": 2
+    },
+
+    "ingredients": [
+        "4 eggs",
+        "2 tbsp extra virgin olive oil",
+        "3 cloves garlic, thinly sliced",
+        "400g chopped tomatoes",
+        "1 tbsp tomato purée",
+        "½ tsp chilli flakes",
+        "Small handful fresh basil",
+        "30g grated Parmesan",
+        "Salt",
+        "Black pepper"
+    ],
+
+    "method": [
+        "Heat the olive oil over a medium heat.",
+        "Cook the sliced garlic gently until fragrant but not browned.",
+        "Add the chilli flakes and cook for 30 seconds.",
+        "Stir in the tomato purée and cook for 1 minute.",
+        "Add the chopped tomatoes.",
+        "Season with salt and black pepper.",
+        "Simmer gently for 15 minutes until the sauce thickens slightly.",
+        "Tear in most of the basil.",
+        "Make four small wells in the sauce.",
+        "Crack an egg into each well.",
+        "Cover with a lid and cook for 4–6 minutes until the whites are set but the yolks remain runny.",
+        "Scatter over the Parmesan and remaining basil.",
+        "Serve immediately."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Crusty Bread"
+        ],
+        "optional-sides": [
+            "Focaccia",
+            "Green Salad"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 5,
+        "cook-time-minutes": 20,
+        "freezer-label": "freeze the tomato sauce only",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "The bubbling red tomato sauce is said to resemble the flames of purgatory, giving the dish its memorable name.",
+        "what-you-will-learn": "How to build a simple Italian tomato sauce and gently poach eggs directly in it.",
+        "skills": [
+            "Building tomato sauces",
+            "Poaching eggs",
+            "Balancing acidity",
+            "Using fresh herbs"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A quick, comforting meal made almost entirely from pantry staples, offering an Italian counterpart to Shakshuka.",
+        "chapman-tips": [
+            "Keep the garlic pale—burnt garlic will make the whole dish bitter.",
+            "A lid helps the egg whites cook before the yolks overcook.",
+            "Finish with your best extra virgin olive oil for extra flavour.",
+            "Good bread is almost as important as the eggs."
+        ],
+        "batch-cooking": "The tomato sauce freezes beautifully. Defrost, reheat and add fresh eggs when serving.",
+        "leftovers": "The sauce makes an excellent pasta sauce the following day."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Shakshuka",
+            "Çılbır",
+            "Croque Madame"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

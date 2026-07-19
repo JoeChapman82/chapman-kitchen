@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Search Recipes</title>
+  <title>View Recipes</title>
   <meta name="description" content="A family meal planner for always-on displays">
   <meta name="theme-color" content="#d4785c">
   <link rel="icon" href="../assets/icons/favicon.svg" type="image/svg+xml">
@@ -17,19 +17,20 @@
     <nav>
       <a href="../index.html">Home</a>
       <a href="planner.html">Planner</a>
-      <a href="search.html">Search</a>
+      <a href="view-recipes.html">Recipes</a>
     </nav>
   </header>
-  <main class="search-page">
-    <h1>Search Recipes</h1>
+  <main class="view-recipes-page">
+    <h1>View Recipes</h1>
     <div class="search-input-wrapper">
       <input type="text" id="search-input" list="recipe-list" placeholder="Start typing a recipe name...">
       <datalist id="recipe-list"></datalist>
     </div>
+    <div id="recipe-tree"></div>
   </main>
   <footer>
     <p>Chapman kitchen<span class="footer-year"></span></p>
   </footer>
-  <script src="../assets/js/search.js"></script>
+  <script src="../assets/js/view-recipes.js"></script>
 </body>
 </html>

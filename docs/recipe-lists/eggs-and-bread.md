@@ -55,22 +55,22 @@
 
 #### 🇪🇺 Europe
 
-- [ ] Çılbır
-- [ ] Croque Madame
-- [ ] Eggs Benedict
-- [ ] Eggs in Purgatory
-- [ ] Pan con Tomate
-- [ ] Strapatsada
+- [x] Çılbır
+- [x] Croque Madame
+- [x] Eggs Benedict
+- [x] Eggs in Purgatory
+- [x] Pan con Tomate
+- [x] Strapatsada
 
 #### 🌏 Asia
 
 - [x] Korean Egg Toast
-- [ ] Masala Omelette
-- [ ] Tamago Sando
+- [x] Masala Omelette
+- [x] Tamago Sando
 
 #### 🌎 Americas
 
-- [ ] Huevos Rancheros
+- [x] Huevos Rancheros
 
 ### Supporting Recipes
 

@@ -1,0 +1,113 @@
+{
+    "id": "019f7c00-6b0e-71ab-b0c5-80c9ac6392eb",
+    "version": 1,
+
+    "title": "Masala Omelette",
+
+    "overview": {
+        "description": "A fluffy Indian omelette packed with onion, green chilli, coriander and warming spices, cooked until lightly golden.",
+        "country": "India",
+        "region": "Nationwide",
+        "serves": 2
+    },
+
+    "ingredients": [
+        "4 eggs",
+        "1 small onion, very finely diced",
+        "1 green chilli, finely chopped",
+        "2 tbsp fresh coriander, chopped",
+        "½ tsp cumin seeds",
+        "¼ tsp ground turmeric",
+        "¼ tsp Kashmiri chilli powder (optional)",
+        "Salt",
+        "Black pepper",
+        "1 tbsp ghee or neutral oil"
+    ],
+
+    "method": [
+        "Beat the eggs until well combined.",
+        "Stir in the onion, chilli, coriander, cumin seeds, turmeric, chilli powder if using, salt and black pepper.",
+        "Heat the ghee in a frying pan over a medium heat.",
+        "Pour in half the egg mixture.",
+        "Cook gently until the underside is golden and the top is almost set.",
+        "Fold the omelette in half and cook for another 30–60 seconds.",
+        "Repeat with the remaining mixture.",
+        "Serve immediately."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Butter Toast"
+        ],
+        "optional-sides": [
+            "Chapati",
+            "Ketchup",
+            "Green Chutney"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 10,
+        "cook-time-minutes": 10,
+        "freezer-label": "not suitable",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Masala omelettes are a favourite at roadside tea stalls across India, where they're often served with buttered toast and a cup of chai.",
+        "what-you-will-learn": "How fresh herbs, spices and aromatics can completely transform a simple omelette.",
+        "skills": [
+            "Beating eggs",
+            "Balancing spices",
+            "Cooking omelettes"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A quick, inexpensive breakfast using ingredients that are almost always available in the Chapman Kitchen.",
+        "chapman-tips": [
+            "Dice the onion very finely so it softens as the eggs cook.",
+            "Beat the eggs thoroughly for a lighter omelette.",
+            "Cook over a medium heat to avoid overcooking the eggs.",
+            "Ghee adds a wonderful flavour, but neutral oil also works well.",
+            "If you've got leftover cooked potato, crumble a small handful into the eggs before cooking. It's a common variation that makes the omelette even more filling without needing another recipe."
+        ],
+        "batch-cooking": "Not suitable.",
+        "leftovers": "Best enjoyed immediately."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Korean Egg Toast",
+            "Çılbır",
+            "Strapatsada"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}
