@@ -202,7 +202,7 @@ function addListCard(container, title, items, category) {
 
 function speak(text) {
   if (window.fully) { // fully kiosk browsr
-    fully.textToSpeech(text, "en-US", "com.google.android.tts", true);
+    fully.textToSpeech(text);
   } else { // other browsers
     speechSynthesis.cancel();
     const utterance = new SpeechSynthesisUtterance(text);
