@@ -28,3 +28,8 @@ document.addEventListener('DOMContentLoaded', function() {
     el.textContent = new Date().getFullYear();
   });
 });
+
+//Register service worker for PWA support
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('./sw.js');
+}
