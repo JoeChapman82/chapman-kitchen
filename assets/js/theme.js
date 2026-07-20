@@ -31,5 +31,5 @@ document.addEventListener('DOMContentLoaded', function() {
 
 //Register service worker for PWA support
 if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('./sw.js');
+  navigator.serviceWorker.register('/chapman-kitchen/sw.js');
 }
