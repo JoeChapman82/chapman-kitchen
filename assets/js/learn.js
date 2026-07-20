@@ -201,18 +201,23 @@ function addListCard(container, title, items, category) {
 }
 
 function speak(text) {
-  speechSynthesis.cancel();
-  const utterance = new SpeechSynthesisUtterance(text);
-  utterance.rate = 0.85;
-  utterance.pitch = 1.0;
-  utterance.volume = 0.7;
+  if (window.fully) { // fully kiosk browsr
+    fully.textToSpeech(text, "en-US", "com.google.android.tts", true);
+  } else { // other browsers
+    speechSynthesis.cancel();
+    const utterance = new SpeechSynthesisUtterance(text);
+    utterance.rate = 0.85;
+    utterance.pitch = 1.0;
+    utterance.volume = 0.7;
 
-  const voices = speechSynthesis.getVoices();
-  const preferred = ['Samantha', 'Karen', 'Moira', 'Fiona', 'Google UK English Female', 'Microsoft Hazel'];
-  const match = voices.find(v => preferred.some(name => v.name.includes(name)));
-  if (match) utterance.voice = match;
+    const voices = speechSynthesis.getVoices();
+    const preferred = ['Samantha', 'Karen', 'Moira', 'Fiona', 'Google UK English Female', 'Microsoft Hazel'];
+    const match = voices.find(v => preferred.some(name => v.name.includes(name)));
+    if (match) utterance.voice = match;
 
-  speechSynthesis.speak(utterance);
+    speechSynthesis.speak(utterance);
+  }
+
 }
 
 // Pre-load voices (some browsers need this before first speak call)
