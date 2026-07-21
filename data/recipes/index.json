@@ -19,6 +19,10 @@
         "path": "bread/injera.json",
         "title": "Injera"
     },
+    "019f8581-5b6d-74d7-8896-46facb148097": {
+        "path": "bread/korean-milk-loaf.json",
+        "title": "Korean Milk Loaf"
+    },
     "019f6b85-06af-7416-87b6-5e383b9d268d": {
         "path": "bread/naan.json",
         "title": "Quick No-Yeast Naan"
@@ -179,6 +183,18 @@
         "path": "meat/beef-burgers.json",
         "title": "Homemade Beef Burgers"
     },
+    "019f867c-4b2f-735e-a569-1db2b00b2dbf": {
+        "path": "meat/chicken-fricassee.json",
+        "title": "Chicken Fricassée"
+    },
+    "019f8674-5742-749b-8ae9-046816348c69": {
+        "path": "meat/chicken-paprikash.json",
+        "title": "Chicken Paprikash"
+    },
+    "019f867a-dcdf-717f-a1ed-3bb361d5f293": {
+        "path": "meat/chicken-provencal.json",
+        "title": "Chicken Provençal"
+    },
     "019f769b-3a9a-704a-a345-2e1b8badd376": {
         "path": "meat/enchiladas.json",
         "title": "Chicken Enchiladas"
@@ -191,9 +207,17 @@
         "path": "meat/lamb-kofta.json",
         "title": "Lamb Kofta"
     },
+    "019f866d-834d-76f1-a295-38a68cc25da7": {
+        "path": "meat/marry-me-chicken.json",
+        "title": "Marry Me Chicken"
+    },
     "019f5cbd-b0e7-752a-ba1a-900aac859f6f": {
         "path": "noodles/chicken-chow-mein.json",
         "title": "Chicken Chow Mein"
+    },
+    "019f8677-e282-7747-843c-228ee3eb0e61": {
+        "path": "noodles/nokedli.json",
+        "title": "Nokedli"
     },
     "019f6163-8e75-761b-915c-cf2ef3795248": {
         "path": "noodles/pad-kee-mao.json",
@@ -375,9 +399,29 @@
         "path": "sides/hummus.json",
         "title": "Hummus"
     },
+    "019f858c-4a69-751b-96dc-6fa441e7d51b": {
+        "path": "snacks/chicken-nuggets.json",
+        "title": "Chicken Nuggets"
+    },
+    "019f8587-cd11-7408-a2d2-0e751dad1fb7": {
+        "path": "snacks/chicken-samaso.json",
+        "title": "Chicken Samosas"
+    },
     "019f57a4-777a-7a93-9c35-e240781fb1a6": {
         "path": "snacks/falafel.json",
         "title": "Falafel"
+    },
+    "019f8585-9ab2-7476-b2ee-34d7987986a0": {
+        "path": "snacks/jamaican-beef-patties.json",
+        "title": "Jamaican Beef Patties"
+    },
+    "<uuid>": {
+        "path": "snacks/mini-beef-empanadas.json",
+        "title": "019f8586-dc22-7096-98e1-1d3792b94ed0"
+    },
+    "019f8589-adca-73c6-9789-3920cfed8d43": {
+        "path": "snacks/pork-gyoza.json",
+        "title": "Pork Gyoza"
     },
     "019f769e-bd22-71dd-9354-70363a99be3c": {
         "path": "snacks/sausage-roll.json",
@@ -454,6 +498,14 @@
     "019f6426-cfc1-740d-adee-ca51b7ee766f": {
         "path": "stew/beef-bourguignon.json",
         "title": "Beef Bourguignon"
+    },
+    "019f866b-350a-73b8-8e95-59e516648d11": {
+        "path": "stew/chicken-cacciatore.json",
+        "title": "Chicken Cacciatore"
+    },
+    "019f8671-8fc9-7140-9fd5-1c16f8e8a47e": {
+        "path": "stew/coq-au-vin.json",
+        "title": "Coq au Vin"
     },
     "019f5cb6-6d1f-74d8-92e6-39c87b6bef9b": {
         "path": "stew/doro-wat.json",

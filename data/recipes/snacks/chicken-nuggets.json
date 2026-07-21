@@ -1,0 +1,119 @@
+{
+    "id": "019f858c-4a69-751b-96dc-6fa441e7d51b",
+    "version": 1,
+
+    "title": "Chicken Nuggets",
+
+    "overview": {
+        "description": "Tender pieces of chicken coated in crisp breadcrumbs and baked or fried until golden.",
+        "country": "United States",
+        "region": "",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "600g boneless, skinless chicken thighs",
+        "100g plain flour",
+        "2 eggs",
+        "150g breadcrumbs",
+        "1 tsp paprika",
+        "½ tsp garlic powder",
+        "½ tsp onion powder",
+        "Salt",
+        "Black pepper",
+        "Oil, for cooking"
+    ],
+
+    "method": [
+        "Cut the chicken thighs into bite-sized nugget pieces.",
+        "Set up three shallow bowls: one with the flour seasoned with salt and pepper, one with the beaten eggs, and one with the breadcrumbs mixed with the paprika, garlic powder and onion powder.",
+        "Coat each piece of chicken in the seasoned flour.",
+        "Dip into the beaten egg.",
+        "Coat thoroughly in the seasoned breadcrumbs.",
+        "Place the coated nuggets on a tray.",
+        "For baking, preheat the oven to 220°C (200°C fan).",
+        "Lightly brush or spray the nuggets with oil.",
+        "Bake for 18–22 minutes, turning halfway through, until golden and the chicken is cooked through.",
+        "Alternatively, shallow-fry or deep-fry until golden and cooked through.",
+        "Allow to cool slightly before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Ketchup"
+        ],
+        "optional-sides": [
+            "Barbecue Sauce",
+            "Honey Mustard",
+            "Sweet Chilli Sauce",
+            "Chips"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 25,
+        "cook-time-minutes": 20,
+        "freezer-label": "freezes well",
+        "cost": "budget",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Chicken nuggets became popular as a convenient food in the second half of the twentieth century, but the basic idea of breaded and fried pieces of meat is much older.",
+        "what-you-will-learn": "How to create a simple breadcrumb coating and prepare a homemade freezer-friendly alternative to commercially produced nuggets.",
+        "skills": [
+            "Knife skills",
+            "Breading",
+            "Working with raw chicken",
+            "Baking",
+            "Freezer preparation"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A genuinely useful homemade freezer snack that is popular with children and gives you control over the ingredients without making the recipe complicated.",
+        "chapman-tips": [
+            "Chicken thigh stays juicier than breast, making it particularly forgiving for nuggets.",
+            "Keep one hand for the dry ingredients and one hand for the egg to avoid coating your fingers.",
+            "Don't overcrowd the baking tray or the coating will steam rather than crisp.",
+            "A wire rack set over a baking tray helps hot air circulate around the nuggets.",
+            "For a finer, more even coating, use panko breadcrumbs or pulse regular breadcrumbs briefly in a food processor."
+        ],
+        "batch-cooking": "Freeze the breaded, uncooked nuggets in a single layer until solid, then transfer to a freezer bag or container. Cook directly from frozen, adding approximately 5–10 minutes to the cooking time.",
+        "leftovers": "Cooked nuggets can be refrigerated and reheated in an oven or air fryer. They are also useful chopped into wraps or salads."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chicken Samosas",
+            "Pork Gyoza",
+            "Chicken Croquettes"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

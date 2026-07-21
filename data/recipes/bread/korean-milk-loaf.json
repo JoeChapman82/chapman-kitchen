@@ -1,0 +1,99 @@
+{
+    "id": "019f8581-5b6d-74d7-8896-46facb148097",
+    "version": 1,
+
+    "title": "Korean Milk Loaf",
+
+    "overview": {
+        "description": "A soft, lightly sweet Korean-style milk loaf made entirely in a bread maker. This version uses liquid milk rather than milk powder or other milk solids.",
+        "country": "South Korea",
+        "region": "",
+        "serves": 1
+    },
+
+    "ingredients": [
+        "400g strong white bread flour",
+        "260g whole milk",
+        "1 large egg",
+        "50g unsalted butter, softened",
+        "3 tbsp sugar",
+        "1 tsp salt",
+        "1 tsp instant dried yeast"
+    ],
+
+    "method": [
+        "Add the ingredients to the bread maker in the order recommended by the manufacturer.",
+        "Select the Basic or White Bread programme, preferably with a light crust setting.",
+        "Allow the bread maker to complete the kneading, proving and baking cycle.",
+        "Remove the loaf from the bread maker and allow it to cool before slicing."
+    ],
+
+    "serving": {
+        "serve-with": [],
+        "optional-sides": []
+    },
+
+    "planner": {
+        "prep-time-minutes": 5,
+        "cook-time-minutes": 0,
+        "freezer-label": "freezes well",
+        "cost": "",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Korean milk bread is usually made with a very soft, enriched dough and is known for its fluffy, tender texture. A bread maker produces the same style of dough and flavour, although without the traditional pull-apart shaping.",
+        "what-you-will-learn": "How liquid milk, butter and egg create a soft, rich bread without using milk powder or other milk solids.",
+        "skills": [
+            "Bread maker baking",
+            "Enriched dough",
+            "Ingredient weighing"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A soft, lightly sweet everyday loaf that makes a good breakfast bread and can be made almost entirely hands-off in the bread maker.",
+        "chapman-tips": [
+            "Add the ingredients in the order recommended by your bread maker manufacturer.",
+            "Because the loaf contains milk, egg and butter, it is richer and softer than a standard white loaf.",
+            "Allow the loaf to cool before slicing so the crumb has time to set.",
+            "The loaf is especially good toasted after the first day."
+        ],
+        "batch-cooking": "Freeze sliced portions so individual slices can be removed as needed.",
+        "leftovers": "Excellent toasted, used for French toast or turned into breadcrumbs once stale."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Scotch Pancakes",
+            "Korean Egg Toast",
+            "French Toast"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

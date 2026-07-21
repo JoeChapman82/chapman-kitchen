@@ -1,0 +1,129 @@
+{
+    "id": "019f8674-5742-749b-8ae9-046816348c69",
+    "version": 1,
+
+    "title": "Chicken Paprikash",
+
+    "overview": {
+        "description": "Tender chicken slowly cooked with onions and Hungarian paprika in a rich sauce finished with sour cream.",
+        "country": "Hungary",
+        "region": "Nationwide",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "8 chicken thighs, bone-in and skinless",
+        "2 tbsp lard or neutral oil",
+        "2 large onions, finely chopped",
+        "3 cloves garlic, finely chopped",
+        "2 tbsp sweet Hungarian paprika",
+        "½ tsp hot Hungarian paprika, optional",
+        "250ml chicken stock",
+        "150g full-fat sour cream",
+        "1 tbsp plain flour",
+        "Salt",
+        "Black pepper",
+        "Fresh parsley, to serve"
+    ],
+
+    "method": [
+        "Season the chicken thighs with salt and black pepper.",
+        "Heat the lard or oil in a large heavy-based casserole over a medium heat.",
+        "Brown the chicken thighs in batches, then remove them from the pan.",
+        "Add the onions to the pan and cook gently until very soft and lightly golden.",
+        "Add the garlic and cook for 1 minute.",
+        "Remove the pan from the heat.",
+        "Stir in the sweet paprika and hot paprika if using.",
+        "Add a small splash of the chicken stock and stir to form a paste.",
+        "Return the pan to the heat.",
+        "Return the chicken to the casserole.",
+        "Pour in the remaining chicken stock.",
+        "Bring to a gentle simmer.",
+        "Cover and cook gently for 40–50 minutes, until the chicken is tender and cooked through.",
+        "Mix the sour cream and flour together in a bowl.",
+        "Stir a few spoonfuls of the hot cooking liquid into the sour cream mixture to warm it gradually.",
+        "Stir the sour cream mixture into the casserole.",
+        "Heat gently for a few minutes until the sauce thickens slightly, but do not allow it to boil vigorously.",
+        "Taste and adjust the seasoning.",
+        "Scatter with fresh parsley before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Nokedli"
+        ],
+        "optional-sides": [
+            "Egg Noodles",
+            "Boiled Potatoes",
+            "Crusty Bread"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 60,
+        "freezer-label": "freezes well",
+        "cost": "budget",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Paprikás csirke is one of Hungary's best-known traditional dishes, and the word paprikás refers to dishes in which paprika is a defining ingredient.",
+        "what-you-will-learn": "How to use paprika without burning it, slowly soften onions into a sauce and incorporate sour cream without curdling it.",
+        "skills": [
+            "Browning chicken",
+            "Cooking onions",
+            "Working with paprika",
+            "Tempering sour cream",
+            "Braising"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A simple but deeply comforting Hungarian chicken dish that shows how a small number of carefully handled ingredients can create a rich and distinctive sauce.",
+        "chapman-tips": [
+            "Use good-quality Hungarian paprika because it is the defining flavour of the dish.",
+            "Never let the paprika burn. Removing the pan from the heat before adding it is a simple way to avoid bitterness.",
+            "The onions should be properly soft before the paprika is added.",
+            "Use full-fat sour cream for the smoothest and richest sauce.",
+            "Temper the sour cream with hot cooking liquid before adding it to the pan to reduce the risk of curdling.",
+            "Nokedli is the classic accompaniment and is well worth making if you have time."
+        ],
+        "batch-cooking": "Cool completely before freezing in portions. Freeze the chicken and sauce together. The sour cream sauce may separate slightly when reheated, so reheat gently and stir well.",
+        "leftovers": "Remove the chicken from the bones and reheat gently with the sauce. Serve with noodles, potatoes or bread."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chicken Cacciatore",
+            "Coq au Vin",
+            "Chicken Saag"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

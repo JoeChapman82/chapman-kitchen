@@ -1,0 +1,134 @@
+{
+    "id": "019f866b-350a-73b8-8e95-59e516648d11",
+    "version": 1,
+
+    "title": "Chicken Cacciatore",
+
+    "overview": {
+        "description": "Rustic Italian braised chicken cooked slowly with tomatoes, peppers, onions, mushrooms and herbs.",
+        "country": "Italy",
+        "region": "Tuscany",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "4 chicken thighs, bone-in and skin-on",
+        "2 tbsp olive oil",
+        "1 large onion, sliced",
+        "1 red pepper, sliced",
+        "2 cloves garlic, finely chopped",
+        "250g mushrooms, sliced",
+        "400g tin chopped tomatoes",
+        "150ml dry white wine",
+        "150ml chicken stock",
+        "2 tsp dried oregano",
+        "1 tsp dried rosemary",
+        "2 bay leaves",
+        "100g black or green olives",
+        "2 anchovy fillets",
+        "1 tbsp capers",
+        "Salt",
+        "Black pepper",
+        "Fresh parsley, to serve"
+    ],
+
+    "method": [
+        "Season the chicken thighs generously with salt and black pepper.",
+        "Heat the olive oil in a large heavy-based pan or casserole over a medium-high heat.",
+        "Brown the chicken thighs skin-side down until the skin is golden and crisp.",
+        "Turn and brown the other side briefly.",
+        "Remove the chicken from the pan.",
+        "Add the onion and pepper to the same pan.",
+        "Cook until softened.",
+        "Add the garlic, anchovies and mushrooms.",
+        "Cook for 3–4 minutes.",
+        "Pour in the white wine and scrape the bottom of the pan to release any browned bits.",
+        "Allow the wine to reduce by approximately half.",
+        "Add the chopped tomatoes, chicken stock, oregano, rosemary and bay leaves.",
+        "Return the chicken to the pan, skin-side up.",
+        "Bring to a gentle simmer.",
+        "Cover and cook gently for 35–45 minutes until the chicken is tender and cooked through.",
+        "Stir in the olives and capers during the final 10 minutes.",
+        "Taste and adjust the seasoning.",
+        "Scatter with fresh parsley before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Crusty Bread"
+        ],
+        "optional-sides": [
+            "Polenta",
+            "Pasta",
+            "Mashed Potatoes",
+            "Rice"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 50,
+        "freezer-label": "freezes well",
+        "cost": "mid-range",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Cacciatore means 'hunter-style' in Italian, referring to rustic dishes traditionally made with whatever ingredients were available.",
+        "what-you-will-learn": "How browning meat, deglazing a pan and slowly braising ingredients create a deeply flavoured one-pot dish.",
+        "skills": [
+            "Browning chicken",
+            "Deglazing",
+            "Braising",
+            "Building a sauce",
+            "Freezer preparation"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A rustic, deeply flavoured chicken dish that rewards slow cooking and is practical enough to make as a larger batch.",
+        "chapman-tips": [
+            "Brown the chicken properly before adding the sauce. This is where much of the flavour begins.",
+            "Deglaze the pan thoroughly to incorporate the browned bits into the sauce.",
+            "Keep the skin above the sauce if you want it to retain some texture.",
+            "The sauce should be thick enough to coat the chicken rather than watery.",
+            "Chicken thighs are more forgiving than breast meat during a long braise."
+        ],
+        "batch-cooking": "Allow the cooked dish to cool completely before freezing in portions. Freeze the chicken and sauce together.",
+        "leftovers": "Leftover chicken can be shredded into the sauce and served with pasta, rice or crusty bread."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Marry Me Chicken",
+            "Vietnamese Lemongrass Chicken",
+            "Chicken Shawarma"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

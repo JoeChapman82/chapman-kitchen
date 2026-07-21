@@ -1,0 +1,125 @@
+{
+    "id": "019f866d-834d-76f1-a295-38a68cc25da7",
+    "version": 1,
+
+    "title": "Marry Me Chicken",
+
+    "overview": {
+        "description": "Tender chicken in a creamy sauce made with sun-dried tomatoes, garlic, Parmesan and herbs.",
+        "country": "United States",
+        "region": "Italian-American",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "4 boneless, skinless chicken breasts",
+        "Salt",
+        "Black pepper",
+        "2 tbsp olive oil",
+        "3 cloves garlic, finely chopped",
+        "1 tsp dried oregano",
+        "½ tsp dried chilli flakes",
+        "150ml chicken stock",
+        "200ml double cream",
+        "75g sun-dried tomatoes, roughly chopped",
+        "50g Parmesan, finely grated",
+        "Small handful fresh basil, torn"
+    ],
+
+    "method": [
+        "Season the chicken breasts generously with salt and black pepper.",
+        "Heat the olive oil in a large frying pan over a medium-high heat.",
+        "Brown the chicken breasts on both sides until golden.",
+        "Remove the chicken from the pan and set aside.",
+        "Reduce the heat to medium.",
+        "Add the garlic, oregano and chilli flakes.",
+        "Cook for approximately 30 seconds until fragrant.",
+        "Pour in the chicken stock and scrape the bottom of the pan to release the browned bits.",
+        "Add the double cream and sun-dried tomatoes.",
+        "Bring to a gentle simmer.",
+        "Stir in the Parmesan.",
+        "Return the chicken to the pan.",
+        "Simmer gently until the chicken is cooked through and the sauce has thickened.",
+        "Taste and adjust the seasoning.",
+        "Scatter with fresh basil before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Crusty Bread"
+        ],
+        "optional-sides": [
+            "Pasta",
+            "Rice",
+            "Roasted Vegetables",
+            "Green Salad"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 10,
+        "cook-time-minutes": 30,
+        "freezer-label": "freezes well",
+        "cost": "mid-range",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "The dish became known as Marry Me Chicken because its rich, creamy sauce was said to be so delicious that it could inspire a marriage proposal.",
+        "what-you-will-learn": "How to build a rich pan sauce by browning chicken, deglazing the pan and balancing cream, Parmesan and concentrated tomato flavour.",
+        "skills": [
+            "Browning chicken",
+            "Deglazing",
+            "Making a pan sauce",
+            "Balancing flavours",
+            "Cooking with cream"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A rich, comforting chicken dish that introduces the children to the combination of concentrated tomato, Parmesan, garlic and herbs.",
+        "chapman-tips": [
+            "Don't overcrowd the pan when browning the chicken.",
+            "Scrape the browned bits from the bottom of the pan when adding the stock.",
+            "Sun-dried tomatoes packed in oil are particularly good here, and a little of their oil can be used for frying.",
+            "Keep the sauce at a gentle simmer so the cream remains smooth.",
+            "Fresh basil should be added at the end so its flavour stays fresh."
+        ],
+        "batch-cooking": "Cool completely before freezing in portions. The sauce may separate slightly when reheated but should come back together with gentle heating and stirring.",
+        "leftovers": "Shred leftover chicken into the sauce and serve with pasta, rice or crusty bread."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chicken Cacciatore",
+            "Chicken Shawarma",
+            "Vietnamese Lemongrass Chicken"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

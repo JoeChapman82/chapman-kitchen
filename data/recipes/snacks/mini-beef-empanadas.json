@@ -1,0 +1,142 @@
+{
+    "id": "<uuid>",
+    "version": 1,
+
+    "title": "019f8586-dc22-7096-98e1-1d3792b94ed0",
+
+    "overview": {
+        "description": "Small baked Argentine-style empanadas filled with savoury beef, onion, paprika, cumin and olives.",
+        "country": "Argentina",
+        "region": "Nationwide",
+        "serves": 12
+    },
+
+    "ingredients": [
+        "300g plain flour",
+        "1 tsp fine salt",
+        "75g cold unsalted butter, diced",
+        "1 egg",
+        "90–110ml cold water",
+        "",
+        "400g beef mince",
+        "1 tbsp olive oil",
+        "1 medium onion, finely diced",
+        "1 small red pepper, finely diced",
+        "2 cloves garlic, finely chopped",
+        "1 tbsp sweet paprika",
+        "1 tsp ground cumin",
+        "½ tsp dried oregano",
+        "½ tsp chilli flakes (optional)",
+        "100ml beef stock",
+        "2 tbsp green olives, finely chopped",
+        "1 hard-boiled egg, finely chopped",
+        "Salt",
+        "Black pepper",
+        "",
+        "1 egg, beaten, for brushing"
+    ],
+
+    "method": [
+        "Mix the flour and salt in a large bowl.",
+        "Rub in the cold butter until the mixture resembles breadcrumbs.",
+        "Add the egg and enough cold water to bring the mixture together into a firm dough.",
+        "Knead briefly until smooth.",
+        "Wrap and chill for at least 30 minutes.",
+        "Heat the olive oil in a large frying pan over a medium heat.",
+        "Cook the onion and red pepper until softened.",
+        "Add the garlic, paprika, cumin, oregano and chilli flakes if using.",
+        "Cook for 1 minute until fragrant.",
+        "Add the beef mince and cook until browned, breaking it up thoroughly.",
+        "Add the beef stock and simmer until almost completely reduced.",
+        "Stir through the chopped olives and hard-boiled egg.",
+        "Season with salt and black pepper.",
+        "Allow the filling to cool completely.",
+        "Preheat the oven to 200°C (180°C fan).",
+        "Divide the pastry into 12 equal portions.",
+        "Roll each portion into a circle approximately 10–12cm in diameter.",
+        "Place a spoonful of filling in the centre of each circle.",
+        "Fold the pastry over to form a half-moon.",
+        "Press the edges firmly together and crimp with a fork.",
+        "Place on a baking tray and brush with beaten egg.",
+        "Bake for 20–25 minutes until golden brown.",
+        "Allow to cool slightly before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Chimichurri"
+        ],
+        "optional-sides": [
+            "Salsa Criolla",
+            "Hot Sauce",
+            "Green Salad"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 45,
+        "cook-time-minutes": 25,
+        "freezer-label": "freezes well",
+        "cost": "mid-range",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Empanadas are found throughout Latin America, Spain and the Philippines, but Argentine empanadas have developed many distinct regional styles and fillings.",
+        "what-you-will-learn": "How to make a simple filled pastry, create a flavourful minced beef filling and shape small pastries for batch cooking.",
+        "skills": [
+            "Making pastry",
+            "Cooking minced beef",
+            "Reducing fillings",
+            "Shaping filled pastries",
+            "Freezer preparation"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A freezer-friendly snack that gives the children something different from sausage rolls while teaching the useful skill of making and shaping filled pastry.",
+        "chapman-tips": [
+            "The filling should be completely cool before it goes into the pastry.",
+            "Cook the filling until almost dry so the pastry stays crisp.",
+            "Don't overfill the empanadas or they will be difficult to seal.",
+            "Keep the pastry chilled if the kitchen is warm.",
+            "Make a few different crimping patterns if you are making multiple fillings so they can be identified easily."
+        ],
+        "batch-cooking": "Freeze assembled, unbaked empanadas on a tray until solid, then transfer to a freezer bag or container. Bake from frozen at 200°C (180°C fan), adding approximately 10 minutes to the cooking time.",
+        "leftovers": "Cooked empanadas are good cold or can be reheated in the oven to restore the crisp pastry."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Jamaican Beef Patties",
+            "Mini Sausage Rolls",
+            "Pork Gyoza"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "id": "019f8585-9ab2-7476-b2ee-34d7987986a0",
+    "version": 1,
+
+    "title": "Jamaican Beef Patties",
+
+    "overview": {
+        "description": "Flaky golden pastry filled with richly seasoned Jamaican beef, onion and aromatic spices.",
+        "country": "Jamaica",
+        "region": "Caribbean",
+        "serves": 8
+    },
+
+    "ingredients": [
+        "500g plain flour",
+        "1 tsp fine salt",
+        "1 tbsp curry powder",
+        "1 tsp ground turmeric",
+        "150g cold unsalted butter, diced",
+        "100g cold beef dripping or lard",
+        "150–200ml ice-cold water",
+        "",
+        "500g beef mince",
+        "1 tbsp neutral oil",
+        "1 medium onion, finely diced",
+        "2 cloves garlic, finely chopped",
+        "1 Scotch bonnet chilli, very finely chopped",
+        "2 spring onions, finely sliced",
+        "1 tbsp Jamaican curry powder",
+        "1 tsp dried thyme",
+        "½ tsp ground allspice",
+        "250ml beef stock",
+        "2 tbsp breadcrumbs",
+        "Salt",
+        "Black pepper",
+        "",
+        "1 egg, beaten, for brushing"
+    ],
+
+    "method": [
+        "Mix the flour, salt, curry powder and turmeric together in a large bowl.",
+        "Rub in the cold butter and beef dripping or lard until the mixture resembles coarse breadcrumbs.",
+        "Add the ice-cold water gradually, mixing until a firm dough forms.",
+        "Bring the dough together without kneading.",
+        "Flatten into a disc, wrap and chill for at least 30 minutes.",
+        "Heat the oil in a large frying pan over a medium heat.",
+        "Add the onion and cook until softened.",
+        "Add the garlic, Scotch bonnet, spring onions, curry powder, thyme and allspice.",
+        "Cook for 1 minute until fragrant.",
+        "Add the beef mince and cook until browned, breaking it up thoroughly.",
+        "Add the beef stock and simmer until almost completely reduced.",
+        "Stir in the breadcrumbs to absorb any remaining moisture.",
+        "Season with salt and black pepper.",
+        "Allow the filling to cool completely.",
+        "Preheat the oven to 200°C (180°C fan).",
+        "Divide the pastry into 8 equal portions.",
+        "Roll each portion into a circle approximately 15cm in diameter.",
+        "Place a portion of the cooled beef filling on one half of each pastry circle.",
+        "Fold the pastry over the filling to form a half-moon.",
+        "Press the edges firmly together, then crimp with a fork.",
+        "Place the patties on a baking tray.",
+        "Brush with beaten egg.",
+        "Bake for 25–30 minutes until golden and crisp.",
+        "Allow to cool for a few minutes before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Hot Sauce"
+        ],
+        "optional-sides": [
+            "Mango Chutney",
+            "Pickled Vegetables",
+            "Fresh Fruit"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 45,
+        "cook-time-minutes": 30,
+        "freezer-label": "freezes well",
+        "cost": "mid-range",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Jamaican beef patties developed from the influence of Cornish pasties, Indian spices and Jamaican ingredients, creating a pastry snack that is now one of Jamaica's most recognisable foods.",
+        "what-you-will-learn": "How to make a richly seasoned minced beef filling, work with pastry and shape filled pastries for batch cooking.",
+        "skills": [
+            "Making pastry",
+            "Cooking minced beef",
+            "Reducing fillings",
+            "Shaping filled pastries",
+            "Freezer preparation"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A substantial freezer-friendly snack that combines a flaky, warmly spiced pastry with a deeply seasoned beef filling.",
+        "chapman-tips": [
+            "The filling must be cool before it goes into the pastry or the pastry will become difficult to work with.",
+            "Cook the filling until it is fairly dry. Excess moisture will make the pastry soggy.",
+            "Keep the pastry cold while working with it.",
+            "The Scotch bonnet adds both heat and fruity flavour. Adjust the amount to suit your family.",
+            "Make the patties the same size so they cook evenly."
+        ],
+        "batch-cooking": "Freeze the assembled, unbaked patties on a tray until solid, then transfer to a freezer bag or container. Bake from frozen at 200°C (180°C fan), adding approximately 10–15 minutes to the cooking time.",
+        "leftovers": "Cooked patties can be refrigerated and reheated in the oven. They are also good cold in packed lunches."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Mini Sausage Rolls",
+            "Mini Beef Empanadas",
+            "Mini Meat Pies"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

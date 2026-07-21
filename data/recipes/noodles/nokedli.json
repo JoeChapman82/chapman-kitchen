@@ -1,0 +1,110 @@
+{
+    "id": "019f8677-e282-7747-843c-228ee3eb0e61",
+    "version": 1,
+
+    "title": "Nokedli",
+
+    "overview": {
+        "description": "Soft, irregular Hungarian egg noodles made from a simple batter and traditionally served with dishes such as Chicken Paprikash.",
+        "country": "Hungary",
+        "region": "Nationwide",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "250g plain flour",
+        "2 large eggs",
+        "½ tsp salt",
+        "120–150ml water",
+        "Butter, to serve"
+    ],
+
+    "method": [
+        "Bring a large saucepan of salted water to a gentle boil.",
+        "Mix the flour and salt in a bowl.",
+        "Beat the eggs and add them to the flour.",
+        "Gradually add enough water to make a thick, sticky batter.",
+        "Beat the batter vigorously with a wooden spoon for a minute or two until smooth and elastic.",
+        "Working in batches, push the batter through a nokedli maker or a large-holed colander directly into the simmering water.",
+        "Cook until the noodles float to the surface, then continue cooking for approximately 1–2 minutes.",
+        "Remove with a slotted spoon and drain.",
+        "Toss with a little butter to prevent sticking.",
+        "Serve immediately."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Chicken Paprikash"
+        ],
+        "optional-sides": [
+            "Beef Stew",
+            "Pork Paprikash",
+            "Mushroom Paprikash"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 10,
+        "cook-time-minutes": 10,
+        "freezer-label": "better fresh",
+        "cost": "very low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Nokedli are also known as galuska in some parts of Hungary and neighbouring Central European countries.",
+        "what-you-will-learn": "How a simple egg batter can be turned into soft, irregular noodles without rolling or cutting dough.",
+        "skills": [
+            "Making batter",
+            "Working with boiling water",
+            "Shaping fresh noodles"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A simple traditional accompaniment that is worth learning because it turns a dish like Chicken Paprikash into a complete Hungarian meal.",
+        "chapman-tips": [
+            "The batter should be thick and sticky rather than pourable.",
+            "Don't worry about making every piece the same size. The irregular shapes are part of the character of nokedli.",
+            "Cook in batches so the water does not cool too much.",
+            "Toss the cooked noodles with butter immediately to stop them sticking together.",
+            "If using a colander, work carefully and keep your hands away from the boiling water."
+        ],
+        "batch-cooking": "Best made fresh. Cooked nokedli can be refrigerated, but the texture is better when freshly made.",
+        "leftovers": "Leftover nokedli can be reheated in a frying pan with butter or added to soups and stews."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chicken Paprikash",
+            "Dosa",
+            "Pav Rolls"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

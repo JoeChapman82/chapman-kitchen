@@ -1,0 +1,139 @@
+{
+    "id": "019f8671-8fc9-7140-9fd5-1c16f8e8a47e",
+    "version": 1,
+
+    "title": "Coq au Vin",
+
+    "overview": {
+        "description": "Chicken slowly braised in red wine with lardons, mushrooms, pearl onions and aromatic herbs.",
+        "country": "France",
+        "region": "Burgundy",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "4 chicken thighs, bone-in and skin-on",
+        "4 chicken drumsticks",
+        "150g lardons or thick-cut bacon, diced",
+        "1 tbsp neutral oil",
+        "2 carrots, sliced",
+        "1 large onion, roughly chopped",
+        "3 cloves garlic, crushed",
+        "1 tbsp plain flour",
+        "750ml dry red wine",
+        "250ml chicken stock",
+        "2 bay leaves",
+        "4 sprigs fresh thyme",
+        "250g chestnut mushrooms, halved",
+        "150g pearl onions, peeled",
+        "15g butter",
+        "Salt",
+        "Black pepper",
+        "Fresh parsley, to serve"
+    ],
+
+    "method": [
+        "Pat the chicken dry and season lightly with salt and black pepper.",
+        "Heat a large heavy-based casserole over a medium heat.",
+        "Add the lardons and cook until the fat has rendered and the lardons are golden.",
+        "Remove the lardons and set aside, leaving the rendered fat in the casserole.",
+        "Add the oil if necessary.",
+        "Brown the chicken in batches until golden on all sides.",
+        "Remove the chicken and set aside.",
+        "Add the carrots and onion to the casserole.",
+        "Cook until softened and lightly browned.",
+        "Add the garlic and cook for 1 minute.",
+        "Sprinkle over the flour and stir well.",
+        "Cook for 1 minute.",
+        "Gradually pour in the red wine, scraping the bottom of the casserole to release the browned bits.",
+        "Add the chicken stock, bay leaves and thyme.",
+        "Return the chicken and lardons to the casserole.",
+        "Bring to a gentle simmer.",
+        "Cover and cook gently for approximately 1 hour, or until the chicken is tender.",
+        "Meanwhile, melt the butter in a frying pan.",
+        "Cook the mushrooms until golden.",
+        "Add the pearl onions and cook until lightly browned and tender.",
+        "Add the mushrooms and pearl onions to the casserole for the final 20 minutes of cooking.",
+        "Remove the bay leaves and thyme stems.",
+        "Taste and adjust the seasoning.",
+        "Scatter with fresh parsley before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Mashed Potatoes"
+        ],
+        "optional-sides": [
+            "Crusty Bread",
+            "Buttered Noodles",
+            "Green Beans"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 30,
+        "cook-time-minutes": 90,
+        "freezer-label": "freezes well",
+        "cost": "mid-range",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Coq au vin literally means 'rooster with wine'. The dish is traditionally associated with Burgundy, although many French regions have their own versions using local wines and ingredients.",
+        "what-you-will-learn": "How to brown meat, build a wine-based braising sauce and slowly cook chicken until tender and deeply flavoured.",
+        "skills": [
+            "Browning meat",
+            "Rendering fat",
+            "Deglazing",
+            "Braising",
+            "Reducing sauces"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A classic French dish that teaches how time, wine and gentle cooking can transform inexpensive chicken into a deeply flavoured meal.",
+        "chapman-tips": [
+            "Dry the chicken thoroughly before browning so it colours rather than steams.",
+            "Brown the chicken in batches to avoid overcrowding the casserole.",
+            "Don't skip deglazing the pan; the browned bits are a major source of flavour.",
+            "Cook the mushrooms separately so they brown rather than becoming watery in the braising liquid.",
+            "The dish is often even better the following day after the flavours have had time to develop."
+        ],
+        "batch-cooking": "Cool completely before freezing in portions. Freeze the chicken and sauce together.",
+        "leftovers": "Reheat gently and serve with mashed potatoes, noodles or crusty bread. The chicken can also be removed from the bones and used in a pie or pasta dish."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chicken Cacciatore",
+            "Marry Me Chicken",
+            "Lamb Kofta"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "id": "019f8589-adca-73c6-9789-3920cfed8d43",
+    "version": 1,
+
+    "title": "Pork Gyoza",
+
+    "overview": {
+        "description": "Japanese pan-fried dumplings filled with seasoned pork, cabbage, spring onion, ginger and garlic, wrapped in homemade gyoza dough.",
+        "country": "Japan",
+        "region": "Nationwide",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "300g plain flour",
+        "½ tsp salt",
+        "180ml boiling water",
+        "Cornflour, for dusting",
+        "",
+        "400g pork mince",
+        "250g white cabbage, finely shredded",
+        "1 tsp salt",
+        "3 spring onions, finely sliced",
+        "2 cloves garlic, finely grated",
+        "15g fresh ginger, finely grated",
+        "2 tbsp light soy sauce",
+        "1 tbsp toasted sesame oil",
+        "1 tsp sugar",
+        "½ tsp white pepper",
+        "",
+        "2 tbsp neutral oil, for frying",
+        "100ml water, for steaming"
+    ],
+
+    "method": [
+        "Mix the flour and salt in a bowl.",
+        "Gradually add the boiling water, stirring with chopsticks or a fork until a shaggy dough forms.",
+        "When cool enough to handle, knead for 5–10 minutes until smooth.",
+        "Cover and rest for at least 30 minutes.",
+        "Place the shredded cabbage in a bowl and mix with the salt.",
+        "Leave for 10 minutes, then squeeze firmly to remove as much liquid as possible.",
+        "Combine the pork, cabbage, spring onions, garlic, ginger, soy sauce, sesame oil, sugar and white pepper.",
+        "Mix in one direction until the filling becomes sticky and cohesive.",
+        "Divide the dough into approximately 30 equal pieces.",
+        "Roll each piece into a ball.",
+        "Flatten each ball and roll into a thin circle approximately 9–10cm in diameter.",
+        "Keep the wrappers covered with a damp cloth while working.",
+        "Place approximately 1 tablespoon of filling in the centre of each wrapper.",
+        "Moisten the edge with water.",
+        "Fold the wrapper over the filling and pleat the edge to seal.",
+        "Repeat with the remaining wrappers and filling.",
+        "To cook, heat the oil in a large frying pan over medium-high heat.",
+        "Arrange the gyoza flat-side down in the pan.",
+        "Cook until the bases are golden brown.",
+        "Add the water and immediately cover with a lid.",
+        "Steam for 5–7 minutes until the filling is cooked through.",
+        "Remove the lid and continue cooking until the remaining water has evaporated and the bases are crisp."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Soy Sauce",
+            "Rice Vinegar"
+        ],
+        "optional-sides": [
+            "Chilli Oil",
+            "Japanese Pickles",
+            "Steamed Rice"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 75,
+        "cook-time-minutes": 15,
+        "freezer-label": "freezes well",
+        "cost": "mid-range",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Although gyoza originated from Chinese jiaozi, the Japanese version developed its own thinner wrapper, finely minced filling and characteristic pan-fried base.",
+        "what-you-will-learn": "How to make dumpling wrappers from scratch, control moisture in a filling and fold and cook filled dumplings.",
+        "skills": [
+            "Making dumpling wrappers",
+            "Rolling dough",
+            "Folding dumplings",
+            "Controlling moisture",
+            "Pan-frying and steaming",
+            "Freezer preparation"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A brilliant batch-cooking project that teaches several useful skills while producing a freezer full of genuinely convenient homemade snacks.",
+        "chapman-tips": [
+            "Squeeze as much liquid as possible from the cabbage. Wet filling makes the wrappers difficult to seal.",
+            "Keep unused wrappers covered so they do not dry out.",
+            "The filling should be sticky and cohesive before you start wrapping.",
+            "Don't overfill the wrappers. A smaller, neatly sealed gyoza is better than a bursting one.",
+            "The easiest way to learn pleating is to practise with a small amount of filling first.",
+            "The classic cooking method gives you both a crisp base and a soft, steamed top."
+        ],
+        "batch-cooking": "Freeze uncooked gyoza in a single layer on a tray until solid, then transfer to a freezer bag or container. Cook directly from frozen using the same pan-frying and steaming method, adding several minutes to the steaming time.",
+        "leftovers": "Cooked gyoza can be refrigerated and reheated in a frying pan, although freshly cooked gyoza have the best texture."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chicken Samosas",
+            "Mini Beef Empanadas",
+            "Jamaican Beef Patties"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

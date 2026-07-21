@@ -1,0 +1,135 @@
+{
+    "id": "019f867c-4b2f-735e-a569-1db2b00b2dbf",
+    "version": 1,
+
+    "title": "Chicken Fricassée",
+
+    "overview": {
+        "description": "Tender chicken gently braised with mushrooms in a light, creamy French sauce.",
+        "country": "France",
+        "region": "Nationwide",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "8 chicken thighs, bone-in and skinless",
+        "2 tbsp butter",
+        "1 onion, finely diced",
+        "2 carrots, sliced",
+        "2 cloves garlic, finely chopped",
+        "250g chestnut mushrooms, sliced",
+        "2 tbsp plain flour",
+        "500ml chicken stock",
+        "150ml dry white wine",
+        "2 bay leaves",
+        "4 sprigs fresh thyme",
+        "100ml double cream",
+        "1 tbsp lemon juice",
+        "Salt",
+        "Black pepper",
+        "Fresh parsley, to serve"
+    ],
+
+    "method": [
+        "Season the chicken thighs with salt and black pepper.",
+        "Melt the butter in a large heavy-based casserole over a medium heat.",
+        "Add the chicken and cook gently until lightly coloured but not deeply browned.",
+        "Remove the chicken from the casserole.",
+        "Add the onion and carrots and cook until softened.",
+        "Add the garlic and cook for 1 minute.",
+        "Add the mushrooms and cook until softened.",
+        "Sprinkle over the flour and stir well.",
+        "Cook for 1 minute.",
+        "Gradually add the white wine, stirring constantly.",
+        "Gradually add the chicken stock, stirring until smooth.",
+        "Add the bay leaves and thyme.",
+        "Return the chicken to the casserole.",
+        "Bring to a gentle simmer.",
+        "Cover and cook for 35–45 minutes until the chicken is tender and cooked through.",
+        "Remove the chicken from the sauce and keep warm.",
+        "Remove the bay leaves and thyme stems.",
+        "Stir in the cream and lemon juice.",
+        "Simmer gently for a few minutes until the sauce thickens slightly.",
+        "Return the chicken to the sauce.",
+        "Taste and adjust the seasoning.",
+        "Scatter with fresh parsley before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Rice"
+        ],
+        "optional-sides": [
+            "Mashed Potatoes",
+            "Buttered Noodles",
+            "Crusty Bread",
+            "Green Beans"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 60,
+        "freezer-label": "freezes well",
+        "cost": "mid-range",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "The word fricassée refers to a method of cooking in which meat is cut into pieces, gently cooked and served in a light sauce. It sits somewhere between sautéing and braising.",
+        "what-you-will-learn": "How to create a smooth sauce using a flour-based roux, gently braise chicken and finish a creamy sauce with acidity.",
+        "skills": [
+            "Gentle browning",
+            "Making a roux-based sauce",
+            "Braising",
+            "Balancing cream with acidity"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A gentle French chicken dish that teaches the difference between a dark, heavily browned braise and a lighter sauce-based preparation.",
+        "chapman-tips": [
+            "Don't brown the chicken too aggressively. The sauce should remain pale and delicate.",
+            "Add the flour before the liquid so it cooks properly and thickens the sauce smoothly.",
+            "Add the stock gradually while stirring to avoid lumps.",
+            "The lemon juice is important: it stops the cream sauce from becoming heavy.",
+            "If the sauce becomes too thick, loosen it with a little extra chicken stock."
+        ],
+        "batch-cooking": "Cool completely before freezing in portions. The cream sauce may separate slightly when reheated, so reheat gently and stir well.",
+        "leftovers": "Remove the chicken from the bones and use the meat and sauce in a pie, with pasta or over rice."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Coq au Vin",
+            "Chicken Provençal",
+            "Chicken Paprikash"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

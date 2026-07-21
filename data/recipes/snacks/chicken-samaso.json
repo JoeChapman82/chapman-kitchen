@@ -1,0 +1,151 @@
+{
+    "id": "019f8587-cd11-7408-a2d2-0e751dad1fb7",
+    "version": 1,
+
+    "title": "Chicken Samosas",
+
+    "overview": {
+        "description": "Crisp triangular pastries filled with spiced chicken, potato, peas and aromatic Indian spices.",
+        "country": "India",
+        "region": "Nationwide",
+        "serves": 16
+    },
+
+    "ingredients": [
+        "250g plain flour",
+        "½ tsp salt",
+        "4 tbsp neutral oil or ghee",
+        "90–110ml water",
+        "",
+        "300g chicken breast or boneless chicken thigh, finely chopped",
+        "300g potatoes, peeled and cut into small cubes",
+        "100g frozen peas",
+        "1 tbsp neutral oil",
+        "1 tsp cumin seeds",
+        "1 tsp coriander seeds, lightly crushed",
+        "1 small onion, finely diced",
+        "2 cloves garlic, finely chopped",
+        "15g fresh ginger, finely grated",
+        "1 green chilli, finely chopped",
+        "1 tsp ground coriander",
+        "½ tsp ground cumin",
+        "½ tsp garam masala",
+        "¼ tsp turmeric",
+        "½ tsp Kashmiri chilli powder",
+        "1 tbsp lemon juice",
+        "Small handful fresh coriander, chopped",
+        "Salt"
+    ],
+
+    "method": [
+        "Mix the flour and salt in a bowl.",
+        "Rub in the oil or ghee until the flour resembles coarse breadcrumbs.",
+        "Gradually add the water, mixing until a firm dough forms.",
+        "Knead for 5 minutes until smooth.",
+        "Cover and rest for at least 30 minutes.",
+        "Boil the potatoes until just tender, then drain well.",
+        "Heat the oil in a large frying pan.",
+        "Add the cumin seeds and crushed coriander seeds.",
+        "Cook for 30 seconds until fragrant.",
+        "Add the onion and cook until softened.",
+        "Add the garlic, ginger and green chilli.",
+        "Cook for 1 minute.",
+        "Add the chicken and cook until no longer raw.",
+        "Add the ground coriander, cumin, garam masala, turmeric and Kashmiri chilli powder.",
+        "Stir well and cook for 1 minute.",
+        "Add the cooked potatoes and peas.",
+        "Cook until the filling is dry and the chicken is fully cooked.",
+        "Season with salt and lemon juice.",
+        "Stir through the fresh coriander.",
+        "Allow the filling to cool completely.",
+        "Divide the dough into 8 equal portions.",
+        "Roll each portion into a thin oval.",
+        "Cut each oval in half to create two semi-circles.",
+        "Moisten the straight edge of each semi-circle with water.",
+        "Fold into a cone, overlapping the edges and sealing firmly.",
+        "Fill each cone with the cooled chicken mixture.",
+        "Seal the top edge firmly.",
+        "Repeat with the remaining dough and filling.",
+        "Deep-fry at 170°C until golden and crisp.",
+        "Drain on kitchen paper and allow to cool slightly before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Mint and Coriander Chutney"
+        ],
+        "optional-sides": [
+            "Tamarind Chutney",
+            "Masala Chai",
+            "Sliced Onion"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 60,
+        "cook-time-minutes": 20,
+        "freezer-label": "freezes well",
+        "cost": "mid-range",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "The samosa is thought to have travelled to the Indian subcontinent from Central Asia and the Middle East, where similar filled pastries have been made for centuries.",
+        "what-you-will-learn": "How to make a simple samosa pastry, shape a sealed cone and create a dry, flavourful filling suitable for freezing.",
+        "skills": [
+            "Making pastry",
+            "Shaping samosas",
+            "Working with spices",
+            "Deep-frying",
+            "Freezer preparation"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A freezer-friendly snack that brings a classic Indian street-food technique into the Chapman kitchen.",
+        "chapman-tips": [
+            "The dough should be firm rather than soft. A soft dough makes samosas difficult to shape and can produce a less crisp shell.",
+            "The filling must be completely cool before filling the pastry.",
+            "Keep the filling fairly dry so steam does not split the samosas during cooking.",
+            "Don't roll the pastry too thin or the samosas may split.",
+            "Seal the edges firmly and remove trapped air before closing.",
+            "Fry at a moderate temperature. Oil that is too hot can brown the outside before the pastry becomes properly crisp."
+        ],
+        "batch-cooking": "Freeze the assembled, uncooked samosas on a tray until solid, then transfer to a freezer bag or container. Fry from frozen at approximately 160–170°C until cooked through and golden, allowing extra cooking time.",
+        "leftovers": "Cooked samosas can be reheated in an oven or air fryer, although they are best freshly fried."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Jamaican Beef Patties",
+            "Mini Beef Empanadas",
+            "Pork Gyoza"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

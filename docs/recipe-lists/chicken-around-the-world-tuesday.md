@@ -11,7 +11,7 @@
 - [ ] Chicken Cacciatore
 - [ ] Marry Me Chicken
 - [ ] Coq au Vin
-- [ ] Chicken Paprikash
+- [ ] Chicken Paprikash with nokedli
 - [ ] Chicken Provençal
 - [ ] Chicken Fricassée
 
@@ -58,12 +58,12 @@
 
 #### 🇮🇹 Italy & Europe
 
-- [ ] Chicken Cacciatore
-- [ ] Marry Me Chicken
-- [ ] Coq au Vin
-- [ ] Chicken Paprikash
-- [ ] Chicken Provençal
-- [ ] Chicken Fricassée
+- [x] Chicken Cacciatore
+- [x] Marry Me Chicken
+- [x] Coq au Vin
+- [x] Chicken Paprikash
+- [x] Chicken Provençal
+- [x] Chicken Fricassée
 
 #### 🌍 Africa
 

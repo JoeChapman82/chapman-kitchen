@@ -1,0 +1,131 @@
+{
+    "id": "019f867a-dcdf-717f-a1ed-3bb361d5f293",
+    "version": 1,
+
+    "title": "Chicken Provençal",
+
+    "overview": {
+        "description": "Chicken braised with tomatoes, garlic, olives, anchovies, capers and Provençal herbs.",
+        "country": "France",
+        "region": "Provence",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "4 chicken thighs, bone-in and skin-on",
+        "2 tbsp olive oil",
+        "1 large onion, sliced",
+        "4 cloves garlic, finely chopped",
+        "4 anchovy fillets, finely chopped",
+        "400g tin chopped tomatoes",
+        "150ml dry white wine",
+        "150ml chicken stock",
+        "1 tsp dried thyme",
+        "1 tsp dried oregano",
+        "1 bay leaf",
+        "100g black olives",
+        "2 tbsp capers, drained",
+        "Salt",
+        "Black pepper",
+        "Fresh parsley, to serve"
+    ],
+
+    "method": [
+        "Pat the chicken dry and season lightly with salt and black pepper.",
+        "Heat the olive oil in a large heavy-based casserole over a medium-high heat.",
+        "Brown the chicken thighs skin-side down until golden.",
+        "Turn and brown the other side briefly.",
+        "Remove the chicken from the casserole.",
+        "Add the onion and cook until softened.",
+        "Add the garlic and anchovies.",
+        "Cook for 1–2 minutes, stirring, until the anchovies have dissolved into the oil.",
+        "Pour in the white wine and scrape the bottom of the casserole to release the browned bits.",
+        "Allow the wine to reduce by approximately half.",
+        "Add the chopped tomatoes, chicken stock, thyme, oregano and bay leaf.",
+        "Return the chicken to the casserole, skin-side up.",
+        "Bring to a gentle simmer.",
+        "Cover and cook for 35–45 minutes until the chicken is tender and cooked through.",
+        "Add the olives and capers during the final 10 minutes of cooking.",
+        "Taste and adjust the seasoning carefully.",
+        "Scatter with fresh parsley before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Crusty Bread"
+        ],
+        "optional-sides": [
+            "Rice",
+            "Roasted Potatoes",
+            "Mashed Potatoes",
+            "Green Beans"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 50,
+        "freezer-label": "freezes well",
+        "cost": "mid-range",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Provençal cooking is strongly associated with ingredients such as tomatoes, garlic, olives, herbs and olive oil, reflecting the Mediterranean climate and produce of southern France.",
+        "what-you-will-learn": "How anchovies can add savoury depth without making a dish taste fishy, and how capers and olives balance a rich tomato-based braise.",
+        "skills": [
+            "Browning chicken",
+            "Deglazing",
+            "Building a tomato sauce",
+            "Balancing salty ingredients",
+            "Braising"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A Mediterranean-style chicken braise that introduces the children to anchovies and capers in a balanced, approachable dish.",
+        "chapman-tips": [
+            "The anchovies should dissolve into the sauce rather than remain as obvious pieces.",
+            "Be careful with added salt because the anchovies, olives and capers are all salty.",
+            "Add the olives and capers towards the end so they retain more of their character.",
+            "Use a dry white wine that you would be happy to drink.",
+            "A piece of crusty bread is particularly good for soaking up the sauce."
+        ],
+        "batch-cooking": "Cool completely before freezing in portions. Freeze the chicken and sauce together.",
+        "leftovers": "Remove the chicken from the bones and use the meat and sauce with pasta, rice or crusty bread."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chicken Cacciatore",
+            "Coq au Vin",
+            "Chicken Paprikash"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}
