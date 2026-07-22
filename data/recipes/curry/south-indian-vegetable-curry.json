@@ -1,0 +1,132 @@
+{
+    "id": "019f8b82-7693-7620-88df-188790ff311c",
+    "version": 1,
+
+    "title": "South Indian Vegetable Curry",
+
+    "overview": {
+        "description": "A fragrant South Indian mixed vegetable curry with coconut, curry leaves, mustard seeds and green chilli.",
+        "country": "India",
+        "region": "South India",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "2 tbsp coconut oil or neutral oil",
+        "1 tsp black mustard seeds",
+        "10–12 fresh curry leaves",
+        "1 onion, finely sliced",
+        "2 green chillies, slit lengthways",
+        "3 cloves garlic, finely chopped",
+        "1 tsp grated fresh ginger",
+        "½ tsp ground turmeric",
+        "1 tsp ground coriander",
+        "½ tsp ground cumin",
+        "400g mixed vegetables, cut into bite-sized pieces",
+        "200ml coconut milk",
+        "100ml water",
+        "1 tsp salt",
+        "Juice of ½ lime",
+        "Fresh coriander, to serve"
+    ],
+
+    "method": [
+        "Heat the oil in a large saucepan over a medium heat.",
+        "Add the mustard seeds and cook until they begin to pop.",
+        "Add the curry leaves carefully, as they may splutter.",
+        "Add the sliced onion and cook until softened.",
+        "Add the green chillies, garlic and ginger.",
+        "Cook for 1–2 minutes until fragrant.",
+        "Add the turmeric, ground coriander and ground cumin.",
+        "Cook for 30 seconds.",
+        "Add the mixed vegetables and stir to coat in the spices.",
+        "Add the coconut milk, water and salt.",
+        "Bring to a gentle simmer.",
+        "Cover and cook until the vegetables are tender but not falling apart.",
+        "Remove the lid and simmer briefly if the sauce needs thickening.",
+        "Stir in the lime juice.",
+        "Taste and adjust the seasoning.",
+        "Scatter with fresh coriander before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Basmati Rice",
+            "Chapati"
+        ],
+        "optional-sides": [
+            "Dosa",
+            "Raita",
+            "Pappad",
+            "Pickles"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 30,
+        "freezer-label": "freezes well",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "South Indian cooking uses ingredients such as curry leaves, coconut, mustard seeds and tamarind in ways that give its dishes a distinctive character compared with many North Indian curries.",
+        "what-you-will-learn": "How to temper spices in hot oil, build flavour with curry leaves and mustard seeds, and cook vegetables in a light coconut-based sauce.",
+        "skills": [
+            "Tempering spices",
+            "Cooking with curry leaves",
+            "Building a coconut-based sauce",
+            "Cooking vegetables evenly",
+            "Balancing acidity"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A flexible South Indian vegetable dish that introduces the children to the distinctive flavours of mustard seeds, curry leaves and coconut.",
+        "chapman-tips": [
+            "Add the mustard seeds to hot oil and wait for them to pop before adding the other ingredients.",
+            "Curry leaves can splutter dramatically when added to hot oil, so add them carefully.",
+            "Use vegetables with similar cooking times, or add harder vegetables before softer ones.",
+            "Don't boil the coconut milk aggressively or the sauce can become less smooth.",
+            "A squeeze of lime at the end lifts the richness of the coconut.",
+            "Try different vegetable combinations depending on what is available."
+        ],
+        "batch-cooking": "Cool completely before freezing in portions. The vegetables may soften slightly when reheated, but the curry freezes well.",
+        "leftovers": "Reheat gently and serve with rice, chapati or dosa. Leftover curry can also be used as a filling for wraps or stuffed flatbreads."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Sambar",
+            "Vegetable Biryani",
+            "Dal Chawal"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

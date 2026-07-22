@@ -1,0 +1,123 @@
+{
+    "id": "019f8b8c-e486-74bd-a61d-508a5225af96",
+    "version": 1,
+
+    "title": "Coconut Chutney",
+
+    "overview": {
+        "description": "A fresh South Indian chutney made from coconut, roasted chana dal, green chilli and ginger, finished with a fragrant tempering of mustard seeds and curry leaves.",
+        "country": "India",
+        "region": "South India",
+        "serves": 6
+    },
+
+    "ingredients": [
+        "150g fresh or frozen grated coconut",
+        "40g roasted chana dal (dalia)",
+        "1–2 green chillies",
+        "1 small piece fresh ginger",
+        "1 tbsp lemon juice",
+        "Salt, to taste",
+        "100–150ml water",
+        "",
+        "For the tempering:",
+        "1 tsp neutral oil or coconut oil",
+        "1 tsp black mustard seeds",
+        "8–10 fresh curry leaves",
+        "1 dried red chilli, optional",
+        "¼ tsp asafoetida (hing), optional"
+    ],
+
+    "method": [
+        "Add the grated coconut, roasted chana dal, green chillies, ginger, lemon juice, salt and approximately 100ml water to a blender.",
+        "Blend until smooth, adding more water as necessary to reach a thick but spoonable consistency.",
+        "Taste and adjust the salt, chilli and lemon juice.",
+        "Transfer the chutney to a serving bowl.",
+        "Heat the oil in a small pan over a medium heat.",
+        "Add the mustard seeds and cook until they begin to pop.",
+        "Add the curry leaves and dried red chilli if using, taking care as they may splutter.",
+        "Add the asafoetida if using and cook for a few seconds.",
+        "Pour the tempering over the chutney.",
+        "Stir gently or leave the tempering on top to serve."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Dosa",
+            "Idli"
+        ],
+        "optional-sides": [
+            "Sambar",
+            "Vada",
+            "Uttapam",
+            "Rice Dishes"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 10,
+        "cook-time-minutes": 5,
+        "freezer-label": "better fresh",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Coconut chutney is served throughout South India, and small changes in ingredients and texture are common between regions and households.",
+        "what-you-will-learn": "How to balance a fresh chutney and use tempering to add aromatic flavour and texture at the end.",
+        "skills": [
+            "Blending chutneys",
+            "Balancing flavours",
+            "Tempering spices",
+            "Working with fresh coconut"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A versatile South Indian accompaniment that teaches how a few fresh ingredients can create a bright, creamy dip and how a tempering can transform its flavour.",
+        "chapman-tips": [
+            "Frozen grated coconut works very well and is often more practical than finding a fresh coconut.",
+            "Add the water gradually; a chutney that is too thin is difficult to correct.",
+            "The roasted chana dal adds body and a subtle nutty flavour.",
+            "The tempering should be hot enough to release the aromas but not so hot that the mustard seeds and curry leaves burn.",
+            "Taste the chutney after it has rested for a few minutes; the flavours become more integrated.",
+            "For a smoother chutney, blend for longer and add a little more water."
+        ],
+        "batch-cooking": "Best made fresh, but it can be refrigerated for a day or two. Freezing is possible but the texture may become slightly less smooth after thawing.",
+        "leftovers": "Use as a dip for vegetables, spread into sandwiches or wraps, or serve alongside rice dishes."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Raita",
+            "Peruvian Ají Verde",
+            "Toum"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": "019f8b78-eb7b-7660-8ff5-e1da61243e93",
+    "version": 1,
+
+    "title": "Homemade Urad Dal Pappad",
+
+    "overview": {
+        "description": "Thin, crisp Indian pappad made from seasoned urad dal flour, rolled thinly and dried before cooking.",
+        "country": "India",
+        "region": "Nationwide",
+        "serves": 20
+    },
+
+    "ingredients": [
+        "200g urad dal flour",
+        "1 tsp salt",
+        "½ tsp freshly ground black pepper",
+        "¼ tsp asafoetida (hing), optional",
+        "½ tsp cumin seeds, optional",
+        "Approximately 80–100ml water",
+        "1 tsp neutral oil, for kneading"
+    ],
+
+    "method": [
+        "Mix the urad dal flour, salt, black pepper, asafoetida and cumin seeds in a bowl.",
+        "Add the water gradually, mixing until a very stiff dough forms.",
+        "Add the oil and knead firmly for 8–10 minutes until the dough is smooth and elastic.",
+        "Cover and rest the dough for 30 minutes.",
+        "Divide the dough into approximately 20 small portions.",
+        "Roll each portion into a very thin disc, approximately 12–15cm in diameter.",
+        "Use as little dry flour as possible while rolling.",
+        "Arrange the discs in a single layer on clean trays or baking paper.",
+        "Dry them thoroughly in a warm, dry place until completely hard and brittle.",
+        "Turn the discs occasionally during drying to ensure they dry evenly.",
+        "Once completely dry, store in an airtight container.",
+        "To cook, heat a small amount of oil until hot.",
+        "Fry one pappad at a time for a few seconds until it expands and becomes crisp.",
+        "Drain on kitchen paper.",
+        "Alternatively, cook in a dry frying pan or under a hot grill, turning as necessary."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Indian Curries",
+            "Dal",
+            "Chutney"
+        ],
+        "optional-sides": [
+            "Mango Chutney",
+            "Raita",
+            "Pickles",
+            "Onion Salad"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 60,
+        "cook-time-minutes": 10,
+        "freezer-label": "not suitable for freezing",
+        "cost": "very low",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Pappad are made in many different regional styles using pulses such as urad dal, moong dal and chickpeas, with different spices and textures.",
+        "what-you-will-learn": "How pulse flour can be turned into a very stiff dough, rolled extremely thin and preserved by drying.",
+        "skills": [
+            "Working with pulse flour",
+            "Kneading stiff dough",
+            "Rolling very thin dough",
+            "Drying food",
+            "Frying or dry-cooking"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A longer cooking project that transforms urad dal flour into a traditional Indian accompaniment and provides a useful introduction to drying food for storage.",
+        "chapman-tips": [
+            "The dough should be much stiffer than chapati or roti dough.",
+            "Roll the discs as thinly as possible; thickness is the biggest factor affecting the finished texture.",
+            "Use very little flour when rolling because excess flour can affect the texture and drying.",
+            "Dry the pappad completely before storing. Any remaining moisture can lead to mould.",
+            "A pasta machine may help produce consistently thin discs, although the dough may require experimentation to find the right setting.",
+            "If the pappad puff unevenly during cooking, they are still perfectly usable.",
+            "Frying produces the most dramatic texture, while dry-cooking produces a lighter result."
+        ],
+        "batch-cooking": "This recipe is designed to be made as a batch. Once completely dry, the uncooked pappad can be stored in an airtight container and cooked as needed.",
+        "leftovers": "Cooked pappad are best eaten immediately, but uncooked dried pappad can be stored and cooked later."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chapati",
+            "Roti",
+            "Dosa"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

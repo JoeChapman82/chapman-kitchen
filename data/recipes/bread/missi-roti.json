@@ -1,0 +1,127 @@
+{
+    "id": "019f8b9a-b2be-751d-8d10-93ebd53995eb",
+    "version": 1,
+
+    "title": "Missi Roti",
+
+    "overview": {
+        "description": "A rustic North Indian flatbread made with wholemeal atta and gram flour, seasoned with onion, herbs and spices and cooked on a hot tawa.",
+        "country": "India",
+        "region": "North India",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "150g atta (wholemeal chapati flour)",
+        "100g gram flour (besan)",
+        "1 small onion, very finely chopped",
+        "2 tbsp fresh coriander, finely chopped",
+        "1 green chilli, finely chopped, optional",
+        "1 tsp ground cumin",
+        "½ tsp ajwain (carom seeds)",
+        "½ tsp ground turmeric",
+        "½ tsp salt",
+        "1 tbsp neutral oil or ghee",
+        "Approximately 120–150ml water",
+        "Extra oil or ghee, for cooking"
+    ],
+
+    "method": [
+        "Mix the atta, gram flour, onion, coriander, green chilli if using, cumin, ajwain, turmeric and salt in a large bowl.",
+        "Add the oil or ghee.",
+        "Gradually add the water, mixing until a soft dough forms.",
+        "Knead gently until the dough comes together and is reasonably smooth.",
+        "Cover and rest for 20–30 minutes.",
+        "Divide the dough into 6 equal portions and roll each into a ball.",
+        "Dust one ball with flour and roll into a roughly circular flatbread.",
+        "Heat a tawa or heavy frying pan over medium-high heat.",
+        "Place the roti on the hot pan.",
+        "Cook until the surface begins to develop bubbles and the underside has brown spots.",
+        "Turn and brush lightly with oil or ghee.",
+        "Turn again and brush the other side.",
+        "Cook until golden-brown spots appear and the roti is cooked through.",
+        "Repeat with the remaining dough."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Plain Yogurt",
+            "Pickles"
+        ],
+        "optional-sides": [
+            "Raita",
+            "Chutney",
+            "Vegetable Curry",
+            "Dal"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 45,
+        "cook-time-minutes": 20,
+        "freezer-label": "freezes well",
+        "cost": "very low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Missi roti is particularly associated with North Indian cuisine and is traditionally made with gram flour mixed with wheat flour, giving it a distinctive savoury flavour and texture.",
+        "what-you-will-learn": "How to combine wheat flour and gram flour in a dough and use spices, onion and herbs to create a savoury flatbread.",
+        "skills": [
+            "Mixing flour types",
+            "Making flatbread dough",
+            "Rolling dough",
+            "Cooking on a tawa",
+            "Working with gram flour"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A savoury flatbread that introduces the children to gram flour, ajwain and a different style of seasoned Indian bread.",
+        "chapman-tips": [
+            "Chop the onion very finely so it does not tear the dough while rolling.",
+            "Ajwain has a strong flavour, so a little goes a long way.",
+            "The dough may feel slightly rougher than a normal chapati dough because of the gram flour.",
+            "If the dough cracks while rolling, knead in a little more water.",
+            "Keep the heat high enough to brown the roti but not so high that the onion burns.",
+            "Try one without chilli first, then add chilli in future batches if the family enjoys it."
+        ],
+        "batch-cooking": "Missi roti freezes well. Cool completely, stack with baking paper between the rotis if desired and freeze in an airtight bag or container. Reheat directly from frozen in a dry frying pan.",
+        "leftovers": "Use as a packed lunch wrap, tear into pieces for dipping or reheat and serve with eggs."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Methi Thepla",
+            "Chapati",
+            "Roti",
+            "Plain Paratha"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

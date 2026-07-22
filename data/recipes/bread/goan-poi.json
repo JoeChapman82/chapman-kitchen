@@ -1,0 +1,128 @@
+{
+    "id": "019f8b95-bcc6-75e4-ac8c-dfac5e4dd371",
+    "version": 1,
+
+    "title": "Goan Poi",
+
+    "overview": {
+        "description": "A traditional Goan fermented bread with a crisp exterior, chewy texture and lightly sour flavour, made with a fermented starter and wholemeal flour.",
+        "country": "India",
+        "region": "Goa",
+        "serves": 8
+    },
+
+    "ingredients": [
+        "For the starter:",
+        "100g strong white bread flour",
+        "100ml water",
+        "1g instant dried yeast",
+        "",
+        "For the dough:",
+        "200g wholemeal bread flour",
+        "200g strong white bread flour",
+        "1½ tsp salt",
+        "1 tsp sugar",
+        "150–180ml water",
+        "All of the starter"
+    ],
+
+    "method": [
+        "Mix the starter flour, water and yeast in a bowl until smooth.",
+        "Cover and leave at room temperature for 8–12 hours.",
+        "The starter should become bubbly and smell pleasantly fermented.",
+        "Add the wholemeal flour, strong white flour, salt, sugar and most of the water to the starter.",
+        "Mix until a rough dough forms, adding more water as necessary.",
+        "Knead for 8–10 minutes until smooth and elastic.",
+        "Cover and leave to rise until approximately doubled in size.",
+        "Divide the dough into 8 equal portions.",
+        "Shape each portion into a smooth ball.",
+        "Flatten each ball slightly into a thick disc.",
+        "Place the discs on a floured baking tray.",
+        "Cover and leave to prove for 30–45 minutes.",
+        "Preheat the oven to 230°C.",
+        "Bake the poi until puffed and browned, approximately 12–18 minutes.",
+        "Transfer to a wire rack and allow to cool slightly before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Goan Fish Curry",
+            "Goan Chicken Curry",
+            "Vegetable Curry"
+        ],
+        "optional-sides": [
+            "Pickles",
+            "Chutney",
+            "Coconut Chutney"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 30,
+        "cook-time-minutes": 18,
+        "freezer-label": "freezes well",
+        "cost": "very low",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Poi is one of Goa's traditional breads and is closely associated with the region's history and Portuguese influence. Traditional versions may use fermented toddy as a leavening agent.",
+        "what-you-will-learn": "How fermentation develops flavour in bread and how a wholemeal dough can be shaped and baked into a small, crusty bread.",
+        "skills": [
+            "Making a fermented starter",
+            "Kneading dough",
+            "Working with wholemeal flour",
+            "Shaping bread",
+            "Fermentation"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A distinctive regional Indian bread that introduces fermentation and connects the bread collection to Goa's unique culinary history.",
+        "chapman-tips": [
+            "The starter should smell pleasantly fermented rather than sharply sour or unpleasant.",
+            "Wholemeal flour absorbs more water than white flour, so add the water gradually.",
+            "The dough should be soft and slightly tacky but not wet.",
+            "A longer fermentation gives the bread more flavour.",
+            "Don't worry if the poi are not perfectly uniform; small differences in shape are part of homemade bread.",
+            "For a crispier crust, use steam during the first part of baking."
+        ],
+        "batch-cooking": "Cool completely before freezing in an airtight bag or container. Thaw at room temperature and refresh briefly in a hot oven.",
+        "leftovers": "Use leftover poi for dipping into curry, or toast it and serve with eggs or other savoury toppings."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Pav",
+            "Naan",
+            "Focaccia",
+            "Sourdough Bread"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

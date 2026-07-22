@@ -1,0 +1,124 @@
+{
+    "id": "019f8b72-37f1-709e-9d97-d5e33d5ec847",
+    "version": 1,
+
+    "title": "Chapati",
+
+    "overview": {
+        "description": "Soft, thin Indian flatbreads made from wholemeal atta flour, water and a little oil.",
+        "country": "India",
+        "region": "Nationwide",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "250g atta (wholemeal chapati flour)",
+        "½ tsp salt",
+        "1 tbsp neutral oil, optional",
+        "160–180ml warm water",
+        "Extra atta, for dusting",
+        "Ghee or butter, to serve, optional"
+    ],
+
+    "method": [
+        "Mix the atta and salt in a large bowl.",
+        "Add the oil if using.",
+        "Gradually add the warm water, mixing with your fingers until a dough forms.",
+        "Knead for 5–8 minutes until the dough is smooth and soft.",
+        "Cover and rest for at least 20 minutes, preferably 30–60 minutes.",
+        "Divide the dough into 8 equal portions and roll each into a smooth ball.",
+        "Flatten one ball and dust lightly with atta.",
+        "Roll into a thin circle approximately 15–18cm in diameter, turning and dusting lightly as needed to prevent sticking.",
+        "Heat a dry tawa or heavy frying pan over a medium-high heat.",
+        "Place a chapati in the hot pan.",
+        "Cook until small bubbles appear on the surface.",
+        "Turn and cook the other side until lightly browned in places.",
+        "Turn once more and gently press the surface with a clean cloth or spatula to encourage it to puff.",
+        "Remove and keep wrapped in a clean tea towel.",
+        "Repeat with the remaining dough.",
+        "Brush with ghee or butter if desired."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Dal",
+            "Chicken Curry",
+            "Lamb Curry",
+            "Vegetable Curries"
+        ],
+        "optional-sides": [
+            "Raita",
+            "Pickles",
+            "Chutney"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 40,
+        "cook-time-minutes": 20,
+        "freezer-label": "freezes well",
+        "cost": "very low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Chapati are traditionally cooked on a tawa, and the dramatic puffing happens when steam forms between the two layers of the dough.",
+        "what-you-will-learn": "How hydration, kneading, resting and rolling affect a simple flatbread, and how to cook chapati so they remain soft.",
+        "skills": [
+            "Kneading dough",
+            "Rolling flatbreads",
+            "Controlling dough hydration",
+            "Cooking on a tawa",
+            "Managing heat"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A simple, everyday Indian flatbread that is inexpensive, versatile and an excellent way to build confidence with dough.",
+        "chapman-tips": [
+            "The dough should feel soft and slightly tacky but not wet.",
+            "Resting the dough makes it much easier to roll and helps produce softer chapati.",
+            "Use as little dry flour as possible when rolling because too much can make the cooked chapati dry.",
+            "The pan must be properly hot before cooking.",
+            "If the chapati browns immediately, the pan is too hot; if it takes a long time to develop spots, the pan is too cool.",
+            "Keep cooked chapati wrapped in a clean tea towel so they stay soft.",
+            "If the chapati do not puff, don't worry. They can still be perfectly good."
+        ],
+        "batch-cooking": "Cooked chapati freeze well. Cool completely, stack with baking paper between them if desired and freeze in a sealed bag or container. Reheat directly from frozen in a dry frying pan.",
+        "leftovers": "Use leftover chapati as wraps, cut into strips for dipping or crisp them in a frying pan to make a snack."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Roti",
+            "Naan",
+            "Aloo Paratha"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

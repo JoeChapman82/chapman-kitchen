@@ -1,0 +1,121 @@
+{
+    "id": "019f8b9b-bd4d-7588-9ef1-0d183ad66294",
+    "version": 1,
+
+    "title": "Puri",
+
+    "overview": {
+        "description": "Small, puffed Indian breads made from wholemeal atta dough and deep-fried until golden and inflated.",
+        "country": "India",
+        "region": "North India",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "250g atta (wholemeal chapati flour)",
+        "½ tsp salt",
+        "1 tbsp neutral oil or ghee",
+        "Approximately 120–140ml water",
+        "Neutral oil, for deep-frying"
+    ],
+
+    "method": [
+        "Mix the atta and salt in a large bowl.",
+        "Add the oil or ghee and rub it into the flour.",
+        "Gradually add the water, mixing until a firm but pliable dough forms.",
+        "Knead for 5–8 minutes until smooth.",
+        "Cover and rest for 20–30 minutes.",
+        "Divide the dough into 12 equal portions.",
+        "Roll each portion into a smooth ball.",
+        "Roll each ball into a small, thin circle approximately 10–12cm in diameter.",
+        "Heat the oil to approximately 180°C.",
+        "Carefully slide one puri into the hot oil.",
+        "Gently press the surface with a slotted spoon to encourage it to puff.",
+        "Once puffed and golden underneath, turn and fry briefly on the other side.",
+        "Remove and drain on kitchen paper.",
+        "Repeat with the remaining dough."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Chana Masala",
+            "Aloo Sabzi",
+            "Vegetable Curry"
+        ],
+        "optional-sides": [
+            "Pickles",
+            "Chutney",
+            "Plain Yogurt",
+            "Raita"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 30,
+        "cook-time-minutes": 20,
+        "freezer-label": "better fresh",
+        "cost": "very low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Puri is eaten throughout India and can be served with savoury curries, vegetables and dal, as well as sweet preparations in some regions.",
+        "what-you-will-learn": "How wholemeal atta dough can be rolled and deep-fried to create a light, puffed bread.",
+        "skills": [
+            "Making dough",
+            "Rolling small flatbreads",
+            "Deep-frying",
+            "Managing oil temperature",
+            "Working with puffed breads"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A classic Indian bread that is fun to make, introduces deep-frying and offers a practical alternative to sandwiches for packed lunches.",
+        "chapman-tips": [
+            "Puri dough should be firmer than chapati dough; a softer dough can absorb more oil.",
+            "Roll the puri evenly so it puffs consistently.",
+            "The oil needs to be hot enough for the puri to puff quickly.",
+            "Press gently on the surface with a slotted spoon to help it inflate.",
+            "If the oil is too cool, the puri may become greasy rather than light.",
+            "Puri are at their best fresh, while still warm and puffed."
+        ],
+        "batch-cooking": "Puri are best eaten fresh and are not ideal for freezing once cooked. The dough can be prepared ahead and refrigerated for a short period.",
+        "leftovers": "Leftover puri can be eaten cold or gently reheated. They make a useful lunchbox bread with simple fillings or dips."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Luchi",
+            "Chapati",
+            "Roti",
+            "Missi Roti"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

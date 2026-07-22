@@ -1,4 +1,16 @@
 {
+    "019f5cbb-a138-74bb-a484-afb8d73c44a7": {
+        "path": "asian/black-bean-chicken.json",
+        "title": "Black Bean Chicken"
+    },
+    "019f5cbf-7be8-747a-9d06-3fb09d0b2d95": {
+        "path": "asian/kung-pao-chicken.json",
+        "title": "Kung Pao Chicken"
+    },
+    "019f5cc1-438d-7513-9b7b-a4f3505be338": {
+        "path": "asian/teriyaki-chicken.json",
+        "title": "Teriyaki Chicken"
+    },
     "019f6e7d-f9a8-779e-8573-2a32f90d145b": {
         "path": "bread/aloo-paratha.json",
         "title": "Aloo Paratha"
@@ -11,21 +23,61 @@
         "path": "bread/bhature.json",
         "title": "Bhature"
     },
+    "019f8b72-37f1-709e-9d97-d5e33d5ec847": {
+        "path": "bread/chapati.json",
+        "title": "Chapati"
+    },
     "019f6e88-d4bc-7079-9029-2e6327fa0219": {
         "path": "bread/dosa.json",
         "title": "Dosa"
+    },
+    "019f8b95-bcc6-75e4-ac8c-dfac5e4dd371": {
+        "path": "bread/goan-poi.json",
+        "title": "Goan Poi"
     },
     "019f5cb9-4088-7488-82be-0ea08de6c3d8": {
         "path": "bread/injera.json",
         "title": "Injera"
     },
+    "019f8b90-ba54-7705-8ef0-d2d3b8a84995": {
+        "path": "bread/kerala-parotta.json",
+        "title": "Kerala Parotta"
+    },
     "019f8581-5b6d-74d7-8896-46facb148097": {
         "path": "bread/korean-milk-loaf.json",
         "title": "Korean Milk Loaf"
     },
+    "019f8b97-fc6b-74f9-b614-6358f437e674": {
+        "path": "bread/kulcha.json",
+        "title": "Kulcha"
+    },
+    "019f8b95-27c0-700f-94db-86ab62701e0d": {
+        "path": "bread/luchi.json",
+        "title": "Luchi"
+    },
+    "019f8b9c-d776-7538-b4f2-f716b81f3297": {
+        "path": "bread/makki-di-roti.json",
+        "title": "Makki di Roti"
+    },
+    "019f8b99-5b87-77fa-9ef2-eebcad2de445": {
+        "path": "bread/methi-thepla.json",
+        "title": "Methi Thepla"
+    },
+    "019f8b9a-b2be-751d-8d10-93ebd53995eb": {
+        "path": "bread/missi-roti.json",
+        "title": "Missi Roti"
+    },
     "019f6b85-06af-7416-87b6-5e383b9d268d": {
         "path": "bread/naan.json",
         "title": "Quick No-Yeast Naan"
+    },
+    "019f8b78-eb7b-7660-8ff5-e1da61243e93": {
+        "path": "bread/papad.json",
+        "title": "Homemade Urad Dal Pappad"
+    },
+    "019f8b8e-cfbb-710f-9c76-0314596c30a0": {
+        "path": "bread/paratha.json",
+        "title": "Plain Paratha"
     },
     "019f6e81-295a-731c-ae1f-4cbba447b937": {
         "path": "bread/pav-rolls.json",
@@ -34,6 +86,14 @@
     "019f57a5-6f95-709d-9f3c-8dde0014a140": {
         "path": "bread/pita.json",
         "title": "Pita Bread"
+    },
+    "019f8b9b-bd4d-7588-9ef1-0d183ad66294": {
+        "path": "bread/puri.json",
+        "title": "Puri"
+    },
+    "019f8b78-a909-713d-9165-bfa5d6ba52dd": {
+        "path": "bread/roti.json",
+        "title": "Roti"
     },
     "019f670e-d580-7155-a0ad-95751bd3d22a": {
         "path": "bread/tortillas.json",
@@ -147,6 +207,10 @@
         "path": "curry/sev-tameta.json",
         "title": "Sev Tameta Nu Shaak"
     },
+    "019f8b82-7693-7620-88df-188790ff311c": {
+        "path": "curry/south-indian-vegetable-curry.json",
+        "title": "South Indian Vegetable Curry"
+    },
     "019f6b74-9357-71e8-bf80-87780e5e5246": {
         "path": "curry/thai-green-curry.json",
         "title": "Thai Green Curry"
@@ -154,6 +218,14 @@
     "019f6b72-7563-7610-914c-2f5393776097": {
         "path": "curry/thai-red-curry.json",
         "title": "Thai Red Curry"
+    },
+    "019f8b87-6e50-71db-896c-d3bca8dde111": {
+        "path": "curry/vegetable-avial.json",
+        "title": "Avial"
+    },
+    "019f8b85-968b-752b-96e9-85cd34bc1947": {
+        "path": "curry/vegetable-kurma.json",
+        "title": "Vegetable Kurma"
     },
     "019f6e8a-3c86-7469-b340-b471293471cf": {
         "path": "dal/cholar-dal.json",
@@ -166,6 +238,10 @@
     "019f6e85-2804-71bf-953a-72f2ab97f4b6": {
         "path": "dal/gujrati-dal.json",
         "title": "Gujarati Dal"
+    },
+    "019f8b8c-e486-74bd-a61d-508a5225af96": {
+        "path": "dips/coconut-chutney.json",
+        "title": "Coconut Chutney"
     },
     "019f6e83-d4f3-75ab-80e4-f0f6ad12a009": {
         "path": "dips/raita.json",
@@ -182,6 +258,14 @@
     "019f739d-e62c-705d-9dc4-0e0206858d83": {
         "path": "meat/beef-burgers.json",
         "title": "Homemade Beef Burgers"
+    },
+    "019f8b69-6c0e-712c-b035-e2a356bc63f7": {
+        "path": "meat/chicken-enchiladas.json",
+        "title": "Chicken Enchiladas"
+    },
+    "019f8b67-f254-72d1-9eed-40ad0f2167d8": {
+        "path": "meat/chicken-fajitas.json",
+        "title": "Chicken Fajitas"
     },
     "019f867c-4b2f-735e-a569-1db2b00b2dbf": {
         "path": "meat/chicken-fricassee.json",
@@ -210,6 +294,14 @@
     "019f866d-834d-76f1-a295-38a68cc25da7": {
         "path": "meat/marry-me-chicken.json",
         "title": "Marry Me Chicken"
+    },
+    "019f8b6e-7982-75a5-ab74-b64fe0314655": {
+        "path": "meat/peruvian-roast-chicken.json",
+        "title": "Peruvian Roast Chicken"
+    },
+    "019f8b6a-cb2c-7738-8676-c7b4c5da673d": {
+        "path": "meat/pollo-asado.json",
+        "title": "Pollo Asado"
     },
     "019f5cbd-b0e7-752a-ba1a-900aac859f6f": {
         "path": "noodles/chicken-chow-mein.json",
@@ -343,10 +435,6 @@
         "path": "rice/bibimbap.json",
         "title": "Bibimbap"
     },
-    "019f5cbb-a138-74bb-a484-afb8d73c44a7": {
-        "path": "rice/black-bean-chicken.json",
-        "title": "Black Bean Chicken"
-    },
     "019f6a56-68dc-7762-bc9b-69ec58f3f0dd": {
         "path": "rice/chicken-satay.json",
         "title": "Chicken Satay"
@@ -367,9 +455,9 @@
         "path": "rice/koshari.json",
         "title": "Koshari"
     },
-    "019f5cbf-7be8-747a-9d06-3fb09d0b2d95": {
-        "path": "rice/kung-pao-chicken.json",
-        "title": "Kung Pao Chicken"
+    "019f8b89-9e2a-766c-b76b-3c2c3a5d30dc": {
+        "path": "rice/lemon-rice.json",
+        "title": "Lemon Rice"
     },
     "019f5b0d-03d7-7494-9d4a-c3a08815647b": {
         "path": "rice/mushroom-and-pearl-barley-risotto.json",
@@ -378,10 +466,6 @@
     "019f65c2-dec8-7369-a79b-b16b3d112517": {
         "path": "rice/paella.json",
         "title": "Paella"
-    },
-    "019f5cc1-438d-7513-9b7b-a4f3505be338": {
-        "path": "rice/teriyaki-chicken.json",
-        "title": "Teriyaki Chicken"
     },
     "019f6e82-736d-77f1-8711-a14ffef9808b": {
         "path": "rice/vegetable-biryani.json",
@@ -395,9 +479,21 @@
         "path": "sandwich/chicken-shawarma.json",
         "title": "Chicken Shawarma"
     },
+    "019f8b70-8893-763e-8536-ea99fd8f8532": {
+        "path": "sauce/green-sauce.json",
+        "title": "Peruvian Ají Verde"
+    },
+    "019f8b7a-affb-72fb-ae16-3f5cd08a3782": {
+        "path": "sides/aji-verde.json",
+        "title": "Peruvian Ají Verde"
+    },
     "019f57a5-21de-75a9-ae2b-1974756d9af9": {
         "path": "sides/hummus.json",
         "title": "Hummus"
+    },
+    "019f8b7d-0342-76f4-945f-7808e05242b9": {
+        "path": "sides/pickled-vegetables.json",
+        "title": "Quick-Pickled Vegetables"
     },
     "019f858c-4a69-751b-96dc-6fa441e7d51b": {
         "path": "snacks/chicken-nuggets.json",

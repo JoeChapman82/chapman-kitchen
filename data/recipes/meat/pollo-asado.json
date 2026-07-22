@@ -1,0 +1,123 @@
+{
+    "id": "019f8b6a-cb2c-7738-8676-c7b4c5da673d",
+    "version": 1,
+
+    "title": "Pollo Asado",
+
+    "overview": {
+        "description": "Mexican-style marinated chicken roasted until deeply coloured, juicy and aromatic, with citrus, garlic, spices and achiote.",
+        "country": "Mexico",
+        "region": "Yucatán",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "1.2kg chicken thighs and drumsticks, bone-in and skin-on",
+        "Juice of 2 oranges",
+        "Juice of 2 limes",
+        "4 cloves garlic, finely grated",
+        "2 tbsp achiote paste",
+        "2 tbsp olive oil",
+        "1 tsp ground cumin",
+        "1 tsp dried oregano",
+        "1 tsp smoked paprika",
+        "½ tsp ground coriander",
+        "½ tsp ground cinnamon",
+        "1 tsp salt",
+        "Black pepper"
+    ],
+
+    "method": [
+        "Make several deep cuts into the thickest parts of the chicken to help the marinade penetrate.",
+        "Mix the orange juice, lime juice, garlic, achiote paste, olive oil, cumin, oregano, smoked paprika, ground coriander, cinnamon, salt and black pepper.",
+        "Add the chicken and turn thoroughly to coat.",
+        "Cover and marinate in the refrigerator for at least 4 hours, preferably overnight.",
+        "Remove the chicken from the refrigerator approximately 30 minutes before cooking.",
+        "Preheat the oven to 220°C (200°C fan).",
+        "Arrange the chicken in a roasting tray, skin-side up.",
+        "Roast for 40–50 minutes until deeply coloured and cooked through.",
+        "Baste once or twice with the marinade and cooking juices during roasting.",
+        "Allow the chicken to rest for 10 minutes before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Corn Tortillas",
+            "Lime Wedges"
+        ],
+        "optional-sides": [
+            "Mexican Rice",
+            "Black Beans",
+            "Guacamole",
+            "Pico de Gallo",
+            "Pickled Red Onion"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 50,
+        "freezer-label": "freezes well",
+        "cost": "mid-range",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Achiote comes from the seeds of the annatto tree and gives many Yucatán-style dishes their distinctive deep red-orange colour.",
+        "what-you-will-learn": "How to build a citrus-based marinade, use achiote for flavour and colour, and roast marinated chicken at high heat.",
+        "skills": [
+            "Marinating",
+            "Working with citrus",
+            "Roasting chicken",
+            "Balancing spices",
+            "Carving and serving"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A vibrant Mexican chicken dish that introduces achiote and demonstrates how citrus and spices can transform simple roasted chicken.",
+        "chapman-tips": [
+            "The longer the chicken marinates, the more flavourful it will be.",
+            "Make sure the chicken is well coated with the achiote paste before marinating.",
+            "Don't discard the marinade and use it as a sauce unless it has been thoroughly boiled first because it has been in contact with raw chicken.",
+            "Use a meat thermometer if you have one; the thickest part of the chicken should reach 74°C.",
+            "Resting the chicken allows the juices to redistribute before serving."
+        ],
+        "batch-cooking": "Cooked chicken freezes well. Allow it to cool completely, then freeze in portions. For best results, freeze the chicken with some of its cooking juices and reheat gently.",
+        "leftovers": "Shred leftover chicken for tacos, quesadillas, enchiladas, rice bowls or sandwiches."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chicken Fajitas",
+            "Chicken Enchiladas",
+            "Chicken Shawarma"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

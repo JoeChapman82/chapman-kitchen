@@ -1,0 +1,121 @@
+{
+    "id": "019f8b95-27c0-700f-94db-86ab62701e0d",
+    "version": 1,
+
+    "title": "Luchi",
+
+    "overview": {
+        "description": "Soft, pale, puffed Bengali flatbreads made from plain flour and deep-fried until they inflate.",
+        "country": "India",
+        "region": "West Bengal",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "250g plain flour",
+        "½ tsp salt",
+        "1 tbsp ghee or neutral oil",
+        "140–160ml warm water",
+        "Neutral oil or ghee, for deep-frying"
+    ],
+
+    "method": [
+        "Mix the flour and salt in a large bowl.",
+        "Rub in the ghee or oil.",
+        "Gradually add the warm water, mixing until a soft dough forms.",
+        "Knead for 5–8 minutes until smooth and pliable.",
+        "Cover and rest for 20–30 minutes.",
+        "Divide the dough into 12 equal portions.",
+        "Roll each portion into a smooth ball.",
+        "Roll each ball into a small, thin circle approximately 10–12cm in diameter.",
+        "Heat the frying oil to approximately 180°C.",
+        "Carefully slide one luchi into the hot oil.",
+        "Immediately spoon hot oil over the surface to encourage it to puff.",
+        "Once puffed, turn and fry briefly on the other side.",
+        "Remove and drain on kitchen paper.",
+        "Repeat with the remaining dough."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Aloo Dum",
+            "Cholar Dal",
+            "Vegetable Curry"
+        ],
+        "optional-sides": [
+            "Potato Curry",
+            "Lamb Curry",
+            "Chutney",
+            "Pickles"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 30,
+        "cook-time-minutes": 20,
+        "freezer-label": "better fresh",
+        "cost": "very low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Luchi is especially associated with Bengali cuisine and is traditionally served at celebrations and special meals alongside rich curries and dal.",
+        "what-you-will-learn": "How a simple plain-flour dough can puff when introduced to hot oil and how dough thickness and oil temperature affect the result.",
+        "skills": [
+            "Kneading dough",
+            "Rolling flatbreads",
+            "Deep-frying",
+            "Managing frying temperature",
+            "Working with puffed breads"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A distinctive Bengali bread that introduces the children to a completely different flatbread technique: turning dough into a soft, inflated bread through deep-frying.",
+        "chapman-tips": [
+            "The dough should be soft but not sticky.",
+            "Luchi should be rolled evenly; thick spots may prevent them from puffing properly.",
+            "The oil must be hot enough for the luchi to puff quickly.",
+            "If the oil is too cool, the luchi may absorb too much oil.",
+            "Pressing or spooning hot oil over the top helps encourage the luchi to inflate.",
+            "Luchi are best eaten fresh while still soft and warm."
+        ],
+        "batch-cooking": "Luchi are best made fresh and do not freeze particularly well once cooked. The dough can be prepared in advance and kept covered in the refrigerator for a short period.",
+        "leftovers": "Leftover luchi can be reheated briefly in a dry frying pan, although the texture is best when freshly cooked."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Puri",
+            "Chapati",
+            "Plain Paratha",
+            "Kerala Parotta"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "id": "019f8b85-968b-752b-96e9-85cd34bc1947",
+    "version": 1,
+
+    "title": "Vegetable Kurma",
+
+    "overview": {
+        "description": "A fragrant South Indian vegetable kurma with mixed vegetables in a creamy coconut, cashew and aromatic spice sauce.",
+        "country": "India",
+        "region": "South India",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "2 tbsp neutral oil or ghee",
+        "1 small cinnamon stick",
+        "3 green cardamom pods",
+        "3 cloves",
+        "1 bay leaf",
+        "1 onion, finely sliced",
+        "1 tsp grated fresh ginger",
+        "3 cloves garlic, finely chopped",
+        "½ tsp ground turmeric",
+        "1 tsp ground coriander",
+        "½ tsp ground cumin",
+        "400g mixed vegetables, cut into bite-sized pieces",
+        "200ml coconut milk",
+        "150ml water",
+        "Salt, to taste",
+        "",
+        "For the kurma paste:",
+        "50g cashews",
+        "50g desiccated coconut",
+        "2 green chillies",
+        "1 tsp poppy seeds, optional",
+        "50–75ml water"
+    ],
+
+    "method": [
+        "Soak the cashews in hot water for 15–20 minutes.",
+        "Add the soaked cashews, desiccated coconut, green chillies, poppy seeds if using and enough water to a blender.",
+        "Blend until as smooth as possible and set aside.",
+        "Heat the oil or ghee in a large saucepan over a medium heat.",
+        "Add the cinnamon, cardamom, cloves and bay leaf.",
+        "Fry for approximately 30 seconds until fragrant.",
+        "Add the sliced onion and cook until softened and lightly golden.",
+        "Add the ginger and garlic.",
+        "Cook for 1–2 minutes.",
+        "Add the turmeric, ground coriander and cumin.",
+        "Cook for 30 seconds.",
+        "Add the mixed vegetables and stir to coat in the spices.",
+        "Add the coconut milk and water.",
+        "Bring to a gentle simmer.",
+        "Cover and cook until the vegetables are almost tender.",
+        "Stir in the kurma paste.",
+        "Simmer gently for 5–10 minutes until the sauce has thickened and the vegetables are fully tender.",
+        "Season with salt to taste.",
+        "Remove the whole spices before serving if desired."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Basmati Rice",
+            "Chapati"
+        ],
+        "optional-sides": [
+            "Dosa",
+            "Naan",
+            "Pappad",
+            "Pickles",
+            "Chutney"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 25,
+        "cook-time-minutes": 35,
+        "freezer-label": "freezes well",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "The word kurma refers to a family of dishes found across South Asia, with recipes varying significantly between regions. South Indian versions often make prominent use of coconut.",
+        "what-you-will-learn": "How to make a smooth nut and coconut paste, layer whole and ground spices, and build a rich curry sauce without relying on dairy.",
+        "skills": [
+            "Making curry pastes",
+            "Blending nuts and coconut",
+            "Tempering whole spices",
+            "Building layered curry flavour",
+            "Cooking vegetables evenly"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A mild, rich South Indian curry that introduces the children to the use of nuts and coconut to create texture and richness in a sauce.",
+        "chapman-tips": [
+            "Soaking the cashews makes it much easier to blend the kurma paste smoothly.",
+            "Blend the paste as smoothly as your equipment allows; a smoother paste produces a more luxurious sauce.",
+            "Don't rush the onions. Their sweetness forms an important part of the base.",
+            "Add the kurma paste towards the end so the coconut and nuts do not catch on the bottom of the pan.",
+            "Use vegetables with different cooking times by adding harder vegetables first.",
+            "The curry should be rich and aromatic rather than aggressively hot."
+        ],
+        "batch-cooking": "Cool completely before freezing in portions. The sauce may thicken after freezing, so loosen with a little water when reheating.",
+        "leftovers": "Reheat gently and serve with rice or flatbreads. Leftover kurma can also be used as a filling for wraps or stuffed flatbreads."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "South Indian Vegetable Curry",
+            "Sambar",
+            "Vegetable Biryani"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

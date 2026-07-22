@@ -1,0 +1,120 @@
+{
+    "id": "019f8b9c-d776-7538-b4f2-f716b81f3297",
+    "version": 1,
+
+    "title": "Makki di Roti",
+
+    "overview": {
+        "description": "A traditional Punjabi flatbread made from maize flour, shaped by hand and cooked on a hot tawa until lightly browned and crisp at the edges.",
+        "country": "India",
+        "region": "Punjab",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "250g makki atta (fine maize flour)",
+        "½ tsp salt",
+        "Approximately 180–220ml hot water",
+        "Ghee or butter, for serving"
+    ],
+
+    "method": [
+        "Place the makki atta and salt in a large bowl.",
+        "Gradually add the hot water, mixing with a spoon until the flour is cool enough to handle.",
+        "Knead gently until a soft dough forms.",
+        "The dough should be moist and pliable but should not feel sticky.",
+        "Divide the dough into 6 equal portions.",
+        "Keep the portions covered while working to prevent them drying out.",
+        "Place one portion between two sheets of baking paper or plastic wrap.",
+        "Press and pat the dough into a thin circle approximately 15–18cm in diameter.",
+        "Carefully transfer the roti to a hot tawa or heavy frying pan.",
+        "Cook until the underside develops brown spots and the surface begins to dry.",
+        "Turn carefully and cook the other side.",
+        "Turn again if necessary until cooked through and lightly browned.",
+        "Brush with ghee or butter before serving.",
+        "Repeat with the remaining dough."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Sarson da Saag"
+        ],
+        "optional-sides": [
+            "Butter",
+            "Ghee",
+            "Pickles",
+            "Yogurt",
+            "Dal"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 25,
+        "cook-time-minutes": 20,
+        "freezer-label": "better fresh",
+        "cost": "very low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Makki di roti is a traditional Punjabi bread made from maize flour and is particularly famous as the classic accompaniment to sarson da saag.",
+        "what-you-will-learn": "How to work with a gluten-free dough and shape a flatbread by pressing and patting rather than rolling.",
+        "skills": [
+            "Working with gluten-free dough",
+            "Hydrating maize flour",
+            "Hand-shaping flatbreads",
+            "Cooking on a tawa",
+            "Handling fragile dough"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A distinctive Punjabi flatbread that introduces the children to maize flour and demonstrates how a bread can be made without relying on wheat gluten.",
+        "chapman-tips": [
+            "Use hot water to help the maize flour hydrate and make the dough easier to handle.",
+            "Keep the dough covered because it dries out quickly.",
+            "Don't try to knead it like wheat dough; gentle mixing is enough.",
+            "Pat the dough out gradually rather than trying to make it thin immediately.",
+            "Baking paper makes transferring the fragile roti much easier.",
+            "If the dough cracks, gently press the edges back together with wet fingers.",
+            "The first one may be more of a learning experience than a perfect circle — that's completely normal."
+        ],
+        "batch-cooking": "Makki di roti is best fresh. If necessary, cooked rotis can be cooled and frozen, although they may become slightly more fragile after reheating.",
+        "leftovers": "Reheat gently on a dry tawa or frying pan and serve with butter, yogurt or leftover curry."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chapati",
+            "Roti",
+            "Missi Roti",
+            "Thepla"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

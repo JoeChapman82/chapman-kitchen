@@ -1,0 +1,127 @@
+{
+    "id": "019f8b99-5b87-77fa-9ef2-eebcad2de445",
+    "version": 1,
+
+    "title": "Methi Thepla",
+
+    "overview": {
+        "description": "A seasoned Gujarati flatbread made with wholemeal flour, gram flour and dried fenugreek leaves, cooked on a hot tawa.",
+        "country": "India",
+        "region": "Gujarat",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "200g atta (wholemeal chapati flour)",
+        "50g gram flour (besan)",
+        "2 tbsp dried fenugreek leaves (kasuri methi)",
+        "1 tsp ground cumin",
+        "1 tsp ground coriander",
+        "½ tsp ground turmeric",
+        "½ tsp chilli powder",
+        "1 tsp salt",
+        "2 tbsp plain yogurt",
+        "1 tbsp neutral oil",
+        "Approximately 120–150ml water",
+        "Extra oil, for cooking"
+    ],
+
+    "method": [
+        "Add the atta, gram flour, dried fenugreek leaves, cumin, coriander, turmeric, chilli powder and salt to a large bowl.",
+        "Add the yogurt and oil.",
+        "Gradually add the water, mixing until a soft dough forms.",
+        "Knead for 5–8 minutes until smooth and pliable.",
+        "Cover and rest for 20–30 minutes.",
+        "Divide the dough into 8 equal portions and roll each into a smooth ball.",
+        "Roll one ball into a thin circle approximately 15–18cm in diameter.",
+        "Heat a tawa or heavy frying pan over medium-high heat.",
+        "Place the thepla in the dry pan.",
+        "Cook until small bubbles appear and the underside develops pale brown spots.",
+        "Turn and brush the cooked surface lightly with oil.",
+        "Turn again and brush the other side with oil.",
+        "Cook until golden-brown spots appear and the thepla is cooked through.",
+        "Repeat with the remaining dough."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Plain Yogurt",
+            "Pickles"
+        ],
+        "optional-sides": [
+            "Chutney",
+            "Raita",
+            "Vegetable Curry",
+            "Tea"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 40,
+        "cook-time-minutes": 20,
+        "freezer-label": "freezes well",
+        "cost": "very low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Thepla is strongly associated with Gujarati cuisine and is popular as an everyday food as well as a travel food because it keeps well.",
+        "what-you-will-learn": "How to build flavour directly into a flatbread dough using spices, herbs and gram flour.",
+        "skills": [
+            "Making seasoned dough",
+            "Working with gram flour",
+            "Rolling flatbreads",
+            "Cooking on a tawa",
+            "Balancing spices"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A versatile Gujarati flatbread that introduces the idea of incorporating herbs, spices and gram flour directly into the dough.",
+        "chapman-tips": [
+            "Kasuri methi can be quite strong, so rub it between your fingers before adding it to release the aroma.",
+            "The yogurt helps keep the thepla soft.",
+            "The dough should be soft but not sticky.",
+            "Roll the thepla thinner than a paratha but slightly thicker than a very thin roti.",
+            "Cook over medium-high heat so the bread develops colour without drying out.",
+            "Thepla are excellent for using up small amounts of yogurt and herbs."
+        ],
+        "batch-cooking": "Thepla freeze well. Cool completely, stack with baking paper between them if desired and freeze in an airtight bag or container. Reheat directly from frozen in a dry frying pan.",
+        "leftovers": "Use leftover thepla as wraps or cut into strips and serve with dips."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chapati",
+            "Roti",
+            "Plain Paratha",
+            "Methi Paratha"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

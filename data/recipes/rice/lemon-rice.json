@@ -1,0 +1,128 @@
+{
+    "id": "019f8b89-9e2a-766c-b76b-3c2c3a5d30dc",
+    "version": 1,
+
+    "title": "Lemon Rice",
+
+    "overview": {
+        "description": "Fragrant South Indian rice tempered with mustard seeds, lentils, peanuts and curry leaves, then finished with fresh lemon juice.",
+        "country": "India",
+        "region": "South India",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "600g cooked basmati or other long-grain rice, cooled",
+        "2 tbsp neutral oil",
+        "1 tsp black mustard seeds",
+        "1 tbsp chana dal",
+        "1 tbsp urad dal",
+        "40g peanuts",
+        "10–12 fresh curry leaves",
+        "2 green chillies, sliced",
+        "½ tsp ground turmeric",
+        "¼ tsp asafoetida (hing), optional",
+        "Juice of 1–2 lemons",
+        "Salt, to taste",
+        "Fresh coriander, optional"
+    ],
+
+    "method": [
+        "Ensure the cooked rice is cold or at room temperature and separated into individual grains.",
+        "Heat the oil in a large frying pan or wok over a medium heat.",
+        "Add the mustard seeds and cook until they begin to pop.",
+        "Add the chana dal, urad dal and peanuts.",
+        "Cook until the dals and peanuts are lightly golden.",
+        "Add the curry leaves and green chillies carefully.",
+        "Cook for 30 seconds until fragrant.",
+        "Add the turmeric and asafoetida if using.",
+        "Stir briefly.",
+        "Add the cooked rice and salt.",
+        "Toss gently until the rice is evenly coated and heated through.",
+        "Remove from the heat.",
+        "Add the lemon juice and mix gently.",
+        "Taste and adjust the lemon juice and salt.",
+        "Scatter with fresh coriander if using."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Plain Yogurt"
+        ],
+        "optional-sides": [
+            "Pappad",
+            "Pickles",
+            "Sambar",
+            "Vegetable Curry",
+            "Avial"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 10,
+        "cook-time-minutes": 15,
+        "freezer-label": "freezes well",
+        "cost": "very low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Lemon rice is a popular South Indian dish often made as a quick meal or packed for travel and lunch. It is also a useful way to transform leftover rice.",
+        "what-you-will-learn": "How to temper whole spices and pulses in oil and use acidity to transform plain cooked rice into a complete-tasting dish.",
+        "skills": [
+            "Tempering spices",
+            "Cooking with lentils",
+            "Using leftover rice",
+            "Balancing acidity",
+            "Handling cooked rice"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A quick, inexpensive South Indian rice dish that teaches how tempering and acidity can completely transform a simple staple.",
+        "chapman-tips": [
+            "Use cooled rice so the grains remain separate when tossed with the tempering.",
+            "The mustard seeds should pop before you add the other ingredients.",
+            "Don't let the dals or peanuts burn; they continue to darken slightly after leaving the heat.",
+            "Add the lemon juice off the heat for the freshest flavour.",
+            "Start with less lemon juice and add more to taste.",
+            "The crunchy dals and peanuts provide an important textural contrast to the soft rice."
+        ],
+        "batch-cooking": "The finished lemon rice can be frozen in portions. Cool quickly before freezing and reheat thoroughly. For best texture, the tempering can also be made fresh and stirred through reheated rice.",
+        "leftovers": "Reheat gently and serve as a quick lunch or side dish. It can also be packed cold for a lunchbox."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Coconut Rice",
+            "Jeera Rice",
+            "Sambar"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

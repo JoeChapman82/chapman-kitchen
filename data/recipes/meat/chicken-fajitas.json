@@ -1,0 +1,138 @@
+{
+    "id": "019f8b67-f254-72d1-9eed-40ad0f2167d8",
+    "version": 1,
+
+    "title": "Chicken Fajitas",
+
+    "overview": {
+        "description": "Juicy strips of marinated chicken cooked quickly with peppers and onions, served in warm tortillas with fresh Tex-Mex accompaniments.",
+        "country": "United States",
+        "region": "Tex-Mex",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "600g boneless, skinless chicken thighs",
+        "2 tbsp neutral oil",
+        "Juice of 1 lime",
+        "2 cloves garlic, finely grated",
+        "1 tsp ground cumin",
+        "1 tsp smoked paprika",
+        "1 tsp sweet paprika",
+        "½ tsp dried oregano",
+        "½ tsp chilli powder",
+        "½ tsp salt",
+        "Black pepper",
+        "",
+        "1 large onion, sliced",
+        "2 bell peppers, sliced",
+        "1 tbsp neutral oil, for cooking",
+        "",
+        "8 flour tortillas",
+        "",
+        "Sour cream",
+        "Salsa",
+        "Lime wedges",
+        "Fresh coriander"
+    ],
+
+    "method": [
+        "Slice the chicken thighs into thin strips.",
+        "Mix the oil, lime juice, garlic, cumin, smoked paprika, sweet paprika, oregano, chilli powder, salt and black pepper in a bowl.",
+        "Add the chicken and mix thoroughly to coat.",
+        "Cover and marinate for at least 30 minutes, or preferably several hours in the refrigerator.",
+        "Remove the chicken from the refrigerator and allow it to come closer to room temperature while preparing the vegetables.",
+        "Heat a large frying pan or cast-iron skillet over a high heat.",
+        "Add the oil.",
+        "Cook the onion and peppers until softened and lightly charred.",
+        "Remove the vegetables from the pan and set aside.",
+        "Add the chicken to the hot pan in batches if necessary.",
+        "Cook until browned and cooked through.",
+        "Return the peppers and onions to the pan and toss everything together.",
+        "Warm the tortillas briefly in a dry frying pan or microwave.",
+        "Serve the chicken, peppers and onions with the warm tortillas and accompaniments."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Flour Tortillas",
+            "Salsa",
+            "Sour Cream"
+        ],
+        "optional-sides": [
+            "Guacamole",
+            "Grated Cheese",
+            "Refried Beans",
+            "Mexican Rice",
+            "Pickled Jalapeños"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 15,
+        "freezer-label": "freezes well",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "The word fajita originally referred to the skirt steak traditionally used for fajitas. Chicken fajitas are a later variation that became popular as fajitas spread through Tex-Mex cooking.",
+        "what-you-will-learn": "How to marinate chicken, cook meat and vegetables quickly over high heat, and build a balanced meal from a small number of components.",
+        "skills": [
+            "Marinating",
+            "Knife skills",
+            "High-heat cooking",
+            "Building flavour",
+            "Balancing a meal"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A practical family meal that teaches marinating and high-heat cooking while allowing everyone to assemble their own meal at the table.",
+        "chapman-tips": [
+            "Chicken thighs stay juicier than breast meat, especially when cooked quickly over high heat.",
+            "Don't overcrowd the pan or the chicken and vegetables will steam instead of developing colour.",
+            "Cook the vegetables separately from the chicken so both can brown properly.",
+            "Warm the tortillas just before serving so they remain flexible.",
+            "A squeeze of lime at the table brings the whole dish together.",
+            "Let everyone assemble their own fajitas. It makes the meal more interactive and allows different preferences without needing separate meals."
+        ],
+        "batch-cooking": "The cooked chicken, peppers and onions can be cooled and frozen in portions. The texture of the peppers will soften slightly after freezing, but the filling remains useful for wraps, rice bowls and quesadillas.",
+        "leftovers": "Use leftover filling in quesadillas, enchiladas, rice bowls or wraps."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Enchiladas",
+            "Fish Tacos",
+            "Chicken Shawarma"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

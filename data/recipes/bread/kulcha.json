@@ -1,0 +1,129 @@
+{
+    "id": "019f8b97-fc6b-74f9-b614-6358f437e674",
+    "version": 1,
+
+    "title": "Kulcha",
+
+    "overview": {
+        "description": "A soft, leavened North Indian flatbread with a lightly crisp, blistered surface, cooked on a very hot tawa or heavy frying pan.",
+        "country": "India",
+        "region": "Punjab",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "300g plain flour",
+        "½ tsp baking powder",
+        "¼ tsp baking soda",
+        "1 tsp sugar",
+        "1 tsp salt",
+        "100g plain yogurt",
+        "2 tbsp neutral oil",
+        "Approximately 120–150ml warm water",
+        "Extra flour, for dusting",
+        "Melted butter or ghee, for brushing",
+        "Fresh coriander, optional"
+    ],
+
+    "method": [
+        "Mix the flour, baking powder, baking soda, sugar and salt in a large bowl.",
+        "Add the yogurt and oil.",
+        "Gradually add the warm water, mixing until a soft dough forms.",
+        "Knead for 5–8 minutes until smooth and pliable.",
+        "Cover and rest for at least 1 hour.",
+        "Divide the dough into 4 equal portions and roll each into a smooth ball.",
+        "Flatten one ball and roll it into a thick, roughly circular disc.",
+        "Sprinkle with fresh coriander if using and press it gently into the surface.",
+        "Heat a heavy-based frying pan or cast-iron skillet over high heat until very hot.",
+        "Place the kulcha in the dry pan.",
+        "Cook until bubbles appear and the underside develops browned spots.",
+        "Turn and cook the other side until browned and cooked through.",
+        "Brush with melted butter or ghee.",
+        "Repeat with the remaining dough."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Chole",
+            "Chana Masala",
+            "Dal",
+            "Vegetable Curry"
+        ],
+        "optional-sides": [
+            "Raita",
+            "Pickles",
+            "Chutney",
+            "Butter"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 70,
+        "cook-time-minutes": 15,
+        "freezer-label": "freezes well",
+        "cost": "very low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Kulcha is strongly associated with Punjab, particularly Amritsar, and is traditionally cooked in a tandoor. It may be made plain or stuffed with ingredients such as potato or onion.",
+        "what-you-will-learn": "How yogurt, chemical leavening and high heat create a soft, blistered flatbread without requiring yeast.",
+        "skills": [
+            "Making enriched dough",
+            "Working with yogurt",
+            "Shaping flatbreads",
+            "High-heat cooking",
+            "Managing leavened dough"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A useful addition to the Indian bread collection that demonstrates how yogurt and chemical leavening can create a soft, blistered bread without yeast.",
+        "chapman-tips": [
+            "The dough should be soft and pliable rather than stiff.",
+            "Resting the dough gives the flour time to hydrate and makes shaping easier.",
+            "Get the pan properly hot before cooking the kulcha.",
+            "Avoid cooking too many at once; the pan needs to stay hot.",
+            "Don't press the kulcha down while it is cooking or you may prevent it from puffing.",
+            "Brush with ghee or butter immediately after cooking for the best flavour.",
+            "For a more traditional flavour, use a cast-iron pan if you have one."
+        ],
+        "batch-cooking": "Cooked kulcha can be cooled, wrapped and frozen. Reheat in a dry frying pan or hot oven.",
+        "leftovers": "Use leftover kulcha to scoop up curry, make a sandwich or serve with eggs."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Naan",
+            "Plain Paratha",
+            "Kerala Parotta",
+            "Goan Poi"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

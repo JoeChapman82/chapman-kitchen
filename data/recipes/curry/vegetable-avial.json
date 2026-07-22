@@ -1,0 +1,132 @@
+{
+    "id": "019f8b87-6e50-71db-896c-d3bca8dde111",
+    "version": 1,
+
+    "title": "Avial",
+
+    "overview": {
+        "description": "A thick South Indian vegetable dish made with mixed vegetables, coconut, green chilli and yogurt, finished with curry leaves and coconut oil.",
+        "country": "India",
+        "region": "Kerala",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "150g carrot, cut into batons",
+        "150g green beans, cut into short lengths",
+        "150g butternut squash, cut into batons",
+        "150g swede, cut into batons",
+        "1 small courgette, cut into batons",
+        "1 raw banana, peeled and cut into batons, optional",
+        "150ml water",
+        "½ tsp ground turmeric",
+        "Salt, to taste",
+        "",
+        "For the coconut paste:",
+        "100g fresh or frozen grated coconut",
+        "2 green chillies",
+        "1 tsp cumin seeds",
+        "50–75ml water",
+        "",
+        "150g plain natural yogurt",
+        "10–12 fresh curry leaves",
+        "1 tbsp coconut oil"
+    ],
+
+    "method": [
+        "Add the grated coconut, green chillies, cumin seeds and water to a blender.",
+        "Blend to a coarse paste and set aside.",
+        "Place the carrots, green beans, butternut squash, swede and raw banana if using in a large saucepan.",
+        "Add the water, turmeric and salt.",
+        "Cover and cook over a medium heat until the harder vegetables are beginning to soften.",
+        "Add the courgette and continue cooking until all the vegetables are tender but still hold their shape.",
+        "Add the coconut paste and stir gently to coat the vegetables.",
+        "Cook for 2–3 minutes over a low heat.",
+        "Remove the pan from the heat.",
+        "Stir in the yogurt.",
+        "Heat the coconut oil in a small pan until warm.",
+        "Add the curry leaves and allow them to sizzle briefly.",
+        "Pour the coconut oil and curry leaves over the avial.",
+        "Stir gently and serve."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Steamed Rice"
+        ],
+        "optional-sides": [
+            "Sambar",
+            "Rasam",
+            "Pappad",
+            "Pickles"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 25,
+        "cook-time-minutes": 30,
+        "freezer-label": "better fresh",
+        "cost": "budget",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Avial is strongly associated with Kerala and is traditionally made with a mixture of vegetables cooked with coconut and yogurt. It is also an important part of a traditional Kerala sadya feast.",
+        "what-you-will-learn": "How to cook a mixture of vegetables so they remain distinct, make a coarse coconut paste and finish a dish with yogurt without allowing it to split.",
+        "skills": [
+            "Preparing mixed vegetables",
+            "Cooking vegetables evenly",
+            "Making coconut pastes",
+            "Working with yogurt",
+            "Tempering curry leaves"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A distinctive Kerala vegetable dish that shows how coconut and yogurt can create a thick, lightly spiced accompaniment without a conventional curry sauce.",
+        "chapman-tips": [
+            "Cut the vegetables into similar-sized batons so they cook evenly.",
+            "Add vegetables according to their cooking time rather than putting everything in at once.",
+            "Keep the coconut paste slightly coarse rather than blending it completely smooth.",
+            "Don't boil the avial after adding the yogurt or it may split.",
+            "Coconut oil is particularly valuable here because its flavour is part of the character of the dish.",
+            "The finished dish should be thick enough for the coconut mixture to coat the vegetables rather than form a loose sauce."
+        ],
+        "batch-cooking": "Avial is best fresh because the vegetables and yogurt can lose texture when frozen and reheated. If freezing is necessary, freeze without the yogurt and add fresh yogurt after reheating.",
+        "leftovers": "Reheat gently and serve with rice. Leftover avial can also be eaten at room temperature as part of a larger meal."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "South Indian Vegetable Curry",
+            "Vegetable Kurma",
+            "Sambar"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

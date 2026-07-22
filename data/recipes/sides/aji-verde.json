@@ -1,0 +1,114 @@
+{
+    "id": "019f8b7a-affb-72fb-ae16-3f5cd08a3782",
+    "version": 1,
+
+    "title": "Peruvian Ají Verde",
+
+    "overview": {
+        "description": "A bright, creamy Peruvian green chilli sauce made with ají amarillo, coriander, lime and mayonnaise.",
+        "country": "Peru",
+        "region": "Lima",
+        "serves": 6
+    },
+
+    "ingredients": [
+        "2 tbsp ají amarillo paste",
+        "1 fresh jalapeño, roughly chopped",
+        "1 large handful fresh coriander, including tender stems",
+        "1 clove garlic",
+        "2 tbsp lime juice",
+        "120g mayonnaise",
+        "60g Greek yogurt",
+        "1 tbsp olive oil",
+        "Salt, to taste"
+    ],
+
+    "method": [
+        "Add the ají amarillo paste, jalapeño, coriander, garlic and lime juice to a blender or food processor.",
+        "Blend until finely chopped.",
+        "Add the mayonnaise, Greek yogurt and olive oil.",
+        "Blend until smooth and creamy.",
+        "Taste and adjust the lime juice, salt and chilli to your preference.",
+        "Refrigerate for at least 30 minutes before serving to allow the flavours to develop."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Peruvian Roast Chicken"
+        ],
+        "optional-sides": [
+            "French Fries",
+            "Roasted Potatoes",
+            "Grilled Meat",
+            "Sandwiches",
+            "Tacos"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 10,
+        "cook-time-minutes": 0,
+        "freezer-label": "better fresh",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Ají verde is one of the most recognisable sauces served with Peruvian-style roast chicken, although recipes vary between households and restaurants.",
+        "what-you-will-learn": "How to balance chilli heat, acidity, herbs, creaminess and salt to make a versatile sauce.",
+        "skills": [
+            "Blending sauces",
+            "Balancing flavours",
+            "Working with chilli",
+            "Using fresh herbs"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A versatile Peruvian sauce that introduces ají amarillo and adds a bright, spicy contrast to roast chicken and other rich foods.",
+        "chapman-tips": [
+            "Ají amarillo paste is the most important ingredient for the characteristic flavour.",
+            "Use the coriander stems as well as the leaves; they contain plenty of flavour.",
+            "Start with less jalapeño if you are unsure about the heat and add more if needed.",
+            "The sauce will taste sharper immediately after blending but will mellow slightly after resting.",
+            "A little extra lime can brighten the sauce if it tastes too rich.",
+            "The sauce should be creamy but still have enough acidity and chilli to cut through rich roast chicken."
+        ],
+        "batch-cooking": "Make a larger batch if desired, but keep refrigerated and use within a few days. Freezing is not recommended because the mayonnaise and dairy can separate.",
+        "leftovers": "Use as a dipping sauce for chicken, roasted potatoes, chips or vegetables, or spread it into sandwiches and wraps."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Toum",
+            "Raita",
+            "Hummus"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

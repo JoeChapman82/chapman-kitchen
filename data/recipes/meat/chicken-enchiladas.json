@@ -1,0 +1,147 @@
+{
+    "id": "019f8b69-6c0e-712c-b035-e2a356bc63f7",
+    "version": 1,
+
+    "title": "Chicken Enchiladas",
+
+    "overview": {
+        "description": "Soft corn tortillas filled with seasoned chicken, rolled and baked in a rich red chilli and tomato sauce with melted cheese.",
+        "country": "Mexico",
+        "region": "Nationwide",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "600g boneless, skinless chicken thighs",
+        "1 onion, quartered",
+        "2 cloves garlic",
+        "1 bay leaf",
+        "Salt",
+        "",
+        "2 tbsp vegetable oil",
+        "1 onion, finely diced",
+        "2 cloves garlic, finely chopped",
+        "1 tsp ground cumin",
+        "1 tsp dried oregano",
+        "1 tsp ground coriander",
+        "1–2 dried ancho or other mild dried chillies, deseeded",
+        "400g tin chopped tomatoes",
+        "250ml chicken stock",
+        "Salt",
+        "",
+        "12 corn tortillas",
+        "150g grated cheese",
+        "",
+        "Fresh coriander",
+        "Sour cream",
+        "Lime wedges"
+    ],
+
+    "method": [
+        "Place the chicken thighs in a saucepan with the quartered onion, garlic, bay leaf and a generous pinch of salt.",
+        "Cover with water and bring to a gentle simmer.",
+        "Cook for 20–25 minutes until the chicken is cooked through and tender.",
+        "Remove the chicken and reserve the cooking liquid.",
+        "Allow the chicken to cool slightly, then shred it with two forks.",
+        "Heat the oil in a saucepan over a medium heat.",
+        "Add the diced onion and cook until softened.",
+        "Add the garlic, cumin, oregano and ground coriander.",
+        "Cook for 1 minute until fragrant.",
+        "Add the dried chillies, chopped tomatoes and chicken stock.",
+        "Simmer for 15–20 minutes until the sauce has thickened and the chillies have softened.",
+        "Blend the sauce until smooth, adding a little reserved chicken cooking liquid if necessary.",
+        "Taste and adjust the seasoning.",
+        "Preheat the oven to 200°C (180°C fan).",
+        "Mix enough of the enchilada sauce into the shredded chicken to keep the filling moist.",
+        "Warm the tortillas briefly so they become flexible.",
+        "Spread a little sauce over the base of a baking dish.",
+        "Fill each tortilla with some of the chicken and roll tightly.",
+        "Arrange the enchiladas seam-side down in the baking dish.",
+        "Pour over the remaining sauce.",
+        "Scatter with the grated cheese.",
+        "Bake for 20–25 minutes until hot and bubbling.",
+        "Finish with fresh coriander and serve with sour cream and lime wedges."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Sour Cream",
+            "Lime Wedges"
+        ],
+        "optional-sides": [
+            "Mexican Rice",
+            "Refried Beans",
+            "Guacamole",
+            "Pickled Jalapeños",
+            "Fresh Salsa"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 30,
+        "cook-time-minutes": 60,
+        "freezer-label": "freezes well",
+        "cost": "budget",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "The word enchilada comes from the Spanish enchilar, meaning 'to season with chilli'. The defining feature is the tortilla being covered in chilli sauce rather than simply being used as a wrap.",
+        "what-you-will-learn": "How to poach and shred chicken, make a chilli-based sauce and assemble filled tortillas for baking.",
+        "skills": [
+            "Poaching chicken",
+            "Shredding meat",
+            "Making chilli sauces",
+            "Working with corn tortillas",
+            "Assembling baked dishes"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A comforting Mexican dish that builds on the family-friendly appeal of fajitas while introducing a different way to use tortillas, chilli sauces and shredded chicken.",
+        "chapman-tips": [
+            "Keep the chicken moist before filling the tortillas so the finished enchiladas do not become dry.",
+            "Warm the tortillas before rolling them. Cold corn tortillas are much more likely to crack.",
+            "Don't drown the tortillas in sauce before rolling or they can become difficult to handle.",
+            "The sauce should be flavourful enough to stand on its own because it is a major part of the finished dish.",
+            "A little cheese is enough; the dish should not become dominated by melted cheese.",
+            "If using dried chillies, remove the seeds and membranes if you want a milder sauce."
+        ],
+        "batch-cooking": "Assemble the enchiladas in a freezer-safe dish, cover tightly and freeze before baking. Thaw in the refrigerator before baking, or bake from frozen at a lower temperature until heated through before uncovering and browning the cheese.",
+        "leftovers": "Leftover enchiladas reheat well in the oven or microwave. Shredded leftover chicken and sauce can also be used in quesadillas or burritos."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chicken Fajitas",
+            "Fish Tacos",
+            "Chicken Shawarma"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

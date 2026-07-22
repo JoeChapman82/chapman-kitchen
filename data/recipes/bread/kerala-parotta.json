@@ -1,0 +1,130 @@
+{
+    "id": "019f8b90-ba54-7705-8ef0-d2d3b8a84995",
+    "version": 1,
+
+    "title": "Kerala Parotta",
+
+    "overview": {
+        "description": "A soft, flaky South Indian flatbread made from an elastic plain-flour dough that is stretched, layered, coiled and cooked on a hot tawa.",
+        "country": "India",
+        "region": "Kerala",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "500g plain flour",
+        "1 tsp salt",
+        "1 tsp sugar",
+        "2 tbsp neutral oil",
+        "300–350ml water",
+        "Extra neutral oil, for resting and layering",
+        "Extra flour, for dusting"
+    ],
+
+    "method": [
+        "Mix the flour, salt and sugar in a large bowl.",
+        "Add the oil.",
+        "Gradually add the water, mixing until a soft, slightly sticky dough forms.",
+        "Knead for 10–15 minutes until the dough becomes smooth and elastic.",
+        "Cover and rest for at least 1 hour.",
+        "Divide the dough into 8 equal portions.",
+        "Coat each portion generously with oil and leave to rest for a further 30 minutes.",
+        "Take one piece of dough and place it on a lightly oiled work surface.",
+        "Stretch and gently pull the dough outwards until it becomes very thin. It does not need to be perfectly transparent, but should be much thinner than a normal flatbread.",
+        "Brush the surface lightly with oil.",
+        "Fold or pleat the dough into a long strip.",
+        "Coil the strip into a spiral and tuck the end underneath.",
+        "Flatten the coil gently with your hand.",
+        "Repeat with the remaining dough and rest the coils for 10–15 minutes.",
+        "Roll or press each coil into a thick, roughly circular flatbread.",
+        "Heat a dry tawa or heavy frying pan over medium heat.",
+        "Cook the parotta until the underside develops golden-brown spots.",
+        "Turn and cook the other side.",
+        "Brush lightly with oil if desired.",
+        "Once cooked, place the parotta between your hands and gently clap or scrunch it to separate the layers."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Vegetable Kurma",
+            "Chicken Curry",
+            "Lamb Curry"
+        ],
+        "optional-sides": [
+            "Coconut Chutney",
+            "Pickles",
+            "Raita",
+            "South Indian Vegetable Curry"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 120,
+        "cook-time-minutes": 20,
+        "freezer-label": "freezes well",
+        "cost": "very low",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Kerala parotta is made using a technique of stretching, layering and coiling dough that creates its characteristic flaky, almost pastry-like texture.",
+        "what-you-will-learn": "How gluten development, hydration, oil and repeated layering can transform a simple flour dough into a soft, flaky flatbread.",
+        "skills": [
+            "Kneading elastic dough",
+            "Developing gluten",
+            "Stretching dough",
+            "Creating layers",
+            "Cooking flatbreads"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A distinctive South Indian flatbread that demonstrates how a highly hydrated, elastic dough can be transformed into delicate layers through stretching and coiling.",
+        "chapman-tips": [
+            "The dough should be soft and elastic rather than stiff.",
+            "The long resting time is important because it allows the gluten to relax, making the dough much easier to stretch.",
+            "Use plenty of oil during resting; this helps prevent the dough from sticking and makes stretching easier.",
+            "Don't be afraid to stretch the dough very thinly.",
+            "If the dough keeps springing back, it needs more resting time.",
+            "The final parotta should be thicker than the stretched dough but still contain many thin layers.",
+            "Gently clapping or scrunching the cooked parotta helps separate the layers."
+        ],
+        "batch-cooking": "Cooked parotta freezes well. Cool completely, stack with baking paper between them if desired and freeze in an airtight bag or container. Reheat directly from frozen in a dry frying pan.",
+        "leftovers": "Use leftover parotta with eggs, cut into pieces for dipping or chop it into a kothu parotta-style dish."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Plain Paratha",
+            "Chapati",
+            "Roti",
+            "Kothu Parotta"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

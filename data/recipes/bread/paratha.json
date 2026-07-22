@@ -1,0 +1,126 @@
+{
+    "id": "019f8b8e-cfbb-710f-9c76-0314596c30a0",
+    "version": 1,
+
+    "title": "Plain Paratha",
+
+    "overview": {
+        "description": "A layered Indian flatbread made from wholemeal atta, folded with ghee or oil and cooked on a hot tawa until crisp outside and soft inside.",
+        "country": "India",
+        "region": "North India",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "250g atta (wholemeal chapati flour)",
+        "½ tsp salt",
+        "1 tbsp neutral oil or melted ghee",
+        "150–170ml warm water",
+        "Extra atta, for dusting",
+        "Extra oil or ghee, for layering and cooking"
+    ],
+
+    "method": [
+        "Mix the atta and salt in a large bowl.",
+        "Add the oil or ghee.",
+        "Gradually add the warm water, mixing until a soft dough forms.",
+        "Knead for 5–8 minutes until smooth and pliable.",
+        "Cover and rest for at least 30 minutes.",
+        "Divide the dough into 6 equal portions and roll each into a smooth ball.",
+        "Roll one ball into a thin circle.",
+        "Brush the surface lightly with oil or ghee and dust with a little atta.",
+        "Fold the dough into a square or roll it into a loose spiral to create layers.",
+        "Flatten gently and roll again into a thick, roughly circular disc.",
+        "Heat a dry tawa or heavy-based frying pan over medium heat.",
+        "Place the paratha on the hot pan.",
+        "Cook until the surface begins to develop bubbles and the underside has pale brown spots.",
+        "Turn and brush the cooked surface lightly with oil or ghee.",
+        "Turn again and brush the other side.",
+        "Cook until both sides are golden brown and crisp in places.",
+        "Gently press and scrunch the paratha between your hands or tap the edges to separate the layers.",
+        "Keep warm in a clean tea towel.",
+        "Repeat with the remaining dough."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Vegetable Curry",
+            "Dal",
+            "Chicken Curry"
+        ],
+        "optional-sides": [
+            "Raita",
+            "Pickles",
+            "Chutney",
+            "Plain Yogurt"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 40,
+        "cook-time-minutes": 20,
+        "freezer-label": "freezes well",
+        "cost": "very low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "The word paratha is often linked to the idea of layered or folded bread, reflecting the technique used to create its characteristic flaky texture.",
+        "what-you-will-learn": "How fat and folding create layers in a flatbread and how to cook a richer dough so it becomes crisp without drying out.",
+        "skills": [
+            "Kneading dough",
+            "Rolling flatbreads",
+            "Creating layers",
+            "Working with fat",
+            "Cooking on a tawa"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A useful progression from chapati and roti that introduces layering and the effect of fat on the texture of flatbread.",
+        "chapman-tips": [
+            "Resting the dough makes it much easier to roll and helps prevent it springing back.",
+            "Use enough fat to create layers but avoid making the dough greasy.",
+            "Don't worry about making perfect circles; the folding and rolling process naturally creates irregular shapes.",
+            "Roll the finished paratha thicker than a chapati or roti.",
+            "Cook over medium heat so the layers have time to cook through before the outside burns.",
+            "Gently scrunching the cooked paratha helps separate the layers and makes it more flaky."
+        ],
+        "batch-cooking": "Cooked paratha freeze well. Cool completely, stack with baking paper between them if desired and freeze in an airtight bag or container. Reheat directly from frozen in a dry frying pan.",
+        "leftovers": "Use leftover paratha as a wrap, cut into pieces for dipping or reheat and serve with eggs."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chapati",
+            "Roti",
+            "Aloo Paratha"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

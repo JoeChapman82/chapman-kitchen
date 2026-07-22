@@ -96,10 +96,10 @@
 
 #### 🌎 Americas
 
-- [ ] Chicken Fajitas
-- [ ] Chicken Enchiladas
-- [ ] Pollo Asado
-- [ ] Peruvian Roast Chicken
+- [x] Chicken Fajitas
+- [x] Chicken Enchiladas
+- [x] Pollo Asado
+- [x] Peruvian Roast Chicken
 
 ### Supporting Recipes
 
@@ -109,19 +109,19 @@
 - [ ] Ciabatta
 - [ ] Rustic Loaf
 - [ ] Country Loaf
-- [ ] Batbout
+- [x] Batbout
 - [ ] Flatbread
-- [ ] Injera
-- [ ] Naan
+- [x] Injera
+- [x] Naan
 - [ ] Paratha
-- [ ] Chapati
-- [ ] Roti
-- [ ] Tortillas
+- [x] Chapati
+- [x] Roti
+- [x] Tortillas
 
 #### Sauces & Sides
 
 - [ ] Homemade Egg Noodles
 - [ ] Jasmine Rice
 - [ ] Steamed Rice
-- [ ] Pickled Vegetables
-- [ ] Aji Verde
+- [x] Pickled Vegetables
+- [x] Aji Verde
