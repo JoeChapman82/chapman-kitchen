@@ -1,0 +1,109 @@
+{
+    "id": "019f8f72-c73d-723f-8484-7fbe72d8adab",
+    "version": 1,
+
+    "title": "Shirazi Salad",
+
+    "overview": {
+        "description": "A finely diced Persian salad of cucumber, tomato, red onion and herbs dressed with sharp citrus and olive oil.",
+        "country": "Iran",
+        "region": "Shiraz, Fars Province",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "4 ripe tomatoes",
+        "2 large cucumbers",
+        "1 small red onion",
+        "1 small handful fresh flat-leaf parsley, finely chopped",
+        "1 small handful fresh mint leaves, finely chopped",
+        "2 tbsp lime juice",
+        "1 tbsp extra virgin olive oil",
+        "½ tsp salt, or to taste",
+        "Black pepper, to taste"
+    ],
+
+    "method": [
+        "Finely dice the tomatoes.",
+        "Finely dice the cucumbers.",
+        "Finely dice the red onion.",
+        "Place the vegetables in a large bowl.",
+        "Add the chopped parsley and mint.",
+        "Add the lime juice, olive oil, salt and black pepper.",
+        "Toss thoroughly to combine.",
+        "Leave to stand for 10–15 minutes.",
+        "Taste and adjust the acidity and seasoning before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Flatbread"
+        ],
+        "optional-sides": [
+            "Plain Yogurt",
+            "Rice",
+            "Grilled Chicken",
+            "White Beans"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 0,
+        "freezer-label": "better fresh",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Shirazi salad is named after Shiraz in southern Iran. Many traditional versions use ab-ghooreh, or verjuice, which provides a distinctive sharp acidity.",
+        "what-you-will-learn": "How finely diced vegetables create a different salad experience from salads built around large chunks, and how acidity can be the defining flavour of a dish.",
+        "skills": [
+            "Fine dicing",
+            "Balancing acidity",
+            "Preparing raw vegetables",
+            "Building a simple salad",
+            "Managing moisture"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A very simple, inexpensive and refreshing salad that provides a sharp, acidic contrast to the richer and more substantial salads already in the collection.",
+        "chapman-tips": [
+            "The vegetables should be diced fairly finely and consistently.",
+            "Use ripe tomatoes but avoid allowing the salad to become excessively watery.",
+            "Traditional versions are often very acidic; don't be afraid of a noticeable sharpness.",
+            "Verjuice is worth trying if you ever come across it.",
+            "Add the dressing shortly before serving if you want the vegetables to remain crisp.",
+            "Fresh mint is particularly important to the character of the salad.",
+            "This salad works very well alongside rice dishes and grilled foods.",
+            "A little sumac can be added, although it is not essential to the classic version."
+        ],
+        "batch-cooking": "Better fresh. The vegetables release water as they stand.",
+        "leftovers": "Best eaten the same day. Leftovers can be drained and used as a filling for wraps or served with leftover rice."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Kachumber",
+            "Greek Salad",
+            "Tabbouleh",
+            "Fattoush",
+            "Kachumbari"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

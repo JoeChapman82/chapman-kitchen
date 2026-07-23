@@ -1,0 +1,116 @@
+{
+    "id": "019f8f71-e82e-7050-9627-0e501376025d",
+    "version": 1,
+
+    "title": "Tabbouleh",
+
+    "overview": {
+        "description": "A fresh Levantine herb salad made primarily with parsley and mint, finely chopped tomatoes, a small amount of bulgur and a bright lemon and olive oil dressing.",
+        "country": "Lebanon",
+        "region": "Levant",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "100g fine bulgur",
+        "150ml boiling water",
+        "3 large bunches fresh flat-leaf parsley, finely chopped",
+        "1 large handful fresh mint leaves, finely chopped",
+        "4 ripe tomatoes, finely diced",
+        "4 spring onions, finely sliced",
+        "Juice of 2 large lemons",
+        "5 tbsp extra virgin olive oil",
+        "1 tsp salt, or to taste",
+        "Black pepper, to taste"
+    ],
+
+    "method": [
+        "Place the bulgur in a bowl.",
+        "Pour over the boiling water.",
+        "Cover and leave for 15–20 minutes until tender.",
+        "Drain thoroughly and squeeze out any excess moisture.",
+        "Allow the bulgur to cool completely.",
+        "Finely chop the parsley and mint.",
+        "Place them in a large bowl.",
+        "Add the diced tomatoes and spring onions.",
+        "Add the cooled bulgur.",
+        "Whisk together the lemon juice, olive oil, salt and black pepper.",
+        "Pour the dressing over the salad.",
+        "Toss thoroughly to combine.",
+        "Taste and adjust the lemon juice, salt and olive oil.",
+        "Leave to stand for 15–30 minutes before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Lettuce Leaves",
+            "Flatbread"
+        ],
+        "optional-sides": [
+            "Hummus",
+            "Falafel",
+            "Grilled Chicken",
+            "Plain Yogurt"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 30,
+        "cook-time-minutes": 0,
+        "freezer-label": "better fresh",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "In traditional Lebanese tabbouleh, parsley is the dominant ingredient and bulgur is used in relatively small quantities. Many Western versions contain much more bulgur than is traditional.",
+        "what-you-will-learn": "How to make an herb-led salad and how lemon, olive oil and fresh herbs can create a complete dish without needing a heavy dressing.",
+        "skills": [
+            "Finely chopping herbs",
+            "Preparing bulgur",
+            "Balancing acidity",
+            "Building herb-based salads",
+            "Managing moisture"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A fresh, herb-heavy complete meal salad that provides a strong contrast to the vegetable-led Greek salad, bread-based fattoush and fish-based Niçoise.",
+        "chapman-tips": [
+            "Use much more parsley than bulgur; this is the key to a more traditional style.",
+            "Dry the parsley thoroughly after washing so the salad does not become watery.",
+            "Finely chopping the herbs is important for the right texture.",
+            "Dice the tomatoes finely and drain away excess liquid if they are particularly juicy.",
+            "The lemon should be noticeable and refreshing.",
+            "Let the salad rest briefly before serving so the flavours can combine.",
+            "Tabbouleh is traditionally often eaten by scooping it up with lettuce leaves.",
+            "Don't replace the flat-leaf parsley with curly parsley if you want the most traditional flavour."
+        ],
+        "batch-cooking": "Better fresh. The herbs lose freshness and the tomatoes release more liquid over time.",
+        "leftovers": "Best eaten within 1–2 days. Leftovers can be served in wraps or alongside hummus and falafel."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Fattoush",
+            "Greek Salad",
+            "Shirazi Salad",
+            "Kachumber",
+            "Kosambari"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

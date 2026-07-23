@@ -1,0 +1,125 @@
+{
+    "id": "019f8f7d-d987-7229-9a46-4f92aecf1c25",
+    "version": 1,
+
+    "title": "Kosambari",
+
+    "overview": {
+        "description": "A fresh South Indian salad of soaked moong dal, cucumber, carrot, coconut, herbs and lemon finished with a fragrant mustard seed tempering.",
+        "country": "India",
+        "region": "Karnataka, South India",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "150g split yellow moong dal",
+        "1 large cucumber, finely diced",
+        "2 medium carrots, grated or finely diced",
+        "50g fresh coconut, grated, or desiccated coconut rehydrated with a little water",
+        "1 small handful fresh coriander, chopped",
+        "1–2 green chillies, finely chopped, optional",
+        "Juice of 1 large lemon",
+        "½ tsp salt, or to taste",
+        "",
+        "For the tempering:",
+        "1 tbsp neutral oil or coconut oil",
+        "1 tsp black mustard seeds",
+        "1 tsp urad dal",
+        "1 pinch asafoetida",
+        "6–8 curry leaves"
+    ],
+
+    "method": [
+        "Rinse the moong dal thoroughly.",
+        "Cover with plenty of cold water.",
+        "Leave to soak for 1–2 hours until softened but still retaining some bite.",
+        "Drain the moong dal very thoroughly.",
+        "Place it in a large bowl.",
+        "Add the cucumber, carrot, coconut, coriander and green chilli if using.",
+        "Add the lemon juice and salt.",
+        "Mix gently.",
+        "Heat the oil in a small frying pan over medium heat.",
+        "Add the mustard seeds.",
+        "When they begin to pop, add the urad dal.",
+        "Cook until the urad dal is lightly golden.",
+        "Add the asafoetida and curry leaves.",
+        "Cook for a few seconds until fragrant.",
+        "Pour the tempering over the salad.",
+        "Mix gently.",
+        "Taste and adjust the lemon juice and salt.",
+        "Serve fresh."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Flatbread",
+            "Rice"
+        ],
+        "optional-sides": [
+            "Plain Yogurt",
+            "Papad",
+            "Pickled Vegetables",
+            "Coconut Chutney"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 5,
+        "freezer-label": "better fresh",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Kosambari is particularly associated with Karnataka and is often served during festivals and celebrations. The moong dal is soaked rather than fully cooked, giving the salad its characteristic fresh texture.",
+        "what-you-will-learn": "How soaking legumes can create a fresh, crunchy salad ingredient and how a simple tempering can add depth and aroma to an otherwise raw dish.",
+        "skills": [
+            "Soaking lentils",
+            "Preparing raw vegetables",
+            "Making a tempering",
+            "Balancing acidity",
+            "Using curry leaves"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A genuinely different salad that combines fresh vegetables with soaked moong dal and coconut, making it more substantial than many raw vegetable salads.",
+        "chapman-tips": [
+            "Drain the moong dal extremely well; excess water will make the salad soggy.",
+            "The dal should be softened but retain a slight bite.",
+            "Don't leave the salad sitting in the dressing for too long before serving.",
+            "The tempering should be hot when poured over the salad so it releases the aroma of the spices.",
+            "Fresh coconut is excellent, but desiccated coconut works when necessary.",
+            "Adjust the lemon juice to taste; the salad should be bright and refreshing.",
+            "The green chilli is optional and can be left out for a milder family version.",
+            "The salad is particularly good with papad for contrasting crunch."
+        ],
+        "batch-cooking": "Better fresh. The soaked dal and vegetables lose their texture over time.",
+        "leftovers": "Best eaten the same day. Leftovers can be mixed into a wrap or served alongside rice."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Kachumber",
+            "Tabbouleh",
+            "Shirazi Salad",
+            "Greek Salad",
+            "Coconut Chutney"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

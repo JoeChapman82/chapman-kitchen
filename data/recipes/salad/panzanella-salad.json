@@ -1,0 +1,113 @@
+{
+    "id": "019f8f6f-eea2-72ad-8489-ac2ac53ff896",
+    "version": 1,
+
+    "title": "Panzanella",
+
+    "overview": {
+        "description": "A Tuscan bread salad of ripe tomatoes, stale bread, red onion and basil dressed with olive oil and vinegar.",
+        "country": "Italy",
+        "region": "Tuscany",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "400g stale rustic bread, such as sourdough or Greek village bread",
+        "600g ripe tomatoes, cut into large chunks",
+        "1 small red onion, very thinly sliced",
+        "1 large handful fresh basil leaves",
+        "4 tbsp extra virgin olive oil",
+        "2 tbsp red wine vinegar",
+        "1 small garlic clove, finely grated, optional",
+        "½ tsp salt, or to taste",
+        "Black pepper, to taste"
+    ],
+
+    "method": [
+        "Tear the stale bread into large bite-sized pieces.",
+        "If the bread is not sufficiently stale, leave it uncovered for several hours or dry it briefly in a low oven.",
+        "Place the tomatoes in a large bowl.",
+        "Season with the salt and leave for 10–15 minutes so they release some of their juices.",
+        "Add the red onion.",
+        "Add the bread to the bowl.",
+        "Pour over the olive oil and red wine vinegar.",
+        "Add the garlic if using.",
+        "Toss thoroughly so the bread absorbs the tomato juices and dressing.",
+        "Leave to stand for 20–30 minutes, tossing occasionally.",
+        "Add the basil leaves.",
+        "Season with black pepper.",
+        "Taste and adjust the oil, vinegar and salt before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Fresh Basil"
+        ],
+        "optional-sides": [
+            "White Beans",
+            "Mozzarella",
+            "Grilled Vegetables",
+            "Grilled Fish"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 0,
+        "freezer-label": "better fresh",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Panzanella is traditionally associated with Tuscany and is a classic example of cucina povera, where simple ingredients and leftover bread are transformed into a satisfying meal.",
+        "what-you-will-learn": "How stale bread can absorb flavour and moisture to become the foundation of a complete salad rather than simply being served alongside it.",
+        "skills": [
+            "Using stale bread",
+            "Balancing oil and vinegar",
+            "Extracting flavour from tomatoes",
+            "Building a bread salad",
+            "Managing texture"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A particularly useful recipe for a household that regularly makes bread. It turns stale bread into a substantial meal while showcasing the flavour of good tomatoes.",
+        "chapman-tips": [
+            "Good tomatoes are the most important ingredient.",
+            "The bread should be stale and firm enough to absorb dressing without instantly becoming mush.",
+            "Allow the tomatoes to release their juices before adding the bread.",
+            "Don't rush the resting time; it allows the bread to absorb the flavours properly.",
+            "The finished bread should be moist and flavourful but still retain some texture.",
+            "Use good olive oil because there are very few ingredients to hide behind.",
+            "Add the basil towards the end so it remains fresh and aromatic.",
+            "For a more substantial meal, add white beans or serve with mozzarella."
+        ],
+        "batch-cooking": "Better fresh. The bread continues absorbing liquid and becomes increasingly soft as it stands.",
+        "leftovers": "Best eaten the same day. Any leftovers can be used as a filling for toasted sandwiches or served alongside grilled food."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Fattoush",
+            "Greek Salad",
+            "Tomato Salad",
+            "Nicoise Salad",
+            "Salade de Lentilles"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

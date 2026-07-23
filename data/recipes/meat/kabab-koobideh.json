@@ -1,0 +1,127 @@
+{
+    "id": "019f8f79-e81b-7420-9335-53df51c878e9",
+    "version": 1,
+
+    "title": "Kabab Koobideh",
+
+    "overview": {
+        "description": "Persian grilled minced meat kebabs seasoned with onion, saffron and spices, traditionally served with Persian rice and tahdig.",
+        "country": "Iran",
+        "region": "Persia / Iran",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "500g lamb mince, ideally around 20% fat",
+        "500g beef mince, ideally around 15–20% fat",
+        "2 medium onions, very finely grated",
+        "1 tsp salt",
+        "1 tsp ground black pepper",
+        "½ tsp ground turmeric, optional",
+        "1 tbsp saffron water",
+        "1 tbsp cold water, if needed",
+        "2 large tomatoes",
+        "2 tbsp butter, melted, for brushing"
+    ],
+
+    "method": [
+        "Grate the onions as finely as possible.",
+        "Place the grated onion in a clean tea towel or muslin cloth.",
+        "Squeeze firmly until as much liquid as possible has been removed.",
+        "Keep the onion pulp and discard the excess liquid.",
+        "Place the lamb mince and beef mince in a large bowl.",
+        "Add the squeezed onion, salt, black pepper and turmeric if using.",
+        "Add the saffron water.",
+        "Mix thoroughly with your hands for at least 5 minutes until the mixture becomes smooth, sticky and cohesive.",
+        "Cover and refrigerate for at least 1 hour.",
+        "Divide the mixture into 8 equal portions.",
+        "With wet hands, shape each portion into a long sausage approximately 2–3cm thick.",
+        "If using wide metal skewers, press the meat firmly around the skewers and create shallow ridges along the length with your fingers.",
+        "If not using skewers, shape the meat into long, slightly flattened logs.",
+        "Preheat a heavy frying pan, griddle pan or cast-iron skillet over medium-high heat.",
+        "Cook the koobideh in batches if necessary.",
+        "Cook for approximately 3–4 minutes on each side until browned and cooked through.",
+        "Brush with melted butter during the final minute of cooking.",
+        "Place the tomatoes on the grill or in a separate pan.",
+        "Cook until softened and lightly charred.",
+        "Serve the koobideh immediately with Persian rice and tahdig."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Persian Rice",
+            "Tahdig",
+            "Grilled Tomatoes",
+            "Shirazi Salad"
+        ],
+        "optional-sides": [
+            "Fresh Herbs",
+            "Raw Onion",
+            "Plain Yogurt",
+            "Sumac",
+            "Lemon Wedges"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 30,
+        "cook-time-minutes": 20,
+        "freezer-label": "freezes well",
+        "cost": "moderate",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Koobideh comes from the Persian word koobidan, meaning 'to pound' or 'to beat', referring to the traditional preparation of working the meat mixture until it becomes cohesive.",
+        "what-you-will-learn": "How to make a cohesive minced-meat kebab mixture and how onion moisture, fat and thorough mixing affect the texture and stability of grilled kebabs.",
+        "skills": [
+            "Working with minced meat",
+            "Removing moisture from onions",
+            "Building a cohesive kebab mixture",
+            "Grilling minced meat",
+            "Managing saffron"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A classic Iranian family meal that may recreate the kebab and Persian rice dish the Chapman family remembers, while being adaptable for cooking on an induction hob.",
+        "chapman-tips": [
+            "Don't skip squeezing the onion; excess onion liquid is one of the main causes of koobideh falling apart.",
+            "The meat mixture should become noticeably sticky and cohesive during mixing.",
+            "Use mince with enough fat; very lean mince produces dry and fragile koobideh.",
+            "Chilling the mixture makes shaping easier.",
+            "If using skewers, wide flat metal skewers work best.",
+            "If using a frying pan, make the logs slightly flatter so they cook evenly.",
+            "Don't move the meat too much during the first minute of cooking.",
+            "A small amount of saffron adds aroma and colour without making the dish sweet.",
+            "Grilled tomatoes are an important part of the classic presentation.",
+            "If the mixture is very soft, chill it for longer rather than immediately adding breadcrumbs or flour."
+        ],
+        "batch-cooking": "Freezes well either raw or cooked. Freeze raw shaped portions on a tray before transferring to a container, or cool cooked koobideh completely before freezing.",
+        "leftovers": "Reheat gently and serve with rice, in flatbread, or crumbled into a salad."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Kabab Chenjeh",
+            "Kabab Torsh",
+            "Rogan Josh",
+            "Lamb Kofta",
+            "Persian Rice"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

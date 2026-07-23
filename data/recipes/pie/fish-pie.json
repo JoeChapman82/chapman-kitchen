@@ -1,0 +1,134 @@
+{
+    "id": "019f909c-679e-724b-a816-651fb17ea445",
+    "version": 1,
+
+    "title": "Fish Pie",
+
+    "overview": {
+        "description": "A classic British fish pie with mixed fish in a creamy leek and parsley sauce topped with fluffy mashed potato.",
+        "country": "United Kingdom",
+        "region": "Britain",
+        "serves": 6
+    },
+
+    "ingredients": [
+        "700g mixed fish, cut into large pieces",
+        "200g raw peeled prawns, optional",
+        "1 large leek, finely sliced",
+        "50g butter",
+        "50g plain flour",
+        "600ml milk",
+        "150ml double cream",
+        "1 tsp Dijon mustard",
+        "1 small handful fresh parsley, chopped",
+        "1 lemon, zest and juice",
+        "100g frozen peas",
+        "Salt, to taste",
+        "Black pepper, to taste",
+        "",
+        "For the topping:",
+        "1.2kg potatoes, peeled and chopped",
+        "50g butter",
+        "100ml milk",
+        "50g mature cheddar, grated, optional"
+    ],
+
+    "method": [
+        "Preheat the oven to 200°C.",
+        "Place the potatoes in a large saucepan of salted water.",
+        "Bring to the boil and cook until completely tender.",
+        "Drain thoroughly and allow the potatoes to steam dry briefly.",
+        "Mash with the butter and milk until smooth.",
+        "Season with salt and black pepper.",
+        "Melt the butter in a large saucepan over medium heat.",
+        "Add the leek and cook gently for 8–10 minutes until softened.",
+        "Add the flour and stir for 1–2 minutes.",
+        "Gradually add the milk, stirring constantly to make a smooth sauce.",
+        "Add the cream and Dijon mustard.",
+        "Simmer gently until the sauce thickens.",
+        "Remove from the heat.",
+        "Stir in the parsley, lemon zest, lemon juice and peas.",
+        "Season to taste.",
+        "Add the raw fish and prawns to a large ovenproof dish.",
+        "Pour over the hot sauce.",
+        "Allow to stand for a few minutes so the fish begins to warm through.",
+        "Spread the mashed potato over the top.",
+        "Rough up the surface with a fork.",
+        "Scatter over the cheddar if using.",
+        "Bake for 30–40 minutes until bubbling and golden on top.",
+        "Allow to rest for 5–10 minutes before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Green Vegetables"
+        ],
+        "optional-sides": [
+            "Peas",
+            "Green Beans",
+            "Broccoli",
+            "Sweetcorn",
+            "Simple Salad"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 35,
+        "cook-time-minutes": 40,
+        "freezer-label": "freezes well",
+        "cost": "moderate",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Fish pie is a British comfort food that developed from the tradition of combining fish with a thick sauce and a pastry or potato topping.",
+        "what-you-will-learn": "How to make a smooth white sauce and how residual heat and oven cooking gently cook delicate fish without drying it out.",
+        "skills": [
+            "Making white sauce",
+            "Cooking fish",
+            "Making mashed potato",
+            "Assembling a pie",
+            "Freezer cooking"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A comforting family meal that makes excellent use of frozen fish and can be assembled ahead or batch-cooked for the freezer.",
+        "chapman-tips": [
+            "Use a mixture of fish for the best texture and flavour.",
+            "Firm white fish provides structure while salmon adds richness and colour.",
+            "Don't overcook the fish before assembling; it will cook in the sauce and oven.",
+            "Let the mashed potatoes steam dry after boiling so the topping does not become watery.",
+            "Rough up the potato surface with a fork to create crispy peaks.",
+            "The sauce should be fairly thick before the fish is added.",
+            "Don't overfill the dish; leave room for the sauce to bubble.",
+            "A little lemon helps balance the richness of the sauce."
+        ],
+        "batch-cooking": "Freezes well. Assemble and cool completely before freezing, then thaw thoroughly before baking where practical.",
+        "leftovers": "Reheats well and can be portioned for lunches."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Salmon en Croute",
+            "Pasta con le Sarde",
+            "Fish Curry",
+            "Moussaka",
+            "Cottage Pie"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

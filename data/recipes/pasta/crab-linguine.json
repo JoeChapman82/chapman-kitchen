@@ -1,0 +1,118 @@
+{
+    "id": "019f90a9-2bb9-7608-8020-8449e25d4a27",
+    "version": 1,
+
+    "title": "Simple Crab Linguine",
+
+    "overview": {
+        "description": "A simple Italian-style pasta dish with crab, garlic, chilli, lemon, parsley and olive oil.",
+        "country": "Italy",
+        "region": "Italian-inspired",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "400g linguine",
+        "300g cooked crab meat",
+        "100g tomatoes", 
+        "4 garlic cloves, finely sliced",
+        "1 red chilli, finely sliced",
+        "4 tbsp extra virgin olive oil",
+        "1 lemon, zest and juice",
+        "1 large handful fresh parsley, finely chopped",
+        "Salt, to taste",
+        "Black pepper, to taste",
+        "100ml reserved pasta water"
+    ],
+
+    "method": [
+        "Bring a large saucepan of salted water to the boil.",
+        "Cook the linguine according to the packet instructions until al dente.",
+        "While the pasta cooks, heat the olive oil in a large frying pan over low to medium heat.",
+        "Add the sliced garlic, tomatoes and chilli.",
+        "Cook gently for 1–2 minutes until the garlic is fragrant but not browned.",
+        "Add the lemon zest.",
+        "Reserve approximately 100ml of the pasta cooking water.",
+        "Drain the linguine.",
+        "Add the linguine to the frying pan.",
+        "Add a splash of the reserved pasta water.",
+        "Toss thoroughly until the oil and pasta water form a light sauce around the pasta.",
+        "Add the crab meat.",
+        "Toss gently until just warmed through.",
+        "Add the lemon juice and parsley.",
+        "Season with black pepper and adjust the salt if necessary.",
+        "Add a little more pasta water if needed to loosen the sauce.",
+        "Serve immediately."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Simple Green Salad"
+        ],
+        "optional-sides": [
+            "Crusty Bread",
+            "Garlic Bread",
+            "Roasted Vegetables"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 10,
+        "cook-time-minutes": 15,
+        "freezer-label": "better fresh",
+        "cost": "moderate",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Crab meat is delicate and is usually best added near the end of cooking so its flavour and texture are not lost.",
+        "what-you-will-learn": "How to create a simple emulsified pasta sauce using olive oil and starchy pasta water, and how to gently heat delicate seafood.",
+        "skills": [
+            "Cooking pasta al dente",
+            "Building a pasta sauce",
+            "Emulsifying oil and pasta water",
+            "Handling delicate seafood",
+            "Balancing lemon and chilli"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A quick, elegant seafood pasta that lets a small amount of crab remain the main flavour rather than burying it under a heavy sauce.",
+        "chapman-tips": [
+            "Use the best crab meat you can reasonably obtain.",
+            "White crab meat gives delicate sweetness while brown crab meat adds depth.",
+            "Don't brown the garlic; burnt garlic will overpower the crab.",
+            "Use the pasta water gradually rather than adding all of it at once.",
+            "Add the crab right at the end and heat it gently.",
+            "Adjust the chilli to taste.",
+            "The lemon should brighten the dish without making it sour.",
+            "Don't add Parmesan; its strong flavour would overpower the crab."
+        ],
+        "batch-cooking": "Better fresh. The crab and pasta are at their best immediately after cooking.",
+        "leftovers": "Best eaten immediately, although leftovers can be gently reheated with a splash of water."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Pasta con le Sarde",
+            "Salmon en Croute",
+            "Simple Prawn Pasta",
+            "Seafood Linguine",
+            "Garlic Prawns"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

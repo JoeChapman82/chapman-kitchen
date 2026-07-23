@@ -1,0 +1,116 @@
+{
+    "id": "019f909a-62b6-75e3-a16d-ae748e7e5358",
+    "version": 1,
+
+    "title": "Caramelised Onion Chutney",
+
+    "overview": {
+        "description": "A rich, sweet and savoury chutney made from slowly caramelised onions, vinegar and brown sugar.",
+        "country": "United Kingdom",
+        "region": "British",
+        "serves": 12
+    },
+
+    "ingredients": [
+        "1kg onions, thinly sliced",
+        "2 tbsp olive oil",
+        "150g light brown sugar",
+        "150ml red wine vinegar",
+        "100ml balsamic vinegar",
+        "2 tbsp golden syrup",
+        "1 tsp salt",
+        "½ tsp freshly ground black pepper",
+        "2 sprigs fresh thyme, leaves picked"
+    ],
+
+    "method": [
+        "Heat the olive oil in a large heavy-based saucepan over medium heat.",
+        "Add the sliced onions and salt.",
+        "Cook for 10 minutes, stirring regularly, until the onions begin to soften.",
+        "Reduce the heat to low.",
+        "Cook for 35–45 minutes, stirring occasionally, until the onions are deeply softened and golden brown.",
+        "Add the brown sugar, red wine vinegar, balsamic vinegar and golden syrup.",
+        "Add the black pepper and thyme.",
+        "Stir thoroughly.",
+        "Bring to a gentle simmer.",
+        "Cook for 25–35 minutes, stirring occasionally, until the liquid has reduced and the chutney has become thick and glossy.",
+        "Remove the thyme stems if using whole sprigs.",
+        "Taste and adjust the balance of sweetness, acidity and seasoning.",
+        "Allow to cool before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Cheese",
+            "Crusty Bread",
+            "Cold Meats"
+        ],
+        "optional-sides": [
+            "Burgers",
+            "Sausages",
+            "Pies",
+            "Sandwiches",
+            "Roast Beef"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 90,
+        "freezer-label": "freezes well",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Caramelisation and the Maillard reaction both contribute to the deep flavour of cooked onions, although they are different chemical processes.",
+        "what-you-will-learn": "How slow cooking transforms onions into a sweet, deeply flavoured preserve and how vinegar balances sweetness in a chutney.",
+        "skills": [
+            "Slow cooking onions",
+            "Caramelisation",
+            "Reducing liquids",
+            "Balancing sweet and sour flavours",
+            "Making a preserve"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A versatile homemade chutney that can turn simple cheese, bread or leftovers into a much more interesting meal.",
+        "chapman-tips": [
+            "Don't rush the onions; the slow cooking stage is where most of the flavour develops.",
+            "Stir occasionally but not constantly.",
+            "The chutney will thicken further as it cools.",
+            "Don't reduce it too far or it may become sticky rather than chutney-like.",
+            "The vinegar should remain noticeable enough to balance the sugar.",
+            "A mixture of red wine and balsamic vinegar gives more complexity than either alone.",
+            "The chutney is particularly good with strong cheddar.",
+            "Use a wide saucepan to help the liquid evaporate efficiently."
+        ],
+        "batch-cooking": "Freezes well in small portions. It can also be stored in the refrigerator for several weeks in a clean, sealed container.",
+        "leftovers": "Excellent with cheese sandwiches, burgers, sausages, pies and leftover roast meat."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Tomato Chutney",
+            "Apple Chutney",
+            "Plum Chutney",
+            "Pickled Vegetables",
+            "Cranberry Sauce"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

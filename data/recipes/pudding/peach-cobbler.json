@@ -1,0 +1,119 @@
+{
+    "id": "019f90b4-cbda-737a-862d-3c72fd07c830",
+    "version": 1,
+
+    "title": "Peach Cobbler with Tinned Peaches",
+
+    "overview": {
+        "description": "A warm peach cobbler made with tinned peaches and topped with soft, golden sweet biscuit dough.",
+        "country": "United States",
+        "region": "Southern United States",
+        "serves": 6
+    },
+
+    "ingredients": [
+        "3 x 410g tins sliced peaches",
+        "50g light brown sugar",
+        "1 tbsp cornflour",
+        "1 tsp vanilla extract",
+        "½ tsp ground cinnamon",
+        "¼ tsp ground nutmeg",
+        "Pinch of salt",
+        "",
+        "For the topping:",
+        "200g plain flour",
+        "75g light brown sugar",
+        "2 tsp baking powder",
+        "½ tsp salt",
+        "100g cold butter, cubed",
+        "150ml double cream",
+        "1 tsp vanilla extract"
+    ],
+
+    "method": [
+        "Preheat the oven to 190°C.",
+        "Drain the peaches, reserving 150ml of the syrup.",
+        "Place the peaches in a large baking dish.",
+        "Mix the reserved syrup with the brown sugar, cornflour, vanilla, cinnamon, nutmeg and salt.",
+        "Pour the mixture over the peaches.",
+        "For the topping, mix the flour, brown sugar, baking powder and salt in a bowl.",
+        "Rub in the cold butter until the mixture resembles coarse breadcrumbs.",
+        "Add the cream and vanilla extract.",
+        "Mix gently until a soft dough forms.",
+        "Do not overmix.",
+        "Drop spoonfuls of the dough over the peaches, leaving some gaps between them.",
+        "Bake for 35–45 minutes until the peaches are bubbling and the topping is golden brown and cooked through.",
+        "Allow to rest for 10 minutes before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Vanilla Ice Cream"
+        ],
+        "optional-sides": [
+            "Double Cream",
+            "Custard",
+            "Crème Fraîche"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 45,
+        "freezer-label": "better fresh",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "American cobbler toppings vary considerably by region, ranging from biscuit-like dough to cake batter and pastry-style toppings.",
+        "what-you-will-learn": "How to turn tinned fruit into a balanced baked fruit pudding and how to make a soft biscuit-style cobbler topping.",
+        "skills": [
+            "Working with tinned fruit",
+            "Thickening fruit juices",
+            "Making biscuit dough",
+            "Baking fruit puddings",
+            "Balancing sweetness"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "An inexpensive, reliable fruit pudding using tinned peaches from the pantry rather than expensive fresh fruit.",
+        "chapman-tips": [
+            "Choose peaches in juice rather than heavy syrup if possible.",
+            "Don't discard all the syrup; it helps create the sauce.",
+            "If using peaches in heavy syrup, reduce or omit the added sugar.",
+            "Leave gaps between the topping pieces so the peach filling can bubble through.",
+            "Don't overwork the topping dough or it may become tough.",
+            "The cobbler thickens slightly as it cools.",
+            "Tinned peaches provide consistent results regardless of season.",
+            "A little almond extract can be used instead of some of the vanilla for a classic peach-and-almond flavour."
+        ],
+        "batch-cooking": "Better fresh. The topping is at its best on the day it is baked.",
+        "leftovers": "Good reheated gently, although the topping will soften."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Apple Crumble",
+            "Blackberry Crumble",
+            "Sticky Toffee Pudding",
+            "Slow-Cooked Jam Sponge Pudding",
+            "Rice Pudding"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "id": "019f90b8-818d-74da-911e-fe9979013055",
+    "version": 1,
+
+    "title": "Spotted Dick",
+
+    "overview": {
+        "description": "A traditional steamed British suet pudding packed with currants and gently flavoured with lemon and spices.",
+        "country": "United Kingdom",
+        "region": "Britain",
+        "serves": 6
+    },
+
+    "ingredients": [
+        "250g self-raising flour",
+        "125g shredded suet",
+        "125g currants",
+        "75g caster sugar",
+        "Zest of 1 lemon",
+        "½ tsp ground cinnamon",
+        "¼ tsp ground nutmeg",
+        "Pinch of salt",
+        "150ml milk",
+        "1 tsp vanilla extract"
+    ],
+
+    "method": [
+        "Grease a 1.5 litre pudding basin.",
+        "Place the flour, suet, currants, sugar, lemon zest, cinnamon, nutmeg and salt in a large bowl.",
+        "Mix thoroughly.",
+        "Add the milk and vanilla extract.",
+        "Stir until a soft, sticky dough forms.",
+        "Spoon the mixture into the pudding basin.",
+        "Smooth the top gently.",
+        "Cover the basin securely with baking parchment and foil.",
+        "Place the basin in a large saucepan.",
+        "Pour in boiling water until it reaches approximately halfway up the sides of the basin.",
+        "Cover the saucepan with a lid.",
+        "Steam for approximately 2 hours, topping up the water with boiling water if necessary.",
+        "Carefully remove the pudding basin.",
+        "Leave to rest for 5 minutes.",
+        "Turn the pudding out onto a serving plate.",
+        "Serve immediately with hot custard."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Custard"
+        ],
+        "optional-sides": [
+            "Double Cream",
+            "Golden Syrup",
+            "Treacle Sauce"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 120,
+        "freezer-label": "freezes well",
+        "cost": "low",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "The name 'spotted dick' refers to the spots made by the dried fruit, while 'dick' is an old dialect form of pudding.",
+        "what-you-will-learn": "How suet creates a light steamed pudding and how moist heat transforms a simple dough into a tender dessert.",
+        "skills": [
+            "Making suet pudding",
+            "Steaming puddings",
+            "Working with dried fruit",
+            "Using a pudding basin",
+            "Traditional British cooking"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A classic old-fashioned British pudding that is inexpensive, filling, freezer-friendly and ideal for the family's weekly pudding tradition.",
+        "chapman-tips": [
+            "Do not overmix the dough once the liquid is added.",
+            "The dough should be soft and sticky rather than dry.",
+            "Keep the water at a gentle simmer rather than a violent boil.",
+            "Make sure the pudding basin is well covered so water does not enter.",
+            "Check the water level during steaming and top up with boiling water if necessary.",
+            "Serve immediately for the best texture.",
+            "Custard is the classic accompaniment.",
+            "A little extra lemon zest gives the pudding a brighter flavour."
+        ],
+        "batch-cooking": "Freezes well. Cool completely, wrap securely and freeze in portions.",
+        "leftovers": "Reheat by steaming or gently in the microwave and serve with custard."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Treacle Sponge Pudding",
+            "Slow-Cooked Jam Sponge Pudding",
+            "Bread and Butter Pudding",
+            "Rice Pudding",
+            "Christmas Pudding"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

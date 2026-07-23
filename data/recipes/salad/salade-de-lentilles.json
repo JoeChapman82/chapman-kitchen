@@ -1,0 +1,125 @@
+{
+    "id": "019f8f82-ec6e-7466-8bbb-cac4640f5ba0",
+    "version": 1,
+
+    "title": "Salade de Lentilles",
+
+    "overview": {
+        "description": "A warm French lentil salad with green lentils, carrots, onion, fresh herbs and a sharp mustard vinaigrette.",
+        "country": "France",
+        "region": "France",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "300g green or Puy-style lentils",
+        "2 carrots, finely diced",
+        "1 large onion, finely diced",
+        "2 garlic cloves, lightly crushed",
+        "2 bay leaves",
+        "4 sprigs fresh thyme",
+        "1 litre vegetable stock or water",
+        "2 tbsp olive oil",
+        "1 large handful fresh parsley, chopped",
+        "2 tbsp fresh chives, chopped",
+        "",
+        "For the dressing:",
+        "4 tbsp extra virgin olive oil",
+        "2 tbsp red wine vinegar",
+        "1 tbsp Dijon mustard",
+        "1 small shallot, very finely diced",
+        "½ tsp salt",
+        "Black pepper, to taste"
+    ],
+
+    "method": [
+        "Rinse the lentils thoroughly.",
+        "Place the lentils in a saucepan with the crushed garlic, bay leaves, thyme and stock or water.",
+        "Bring to the boil.",
+        "Reduce the heat and simmer for 20–30 minutes until the lentils are tender but still retain their shape.",
+        "While the lentils cook, heat the olive oil in a large frying pan.",
+        "Add the diced carrot and onion.",
+        "Cook gently for 8–10 minutes until softened but not browned.",
+        "Remove the bay leaves, thyme stems and garlic from the cooked lentils.",
+        "Drain the lentils thoroughly.",
+        "Whisk together the olive oil, red wine vinegar, Dijon mustard, shallot, salt and black pepper.",
+        "Add the warm lentils to the cooked carrot and onion.",
+        "Pour over the dressing while the lentils are still warm.",
+        "Toss gently so the lentils absorb the dressing.",
+        "Add the parsley and chives.",
+        "Taste and adjust the seasoning.",
+        "Serve warm or at room temperature."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Crusty Bread"
+        ],
+        "optional-sides": [
+            "Poached Egg",
+            "Goat Cheese",
+            "Roasted Vegetables",
+            "Green Salad"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 30,
+        "freezer-label": "freezes well",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Lentil salads are particularly associated with French home cooking, and Puy lentils are prized because they retain their shape and have a distinctive peppery flavour.",
+        "what-you-will-learn": "How to cook lentils so they retain their texture and how warm ingredients absorb vinaigrette more effectively than cold ones.",
+        "skills": [
+            "Cooking lentils",
+            "Making mustard vinaigrette",
+            "Cooking aromatics",
+            "Balancing acidity",
+            "Serving a warm salad"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A warming, inexpensive complete meal salad that works particularly well in colder weather and makes excellent use of the lentils already in the pantry.",
+        "chapman-tips": [
+            "Don't overcook the lentils; they should retain their shape.",
+            "Dress the lentils while they are still warm so they absorb the vinaigrette.",
+            "Puy lentils are ideal but ordinary green lentils work very well.",
+            "The mustard and vinegar should provide noticeable sharpness to balance the earthy lentils.",
+            "Don't add salt to the cooking water if using a salty stock; season the finished dish instead.",
+            "Serve with good crusty bread to make the meal more substantial.",
+            "A poached or fried egg makes an excellent addition.",
+            "The salad can be served warm, lukewarm or at room temperature."
+        ],
+        "batch-cooking": "Freezes well, although the fresh herbs should ideally be added after reheating.",
+        "leftovers": "Excellent cold or gently reheated. Leftovers can be used as a filling for wraps or served with a fried egg."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Mujadara",
+            "Kosambari",
+            "Panzanella",
+            "Nicoise Salad",
+            "Three Sisters Stew"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

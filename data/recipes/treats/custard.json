@@ -1,0 +1,118 @@
+{
+    "id": "019f90bb-294b-75bb-b60b-e2a97f9d8926",
+    "version": 1,
+
+    "title": "Homemade Vanilla Custard",
+
+    "overview": {
+        "description": "A rich, smooth pouring custard made with egg yolks, milk, cream, sugar and vanilla.",
+        "country": "United Kingdom",
+        "region": "Britain",
+        "serves": 6
+    },
+
+    "ingredients": [
+        "500ml whole milk",
+        "250ml double cream",
+        "1 vanilla pod, or 2 tsp vanilla extract",
+        "6 large egg yolks",
+        "75g caster sugar",
+        "1 tbsp cornflour, optional"
+    ],
+
+    "method": [
+        "If using a vanilla pod, split it lengthways and scrape out the seeds.",
+        "Place the milk, cream, vanilla seeds and vanilla pod in a saucepan.",
+        "Heat gently until steaming but do not allow it to boil.",
+        "Remove from the heat and leave to infuse for 10 minutes.",
+        "In a large bowl, whisk together the egg yolks, sugar and cornflour if using.",
+        "Remove the vanilla pod from the milk mixture.",
+        "Gradually pour the warm milk mixture into the egg yolks while whisking continuously.",
+        "Return the mixture to the saucepan.",
+        "Cook over low to medium heat, stirring constantly with a wooden spoon or spatula.",
+        "Continue cooking until the custard thickens enough to coat the back of the spoon.",
+        "Do not allow the custard to boil.",
+        "If using a thermometer, aim for approximately 82–84°C.",
+        "Remove from the heat immediately once thickened.",
+        "Stir in the vanilla extract if using it instead of a vanilla pod.",
+        "Serve warm."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Spotted Dick",
+            "Jam Roly-Poly",
+            "Bread and Butter Pudding",
+            "Slow-Cooked Jam Sponge Pudding",
+            "Peach Cobbler",
+            "Apple Crumble",
+            "Rice Pudding"
+        ],
+        "optional-sides": [
+            "Fresh Fruit",
+            "Cakes",
+            "Puddings"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 10,
+        "cook-time-minutes": 15,
+        "freezer-label": "better fresh",
+        "cost": "moderate",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Custard thickens because the egg yolk proteins gently set as they are heated. Too much heat causes the proteins to tighten and scramble, which is why custard must be cooked gently.",
+        "what-you-will-learn": "How to make a smooth pouring custard and how to control temperature to prevent the egg yolks from scrambling.",
+        "skills": [
+            "Making custard",
+            "Tempering eggs",
+            "Temperature control",
+            "Thickening sauces",
+            "Balancing sweetness"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "An essential accompaniment for the growing collection of traditional British puddings and a versatile sauce for many other desserts.",
+        "chapman-tips": [
+            "Cook gently and stir constantly.",
+            "Don't allow the custard to boil.",
+            "A thermometer makes the process very reliable.",
+            "The custard will thicken slightly as it cools.",
+            "For a thinner pouring custard, omit the cornflour.",
+            "For a thicker custard, keep the cornflour.",
+            "If the custard becomes lumpy, pass it through a fine sieve immediately.",
+            "If using vanilla extract, add it after cooking for the strongest flavour.",
+            "A layer of cling film pressed directly onto the surface helps prevent a skin forming."
+        ],
+        "batch-cooking": "Better fresh. Can be made ahead and gently reheated.",
+        "leftovers": "Refrigerate and use within a few days. Reheat gently while stirring."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Bread and Butter Pudding",
+            "Rice Pudding",
+            "Spotted Dick",
+            "Jam Roly-Poly",
+            "Peach Cobbler"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

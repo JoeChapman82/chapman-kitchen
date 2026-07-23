@@ -1,0 +1,121 @@
+{
+    "id": "019f8f89-5666-7308-904f-1b51cc5e9cdf",
+    "version": 1,
+
+    "title": "Jamie Oliver's Beef Short Ribs",
+
+    "overview": {
+        "description": "Slow-braised beef short ribs cooked with celery, carrots, walnuts, onion marmalade and smooth ale until the meat becomes exceptionally tender.",
+        "country": "United Kingdom",
+        "region": "British",
+        "serves": 6
+    },
+
+    "ingredients": [
+        "6 beef short ribs, bone in, approximately 1.6kg",
+        "2 heads celery",
+        "6 carrots, approximately 600g",
+        "50g shelled unsalted walnut halves",
+        "½ x 345g jar onion marmalade",
+        "500ml smooth ale",
+        "600ml water",
+        "6 baking potatoes, approximately 1.5kg",
+        "Creamed horseradish, to serve",
+        "Sea salt, to taste",
+        "Black pepper, to taste"
+    ],
+
+    "method": [
+        "Preheat the oven to 160°C.",
+        "Heat a large shallow casserole pan over medium-high heat.",
+        "Brown the short ribs thoroughly on all sides, turning regularly, for approximately 15 minutes.",
+        "Remove the ribs to a bowl.",
+        "Trim the celery and peel the carrots.",
+        "Finely slice the celery, reserving any good celery leaves for serving.",
+        "Add the celery, carrots, walnuts and onion marmalade to the casserole.",
+        "Season with salt and black pepper.",
+        "Toss the vegetables until coated.",
+        "Pour in the smooth ale and 600ml water.",
+        "Return the ribs to the pan and nestle them into the liquid.",
+        "Cover with damp greaseproof paper and place in the oven.",
+        "Cook for approximately 4 hours, basting halfway through, until the meat pulls easily away from the bones.",
+        "Scrub the potatoes and prick them all over with a fork.",
+        "Bake the potatoes alongside the ribs for the final 1½ hours.",
+        "Remove excess fat from the surface of the braising liquid.",
+        "Remove the bones and any unwanted pieces of connective tissue.",
+        "Serve the tender beef with the vegetables, baked potatoes and creamed horseradish.",
+        "Scatter over the reserved celery leaves."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Baked Potatoes",
+            "Creamed Horseradish"
+        ],
+        "optional-sides": [
+            "Green Vegetables",
+            "Salad",
+            "Crusty Bread"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 25,
+        "cook-time-minutes": 240,
+        "freezer-label": "freezes well",
+        "cost": "moderate",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Short ribs are a relatively tough cut, but long, gentle cooking transforms the connective tissue into gelatin and makes the meat exceptionally tender.",
+        "what-you-will-learn": "How a long braise transforms a tough cut of beef and how a combination of ale, vegetables, onion marmalade and walnuts creates a rich cooking liquid.",
+        "skills": [
+            "Browning beef",
+            "Slow braising",
+            "Cooking tough cuts",
+            "Managing a long cook",
+            "Removing excess fat"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A memorable, comforting batch-friendly meal that makes excellent use of an inexpensive cut of beef and produces a deeply flavoured braising liquid with valuable leftovers.",
+        "chapman-tips": [
+            "Brown the ribs properly; this provides much of the depth of flavour.",
+            "Don't rush the cooking time. The meat is ready when it pulls easily from the bone.",
+            "The braising liquid should not completely evaporate during cooking.",
+            "Skim excess fat before serving.",
+            "The baked potatoes are particularly good for soaking up the rich cooking liquid.",
+            "The walnuts add texture and a subtle richness to the braising mixture.",
+            "Creamed horseradish provides useful sharpness against the rich beef.",
+            "Save any leftover braising liquid rather than throwing it away."
+        ],
+        "batch-cooking": "Freezes well. Freeze the beef and braising liquid together in portions where possible.",
+        "leftovers": "Excellent reheated. The leftover beef can be used in pies, sandwiches or shredded into a rich beef dish. The leftover braising liquid can be strained, skimmed and frozen for use in gravy, stews, lentils or other braises."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Rogan Josh",
+            "Beef Bourguignon",
+            "Three Sisters Stew",
+            "Mujadara",
+            "Korean Beef Short Ribs"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

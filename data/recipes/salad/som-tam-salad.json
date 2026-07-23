@@ -1,0 +1,121 @@
+{
+    "id": "019f8f7f-050a-76db-baf8-6a81066a74ed",
+    "version": 1,
+
+    "title": "Som Tam",
+
+    "overview": {
+        "description": "A Thai green papaya salad combining crunchy shredded papaya with lime, fish sauce, palm sugar, garlic, chilli, tomatoes and peanuts.",
+        "country": "Thailand",
+        "region": "Northeastern Thailand / Isan",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "1 medium green papaya, peeled and deseeded",
+        "150g green beans, cut into 3cm pieces",
+        "200g cherry tomatoes, halved",
+        "2 garlic cloves",
+        "1–4 bird's eye chillies, to taste",
+        "2 tbsp roasted peanuts",
+        "2 tbsp palm sugar, finely chopped",
+        "3 tbsp lime juice",
+        "2 tbsp fish sauce",
+        "1 tbsp dried shrimp, optional",
+        "1 small handful Thai basil or fresh coriander, optional"
+    ],
+
+    "method": [
+        "Peel the green papaya.",
+        "Cut it in half and remove the seeds.",
+        "Shred the flesh into thin strips.",
+        "If you do not have a papaya shredder, use a julienne peeler or sharp knife.",
+        "Place the garlic and chillies in a large mortar.",
+        "Pound gently until roughly crushed.",
+        "Add the peanuts and pound lightly so some are crushed while others remain in pieces.",
+        "Add the palm sugar, lime juice and fish sauce.",
+        "Stir until the sugar is mostly dissolved.",
+        "Add the green beans.",
+        "Pound gently while turning the mixture to bruise the beans without completely crushing them.",
+        "Add the tomatoes.",
+        "Pound lightly to release some of their juices.",
+        "Add the shredded green papaya.",
+        "Use the pestle and a spoon together to gently pound and toss the salad.",
+        "Continue until the papaya has absorbed the dressing.",
+        "Add the dried shrimp if using.",
+        "Taste and adjust the balance of lime, fish sauce, sugar and chilli.",
+        "Finish with the remaining peanuts and herbs if using.",
+        "Serve immediately."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Sticky Rice"
+        ],
+        "optional-sides": [
+            "Grilled Chicken",
+            "Grilled Pork",
+            "Thai Omelette",
+            "Fresh Cabbage"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 25,
+        "cook-time-minutes": 0,
+        "freezer-label": "better fresh",
+        "cost": "moderate",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Som tam means 'pounded sour' in Thai, referring to the preparation method and the characteristic sharp flavour of the salad.",
+        "what-you-will-learn": "How pounding and bruising ingredients releases flavour and changes texture, and how to balance the five major flavour sensations of Thai cooking.",
+        "skills": [
+            "Preparing green papaya",
+            "Using a mortar and pestle",
+            "Balancing sweet, sour, salty and spicy flavours",
+            "Preparing raw vegetables",
+            "Managing chilli heat"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A vibrant and highly distinctive complete meal salad that introduces a completely different flavour balance and preparation technique from the Mediterranean, Middle Eastern and South Asian salads already in the collection.",
+        "chapman-tips": [
+            "The green papaya should be firm and crisp, not ripe and sweet.",
+            "A julienne peeler works well if you don't have a traditional papaya shredder.",
+            "Don't simply stir the salad; gently pounding it is part of what gives Som Tam its character.",
+            "The ideal flavour balance is personal, so taste and adjust as you go.",
+            "Start with little or no chilli for the children and add extra chilli to individual portions.",
+            "Fish sauce provides saltiness and umami, not just a fish flavour.",
+            "Don't crush all the peanuts into powder; some texture is desirable.",
+            "If green papaya is unavailable, firm green mango makes an excellent alternative."
+        ],
+        "batch-cooking": "Better fresh. The papaya gradually loses its crisp texture once dressed.",
+        "leftovers": "Best eaten immediately. Undressed shredded papaya can be stored separately and dressed just before eating."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Vietnamese Chicken Salad",
+            "Kachumber",
+            "Kosambari",
+            "Shirazi Salad",
+            "Fattoush"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": "019f8f74-a574-771f-abe4-32e3b694f421",
+    "version": 1,
+
+    "title": "Tahdig",
+
+    "overview": {
+        "description": "Persian steamed rice with a golden, crisp layer of rice formed at the bottom of the pot.",
+        "country": "Iran",
+        "region": "Persia / Iran",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "400g basmati rice",
+        "2 tbsp salt, for the cooking water",
+        "3 tbsp neutral oil",
+        "2 tbsp butter or ghee",
+        "100ml water",
+        "Salt, to taste"
+    ],
+
+    "method": [
+        "Rinse the rice repeatedly in cold water until the water runs mostly clear.",
+        "Place the rice in a large bowl and cover with cold water.",
+        "Add 1 tbsp salt and soak for at least 1 hour.",
+        "Bring a large pot of water to a vigorous boil.",
+        "Add the remaining salt.",
+        "Drain the soaked rice and add it to the boiling water.",
+        "Boil for approximately 5–7 minutes until the outside of the grains is soft but the centre remains firm.",
+        "Drain the rice thoroughly.",
+        "Rinse briefly with warm water to remove excess starch.",
+        "Combine the oil, butter or ghee and water in a heavy-based non-stick saucepan.",
+        "Heat over medium heat.",
+        "Add approximately one-quarter of the rice to the bottom of the pan.",
+        "Gently spread it into an even layer.",
+        "Add the remaining rice, piling it loosely into a mound.",
+        "Use the handle of a wooden spoon to make several holes through the rice to allow steam to escape.",
+        "Wrap the lid in a clean tea towel and place it firmly on the pan.",
+        "Cook over medium heat for approximately 8–10 minutes until steam begins to build.",
+        "Reduce the heat to very low.",
+        "Cook for a further 35–45 minutes.",
+        "Remove from the heat and allow the pan to stand for 5 minutes.",
+        "Carefully loosen the rice around the edges.",
+        "Invert the pan onto a large serving platter so the crisp tahdig is revealed.",
+        "Alternatively, spoon the rice onto a platter and serve the tahdig separately in pieces."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Persian Stews",
+            "Grilled Meat",
+            "Grilled Fish",
+            "Shirazi Salad"
+        ],
+        "optional-sides": [
+            "Plain Yogurt",
+            "Fresh Herbs",
+            "Pickled Vegetables"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 70,
+        "cook-time-minutes": 50,
+        "freezer-label": "better fresh",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Tahdig means 'bottom of the pot' in Persian. The crisp layer is often considered the best part of the meal and is commonly shared among the diners.",
+        "what-you-will-learn": "How parboiling and steaming produce fluffy rice while controlled heat creates a crisp, golden layer at the bottom of the pot.",
+        "skills": [
+            "Rinsing and soaking rice",
+            "Parboiling rice",
+            "Steaming rice",
+            "Controlling heat",
+            "Creating a crisp rice crust"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A fascinating rice technique that transforms a familiar pantry staple into something completely different, while introducing one of the defining pleasures of Persian cuisine.",
+        "chapman-tips": [
+            "A good non-stick saucepan makes the first attempt much easier.",
+            "The rice should be undercooked in the centre when it is drained after boiling.",
+            "Don't pack the rice tightly into the pan; steam needs to circulate.",
+            "The tea towel absorbs condensation and helps prevent soggy rice.",
+            "Low heat is essential once the rice begins steaming.",
+            "Don't keep lifting the lid to check the tahdig.",
+            "If the tahdig is sticking, place the bottom of the pan briefly in cold water before attempting to invert it.",
+            "The first attempt may be lighter or darker than expected; heat control is the main variable to learn."
+        ],
+        "batch-cooking": "Better fresh. The crisp texture is lost during refrigeration and reheating.",
+        "leftovers": "The fluffy rice reheats well, but the tahdig is best eaten immediately."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Persian Jeweled Rice",
+            "Dal Chawal",
+            "Mujadara",
+            "Lemon Rice",
+            "Plain Basmati Rice"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

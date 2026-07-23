@@ -1,0 +1,139 @@
+{
+    "id": "019f90ac-961d-743d-bead-5e0d6ac355da",
+    "version": 1,
+
+    "title": "Meatballs in Marinara Sauce",
+
+    "overview": {
+        "description": "Tender beef and pork meatballs gently simmered in a simple tomato, garlic and herb marinara sauce.",
+        "country": "Italy",
+        "region": "Italian-inspired",
+        "serves": 6
+    },
+
+    "ingredients": [
+        "500g beef mince",
+        "500g pork mince",
+        "100g fresh breadcrumbs",
+        "100ml milk",
+        "1 large egg",
+        "1 small onion, very finely chopped",
+        "3 garlic cloves, finely chopped",
+        "50g Parmesan, finely grated",
+        "2 tbsp fresh parsley, finely chopped",
+        "1 tsp dried oregano",
+        "1 tsp salt",
+        "½ tsp black pepper",
+        "",
+        "For the marinara sauce:",
+        "2 tbsp olive oil",
+        "1 onion, finely chopped",
+        "3 garlic cloves, finely chopped",
+        "2 x 400g tins chopped tomatoes",
+        "2 tbsp tomato purée",
+        "1 tsp dried oregano",
+        "1 tsp dried basil",
+        "1 tsp sugar, optional",
+        "Salt, to taste",
+        "Black pepper, to taste",
+        "150ml water"
+    ],
+
+    "method": [
+        "Place the breadcrumbs in a bowl and pour over the milk.",
+        "Leave for 5 minutes until softened.",
+        "Add the beef mince, pork mince, egg, onion, garlic, Parmesan, parsley, oregano, salt and black pepper.",
+        "Mix gently until just combined.",
+        "Do not overwork the mixture.",
+        "Form into approximately 24 meatballs.",
+        "Heat the olive oil in a large frying pan or casserole over medium-high heat.",
+        "Brown the meatballs in batches, turning regularly.",
+        "Remove the meatballs once browned. They do not need to be fully cooked at this stage.",
+        "For the sauce, add the onion to the pan and cook gently for 5–8 minutes until softened.",
+        "Add the garlic and cook for 30 seconds.",
+        "Add the tomato purée and cook for 1 minute.",
+        "Add the chopped tomatoes, oregano, basil and water.",
+        "Season with salt and black pepper.",
+        "Add the sugar if the tomatoes are particularly acidic.",
+        "Bring the sauce to a gentle simmer.",
+        "Return the meatballs to the sauce.",
+        "Cover and simmer gently for 25–30 minutes until the meatballs are completely cooked through.",
+        "Taste and adjust the seasoning.",
+        "Serve with pasta, crusty bread or in sandwiches."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Pasta",
+            "Crusty Bread"
+        ],
+        "optional-sides": [
+            "Garlic Bread",
+            "Green Salad",
+            "Roasted Vegetables",
+            "Mozzarella",
+            "Grated Parmesan"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 25,
+        "cook-time-minutes": 45,
+        "freezer-label": "freezes well",
+        "cost": "moderate",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Soaking breadcrumbs in milk creates a panade, which helps meatballs retain moisture and keeps them tender rather than dense.",
+        "what-you-will-learn": "How to make tender meatballs and how to develop flavour by browning the meat before finishing it in a tomato sauce.",
+        "skills": [
+            "Making meatballs",
+            "Using a panade",
+            "Browning meat",
+            "Making tomato sauce",
+            "Freezer cooking"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A flexible family meal that works with pasta, bread or sandwiches and produces excellent freezer-friendly leftovers.",
+        "chapman-tips": [
+            "Don't overwork the meat mixture or the meatballs may become dense.",
+            "Soaking the breadcrumbs in milk helps keep the meatballs tender.",
+            "Brown the meatballs in batches so they actually colour rather than steam.",
+            "The meatballs will finish cooking in the sauce.",
+            "Keep the sauce at a gentle simmer rather than a vigorous boil.",
+            "The beef and pork combination gives a good balance of flavour and tenderness.",
+            "For sandwiches, use slightly less sauce so the bread does not become soggy.",
+            "Melted mozzarella makes an excellent addition to meatball sandwiches.",
+            "Make smaller meatballs for sandwiches and larger ones for serving with pasta."
+        ],
+        "batch-cooking": "Freezes well. Freeze the meatballs in their sauce in meal-sized portions.",
+        "leftovers": "Excellent. Use in pasta, meatball sandwiches, wraps or with crusty bread."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Lasagne",
+            "Pesto Pasta",
+            "Moussaka",
+            "Beef Stir-Fry with Honey Pepper Sauce",
+            "Kofta"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

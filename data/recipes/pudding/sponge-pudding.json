@@ -1,0 +1,116 @@
+{
+    "id": "019f90b3-77a3-7545-a085-712a52cd3622",
+    "version": 1,
+
+    "title": "Slow-Cooked Jam Sponge Pudding",
+
+    "overview": {
+        "description": "A soft steamed sponge pudding cooked slowly over raspberry or blackberry jam until light, tender and rich with fruit.",
+        "country": "United Kingdom",
+        "region": "British",
+        "serves": 6
+    },
+
+    "ingredients": [
+        "150g raspberry or blackberry jam",
+        "125g unsalted butter, softened",
+        "125g caster sugar",
+        "2 large eggs",
+        "150g self-raising flour",
+        "1 tsp baking powder",
+        "2 tbsp milk",
+        "1 tsp vanilla extract",
+        "Pinch of salt"
+    ],
+
+    "method": [
+        "Grease a 1.5 litre pudding basin or heatproof bowl.",
+        "Spoon the jam into the bottom of the basin.",
+        "Beat the softened butter and caster sugar together until pale and fluffy.",
+        "Beat in the eggs one at a time.",
+        "Fold in the self-raising flour, baking powder and salt.",
+        "Add the milk and vanilla extract.",
+        "Mix until you have a soft dropping consistency.",
+        "Spoon the sponge mixture gently over the jam.",
+        "Smooth the surface.",
+        "Cover the basin securely with a layer of baking parchment followed by foil.",
+        "Place the basin inside the slow cooker.",
+        "Pour boiling water into the slow cooker until it reaches approximately halfway up the sides of the basin.",
+        "Cover the slow cooker with its lid.",
+        "Cook on HIGH for approximately 3 hours, or until the sponge is risen and cooked through.",
+        "Carefully remove the basin from the slow cooker.",
+        "Leave to stand for 5 minutes.",
+        "Turn the pudding out onto a serving plate, allowing the jam to run over the sponge."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Custard"
+        ],
+        "optional-sides": [
+            "Double Cream",
+            "Ice Cream",
+            "Crème Fraîche"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 180,
+        "freezer-label": "freezes well",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Steamed sponge puddings are descendants of older British boiled puddings, but using a covered basin allows the sponge to cook gently in a moist environment without drying out.",
+        "what-you-will-learn": "How to make a soft steamed sponge and how slow, moist cooking produces a tender pudding.",
+        "skills": [
+            "Making sponge batter",
+            "Steaming puddings",
+            "Slow cooking",
+            "Testing sponge doneness",
+            "Turning out puddings"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A simple, comforting family pudding that can cook slowly while the main meal is being prepared and works particularly well with the family's weekly pudding tradition.",
+        "chapman-tips": [
+            "The batter should be soft enough to drop easily from a spoon.",
+            "Don't overmix after adding the flour.",
+            "Cover the pudding basin securely so condensation does not drip onto the sponge.",
+            "The water should reach roughly halfway up the basin rather than covering it.",
+            "Check the water level during a long cook if necessary.",
+            "Use blackberry jam for a particularly fruity version.",
+            "The pudding is best served hot with plenty of custard.",
+            "A skewer inserted into the centre should come out clean when the sponge is cooked."
+        ],
+        "batch-cooking": "Freezes well. Cool completely, wrap securely and freeze in portions.",
+        "leftovers": "Reheat gently in the microwave or by steaming. Excellent with custard."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Sticky Toffee Pudding",
+            "Spotted Dick",
+            "Treacle Sponge Pudding",
+            "Rice Pudding",
+            "Bread and Butter Pudding"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

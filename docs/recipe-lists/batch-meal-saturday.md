@@ -12,6 +12,7 @@
 - [ ] Moussaka
 - [ ] Shepherd's Pie
 - [ ] Cottage Pie
+- [ ] Macaroni cheese
 
 #### 🥘 Slow Cooking
 
@@ -38,7 +39,7 @@
 - [ ] Jambalaya
 - [ ] Koshari
 - [ ] Paella
-
+- [ ] Kabab koobideh with tahdig and grilled tomatoes
 #### 🍖 Roasting
 
 - [ ] Slow Roasted Brisket

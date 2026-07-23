@@ -1,0 +1,119 @@
+{
+    "id": "019f90b6-8193-7148-b1e5-26adb0fb6699",
+    "version": 1,
+
+    "title": "Bread and Butter Pudding",
+
+    "overview": {
+        "description": "A classic British pudding made from buttered bread, dried fruit and a rich vanilla custard, baked until golden and softly set.",
+        "country": "United Kingdom",
+        "region": "Britain",
+        "serves": 6
+    },
+
+    "ingredients": [
+        "8–10 slices slightly stale white bread",
+        "75g butter, softened",
+        "100g raisins",
+        "50g dried apricots, finely chopped",
+        "600ml milk",
+        "200ml double cream",
+        "3 large eggs",
+        "75g caster sugar",
+        "1 tsp vanilla extract",
+        "½ tsp ground cinnamon",
+        "Zest of 1 lemon",
+        "Pinch of salt",
+        "2 tbsp demerara sugar"
+    ],
+
+    "method": [
+        "Preheat the oven to 170°C.",
+        "Grease a large ovenproof dish with a little butter.",
+        "Butter the slices of bread generously on one side.",
+        "Cut the bread into triangles or quarters.",
+        "Arrange half of the bread in the dish, buttered side up.",
+        "Scatter over half of the raisins and chopped apricots.",
+        "Add the remaining bread and scatter over the remaining dried fruit.",
+        "Warm the milk and cream gently in a saucepan until steaming but not boiling.",
+        "In a bowl, whisk together the eggs, caster sugar, vanilla, cinnamon, lemon zest and salt.",
+        "Gradually whisk the warm milk mixture into the eggs.",
+        "Pour the custard slowly over the bread.",
+        "Press the bread down gently so it absorbs some of the custard.",
+        "Leave to stand for 20–30 minutes.",
+        "Sprinkle the demerara sugar over the top.",
+        "Bake for 40–50 minutes until golden brown and just set in the centre.",
+        "Allow to rest for 10 minutes before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Custard"
+        ],
+        "optional-sides": [
+            "Double Cream",
+            "Vanilla Ice Cream"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 30,
+        "cook-time-minutes": 50,
+        "freezer-label": "better fresh",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Bread and butter pudding evolved from older British ways of using stale bread and is closely related to earlier baked bread puddings.",
+        "what-you-will-learn": "How stale bread absorbs a custard mixture and how gentle baking transforms it into a soft, rich pudding with a golden top.",
+        "skills": [
+            "Making custard",
+            "Using stale bread",
+            "Baking puddings",
+            "Balancing dried fruit",
+            "Avoiding curdled custard"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A low-cost, practical pudding that turns leftover bread into something special and uses ingredients already commonly kept in the pantry.",
+        "chapman-tips": [
+            "Slightly stale bread absorbs the custard better than very fresh bread.",
+            "Don't boil the milk and cream mixture.",
+            "Pour the custard over the bread slowly so it soaks evenly.",
+            "Allowing the pudding to stand before baking improves the texture.",
+            "The centre should be just set rather than completely firm.",
+            "Brioche can be used for a richer version, although ordinary white bread works extremely well.",
+            "The apricot can be omitted or replaced with extra raisins.",
+            "A little grated nutmeg is also excellent in the custard.",
+            "The demerara sugar gives the top a lovely caramelised crunch."
+        ],
+        "batch-cooking": "Better fresh. It can be reheated, although the texture is best on the day it is baked.",
+        "leftovers": "Reheat gently and serve with custard."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Rice Pudding",
+            "Slow-Cooked Jam Sponge Pudding",
+            "Peach Cobbler",
+            "Sticky Toffee Pudding",
+            "French Toast"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

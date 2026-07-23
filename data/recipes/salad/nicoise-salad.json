@@ -1,0 +1,122 @@
+{
+    "id": "019f8f70-da11-732a-92f7-4ef7b5c7fe0b",
+    "version": 1,
+
+    "title": "Salade Niçoise",
+
+    "overview": {
+        "description": "A substantial French salad combining tomatoes, tuna, eggs, anchovies, olives and fresh vegetables with a simple mustard vinaigrette.",
+        "country": "France",
+        "region": "Nice, Provence-Alpes-Côte d'Azur",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "500g ripe tomatoes, cut into wedges",
+        "400g new potatoes",
+        "200g green beans, trimmed",
+        "4 large eggs",
+        "2 x 120g tins tuna, preferably in olive oil",
+        "8 anchovy fillets",
+        "100g Niçoise or Kalamata olives",
+        "1 small red onion, thinly sliced",
+        "1 small handful fresh basil leaves",
+        "",
+        "For the dressing:",
+        "5 tbsp extra virgin olive oil",
+        "2 tbsp red wine vinegar",
+        "1 tsp Dijon mustard",
+        "1 small garlic clove, finely grated",
+        "½ tsp salt",
+        "Black pepper, to taste"
+    ],
+
+    "method": [
+        "Place the potatoes in a pan of cold salted water.",
+        "Bring to the boil and cook until tender.",
+        "Drain and allow to cool slightly.",
+        "Cut the potatoes into halves or thick slices.",
+        "Bring another pan of salted water to the boil.",
+        "Add the green beans and cook until tender but still slightly crisp.",
+        "Drain and refresh under cold water.",
+        "Place the eggs in a saucepan of cold water.",
+        "Bring to the boil and cook for 8–9 minutes for firm but slightly creamy yolks.",
+        "Cool in cold water, peel and halve.",
+        "Whisk together the olive oil, red wine vinegar, Dijon mustard, garlic, salt and black pepper.",
+        "Arrange the tomatoes, potatoes, green beans, tuna, anchovies, olives and red onion on a large serving platter.",
+        "Add the halved eggs.",
+        "Drizzle over the dressing.",
+        "Finish with the basil leaves.",
+        "Serve at room temperature."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Crusty Bread"
+        ],
+        "optional-sides": [
+            "Extra Olives",
+            "Lemon Wedges"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 20,
+        "freezer-label": "better fresh",
+        "cost": "moderate",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Salade Niçoise comes from Nice on the French Mediterranean coast. There has long been debate over the exact ingredients, with different traditional versions including raw or cooked vegetables and varying amounts of potato and green beans.",
+        "what-you-will-learn": "How to build a substantial composed salad and how salty ingredients such as tuna, anchovies and olives can provide much of the seasoning.",
+        "skills": [
+            "Cooking eggs",
+            "Cooking vegetables to retain texture",
+            "Making vinaigrette",
+            "Building a composed salad",
+            "Balancing salty ingredients"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A complete meal salad that combines fish, eggs, potatoes and vegetables, while giving the children another approachable introduction to anchovies.",
+        "chapman-tips": [
+            "Use good-quality tuna, preferably packed in olive oil.",
+            "The anchovies should provide savoury depth rather than dominate the dish.",
+            "Don't overcook the green beans; they should retain some bite.",
+            "Allow the potatoes to cool slightly before dressing them so they absorb flavour without falling apart.",
+            "The olives, anchovies and tuna are all salty, so season the dressing carefully.",
+            "Serve at room temperature rather than fridge-cold for the best flavour.",
+            "For a more traditional presentation, arrange the ingredients separately rather than tossing everything together.",
+            "The salad is excellent with good crusty bread to soak up the dressing."
+        ],
+        "batch-cooking": "Better fresh. Components can be prepared ahead, but assemble shortly before serving.",
+        "leftovers": "Best eaten the same day. Leftover components can be used in sandwiches, wraps or a simple potato and tuna salad."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Greek Salad",
+            "Panzanella",
+            "Fattoush",
+            "Salade de Lentilles",
+            "Vietnamese Chicken Salad"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

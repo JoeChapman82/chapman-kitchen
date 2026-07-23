@@ -1,0 +1,128 @@
+{
+    "id": "019f90b1-193d-7094-96bd-452b4dbbdbb3",
+    "version": 1,
+
+    "title": "Macaroni Cheese",
+
+    "overview": {
+        "description": "Baked macaroni pasta coated in a rich, creamy cheese sauce and finished with a golden, crisp topping.",
+        "country": "United Kingdom",
+        "region": "British",
+        "serves": 6
+    },
+
+    "ingredients": [
+        "500g macaroni",
+        "60g butter",
+        "60g plain flour",
+        "750ml milk",
+        "150ml double cream",
+        "1 tsp English mustard or Dijon mustard",
+        "250g mature cheddar, grated",
+        "100g mozzarella, grated",
+        "50g Parmesan, finely grated",
+        "½ tsp smoked paprika, optional",
+        "Salt, to taste",
+        "Black pepper, to taste",
+        "",
+        "For the topping:",
+        "50g breadcrumbs",
+        "50g mature cheddar, grated"
+    ],
+
+    "method": [
+        "Preheat the oven to 200°C.",
+        "Bring a large saucepan of salted water to the boil.",
+        "Cook the macaroni for 2 minutes less than the packet instructions suggest.",
+        "Drain thoroughly.",
+        "Melt the butter in a large saucepan over medium heat.",
+        "Add the flour and stir continuously for 1–2 minutes.",
+        "Gradually whisk in the milk until smooth.",
+        "Add the cream.",
+        "Bring the sauce gently to a simmer, stirring regularly, until thickened.",
+        "Stir in the mustard and smoked paprika if using.",
+        "Remove the sauce from the heat.",
+        "Add the cheddar, mozzarella and Parmesan gradually, stirring until melted and smooth.",
+        "Season with salt and black pepper.",
+        "Add the drained macaroni to the cheese sauce.",
+        "Stir until thoroughly coated.",
+        "Transfer to a large ovenproof dish.",
+        "Mix the breadcrumbs and grated cheddar for the topping.",
+        "Scatter evenly over the macaroni.",
+        "Bake for 20–25 minutes until bubbling and golden.",
+        "Allow to rest for 5 minutes before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Green Salad"
+        ],
+        "optional-sides": [
+            "Broccoli",
+            "Green Beans",
+            "Peas",
+            "Roasted Vegetables"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 40,
+        "freezer-label": "freezes well",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "The classic cheese sauce begins with a roux, which thickens the milk and allows the cheese to form a smooth sauce rather than simply melting into a thin liquid.",
+        "what-you-will-learn": "How to make a smooth cheese sauce and how to slightly undercook pasta so it finishes cooking without becoming soft and mushy in the oven.",
+        "skills": [
+            "Making a roux",
+            "Making cheese sauce",
+            "Cooking pasta",
+            "Baking pasta dishes",
+            "Balancing cheese flavours"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A comforting family pasta dish that is inexpensive, freezer-friendly and adaptable enough to serve as either a main meal or a side.",
+        "chapman-tips": [
+            "Undercook the macaroni slightly because it will continue cooking in the oven.",
+            "Remove the sauce from the heat before adding the cheese to reduce the chance of it becoming grainy.",
+            "Use a combination of cheeses for better flavour and texture.",
+            "Mature cheddar provides the main flavour.",
+            "Mozzarella helps with stretch and texture.",
+            "Parmesan adds savoury depth.",
+            "Mustard makes the cheese flavour taste stronger without making the dish taste strongly of mustard.",
+            "Don't make the sauce too thick before adding the pasta.",
+            "For a particularly crisp top, add the breadcrumbs just before baking."
+        ],
+        "batch-cooking": "Freezes well. Freeze in individual portions or as a complete assembled dish before baking.",
+        "leftovers": "Reheats well, although adding a splash of milk before reheating helps restore creaminess."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Lasagne",
+            "Pesto Pasta",
+            "Meatballs in Marinara Sauce",
+            "Frittata",
+            "Fish Pie"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

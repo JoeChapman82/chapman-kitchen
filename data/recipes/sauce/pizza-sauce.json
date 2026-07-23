@@ -1,0 +1,121 @@
+{
+    "id": "019f90af-39f9-72ea-b34f-0b1229244874",
+    "version": 1,
+
+    "title": "Slow-Cooked Pizza Sauce",
+
+    "overview": {
+        "description": "A rich, deeply flavoured pizza sauce made from slowly cooked tomatoes, onions, garlic and herbs.",
+        "country": "Italy",
+        "region": "Italian-inspired",
+        "serves": 12
+    },
+
+    "ingredients": [
+        "2 tbsp olive oil",
+        "2 onions, finely chopped",
+        "6 garlic cloves, finely chopped",
+        "4 x 400g tins chopped tomatoes",
+        "4 tbsp tomato purée",
+        "2 tsp dried oregano",
+        "1 tsp dried basil",
+        "1 tsp salt",
+        "½ tsp black pepper",
+        "1 tsp sugar, optional",
+        "1 tbsp red wine vinegar",
+        "1 small handful fresh basil, optional"
+    ],
+
+    "method": [
+        "Heat the olive oil in a large heavy-based saucepan over low to medium heat.",
+        "Add the onions and salt.",
+        "Cook gently for 15–20 minutes, stirring occasionally, until very soft and lightly golden.",
+        "Add the garlic and cook for 1–2 minutes.",
+        "Add the tomato purée.",
+        "Cook for 3–5 minutes, stirring regularly, until the purée darkens slightly.",
+        "Add the chopped tomatoes, oregano, dried basil and black pepper.",
+        "Stir thoroughly.",
+        "Bring to a gentle simmer.",
+        "Reduce the heat to low.",
+        "Cook uncovered for 1½–2 hours, stirring occasionally.",
+        "If the sauce begins to catch, reduce the heat and add a small splash of water.",
+        "The sauce should become thick, rich and concentrated.",
+        "Add the red wine vinegar during the final 10 minutes of cooking.",
+        "Taste and adjust the seasoning.",
+        "Stir through fresh basil if using.",
+        "Blend until smooth, or leave slightly textured according to preference.",
+        "Allow to cool before portioning."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Homemade Pizza"
+        ],
+        "optional-sides": [
+            "Garlic Bread",
+            "Green Salad",
+            "Roasted Vegetables"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 120,
+        "freezer-label": "freezes well",
+        "cost": "low",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Pizza sauce is often used in relatively small quantities, so concentrating the tomatoes helps the flavour remain strong after the sauce is spread thinly across the dough.",
+        "what-you-will-learn": "How slow cooking develops sweetness and depth in tomatoes and onions and how to reduce a sauce to the correct thickness for pizza.",
+        "skills": [
+            "Slow cooking",
+            "Reducing sauces",
+            "Developing tomato flavour",
+            "Balancing acidity",
+            "Batch cooking"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A batch-friendly sauce designed specifically for homemade pizzas, using pantry ingredients and freezing well in convenient portions.",
+        "chapman-tips": [
+            "Cook the onions slowly; rushing this stage reduces the depth of flavour.",
+            "Cook the tomato purée before adding the tomatoes to develop a deeper flavour.",
+            "The sauce should be thicker than a normal pasta sauce.",
+            "Don't spread too much sauce on the pizza or the base may become soggy.",
+            "A little red wine vinegar helps balance the sweetness of the long-cooked tomatoes.",
+            "Blend the sauce if you prefer a smooth takeaway-style finish.",
+            "Freeze in small portions so you only defrost what you need.",
+            "Cool the sauce completely before freezing.",
+            "The sauce can be used straight from frozen after thawing in the refrigerator."
+        ],
+        "batch-cooking": "Freezes very well. Freeze in individual pizza-sized portions or in larger containers for multiple pizzas.",
+        "leftovers": "Use in pasta sauces, meatballs, lasagne, shakshuka or as a dipping sauce."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Marinara Sauce",
+            "Meatballs in Marinara Sauce",
+            "Pesto Rosso",
+            "Tomato Chutney",
+            "Pasta Sauce"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "id": "019f8f85-1029-7238-acfa-2f8127df828b",
+    "version": 1,
+
+    "title": "Cobb Salad",
+
+    "overview": {
+        "description": "A substantial American composed salad of lettuce, chicken, bacon, avocado, tomato, egg and blue cheese with a sharp vinaigrette.",
+        "country": "United States",
+        "region": "California",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "2 large heads of romaine lettuce, chopped",
+        "500g chicken breasts or boneless chicken thighs",
+        "150g bacon",
+        "4 large eggs",
+        "2 ripe avocados",
+        "400g ripe tomatoes, diced",
+        "100g blue cheese, crumbled",
+        "4 spring onions, sliced",
+        "",
+        "For the dressing:",
+        "4 tbsp extra virgin olive oil",
+        "2 tbsp red wine vinegar",
+        "1 tsp Dijon mustard",
+        "1 small garlic clove, finely grated",
+        "½ tsp salt",
+        "Black pepper, to taste"
+    ],
+
+    "method": [
+        "Cook the chicken until completely cooked through.",
+        "Allow it to rest briefly, then slice or dice it.",
+        "Cook the bacon until crisp.",
+        "Drain on kitchen paper and chop into pieces.",
+        "Place the eggs in a saucepan of cold water.",
+        "Bring to the boil and cook for 8–9 minutes.",
+        "Cool in cold water, peel and chop.",
+        "Dice the avocados.",
+        "Dice the tomatoes.",
+        "Whisk together the olive oil, red wine vinegar, Dijon mustard, garlic, salt and black pepper.",
+        "Spread the chopped lettuce over a large platter or divide between four bowls.",
+        "Arrange the chicken, bacon, egg, avocado, tomatoes, blue cheese and spring onions in separate rows over the lettuce.",
+        "Drizzle with the dressing just before serving.",
+        "Serve with the ingredients arranged separately or toss at the table."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Crusty Bread"
+        ],
+        "optional-sides": [
+            "Extra Blue Cheese",
+            "Pickled Vegetables",
+            "Baked Potatoes"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 20,
+        "freezer-label": "better fresh",
+        "cost": "moderate",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "The Cobb salad is associated with the Brown Derby restaurant in Hollywood. The story commonly told is that restaurant owner Robert Cobb assembled the salad from ingredients available in the kitchen late one night.",
+        "what-you-will-learn": "How to build a composed salad where ingredients remain visually distinct and how to balance rich, salty, creamy and fresh components in one dish.",
+        "skills": [
+            "Cooking chicken",
+            "Cooking eggs",
+            "Preparing a vinaigrette",
+            "Balancing rich ingredients",
+            "Building a composed salad"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A substantial American meal salad that combines familiar ingredients in a visually distinctive format and offers an easy way to serve a complete meal without preparing multiple separate dishes.",
+        "chapman-tips": [
+            "The ingredients are traditionally arranged in rows rather than mixed together.",
+            "Crisp bacon provides important contrast to the soft avocado and egg.",
+            "Use a strong blue cheese if you enjoy its flavour, or a milder variety for a gentler version.",
+            "Don't overdress the salad; the ingredients are already rich.",
+            "Chicken thighs are particularly good if you prefer more flavour and juiciness.",
+            "The salad is ideal for using leftover cooked chicken.",
+            "Add the avocado just before serving to prevent browning.",
+            "Serve the dressing separately if the salad needs to sit before eating."
+        ],
+        "batch-cooking": "The components can be prepared ahead, but assemble shortly before serving.",
+        "leftovers": "Store the components separately where possible. Leftover chicken and bacon can be used in sandwiches or wraps."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Salade Niçoise",
+            "Greek Salad",
+            "Vietnamese Chicken Salad",
+            "Kachumbari",
+            "Chef Salad"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

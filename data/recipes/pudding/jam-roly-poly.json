@@ -1,0 +1,113 @@
+{
+    "id": "019f90b9-ea47-7685-b94e-fe73acc18a59",
+    "version": 1,
+
+    "title": "Jam Roly-Poly",
+
+    "overview": {
+        "description": "A traditional steamed suet pastry rolled around raspberry or blackberry jam and served hot with custard.",
+        "country": "United Kingdom",
+        "region": "Britain",
+        "serves": 6
+    },
+
+    "ingredients": [
+        "250g self-raising flour",
+        "125g shredded suet",
+        "50g caster sugar",
+        "Pinch of salt",
+        "150ml milk",
+        "200g raspberry or blackberry jam"
+    ],
+
+    "method": [
+        "Grease a large sheet of baking parchment.",
+        "Place the flour, suet, sugar and salt in a large bowl.",
+        "Mix thoroughly.",
+        "Gradually add the milk and mix until a soft dough forms.",
+        "Turn the dough onto a lightly floured surface.",
+        "Roll it into a rectangle approximately 25cm by 35cm.",
+        "Spread the jam over the dough, leaving a 2cm border around the edges.",
+        "Roll the dough up from one of the shorter ends into a thick log.",
+        "Pinch the seam gently to seal it.",
+        "Place the pudding seam-side down on the greased baking parchment.",
+        "Wrap the pudding loosely in the parchment, leaving room for expansion.",
+        "Wrap the parchment parcel in foil, sealing the ends securely.",
+        "Place the parcel on a rack inside a large saucepan or steamer.",
+        "Add boiling water beneath the rack.",
+        "Cover and steam for approximately 2 hours.",
+        "Check the water level during cooking and top up with boiling water if necessary.",
+        "Carefully unwrap the pudding.",
+        "Slice thickly and serve immediately with hot custard."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Custard"
+        ],
+        "optional-sides": [
+            "Double Cream",
+            "Vanilla Ice Cream"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 25,
+        "cook-time-minutes": 120,
+        "freezer-label": "freezes well",
+        "cost": "low",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Jam roly-poly is sometimes affectionately known as 'dead man's arm' because of its rolled shape and traditional wrapping.",
+        "what-you-will-learn": "How to make a suet pastry and how steaming allows a rolled pastry pudding to cook gently while remaining soft and tender.",
+        "skills": [
+            "Making suet pastry",
+            "Rolling pastry",
+            "Steaming puddings",
+            "Working with jam",
+            "Traditional British cooking"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A classic old-fashioned British pudding that is inexpensive, filling and ideal for a traditional Saturday pudding rotation.",
+        "chapman-tips": [
+            "Don't roll the pastry too thin or the pudding may become difficult to handle.",
+            "Leave a border around the edge so jam does not escape excessively during rolling.",
+            "Use a firm jam rather than a very runny preserve.",
+            "Blackberry jam would work particularly well with your homemade lower-sugar version.",
+            "Don't wrap the pudding too tightly; the pastry needs room to expand.",
+            "Keep the water at a steady simmer during steaming.",
+            "Make sure the water does not come into direct contact with the pudding.",
+            "Serve immediately while the suet pastry is soft and warm."
+        ],
+        "batch-cooking": "Freezes well. Cool completely, wrap securely and freeze in portions.",
+        "leftovers": "Reheat by steaming or gently in the microwave and serve with custard."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Spotted Dick",
+            "Treacle Sponge Pudding",
+            "Slow-Cooked Jam Sponge Pudding",
+            "Bread and Butter Pudding",
+            "Christmas Pudding"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

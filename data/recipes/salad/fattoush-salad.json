@@ -1,0 +1,123 @@
+{
+    "id": "019f8f6e-a3c9-75ef-9d5d-fb49622a20ab",
+    "version": 1,
+
+    "title": "Fattoush",
+
+    "overview": {
+        "description": "A Levantine salad of fresh vegetables, herbs and crisp toasted flatbread dressed with lemon, olive oil and sumac.",
+        "country": "Levant",
+        "region": "Levantine cuisine",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "2 large pitta breads",
+        "400g ripe tomatoes, chopped",
+        "1 large cucumber, chopped",
+        "4 radishes, thinly sliced",
+        "1 small red onion, thinly sliced",
+        "1 green pepper, chopped",
+        "1 large handful fresh parsley, roughly chopped",
+        "1 small handful fresh mint leaves, roughly chopped",
+        "2 spring onions, sliced",
+        "",
+        "For the dressing:",
+        "4 tbsp extra virgin olive oil",
+        "2 tbsp lemon juice",
+        "1 tbsp pomegranate molasses",
+        "2 tsp sumac",
+        "1 garlic clove, finely grated",
+        "½ tsp salt",
+        "Black pepper, to taste"
+    ],
+
+    "method": [
+        "Preheat the oven to 180°C fan.",
+        "Tear the pitta breads into rough pieces.",
+        "Spread them on a baking tray.",
+        "Toast for 8–12 minutes until crisp and lightly golden.",
+        "Set aside to cool.",
+        "Place the tomatoes, cucumber, radishes, red onion and green pepper in a large bowl.",
+        "Add the parsley, mint and spring onions.",
+        "Whisk together the olive oil, lemon juice, pomegranate molasses, sumac, garlic, salt and black pepper.",
+        "Pour the dressing over the vegetables.",
+        "Toss gently to combine.",
+        "Add the toasted pitta pieces just before serving.",
+        "Toss once more.",
+        "Finish with an extra sprinkling of sumac."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Hummus",
+            "Plain Yogurt"
+        ],
+        "optional-sides": [
+            "Falafel",
+            "Grilled Chicken",
+            "Halloumi",
+            "Pickled Vegetables"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 10,
+        "freezer-label": "better fresh",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Fattoush is a Levantine bread salad whose name is related to the idea of crumbling or breaking bread into pieces. It is a particularly good way to use leftover flatbread.",
+        "what-you-will-learn": "How to combine fresh vegetables with toasted bread and how sumac and pomegranate molasses create a distinctive sour, fruity dressing.",
+        "skills": [
+            "Toasting flatbread",
+            "Balancing acidity",
+            "Using sumac",
+            "Building a herb-based salad",
+            "Managing contrasting textures"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A fresh and inexpensive complete meal salad that uses leftover flatbreads while offering a completely different texture and flavour profile from Greek salad.",
+        "chapman-tips": [
+            "Add the toasted bread immediately before serving so it remains crisp.",
+            "Use plenty of herbs; they are an important part of the salad rather than just a garnish.",
+            "Sumac provides the characteristic sharp, lemony flavour.",
+            "Pomegranate molasses adds depth and a subtle fruity sweetness.",
+            "The vegetables can be prepared ahead, but keep the dressing and toasted bread separate until serving.",
+            "Pitta is convenient, but leftover flatbread works very well.",
+            "For a more substantial meal, serve with hummus and falafel or grilled chicken.",
+            "A little extra sumac at the table is always welcome."
+        ],
+        "batch-cooking": "The dressed vegetables are better fresh. Toasted bread should be stored separately and added just before serving.",
+        "leftovers": "Keep the bread separate if possible. Undressed vegetables can be used in wraps or served alongside hummus."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Greek Salad",
+            "Panzanella",
+            "Tabbouleh",
+            "Shirazi Salad",
+            "Kachumber"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": "019f8f80-dc30-7068-9fe5-d93543cdc323",
+    "version": 1,
+
+    "title": "Vietnamese Chicken Salad",
+
+    "overview": {
+        "description": "A fresh Vietnamese salad of tender shredded chicken, crunchy cabbage, carrot, herbs and roasted peanuts dressed with lime, fish sauce and a touch of sweetness.",
+        "country": "Vietnam",
+        "region": "Vietnam",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "500g boneless chicken breasts or thighs",
+        "½ small white cabbage, finely shredded",
+        "2 medium carrots, julienned or grated",
+        "1 small red onion, very thinly sliced",
+        "1 large handful fresh coriander, roughly chopped",
+        "1 large handful fresh mint leaves, roughly chopped",
+        "4 spring onions, finely sliced",
+        "50g roasted peanuts, roughly crushed",
+        "",
+        "For the dressing:",
+        "4 tbsp lime juice",
+        "3 tbsp fish sauce",
+        "2 tbsp sugar",
+        "1 garlic clove, finely grated",
+        "1 small red chilli, finely sliced, optional",
+        "2 tbsp water"
+    ],
+
+    "method": [
+        "Place the chicken in a saucepan and cover with cold water.",
+        "Bring the water gently to a simmer.",
+        "Cook until the chicken is completely cooked through.",
+        "Remove the chicken and allow it to cool.",
+        "Shred the chicken into thin strips.",
+        "Place the shredded cabbage, carrot and red onion in a large bowl.",
+        "Add the coriander, mint and spring onions.",
+        "Whisk together the lime juice, fish sauce, sugar, water and garlic.",
+        "Add the chilli if using.",
+        "Stir until the sugar has dissolved.",
+        "Add the shredded chicken to the vegetables.",
+        "Pour over most of the dressing.",
+        "Toss thoroughly to combine.",
+        "Leave to stand for 10 minutes.",
+        "Taste and adjust the balance of lime, fish sauce and sugar.",
+        "Scatter over the peanuts just before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Fresh Herbs",
+            "Roasted Peanuts"
+        ],
+        "optional-sides": [
+            "Rice Noodles",
+            "Steamed Rice",
+            "Prawn Crackers",
+            "Pickled Vegetables"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 25,
+        "cook-time-minutes": 15,
+        "freezer-label": "better fresh",
+        "cost": "moderate",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Gỏi gà is a Vietnamese shredded chicken salad whose name simply means chicken salad. Different regions and households use varying combinations of cabbage, herbs, onion, Vietnamese coriander and other fresh ingredients.",
+        "what-you-will-learn": "How to combine tender meat with raw crunchy vegetables and how to balance the Vietnamese flavour combination of sweet, sour, salty and aromatic ingredients.",
+        "skills": [
+            "Poaching chicken",
+            "Shredding meat",
+            "Preparing raw vegetables",
+            "Balancing fish sauce and lime",
+            "Using fresh herbs"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A complete meal salad that uses familiar chicken in a completely different format, while introducing the children to the fresh herbs, lime and fish sauce flavours of Vietnamese cooking.",
+        "chapman-tips": [
+            "Chicken thighs stay particularly juicy, but breasts work well too.",
+            "Don't overcook the chicken; it should remain tender enough to shred easily.",
+            "The dressing should taste bold on its own because the cabbage will dilute it slightly.",
+            "Add the peanuts at the end so they remain crunchy.",
+            "Vietnamese coriander is excellent if you can find it, but regular coriander and mint make a good combination.",
+            "For a family version, leave the chilli out of the main bowl and add it to adult portions.",
+            "The salad benefits from a short resting time but should not sit dressed for hours.",
+            "If using leftover cooked chicken, this becomes a very quick meal."
+        ],
+        "batch-cooking": "The chicken can be cooked ahead, but the salad is best assembled and dressed shortly before serving.",
+        "leftovers": "Best eaten within 1 day. Leftovers can be used as a filling for rice paper rolls or sandwiches."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Som Tam",
+            "Kachumbari",
+            "Kachumber",
+            "Fattoush",
+            "Salade Niçoise"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

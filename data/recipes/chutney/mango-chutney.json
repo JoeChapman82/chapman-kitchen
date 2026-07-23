@@ -1,0 +1,118 @@
+{
+    "id": "019f909b-578e-71ea-a809-6c6e1b09a9ab",
+    "version": 1,
+
+    "title": "Mango Chutney with Nigella Seeds",
+
+    "overview": {
+        "description": "A sweet, tangy mango chutney with ginger, warm spices, chilli and aromatic nigella seeds.",
+        "country": "India",
+        "region": "South Asia",
+        "serves": 12
+    },
+
+    "ingredients": [
+        "1kg firm, slightly underripe mangoes, peeled and diced",
+        "250g light brown sugar",
+        "200ml cider vinegar",
+        "2 tbsp fresh ginger, finely grated",
+        "2 garlic cloves, finely grated",
+        "1–2 red chillies, finely chopped, optional",
+        "2 tsp nigella seeds",
+        "1 tsp ground cumin",
+        "1 tsp ground coriander",
+        "½ tsp ground turmeric",
+        "½ tsp ground cinnamon",
+        "½ tsp salt"
+    ],
+
+    "method": [
+        "Peel the mangoes and cut the flesh into small, even pieces.",
+        "Place the mango, sugar, vinegar, ginger, garlic, chilli if using, nigella seeds, spices and salt into a large heavy-based saucepan.",
+        "Stir thoroughly.",
+        "Leave for 20–30 minutes if possible to allow the sugar to begin drawing moisture from the mango.",
+        "Bring the mixture slowly to a simmer.",
+        "Cook uncovered over low to medium heat, stirring regularly.",
+        "Continue cooking for approximately 60–90 minutes until the mango is tender and the chutney is thick and glossy.",
+        "Stir more frequently towards the end of cooking to prevent sticking.",
+        "The chutney should be thick enough that a spoon drawn across the bottom of the pan briefly leaves a clear trail.",
+        "Taste and adjust the balance of sweetness, acidity, salt and spice.",
+        "Spoon the chutney into hot sterilised jars while still piping hot.",
+        "Seal immediately and allow to cool undisturbed."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Indian Food",
+            "Cheese",
+            "Crusty Bread"
+        ],
+        "optional-sides": [
+            "Popadoms",
+            "Samosas",
+            "Pakoras",
+            "Curries",
+            "Sandwiches"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 90,
+        "freezer-label": "freezes well",
+        "cost": "moderate",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Nigella seeds are sometimes called kalonji and have a complex flavour often described as a combination of onion, oregano and black pepper.",
+        "what-you-will-learn": "How fruit, vinegar and sugar combine to create a preserve and how aromatic seeds can add complexity without making a chutney hot.",
+        "skills": [
+            "Preparing mango",
+            "Making chutney",
+            "Balancing sweet and sour flavours",
+            "Reducing a preserve",
+            "Using nigella seeds"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A versatile chutney that connects naturally with the Indian dishes in the meal collection while also working beautifully with cheese and sandwiches.",
+        "chapman-tips": [
+            "Use firm mangoes so the pieces retain some texture during cooking.",
+            "The mango should be ripe enough to have flavour but not so ripe that it completely dissolves.",
+            "Nigella seeds provide flavour rather than significant heat.",
+            "Adjust the chilli separately from the other spices.",
+            "The chutney will thicken further as it cools.",
+            "Don't reduce the chutney so far that it becomes sticky or jam-like.",
+            "A sharper chutney is particularly good with rich curries.",
+            "Leave the chutney to mature for at least a few days before eating if possible."
+        ],
+        "batch-cooking": "Freezes well, although properly jarred and preserved chutney is better suited to long-term storage.",
+        "leftovers": "Excellent with curries, cheese, sandwiches, samosas, pakoras and grilled meats."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Caramelised Onion Chutney",
+            "Tomato Chutney",
+            "Coconut Chutney",
+            "Pickled Vegetables",
+            "Mango Pickle"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

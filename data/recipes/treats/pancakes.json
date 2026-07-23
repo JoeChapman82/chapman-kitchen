@@ -1,0 +1,112 @@
+{
+    "id": "019f8f87-4eff-727c-a4bc-9a38f2bf16a0",
+    "version": 1,
+
+    "title": "British Pancakes",
+
+    "overview": {
+        "description": "Thin, lightly crisp-edged British pancakes made from a simple batter of flour, milk and eggs.",
+        "country": "United Kingdom",
+        "region": "Britain",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "150g plain flour",
+        "2 large eggs",
+        "300ml milk",
+        "1 pinch salt",
+        "Butter or neutral oil, for cooking"
+    ],
+
+    "method": [
+        "Place the flour and salt in a large mixing bowl.",
+        "Make a well in the centre.",
+        "Crack in the eggs.",
+        "Add approximately half the milk.",
+        "Whisk gradually, drawing in the flour from the sides, until you have a smooth, thick batter.",
+        "Gradually whisk in the remaining milk until the batter is smooth and fairly thin.",
+        "Leave the batter to rest for at least 20 minutes if possible.",
+        "Heat a non-stick frying pan over medium-high heat.",
+        "Add a small amount of butter or oil.",
+        "Pour in enough batter to coat the base of the pan when tilted and swirled.",
+        "Cook for approximately 30–60 seconds until the edges begin to crisp and the underside is golden.",
+        "Flip the pancake.",
+        "Cook the other side for approximately 20–30 seconds.",
+        "Repeat with the remaining batter."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Lemon Juice",
+            "Caster Sugar"
+        ],
+        "optional-sides": [
+            "Golden Syrup",
+            "Jam",
+            "Fresh Berries",
+            "Banana",
+            "Chocolate Spread"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 5,
+        "cook-time-minutes": 20,
+        "freezer-label": "freezes well",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "British pancakes are closer to French crêpes than to thick American-style pancakes. Traditionally, they are particularly associated with Shrove Tuesday.",
+        "what-you-will-learn": "How to make a thin batter and control pan temperature to produce thin pancakes with lightly crisp edges.",
+        "skills": [
+            "Making batter",
+            "Avoiding lumps",
+            "Controlling pan temperature",
+            "Flipping pancakes",
+            "Cooking thin batters"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A simple family recipe that is quick, inexpensive and versatile enough for both sweet and savoury fillings.",
+        "chapman-tips": [
+            "Resting the batter helps the flour fully hydrate and can make the pancakes more tender.",
+            "The first pancake is often a test pancake while you adjust the heat.",
+            "The batter should be thin enough to spread quickly across the pan.",
+            "Use only a small amount of butter or oil between pancakes.",
+            "If the batter thickens while standing, add a small splash of milk.",
+            "For lemon and sugar pancakes, add the lemon juice and sugar while the pancake is still hot.",
+            "The pancakes can be stacked and reheated later.",
+            "The same batter can be used for savoury pancakes by changing the filling."
+        ],
+        "batch-cooking": "Freezes well. Stack with baking paper between the pancakes and freeze in an airtight container.",
+        "leftovers": "Reheat in a frying pan or microwave. Leftover pancakes can be used for both sweet and savoury fillings."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "French Crêpes",
+            "American Pancakes",
+            "Dosa",
+            "Blini",
+            "Dutch Baby"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}
