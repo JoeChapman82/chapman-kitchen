@@ -1,0 +1,133 @@
+{
+    "id": "019f8e7e-bb55-7605-9893-db271727c785",
+    "version": 1,
+
+    "title": "Moroccan Vegetable Tagine",
+
+    "overview": {
+        "description": "A warmly spiced Moroccan vegetable stew with chickpeas, root vegetables, tomatoes and dried fruit, slowly cooked until tender.",
+        "country": "Morocco",
+        "region": "Maghreb",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "3 tbsp olive oil",
+        "1 large onion, finely chopped",
+        "3 garlic cloves, finely chopped",
+        "20g fresh ginger, grated",
+        "1 tsp ground cumin",
+        "1 tsp ground coriander",
+        "1 tsp ground turmeric",
+        "1 tsp sweet paprika",
+        "½ tsp ground cinnamon",
+        "½ tsp ground ginger",
+        "½ tsp black pepper",
+        "1 large carrot, cut into chunks",
+        "2 medium potatoes, cut into chunks",
+        "1 small butternut squash, peeled and cut into chunks",
+        "1 courgette, cut into thick half-moons",
+        "1 x 400g tin chopped tomatoes",
+        "1 x 400g tin chickpeas, drained and rinsed",
+        "500ml vegetable stock",
+        "100g dried apricots, halved",
+        "1 preserved lemon, flesh removed and rind finely chopped, optional",
+        "1 tsp salt, or to taste",
+        "Small handful fresh coriander, chopped",
+        "Small handful fresh parsley, chopped"
+    ],
+
+    "method": [
+        "Heat the olive oil in a large heavy-based casserole or tagine over medium heat.",
+        "Add the onion and cook until softened.",
+        "Add the garlic and fresh ginger.",
+        "Cook for 1–2 minutes until fragrant.",
+        "Add the cumin, ground coriander, turmeric, paprika, cinnamon, ground ginger and black pepper.",
+        "Stir and cook for 30 seconds.",
+        "Add the carrot, potatoes and butternut squash.",
+        "Stir to coat the vegetables in the spices.",
+        "Add the chopped tomatoes and vegetable stock.",
+        "Add the chickpeas and dried apricots.",
+        "Add the preserved lemon if using.",
+        "Season with salt.",
+        "Bring to a gentle simmer.",
+        "Cover and cook for 25–30 minutes until the root vegetables are beginning to soften.",
+        "Add the courgette.",
+        "Continue cooking uncovered or partially covered until all the vegetables are tender and the sauce has thickened.",
+        "Taste and adjust the seasoning.",
+        "Finish with the fresh coriander and parsley.",
+        "Serve hot."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Couscous"
+        ],
+        "optional-sides": [
+            "Flatbread",
+            "Harissa",
+            "Plain Yogurt",
+            "Moroccan Salad"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 25,
+        "cook-time-minutes": 45,
+        "freezer-label": "freezes well",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "A tagine refers both to the distinctive conical cooking vessel and to the slow-cooked dish prepared in it. The shape helps condensation return to the food during cooking.",
+        "what-you-will-learn": "How to build a warmly spiced North African stew and how sweet, savoury and acidic ingredients are balanced in Moroccan cooking.",
+        "skills": [
+            "Building a spice base",
+            "Slow cooking vegetables",
+            "Balancing sweet and savoury flavours",
+            "Cooking with chickpeas",
+            "Managing different vegetable cooking times"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A cheap and highly adaptable Pantry Monday meal that uses chickpeas, root vegetables and store-cupboard spices to create a filling dish with a completely different flavour profile from the Indian vegetable curries.",
+        "chapman-tips": [
+            "Add the harder vegetables before the softer ones so everything finishes at the same time.",
+            "Cut the vegetables into fairly large pieces so they retain their shape during cooking.",
+            "Dried apricots provide sweetness and are a classic pairing with Moroccan spices.",
+            "Preserved lemon is optional but adds a distinctive salty, citrusy flavour.",
+            "Don't drown the tagine in liquid; the finished sauce should be thick and cling to the vegetables.",
+            "Harissa can be served separately so the children can enjoy the dish without excessive heat.",
+            "The tagine is often even better the next day as the flavours develop.",
+            "You can substitute swede, sweet potato, pumpkin or other seasonal vegetables."
+        ],
+        "batch-cooking": "Freezes well. Allow to cool completely before freezing.",
+        "leftovers": "Reheat gently on the hob or in the microwave. Serve with couscous, rice or bread."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Spinach & Chickpea Curry",
+            "Aloo Gobi",
+            "Mujadara",
+            "South Indian Vegetable Curry",
+            "Avial"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

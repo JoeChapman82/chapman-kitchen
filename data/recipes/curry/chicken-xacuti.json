@@ -1,0 +1,149 @@
+{
+    "id": "019f8df8-6c7d-77e9-8d1b-cd0dc1c2a0e3",
+    "version": 1,
+
+    "title": "Chicken Xacuti",
+
+    "overview": {
+        "description": "A complex Goan chicken curry made with roasted whole spices, coconut and aromatics, creating a deeply flavoured, fragrant and gently warming sauce.",
+        "country": "India",
+        "region": "Goa",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "1kg chicken thighs, bone-in or boneless",
+        "1 tsp salt",
+        "2 tbsp neutral oil or coconut oil",
+        "",
+        "For the spice paste:",
+        "2 tbsp grated coconut",
+        "2 tbsp coriander seeds",
+        "1 tsp cumin seeds",
+        "1 tsp fennel seeds",
+        "1 tsp black peppercorns",
+        "4 dried Kashmiri chillies",
+        "4 cloves",
+        "1 small cinnamon stick",
+        "4 green cardamom pods",
+        "1 star anise",
+        "1 tsp poppy seeds, optional",
+        "1 tsp sesame seeds, optional",
+        "",
+        "For the curry:",
+        "2 medium onions, finely sliced",
+        "4 garlic cloves",
+        "1 tbsp fresh ginger, grated",
+        "2 medium tomatoes, chopped",
+        "½ tsp ground turmeric",
+        "1 tbsp tamarind concentrate, or to taste",
+        "400ml coconut milk",
+        "200–300ml water",
+        "Fresh coriander, to serve"
+    ],
+
+    "method": [
+        "Season the chicken with the salt.",
+        "Toast the grated coconut in a dry frying pan until lightly golden. Remove and set aside.",
+        "In the same pan, toast the coriander seeds, cumin seeds, fennel seeds, peppercorns, dried chillies, cloves, cinnamon, cardamom, star anise and the poppy and sesame seeds if using.",
+        "Toast over medium heat until fragrant, taking care not to burn the spices.",
+        "Allow the toasted ingredients to cool.",
+        "Blend the toasted spices and coconut with the garlic, ginger, turmeric and enough water to make a smooth paste.",
+        "Heat the oil in a large heavy-based pan.",
+        "Brown the chicken pieces in batches if necessary, then remove and set aside.",
+        "Add the sliced onions to the pan.",
+        "Cook until softened and deeply golden.",
+        "Add the spice paste and cook for 3–5 minutes until fragrant.",
+        "Add the chopped tomatoes and cook until softened.",
+        "Return the chicken to the pan.",
+        "Add the coconut milk and water.",
+        "Bring to a gentle simmer.",
+        "Cover and cook until the chicken is tender and cooked through.",
+        "Stir in the tamarind and adjust the seasoning.",
+        "Simmer uncovered for a few minutes if the sauce needs thickening.",
+        "Finish with fresh coriander and serve."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Steamed Rice",
+            "Goan Poi"
+        ],
+        "optional-sides": [
+            "Pav",
+            "Chapati",
+            "Pappad",
+            "Pickles"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 30,
+        "cook-time-minutes": 60,
+        "freezer-label": "freezes well",
+        "cost": "moderate",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Xacuti is one of Goa's best-known spice-rich curries. The name is often written as xacuti or shakuti, reflecting the region's Portuguese influence and varied transliteration.",
+        "what-you-will-learn": "How dry-toasting whole spices and coconut develops depth and how a complex spice paste creates a layered curry without relying on a large number of fresh ingredients.",
+        "skills": [
+            "Toasting whole spices",
+            "Making spice pastes",
+            "Building complex curries",
+            "Browning chicken",
+            "Balancing sourness"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A complex regional curry that demonstrates how roasting spices and coconut can create depth and complexity through technique rather than simply adding more chilli.",
+        "chapman-tips": [
+            "Toast the spices gently; burnt spices will make the curry bitter.",
+            "Toast the coconut separately because it burns more quickly than the whole spices.",
+            "Don't rush the onions. Deeply softened onions add important sweetness and depth.",
+            "The spice paste should be as smooth as your blender can make it.",
+            "Bone-in chicken thighs give the richest flavour, but boneless thighs are easier for family meals.",
+            "The tamarind should provide a gentle sour note rather than dominate the curry.",
+            "If the curry is too spicy, add more coconut milk rather than simply adding water."
+        ],
+        "batch-cooking": "Chicken xacuti freezes well. Cool completely before freezing in airtight portions. Thaw overnight in the refrigerator and reheat gently until piping hot.",
+        "leftovers": "Leftover xacuti is excellent with rice, roti or bread. The sauce can also be used as a filling for a wrap."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Goan Fish Curry",
+            "Chicken Cacciatore",
+            "Chicken Provençal",
+            "Peruvian Roast Chicken"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

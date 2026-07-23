@@ -1,0 +1,140 @@
+{
+    "id": "019f8e00-d7f6-738d-bd7f-8f3299e2ffec",
+    "version": 1,
+
+    "title": "Lamb Rogan Josh",
+
+    "overview": {
+        "description": "A classic Kashmiri lamb curry made with tender lamb, yoghurt and aromatic spices, with a deep red colour from Kashmiri chilli rather than tomatoes.",
+        "country": "India",
+        "region": "Kashmir",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "1kg lamb shoulder, cut into large pieces",
+        "3 tbsp neutral oil or ghee",
+        "2 bay leaves",
+        "1 black cardamom pod",
+        "4 green cardamom pods",
+        "1 small cinnamon stick",
+        "4 cloves",
+        "1 tsp cumin seeds",
+        "1 tsp asafoetida (hing), optional",
+        "2 tsp Kashmiri chilli powder",
+        "1 tsp hot chilli powder, optional",
+        "2 tsp ground fennel",
+        "1 tsp ground ginger",
+        "1 tsp ground cumin",
+        "250g full-fat natural yoghurt",
+        "400–500ml water",
+        "1½ tsp salt, or to taste"
+    ],
+
+    "method": [
+        "Remove the lamb from the refrigerator and allow it to come towards room temperature.",
+        "Whisk the yoghurt until smooth.",
+        "Heat the oil or ghee in a large heavy-based pan.",
+        "Add the bay leaves, black cardamom, green cardamom, cinnamon, cloves and cumin seeds.",
+        "Cook for 30–60 seconds until fragrant.",
+        "Add the lamb in batches if necessary and brown it lightly on all sides.",
+        "Reduce the heat to low.",
+        "Add the Kashmiri chilli powder, hot chilli powder if using, ground fennel, ground ginger and ground cumin.",
+        "Stir briefly to coat the lamb, taking care not to burn the spices.",
+        "Add the asafoetida if using.",
+        "Add the yoghurt a little at a time, stirring constantly after each addition so it does not split.",
+        "Continue cooking gently for several minutes until the yoghurt has thickened and the oil begins to separate.",
+        "Add the water and salt.",
+        "Bring to a gentle simmer.",
+        "Cover and cook gently for 1½–2 hours, or until the lamb is completely tender.",
+        "Stir occasionally and add a little more water if necessary.",
+        "Remove the lid towards the end of cooking if the gravy needs reducing.",
+        "Taste and adjust the seasoning.",
+        "Rest for 10–15 minutes before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Steamed Rice",
+            "Plain Basmati Rice"
+        ],
+        "optional-sides": [
+            "Naan",
+            "Roti",
+            "Paratha",
+            "Plain Yogurt",
+            "Pickles"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 25,
+        "cook-time-minutes": 120,
+        "freezer-label": "freezes well",
+        "cost": "moderate",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Rogan josh is associated with Kashmiri cuisine and is traditionally made in several regional styles. The deep red colour can come from mild Kashmiri chilli rather than a large amount of heat.",
+        "what-you-will-learn": "How to build a deeply flavoured curry from whole spices, yoghurt and slow-cooked lamb while separating colour, aroma and heat as different elements of the dish.",
+        "skills": [
+            "Browning meat",
+            "Working with whole spices",
+            "Cooking with yoghurt",
+            "Slow braising",
+            "Managing chilli heat"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A classic Kashmiri lamb dish that demonstrates how a curry can develop extraordinary depth without relying on tomatoes, onions or garlic.",
+        "chapman-tips": [
+            "Use lamb shoulder with some fat and connective tissue; it becomes wonderfully tender during the long cooking time.",
+            "Don't rush the yoghurt addition. Adding it gradually over low heat helps prevent it splitting.",
+            "Kashmiri chilli powder gives colour and a fruity chilli flavour with relatively little heat.",
+            "The optional hot chilli powder allows heat to be increased separately from the colour.",
+            "Ground fennel is an important part of the characteristic Kashmiri flavour.",
+            "The finished gravy should be rich and aromatic rather than thick like a tomato-based restaurant curry.",
+            "Rogan josh often tastes even better after resting or reheating the following day.",
+            "This is a good dish for teaching that colour and heat are not the same thing."
+        ],
+        "batch-cooking": "Freezes well. Cool completely before freezing in airtight portions. Thaw overnight in the refrigerator and reheat gently until piping hot.",
+        "leftovers": "Reheat gently and serve with fresh rice or bread. The lamb can also be shredded and used as a filling for a roti or paratha."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chicken Xacuti",
+            "Coq au Vin",
+            "Chicken Cacciatore",
+            "Chicken Paprikash"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

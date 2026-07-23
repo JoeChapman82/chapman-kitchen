@@ -1,0 +1,121 @@
+{
+    "id": "019f8e06-346f-77ac-9426-9cfcad181120",
+    "version": 1,
+
+    "title": "Simple Red Moong Dal",
+
+    "overview": {
+        "description": "A simple, comforting dal made from split red moong dal and finished with a fragrant tempering of ghee, cumin, garlic and dried chilli.",
+        "country": "India",
+        "region": "North India",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "250g split red moong dal",
+        "900ml water",
+        "½ tsp ground turmeric",
+        "1 tsp salt, or to taste",
+        "1 medium tomato, finely chopped",
+        "1 small onion, finely chopped, optional",
+        "1 tbsp ghee",
+        "1 tsp cumin seeds",
+        "3 garlic cloves, thinly sliced",
+        "1 dried red chilli",
+        "¼ tsp asafoetida (hing), optional",
+        "Fresh coriander, to serve",
+        "½ lemon, optional"
+    ],
+
+    "method": [
+        "Rinse the moong dal several times until the water runs relatively clear.",
+        "Place the dal, water and turmeric in a saucepan.",
+        "Bring to the boil, then reduce the heat.",
+        "Simmer gently until the dal is completely soft and beginning to break down.",
+        "Stir occasionally and add a little extra water if necessary.",
+        "Add the chopped tomato and onion if using.",
+        "Continue cooking until the vegetables are soft and the dal has reached a thick, spoonable consistency.",
+        "Season with salt.",
+        "Whisk or stir the dal to create the desired texture.",
+        "For the tadka, heat the ghee in a small frying pan.",
+        "Add the cumin seeds.",
+        "When they begin to sizzle, add the sliced garlic and dried chilli.",
+        "Cook until the garlic is lightly golden.",
+        "Add the asafoetida if using and cook for a few seconds.",
+        "Pour the hot tadka over the dal.",
+        "Finish with fresh coriander and lemon juice if using.",
+        "Serve hot."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Steamed Rice"
+        ],
+        "optional-sides": [
+            "Chapati",
+            "Roti",
+            "Paratha",
+            "Pappad",
+            "Pickles",
+            "Plain Yogurt"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 5,
+        "cook-time-minutes": 30,
+        "freezer-label": "freezes well",
+        "cost": "very low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Moong dal cooks more quickly than many other pulses and naturally breaks down into a smooth, creamy texture without needing dairy.",
+        "what-you-will-learn": "How to cook a simple pulse until tender and how a tadka can transform a mild base with a small amount of intensely flavoured ingredients.",
+        "skills": [
+            "Preparing pulses",
+            "Simmering dal",
+            "Adjusting texture",
+            "Making a tadka",
+            "Balancing seasoning"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A simple foundation recipe that introduces the children to dal and the idea that a small finishing tempering can completely change the flavour of a dish.",
+        "chapman-tips": [
+            "Rinsing the dal removes dust and excess starch and helps produce a cleaner flavour.",
+            "Moong dal can go from firm to completely soft quite quickly, so start checking it early.",
+            "The dal will thicken considerably as it cools; make it slightly thinner than the final consistency you want.",
+            "The tadka should be poured over the dal while both are hot.",
+            "Don't burn the garlic. Light golden is sweet and fragrant; dark brown can become bitter.",
+            "The dried chilli can be left whole for flavour with very little heat, or broken up for more heat.",
+            "This is a good recipe for children to learn how texture changes as a pulse cooks."
+        ],
+        "batch-cooking": "Freezes well. Cool completely before freezing in airtight portions. Thaw overnight in the refrigerator and reheat gently, adding a little water if necessary.",
+        "leftovers": "Thin with water and reheat as a soup, serve with rice or use as a filling for a savoury flatbread."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Dal Chawal",
+            "South Indian Vegetable Curry",
+            "Saag Paneer",
+            "Aloo Paratha"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

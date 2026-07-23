@@ -1,0 +1,148 @@
+{
+    "id": "019f8dfd-7f80-7618-b5f7-e4f440fb1bad",
+    "version": 1,
+
+    "title": "Kolkata Prawn Butter Masala",
+
+    "overview": {
+        "description": "A rich Kolkata-style prawn curry made with butter, onion, tomato, cashews and aromatic spices, creating a smooth, mildly spiced sauce.",
+        "country": "India",
+        "region": "West Bengal",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "600g raw king prawns, peeled and deveined",
+        "½ tsp ground turmeric",
+        "1 tsp salt",
+        "2 tbsp neutral oil",
+        "50g unsalted butter",
+        "1 large onion, roughly chopped",
+        "3 garlic cloves",
+        "20g fresh ginger",
+        "3 medium ripe tomatoes, roughly chopped",
+        "75g raw cashews",
+        "1 tsp ground coriander",
+        "1 tsp ground cumin",
+        "1 tsp Kashmiri chilli powder",
+        "½ tsp garam masala",
+        "1 bay leaf",
+        "4 green cardamom pods",
+        "1 small cinnamon stick",
+        "2 cloves",
+        "150ml whole milk",
+        "100ml water",
+        "1 tsp sugar, or to taste",
+        "2 tbsp double cream, optional",
+        "Fresh coriander, to serve"
+    ],
+
+    "method": [
+        "Season the prawns with the turmeric and half of the salt.",
+        "Leave to marinate for 10–15 minutes.",
+        "Soak the cashews in hot water for 15–20 minutes.",
+        "Blend the onion, garlic, ginger, tomatoes and soaked cashews into a smooth paste.",
+        "Heat the oil in a large frying pan.",
+        "Add the prawns and cook briefly on each side until just beginning to change colour.",
+        "Remove the prawns immediately and set aside.",
+        "Add the butter to the pan.",
+        "Add the bay leaf, cardamom, cinnamon and cloves.",
+        "Cook for 30 seconds until fragrant.",
+        "Add the blended onion, tomato and cashew paste.",
+        "Cook over medium heat until the mixture thickens and the oil begins to separate.",
+        "Add the ground coriander, cumin, Kashmiri chilli powder, remaining salt and sugar.",
+        "Cook for a further 2–3 minutes.",
+        "Add the milk and water gradually, stirring to create a smooth sauce.",
+        "Simmer gently for 5–8 minutes.",
+        "Return the prawns to the sauce.",
+        "Cook gently for 2–3 minutes, just until the prawns are cooked through.",
+        "Stir in the garam masala.",
+        "Add the cream if using and warm gently without boiling.",
+        "Taste and adjust the salt, sugar and spice.",
+        "Finish with fresh coriander and serve immediately."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Steamed Rice",
+            "Pulao"
+        ],
+        "optional-sides": [
+            "Goan Poi",
+            "Naan",
+            "Paratha",
+            "Pappad"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 25,
+        "cook-time-minutes": 25,
+        "freezer-label": "better fresh",
+        "cost": "moderate",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Kolkata has a long tradition of restaurants serving rich, Anglo-Indian and North Indian-influenced dishes alongside Bengali cuisine. Prawn butter masala belongs more to this restaurant tradition than to the classic Bengali home-cooking repertoire.",
+        "what-you-will-learn": "How to build a smooth restaurant-style curry using browned aromatics, blended cashews, butter and dairy, while cooking prawns briefly to preserve their texture.",
+        "skills": [
+            "Preparing prawns",
+            "Making smooth curry pastes",
+            "Building rich sauces",
+            "Balancing sweetness and spice",
+            "Cooking seafood without overcooking"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A Kolkata restaurant-style dish connected to a personal food memory, showing that regional food collections can include both traditional home cooking and the distinctive restaurant food of a city.",
+        "chapman-tips": [
+            "The most important tip is not to overcook the prawns. They should be removed from the pan while still slightly underdone and returned only at the end.",
+            "Soaking the cashews makes it easier to create a genuinely smooth sauce.",
+            "If the sauce is too thick, loosen it gradually with a little extra milk or water.",
+            "Butter adds richness, but it should not overwhelm the prawns.",
+            "The sauce should be mildly spiced rather than aggressively hot; the flavour should come from the butter, aromatics and spices.",
+            "A small amount of sugar helps balance the acidity of the tomatoes.",
+            "For a more restaurant-style finish, pass the blended sauce through a sieve before adding the prawns.",
+            "If using cream, add it at the very end and avoid boiling the finished sauce."
+        ],
+        "batch-cooking": "Best eaten fresh. The sauce can be made ahead and refrigerated, but prawns should ideally be cooked and added just before serving. Freezing the completed dish is not recommended because the prawns can become rubbery.",
+        "leftovers": "Reheat very gently and use with rice or as a filling for a flatbread. Avoid prolonged reheating."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Bengali Fish Curry",
+            "Shorshe Mach",
+            "Goan Fish Curry",
+            "Chicken Xacuti"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

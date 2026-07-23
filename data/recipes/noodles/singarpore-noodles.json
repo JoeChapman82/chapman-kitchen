@@ -1,0 +1,127 @@
+{
+    "id": "019f8e39-f5a6-71dd-af72-04fb1679a094",
+    "version": 1,
+
+    "title": "Singapore Noodles",
+
+    "overview": {
+        "description": "A Hong Kong-style stir-fried rice vermicelli dish with prawns, egg, vegetables and aromatic curry powder.",
+        "country": "China",
+        "region": "Hong Kong",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "250g thin rice vermicelli",
+        "250g raw prawns, peeled and deveined",
+        "100g cooked ham, thinly sliced",
+        "2 eggs",
+        "2 tbsp neutral oil",
+        "1 small onion, thinly sliced",
+        "1 red pepper, thinly sliced",
+        "1 carrot, cut into thin matchsticks",
+        "150g white cabbage, finely shredded",
+        "2 spring onions, sliced",
+        "3 garlic cloves, finely chopped",
+        "2 tsp mild curry powder",
+        "1 tbsp light soy sauce",
+        "1 tsp toasted sesame oil",
+        "½ tsp white pepper",
+        "Salt, to taste"
+    ],
+
+    "method": [
+        "Soak the rice vermicelli according to the packet instructions until just tender.",
+        "Drain thoroughly and set aside.",
+        "Beat the eggs.",
+        "Heat 1 tsp of the oil in a wok or large frying pan.",
+        "Add the eggs and cook as a thin omelette.",
+        "Remove, allow to cool slightly and slice into thin strips.",
+        "Add another 1 tbsp of oil to the wok.",
+        "Add the prawns and stir-fry until just cooked through.",
+        "Remove and set aside.",
+        "Add the remaining oil.",
+        "Add the onion, red pepper, carrot and cabbage.",
+        "Stir-fry until the vegetables are just tender.",
+        "Add the garlic and cook for 30 seconds.",
+        "Add the curry powder and stir-fry briefly until fragrant.",
+        "Add the drained rice vermicelli.",
+        "Add the light soy sauce, sesame oil and white pepper.",
+        "Toss everything together over high heat until evenly combined and hot.",
+        "Return the prawns and sliced omelette to the wok.",
+        "Add the ham and spring onions.",
+        "Toss briefly to combine.",
+        "Taste and adjust the seasoning.",
+        "Serve immediately."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Spring Onions"
+        ],
+        "optional-sides": [
+            "Chilli Sauce",
+            "Pickled Vegetables",
+            "Cucumber Salad"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 25,
+        "cook-time-minutes": 15,
+        "freezer-label": "better fresh",
+        "cost": "moderate",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Singapore noodles are generally considered a Hong Kong–style Cantonese dish rather than a traditional Singaporean dish. The name is believed to reflect the use of curry powder and Southeast Asian-inspired flavours.",
+        "what-you-will-learn": "How to prepare delicate rice vermicelli for stir-frying and how curry powder can be used as an aromatic seasoning rather than simply as the base of a curry.",
+        "skills": [
+            "Preparing rice vermicelli",
+            "Stir-frying",
+            "Making a thin omelette",
+            "Cooking prawns",
+            "Balancing aromatic spices"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A Hong Kong-style noodle dish that adds thin rice vermicelli and curry powder to the collection, giving the children another completely different noodle texture and flavour profile.",
+        "chapman-tips": [
+            "Don't over-soak or overcook the vermicelli; it should remain slightly firm before stir-frying.",
+            "Drain the noodles very thoroughly so they don't make the wok watery.",
+            "Prepare all the ingredients before starting to cook.",
+            "Use a mild curry powder for the main dish and add chilli separately if desired.",
+            "Add the prawns towards the end so they don't become tough.",
+            "The ham is traditional in many Hong Kong-style versions, but can be omitted or replaced with cooked chicken.",
+            "Keep the wok hot and toss the noodles gently to avoid breaking them."
+        ],
+        "batch-cooking": "Better fresh. The rice vermicelli can become soft and clump together when frozen and reheated.",
+        "leftovers": "Reheat quickly in a hot wok or frying pan. Leftovers can be eaten cold or at room temperature as part of a packed lunch."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chow Mein",
+            "Mee Goreng",
+            "Mie Goreng Jawa",
+            "Japchae",
+            "Yaki Udon"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

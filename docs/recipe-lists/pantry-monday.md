@@ -68,19 +68,19 @@
 
 #### 🇮🇳 India
 
-- [ ] Dal
-- [ ] Chole
-- [ ] Rajma
-- [ ] Aloo Gobi
+- [x] Dal
+- [x] Chole
+- [x] Rajma
+- [x] Aloo Gobi
 - [x] Koshari
-- [ ] Spinach & Chickpea Curry
+- [x] Spinach & Chickpea Curry
 
 #### 🌍 Middle East & North Africa
 
-- [ ] Mujadara
-- [ ] Harira
+- [x] Mujadara
+- [x] Harira
 - [x] Shakshuka
-- [ ] Moroccan Vegetable Tagine
+- [x] Moroccan Vegetable Tagine
 
 #### 🇬🇷 Greece
 
@@ -89,8 +89,8 @@
 
 #### 🌎 Americas
 
-- [ ] Vegetable & Black Bean Chilli
-- [ ] Three Sisters Stew
+- [x] Vegetable & Black Bean Chilli
+- [x] Three Sisters Stew
 
 #### 🌍 Africa
 

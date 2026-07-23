@@ -1,0 +1,130 @@
+{
+    "id": "019f8e83-5fb9-755e-ac8e-caf68164859f",
+    "version": 1,
+
+    "title": "Three Sisters Stew",
+
+    "overview": {
+        "description": "A hearty stew of squash, beans and corn, inspired by the traditional Three Sisters combination of crops.",
+        "country": "United States",
+        "region": "Indigenous North America",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "1 small butternut squash, peeled and cut into 3cm cubes",
+        "2 x 400g tins black beans, drained and rinsed",
+        "200g sweetcorn",
+        "2 tbsp olive oil",
+        "1 large onion, finely chopped",
+        "2 celery sticks, finely chopped",
+        "2 carrots, diced",
+        "3 garlic cloves, finely chopped",
+        "1 tsp ground cumin",
+        "1 tsp smoked paprika",
+        "1 tsp dried oregano",
+        "½ tsp ground coriander",
+        "1 x 400g tin chopped tomatoes",
+        "750ml vegetable stock",
+        "1 bay leaf",
+        "1 tsp salt, or to taste",
+        "½ tsp black pepper",
+        "1 tbsp lime juice",
+        "Small handful fresh coriander, chopped"
+    ],
+
+    "method": [
+        "Heat the olive oil in a large saucepan or casserole over medium heat.",
+        "Add the onion, celery and carrots.",
+        "Cook for 8–10 minutes until softened.",
+        "Add the garlic.",
+        "Cook for 1 minute.",
+        "Add the cumin, smoked paprika, oregano and ground coriander.",
+        "Stir and cook for 30 seconds until fragrant.",
+        "Add the chopped tomatoes and vegetable stock.",
+        "Add the butternut squash and bay leaf.",
+        "Season with salt and black pepper.",
+        "Bring to a simmer.",
+        "Cover and cook for 20–25 minutes until the squash is beginning to soften.",
+        "Add the black beans and sweetcorn.",
+        "Continue cooking uncovered for 10–15 minutes until the squash is tender and the stew has thickened.",
+        "Mash a few pieces of squash and beans into the stew to give it extra body.",
+        "Remove the bay leaf.",
+        "Add the lime juice.",
+        "Taste and adjust the seasoning.",
+        "Finish with fresh coriander."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Cornbread"
+        ],
+        "optional-sides": [
+            "Rice",
+            "Tortilla Chips",
+            "Fresh Salsa",
+            "Plain Yogurt",
+            "Avocado"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 45,
+        "freezer-label": "freezes well",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "The Three Sisters are corn, beans and squash. Traditionally, corn provides a climbing structure for beans, beans help replenish nitrogen in the soil, and squash spreads along the ground, helping retain moisture and suppress weeds.",
+        "what-you-will-learn": "How a small number of staple ingredients can create a complete and satisfying stew, and how squash can naturally thicken a dish as it cooks.",
+        "skills": [
+            "Cooking with squash",
+            "Cooking with beans",
+            "Building a stew",
+            "Balancing savoury and acidic flavours",
+            "Thickening a dish naturally"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A nutritious, inexpensive and freezer-friendly Pantry Monday dish built around the traditional combination of corn, beans and squash.",
+        "chapman-tips": [
+            "Cut the squash into evenly sized pieces so it cooks at the same rate.",
+            "Don't add the beans too early or they can become overly soft.",
+            "Mashing some of the squash into the stew creates a naturally thick sauce.",
+            "This should be a hearty stew rather than a thin soup.",
+            "The lime juice at the end keeps the dish from becoming too heavy.",
+            "The seasoning is deliberately different from the Vegetable & Black Bean Chilli, despite the overlap in ingredients.",
+            "A little smoked paprika adds depth, but the dish should still allow the squash and corn to be tasted.",
+            "You can use frozen sweetcorn and frozen squash if convenient."
+        ],
+        "batch-cooking": "Freezes well. Cool completely before freezing in portions.",
+        "leftovers": "Reheat gently with a splash of water. Excellent over jacket potatoes, rice or toast."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Vegetable & Black Bean Chilli",
+            "Moroccan Vegetable Tagine",
+            "Spinach & Chickpea Curry",
+            "Mujadara",
+            "Aloo Gobi"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

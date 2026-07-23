@@ -1,0 +1,129 @@
+{
+    "id": "019f8e7d-cb17-76cb-b735-1568b2eaea4b",
+    "version": 1,
+
+    "title": "Mujadara",
+
+    "overview": {
+        "description": "A Levantine dish of lentils and rice topped with deeply caramelised onions and served with cool yogurt.",
+        "country": "Levant",
+        "region": "Levantine cuisine",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "250g green lentils",
+        "200g basmati rice",
+        "4 large onions, thinly sliced",
+        "4 tbsp olive oil",
+        "1 tsp ground cumin",
+        "½ tsp ground coriander",
+        "1 cinnamon stick",
+        "2 bay leaves",
+        "1½ tsp salt, or to taste",
+        "750ml water or vegetable stock",
+        "½ tsp black pepper",
+        "",
+        "To serve:",
+        "Plain yogurt",
+        "Fresh coriander or parsley, optional"
+    ],
+
+    "method": [
+        "Rinse the lentils thoroughly.",
+        "Place the lentils in a saucepan with the water or vegetable stock, cinnamon stick and bay leaves.",
+        "Bring to a boil, then reduce to a simmer.",
+        "Cook for 20–25 minutes until the lentils are beginning to soften but still retain their shape.",
+        "While the lentils cook, heat the olive oil in a large heavy-based saucepan or frying pan.",
+        "Add the sliced onions.",
+        "Cook over medium-low heat, stirring regularly, until deeply golden brown and caramelised.",
+        "This may take 30–40 minutes.",
+        "Remove about half of the onions and set aside for the topping.",
+        "Add the cumin, ground coriander and black pepper to the remaining onions.",
+        "Cook for 30 seconds.",
+        "Drain the lentils if necessary, reserving their cooking liquid.",
+        "Add the rice to the pan with the onions and spices.",
+        "Add the partially cooked lentils.",
+        "Add enough cooking liquid to give approximately 450ml total liquid.",
+        "Add the salt.",
+        "Bring to a boil.",
+        "Cover, reduce the heat to very low and cook until the rice is tender and the liquid has been absorbed.",
+        "Turn off the heat and leave covered for 10 minutes.",
+        "Remove the cinnamon stick and bay leaves.",
+        "Fluff the rice and lentils gently with a fork.",
+        "Top generously with the reserved caramelised onions.",
+        "Serve with plain yogurt."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Plain Yogurt"
+        ],
+        "optional-sides": [
+            "Cucumber Salad",
+            "Tomato Salad",
+            "Flatbread",
+            "Pickled Vegetables"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 45,
+        "freezer-label": "freezes well",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Mujadara is one of the great examples of how simple staple ingredients can form a complete and satisfying meal. The dish has many regional variations across the Levant.",
+        "what-you-will-learn": "How to caramelise onions slowly and how to coordinate the cooking of lentils and rice so they finish with the right texture.",
+        "skills": [
+            "Caramelising onions",
+            "Cooking lentils",
+            "Cooking rice",
+            "Balancing simple flavours",
+            "Coordinating cooking times"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A cheap, filling and genuinely delicious Pantry Monday meal that makes excellent use of your lentil and rice supplies.",
+        "chapman-tips": [
+            "The onions are the heart of the dish, so don't rush them.",
+            "The best mujadara has onions that are deeply golden and sweet rather than merely softened.",
+            "Green lentils are particularly suitable because they retain their shape.",
+            "The lentils should be partially cooked before the rice is added.",
+            "Avoid stirring the rice too much once it begins cooking.",
+            "Plain yogurt provides a useful cool, creamy contrast to the sweet onions and earthy lentils.",
+            "The dish can be served warm or at room temperature.",
+            "A little lemon juice in the yogurt or a sharp salad alongside works very well."
+        ],
+        "batch-cooking": "Freezes well. Freeze in portions once completely cooled.",
+        "leftovers": "Reheat with a splash of water. The caramelised onions are best stored separately where possible so they retain more texture."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Dal Chawal",
+            "Simple Green Moong Dal",
+            "Brown Masoor Dal",
+            "Spinach & Chickpea Curry",
+            "Aloo Gobi"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

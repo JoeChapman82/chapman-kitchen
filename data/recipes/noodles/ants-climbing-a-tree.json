@@ -1,0 +1,123 @@
+{
+    "id": "019f8e3d-85fc-73f1-b796-134ccb147480",
+    "version": 1,
+
+    "title": "Ants Climbing a Tree",
+
+    "overview": {
+        "description": "A Sichuan dish of mung bean glass noodles cooked with minced pork, fermented chilli bean paste and aromatic seasonings.",
+        "country": "China",
+        "region": "Sichuan",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "200g mung bean glass noodles",
+        "250g minced pork",
+        "2 tbsp neutral oil",
+        "2 garlic cloves, finely chopped",
+        "10g fresh ginger, finely grated",
+        "2 spring onions, finely sliced",
+        "1½ tbsp doubanjiang (Sichuan fermented chilli bean paste)",
+        "1 tbsp light soy sauce",
+        "1 tsp dark soy sauce",
+        "500ml chicken stock",
+        "1 tsp sugar",
+        "½ tsp ground Sichuan pepper",
+        "1 tsp toasted sesame oil",
+        "1 tbsp Shaoxing wine",
+        "1 small handful fresh coriander, optional"
+    ],
+
+    "method": [
+        "Soak the mung bean glass noodles according to the packet instructions until softened but not completely tender.",
+        "Drain thoroughly and set aside.",
+        "Heat the oil in a wok or large frying pan over medium-high heat.",
+        "Add the minced pork.",
+        "Stir-fry until the pork is browned and any excess moisture has cooked away.",
+        "Add the garlic and ginger.",
+        "Stir-fry for 30 seconds until fragrant.",
+        "Add the doubanjiang.",
+        "Stir-fry for 1–2 minutes until the oil becomes aromatic and the paste is well incorporated.",
+        "Add the Shaoxing wine, light soy sauce, dark soy sauce and sugar.",
+        "Stir to combine.",
+        "Add the chicken stock and bring to a simmer.",
+        "Add the softened glass noodles.",
+        "Cook gently until the noodles are tender and have absorbed much of the seasoned stock.",
+        "Add the ground Sichuan pepper and sesame oil.",
+        "Taste and adjust the seasoning.",
+        "Garnish with spring onions and coriander if using.",
+        "Serve immediately."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Steamed Rice"
+        ],
+        "optional-sides": [
+            "Chinese Greens",
+            "Cucumber Salad",
+            "Pickled Vegetables"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 20,
+        "freezer-label": "better fresh",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "The name Ants Climbing a Tree refers to the small pieces of minced pork clinging to the long glass noodles, which are imagined as ants climbing branches.",
+        "what-you-will-learn": "How fermented chilli bean paste creates depth and savouriness, and how glass noodles absorb the flavours of a strongly seasoned broth.",
+        "skills": [
+            "Preparing glass noodles",
+            "Cooking with doubanjiang",
+            "Stir-frying minced meat",
+            "Balancing spicy and savoury flavours",
+            "Building flavour with fermented ingredients"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A Sichuan noodle dish that provides a final textural contrast to the collection, using mung bean glass noodles that absorb a deeply savoury and spicy sauce.",
+        "chapman-tips": [
+            "Fen si, or mung bean glass noodles, are traditionally used for this dish.",
+            "Don't over-soak the noodles before cooking; they should finish cooking in the seasoned stock.",
+            "Doubanjiang varies considerably in saltiness and heat, so adjust the quantity to taste.",
+            "The minced pork should be browned well before the liquid is added.",
+            "The noodles should absorb most of the stock rather than sit in a large amount of liquid.",
+            "Sichuan pepper provides a distinctive numbing sensation as well as citrus-like aroma.",
+            "For a milder family version, reduce the doubanjiang and serve extra chilli oil separately.",
+            "The dish is best served immediately while the noodles are glossy and the sauce is still rich."
+        ],
+        "batch-cooking": "Better fresh. The glass noodles continue absorbing liquid as they stand and can become soft when reheated.",
+        "leftovers": "Reheat gently with a splash of water or stock. The noodles may need loosening as they absorb more liquid during storage."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Japchae",
+            "Singapore Noodles",
+            "Chow Mein",
+            "Mee Goreng",
+            "Mie Goreng Jawa"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

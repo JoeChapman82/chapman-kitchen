@@ -102,7 +102,7 @@
 
 #### Breads
 
-- [ ] Greek Village Bread
+- [x] Greek Village Bread
 - [ ] Focaccia
 - [x] Pita
 - [ ] Flatbread

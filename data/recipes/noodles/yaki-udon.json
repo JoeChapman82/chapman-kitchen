@@ -1,0 +1,124 @@
+{
+    "id": "019f8e15-5dcb-7230-b3cb-790e7d98d224",
+    "version": 1,
+
+    "title": "Yaki Udon",
+
+    "overview": {
+        "description": "A Japanese stir-fried noodle dish made with thick, chewy udon noodles, chicken and vegetables in a savoury soy-based sauce.",
+        "country": "Japan",
+        "region": "Nationwide",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "600g fresh or vacuum-packed udon noodles",
+        "300g boneless chicken thighs, thinly sliced",
+        "2 tbsp neutral oil",
+        "1 medium onion, thinly sliced",
+        "2 carrots, cut into thin matchsticks",
+        "150g white cabbage, finely shredded",
+        "150g mushrooms, sliced",
+        "2 spring onions, sliced",
+        "2 garlic cloves, finely chopped",
+        "10g fresh ginger, grated",
+        "",
+        "For the sauce:",
+        "3 tbsp light soy sauce",
+        "1 tbsp oyster sauce",
+        "1 tbsp mirin",
+        "1 tsp toasted sesame oil",
+        "1 tsp sugar",
+        "2 tbsp water"
+    ],
+
+    "method": [
+        "Mix all the sauce ingredients together in a small bowl.",
+        "If using vacuum-packed udon, loosen the noodles according to the packet instructions.",
+        "If using frozen udon, briefly boil or steam until loosened, then drain.",
+        "Heat a wok or large frying pan over medium-high heat.",
+        "Add the oil.",
+        "Add the chicken and stir-fry until lightly browned and cooked through.",
+        "Remove the chicken and set aside.",
+        "Add the onion, carrots, cabbage and mushrooms to the wok.",
+        "Stir-fry until the vegetables are beginning to soften but still retain some texture.",
+        "Add the garlic and ginger.",
+        "Stir-fry for 30 seconds.",
+        "Return the chicken to the wok.",
+        "Add the loosened udon noodles.",
+        "Pour over the sauce.",
+        "Toss everything together until the noodles are hot and coated in the sauce.",
+        "Add the spring onions.",
+        "Serve immediately."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Spring Onions"
+        ],
+        "optional-sides": [
+            "Pickled Ginger",
+            "Japanese Pickles",
+            "Steamed Edamame",
+            "Sesame Seeds"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 15,
+        "freezer-label": "better fresh",
+        "cost": "moderate",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Yaki means grilled or fried, so yaki udon simply means fried udon noodles. Unlike ramen or other noodle soups, the noodles are stir-fried with the other ingredients.",
+        "what-you-will-learn": "How noodle thickness and texture affect stir-frying, and how a simple Japanese sauce can balance salty, sweet and savoury flavours.",
+        "skills": [
+            "Stir-frying",
+            "Preparing udon noodles",
+            "Balancing sauces",
+            "Cooking vegetables quickly",
+            "Managing noodle texture"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A Japanese noodle dish that introduces a completely different noodle texture from the egg noodles used in chow mein, mee goreng and mie goreng Jawa.",
+        "chapman-tips": [
+            "Don't boil the udon for longer than necessary; it only needs to be loosened before stir-frying.",
+            "The thick noodles can absorb a surprising amount of sauce.",
+            "Cut the vegetables fairly thinly so they cook quickly while retaining some crunch.",
+            "Keep the wok hot but avoid stirring so aggressively that the udon breaks apart.",
+            "The sauce should coat the noodles rather than pool in the bottom of the pan.",
+            "Chicken thigh is more forgiving than breast in a fast stir-fry.",
+            "For a vegetarian version, replace the chicken with mushrooms, tofu or more vegetables and use a vegetarian oyster sauce."
+        ],
+        "batch-cooking": "Best eaten fresh. The udon can become soft and sticky after freezing and reheating.",
+        "leftovers": "Reheat quickly in a hot frying pan or wok with a splash of water. Leftovers can make a good packed lunch."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chow Mein",
+            "Mee Goreng",
+            "Mie Goreng Jawa",
+            "Pork Gyoza"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

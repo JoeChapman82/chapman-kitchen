@@ -1,0 +1,132 @@
+{
+    "id": "019f8e3b-2917-764e-989a-d89c27389f7f",
+    "version": 1,
+
+    "title": "Chicken Lo Mein",
+
+    "overview": {
+        "description": "Soft egg noodles tossed with tender chicken, vegetables and a savoury Cantonese-style sauce.",
+        "country": "China",
+        "region": "Cantonese cuisine",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "400g fresh or dried egg noodles",
+        "300g boneless chicken thighs, thinly sliced",
+        "1 tbsp light soy sauce",
+        "1 tsp cornflour",
+        "1 tsp neutral oil",
+        "2 tbsp neutral oil, for cooking",
+        "2 garlic cloves, finely chopped",
+        "10g fresh ginger, grated",
+        "1 medium onion, thinly sliced",
+        "2 carrots, cut into thin matchsticks",
+        "150g white cabbage, finely shredded",
+        "150g mushrooms, sliced",
+        "2 spring onions, sliced",
+        "",
+        "For the sauce:",
+        "3 tbsp light soy sauce",
+        "1 tbsp dark soy sauce",
+        "1 tbsp oyster sauce",
+        "1 tsp toasted sesame oil",
+        "1 tsp sugar",
+        "2 tbsp chicken stock or water",
+        "½ tsp white pepper"
+    ],
+
+    "method": [
+        "Mix the chicken with 1 tbsp light soy sauce, the cornflour and 1 tsp neutral oil.",
+        "Leave to marinate while preparing the remaining ingredients.",
+        "Prepare the noodles according to the packet instructions.",
+        "Drain thoroughly and set aside.",
+        "Mix all the sauce ingredients together in a small bowl.",
+        "Heat a wok or large frying pan over high heat.",
+        "Add 1 tbsp of the cooking oil.",
+        "Stir-fry the chicken until cooked through and lightly browned.",
+        "Remove the chicken and set aside.",
+        "Add the remaining oil to the wok.",
+        "Add the onion, carrots, cabbage and mushrooms.",
+        "Stir-fry until the vegetables are just tender but still retain some texture.",
+        "Add the garlic and ginger.",
+        "Stir-fry for 30 seconds.",
+        "Return the chicken to the wok.",
+        "Add the cooked noodles.",
+        "Pour over the sauce.",
+        "Toss everything together until the noodles are hot and evenly coated.",
+        "Add the spring onions.",
+        "Serve immediately."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Spring Onions"
+        ],
+        "optional-sides": [
+            "Steamed Greens",
+            "Cucumber Salad",
+            "Pickled Vegetables",
+            "Chilli Oil"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 15,
+        "freezer-label": "better fresh",
+        "cost": "moderate",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Lo mein comes from the Cantonese term lou mein, meaning tossed or stirred noodles. Unlike chow mein, the noodles are generally cooked separately and then tossed with the sauce and other ingredients.",
+        "what-you-will-learn": "How to prepare and sauce noodles separately from the stir-fried ingredients, and how a small amount of cornflour can create a silky coating on meat.",
+        "skills": [
+            "Preparing egg noodles",
+            "Marinating meat",
+            "Stir-frying",
+            "Balancing sauces",
+            "Tossing noodles with sauce"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A natural companion to chow mein that allows the children to compare two closely related noodle dishes while learning that similar ingredients can be treated differently.",
+        "chapman-tips": [
+            "The chicken marinade helps keep the meat tender and gives the sauce something to cling to.",
+            "Don't overcook the noodles before they go into the wok.",
+            "Drain the noodles thoroughly so the finished dish doesn't become watery.",
+            "Cook the vegetables until just tender so the dish retains some texture.",
+            "The sauce should coat the noodles rather than form a pool in the bottom of the wok.",
+            "For a softer, more traditional lo mein texture, use fresh egg noodles if available.",
+            "Keep the heat high but toss the noodles gently to avoid breaking them."
+        ],
+        "batch-cooking": "Better fresh. The noodles and vegetables lose texture when frozen and reheated.",
+        "leftovers": "Reheat quickly in a hot wok or frying pan with a small splash of water. Leftovers can also make a good packed lunch."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chow Mein",
+            "Mee Goreng",
+            "Mie Goreng Jawa",
+            "Yaki Udon",
+            "Singapore Noodles"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

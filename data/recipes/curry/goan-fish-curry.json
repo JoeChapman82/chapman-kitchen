@@ -1,0 +1,118 @@
+{
+    "id": "019f8df7-8075-7778-9988-f7fe197fa0d6",
+    "version": 1,
+
+    "title": "Goan Fish Curry",
+
+    "overview": {
+        "description": "A fragrant Goan fish curry made with coconut, tamarind, garlic and spices, creating a creamy, sour and gently spiced sauce.",
+        "country": "India",
+        "region": "Goa",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "600g firm white fish fillets, such as cod, haddock or pollock",
+        "1 tsp salt",
+        "½ tsp ground turmeric",
+        "100g fresh or frozen grated coconut",
+        "2 tbsp coriander seeds",
+        "1 tsp cumin seeds",
+        "6 dried Kashmiri chillies, deseeded if preferred",
+        "4 garlic cloves",
+        "1 tbsp tamarind concentrate, or to taste",
+        "1 small onion, roughly chopped",
+        "250–350ml water",
+        "1 tbsp coconut oil or neutral oil",
+        "1 small tomato, finely chopped, optional"
+    ],
+
+    "method": [
+        "Cut the fish into large pieces.",
+        "Season with the salt and turmeric and set aside for 10–15 minutes.",
+        "Add the grated coconut, coriander seeds, cumin seeds, dried chillies, garlic, tamarind and onion to a blender.",
+        "Add enough water to help the mixture blend.",
+        "Blend until as smooth as possible.",
+        "Heat the oil in a large saucepan or deep frying pan.",
+        "Add the blended spice paste and cook for 5–8 minutes until fragrant.",
+        "Add the remaining water and stir to create a smooth sauce.",
+        "Add the tomato if using.",
+        "Bring the curry to a gentle simmer.",
+        "Add the fish pieces carefully.",
+        "Simmer gently until the fish is cooked through, approximately 8–12 minutes depending on the thickness of the pieces.",
+        "Avoid stirring aggressively; gently shake the pan instead.",
+        "Taste and adjust the salt and tamarind.",
+        "Serve with steamed rice."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Steamed Rice",
+            "Goan Poi"
+        ],
+        "optional-sides": [
+            "Pappad",
+            "Pickles",
+            "Coconut Chutney",
+            "Vegetable Curry"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 25,
+        "freezer-label": "better fresh",
+        "cost": "moderate",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Goan fish curry reflects Goa's coastal location and the influence of both local Indian traditions and Portuguese culinary history. Coconut and tamarind are central to many Goan preparations.",
+        "what-you-will-learn": "How to build a curry paste from whole spices, coconut and aromatics, and how to balance richness, heat and sourness.",
+        "skills": [
+            "Blending spice pastes",
+            "Working with whole spices",
+            "Balancing sourness",
+            "Cooking fish gently",
+            "Building coconut-based sauces"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A distinctive coastal Indian curry that demonstrates how coconut, tamarind and dried chillies create a completely different style of fish curry from the Bengali dishes in the collection.",
+        "chapman-tips": [
+            "The curry should have a noticeable sourness from the tamarind, balanced by the richness of the coconut.",
+            "Kashmiri chillies provide colour and a fruity chilli flavour without excessive heat.",
+            "If using frozen coconut, thaw it before blending.",
+            "Blend the paste as smoothly as your blender allows.",
+            "Add the fish only once the sauce is simmering gently.",
+            "Avoid stirring the fish directly; gently shake the pan instead.",
+            "Taste the sauce before adding the fish and adjust the tamarind, salt and chilli balance."
+        ],
+        "batch-cooking": "Best eaten fresh. The curry can be refrigerated and reheated gently, but the fish will become softer. Freezing is possible but may slightly affect the texture of the coconut sauce and fish.",
+        "leftovers": "Reheat gently and serve with fresh rice. Flaked leftovers can be used as a filling for a flatbread or mixed into rice."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Bengali Fish Curry",
+            "Shorshe Mach",
+            "South Indian Vegetable Curry",
+            "Coconut Chutney"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

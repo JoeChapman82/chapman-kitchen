@@ -1,0 +1,132 @@
+{
+    "id": "019f8e17-d3c2-700c-9ad2-b562e107eaf3",
+    "version": 1,
+
+    "title": "Japchae",
+
+    "overview": {
+        "description": "Korean sweet-potato glass noodles tossed with beef, colourful vegetables and a savoury-sweet soy and sesame dressing.",
+        "country": "South Korea",
+        "region": "Nationwide",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "250g dangmyeon (Korean sweet-potato starch noodles)",
+        "250g beef steak, such as rump or sirloin, cut into thin strips",
+        "2 tbsp light soy sauce",
+        "1 tsp sugar",
+        "1 tsp toasted sesame oil",
+        "2 garlic cloves, finely chopped",
+        "1 medium onion, thinly sliced",
+        "1 carrot, cut into thin matchsticks",
+        "1 red pepper, thinly sliced",
+        "150g spinach",
+        "150g mushrooms, sliced",
+        "2 eggs",
+        "2 tbsp neutral oil",
+        "2 tbsp toasted sesame seeds",
+        "",
+        "For the noodle dressing:",
+        "4 tbsp light soy sauce",
+        "2 tbsp sugar",
+        "1 tbsp toasted sesame oil",
+        "1 tbsp water"
+    ],
+
+    "method": [
+        "Mix the beef with 2 tbsp light soy sauce, 1 tsp sugar, 1 tsp sesame oil and the chopped garlic.",
+        "Leave to marinate while preparing the other ingredients.",
+        "Cook the dangmyeon according to the packet instructions until tender but still pleasantly chewy.",
+        "Drain the noodles thoroughly and cut them into shorter lengths with kitchen scissors if desired.",
+        "Toss the noodles with the noodle dressing and set aside.",
+        "Separate the eggs.",
+        "Beat the yolks and whites separately.",
+        "Cook the yolk and white separately in a lightly oiled frying pan as thin omelettes.",
+        "Allow them to cool, then slice into thin strips.",
+        "Stir-fry the onion until softened and lightly golden.",
+        "Remove from the pan and set aside.",
+        "Stir-fry the carrot until just tender.",
+        "Remove and set aside.",
+        "Stir-fry the red pepper briefly and set aside.",
+        "Stir-fry the mushrooms until softened and lightly browned.",
+        "Remove and set aside.",
+        "Blanch or wilt the spinach, then squeeze out excess water and season lightly.",
+        "Stir-fry the marinated beef until cooked through and lightly browned.",
+        "Add the noodles, cooked vegetables, spinach, beef and egg strips to a large pan or bowl.",
+        "Toss everything together gently until evenly combined.",
+        "Taste and adjust the seasoning.",
+        "Finish with toasted sesame seeds and serve warm or at room temperature."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Toasted Sesame Seeds"
+        ],
+        "optional-sides": [
+            "Kimchi",
+            "Korean Pickled Radish",
+            "Steamed Rice",
+            "Korean Cucumber Salad"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 35,
+        "cook-time-minutes": 25,
+        "freezer-label": "better fresh",
+        "cost": "moderate",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Japchae originally referred to a mixed vegetable dish created in the early 17th century. Sweet-potato starch noodles were added later and eventually became the defining ingredient of the dish.",
+        "what-you-will-learn": "How to cook and season ingredients separately so each retains its own texture and flavour, then combine them into a balanced finished dish.",
+        "skills": [
+            "Cooking glass noodles",
+            "Marinating meat",
+            "Stir-frying vegetables",
+            "Making a Korean omelette garnish",
+            "Balancing sweet and savoury flavours"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A Korean noodle dish with a completely different texture from the egg noodles, udon and rice noodles already in the collection, while also introducing the children to sweet-potato starch noodles.",
+        "chapman-tips": [
+            "Dangmyeon should be chewy rather than soft or mushy.",
+            "Cooking the vegetables separately takes longer but gives each ingredient the right texture.",
+            "Squeeze excess water from the spinach thoroughly so it doesn't make the finished japchae watery.",
+            "The noodles absorb seasoning as they rest, so taste again before serving.",
+            "Japchae can be served warm, at room temperature or gently reheated.",
+            "For a simpler family version, the vegetables can be cooked together, although the traditional separate cooking method gives the best result.",
+            "The beef can be replaced with chicken, pork, prawns, mushrooms or tofu."
+        ],
+        "batch-cooking": "Better fresh, although japchae keeps well in the refrigerator for a few days. Freeze only if necessary, as the noodles can change texture after freezing and reheating.",
+        "leftovers": "Reheat gently in a frying pan with a small splash of water. Japchae is also good cold or at room temperature as part of a packed lunch."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Yaki Udon",
+            "Curry Udon",
+            "Chow Mein",
+            "Mee Goreng",
+            "Mie Goreng Jawa"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

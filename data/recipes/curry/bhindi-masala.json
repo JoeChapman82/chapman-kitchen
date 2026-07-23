@@ -1,0 +1,122 @@
+{
+    "id": "019f8df5-aed2-715c-a194-29cca5839df8",
+    "version": 1,
+
+    "title": "Bhindi Masala",
+
+    "overview": {
+        "description": "A North Indian dish of okra cooked with onion, tomato and spices until tender while retaining its shape and texture.",
+        "country": "India",
+        "region": "North India",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "500g fresh okra (bhindi)",
+        "3 tbsp neutral oil",
+        "1 large onion, thinly sliced",
+        "2 tomatoes, finely chopped",
+        "3 garlic cloves, finely chopped",
+        "1 tbsp fresh ginger, grated",
+        "1 green chilli, finely chopped, optional",
+        "1 tsp cumin seeds",
+        "1 tsp ground coriander",
+        "½ tsp ground cumin",
+        "½ tsp ground turmeric",
+        "½ tsp Kashmiri chilli powder",
+        "1 tsp amchur (dried mango powder)",
+        "1 tsp salt",
+        "Fresh coriander, to serve"
+    ],
+
+    "method": [
+        "Wash the okra and dry it extremely thoroughly.",
+        "Trim the tops and tails.",
+        "Cut the okra into pieces approximately 2–3cm long.",
+        "Heat 1½ tbsp of the oil in a large frying pan.",
+        "Add the okra and cook over medium-high heat for 8–10 minutes, stirring occasionally, until it is tender and has developed some colour.",
+        "Remove the okra and set aside.",
+        "Add the remaining oil to the pan.",
+        "Add the cumin seeds.",
+        "Add the sliced onion and cook until softened and lightly golden.",
+        "Add the ginger, garlic and green chilli if using.",
+        "Cook for 1–2 minutes.",
+        "Add the tomatoes, ground coriander, ground cumin, turmeric, chilli powder, amchur and salt.",
+        "Cook until the tomatoes soften and the masala thickens.",
+        "Return the okra to the pan.",
+        "Stir gently to coat it in the masala.",
+        "Cook for a further 5–8 minutes until the okra is fully tender.",
+        "Finish with fresh coriander and serve."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Chapati",
+            "Roti"
+        ],
+        "optional-sides": [
+            "Plain Paratha",
+            "Steamed Rice",
+            "Dal",
+            "Plain Yogurt"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 25,
+        "freezer-label": "better fresh",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Okra is known as bhindi in Hindi and is used widely across Indian cuisines. Its characteristic texture comes from a naturally occurring substance that becomes more noticeable when the vegetable is wet or cut.",
+        "what-you-will-learn": "How to prepare and cook okra while controlling its natural slimy texture and how dry cooking can help preserve its shape.",
+        "skills": [
+            "Preparing okra",
+            "Controlling vegetable texture",
+            "Dry frying vegetables",
+            "Building a masala",
+            "Balancing acidity"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A useful introduction to okra that teaches the children how preparation and cooking technique can dramatically affect the texture of a vegetable.",
+        "chapman-tips": [
+            "Dry the okra extremely well before cutting it; moisture makes the texture much more slippery.",
+            "Don't overcrowd the pan when cooking the okra.",
+            "Cooking the okra separately before adding it to the masala helps control its texture.",
+            "Avoid adding water unless absolutely necessary.",
+            "Amchur provides a characteristic sourness, but lemon juice can be used if you do not have it.",
+            "Don't stir too aggressively or the okra may break apart.",
+            "If the children are unsure about okra, serve it alongside familiar chapati or rice rather than hiding it in another dish."
+        ],
+        "batch-cooking": "Best eaten fresh. The texture becomes softer after refrigeration and freezing, although leftovers can still be reheated and eaten.",
+        "leftovers": "Reheat gently and serve with chapati or use as a filling for a flatbread wrap."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Baingan Bharta",
+            "South Indian Vegetable Curry",
+            "Avial",
+            "Methi Thepla"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

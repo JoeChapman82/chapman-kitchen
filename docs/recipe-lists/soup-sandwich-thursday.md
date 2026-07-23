@@ -79,7 +79,7 @@
 
 #### 🥗 Vegetarian
 
-- [ ] Halloumi & Roasted Peppers
+- [x] Halloumi & Roasted Peppers
 - [ ] Falafel & Hummus
 - [ ] Roasted Vegetable
 - [ ] Egg Mayo & Watercress

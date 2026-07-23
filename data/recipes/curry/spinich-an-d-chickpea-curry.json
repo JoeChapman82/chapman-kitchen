@@ -1,0 +1,130 @@
+{
+    "id": "019f8e7c-6f46-72ad-8a07-1dc02d0a9f99",
+    "version": 1,
+
+    "title": "Spinach & Chickpea Curry",
+
+    "overview": {
+        "description": "A North Indian-style curry of chickpeas cooked in a richly spiced spinach and tomato masala.",
+        "country": "India",
+        "region": "North India",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "2 x 400g tins chickpeas, drained and rinsed",
+        "400g fresh spinach, or 250g frozen spinach",
+        "3 tbsp neutral oil",
+        "1 tsp cumin seeds",
+        "1 large onion, finely chopped",
+        "4 garlic cloves, finely chopped",
+        "20g fresh ginger, grated",
+        "1–2 green chillies, finely chopped, optional",
+        "2 medium tomatoes, finely chopped",
+        "1 tsp ground turmeric",
+        "1½ tsp ground coriander",
+        "1 tsp ground cumin",
+        "1 tsp Kashmiri chilli powder",
+        "½ tsp garam masala",
+        "1 tsp salt, or to taste",
+        "150ml water",
+        "1 tbsp lemon juice",
+        "Small handful fresh coriander, chopped"
+    ],
+
+    "method": [
+        "If using fresh spinach, blanch it in boiling water for 1 minute.",
+        "Drain and cool under cold water.",
+        "Squeeze out as much water as possible.",
+        "Blend the spinach into a coarse purée, adding a little water if necessary.",
+        "Heat the oil in a large saucepan over medium heat.",
+        "Add the cumin seeds and fry until aromatic.",
+        "Add the onion.",
+        "Cook until softened and golden.",
+        "Add the garlic, ginger and green chilli if using.",
+        "Cook for 1–2 minutes until fragrant.",
+        "Add the chopped tomatoes, turmeric, ground coriander, ground cumin, Kashmiri chilli powder and salt.",
+        "Cook until the tomatoes have broken down and the masala becomes thick and glossy.",
+        "Add the spinach purée.",
+        "Cook for 5 minutes, stirring occasionally.",
+        "Add the chickpeas and water.",
+        "Stir well and bring to a gentle simmer.",
+        "Cook for 15–20 minutes so the chickpeas absorb the flavour of the masala.",
+        "Add the garam masala.",
+        "Finish with the lemon juice and fresh coriander.",
+        "Taste and adjust the seasoning before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Roti",
+            "Chapati",
+            "Rice"
+        ],
+        "optional-sides": [
+            "Plain Yogurt",
+            "Pickled Vegetables",
+            "Cucumber Raita",
+            "Naan"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 35,
+        "freezer-label": "freezes well",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Palak chana combines chickpeas with palak, meaning spinach. It belongs to the broad family of Indian dishes where leafy greens are cooked into a richly spiced masala.",
+        "what-you-will-learn": "How to turn leafy greens into a rich curry base and how chickpeas absorb flavour during a gentle simmer.",
+        "skills": [
+            "Preparing spinach",
+            "Building a masala",
+            "Cooking with legumes",
+            "Balancing acidity",
+            "Developing flavour through simmering"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A cheap, nutritious Pantry Monday curry that makes excellent use of chickpeas and spinach while offering a completely different texture from dal and a different flavour profile from saag paneer.",
+        "chapman-tips": [
+            "Squeeze the spinach very thoroughly after blanching so the curry does not become watery.",
+            "Don't rush the onion and tomato masala; this is where much of the flavour develops.",
+            "For a thicker curry, mash a small portion of the chickpeas into the sauce.",
+            "For a smoother curry, blend the spinach completely before adding it.",
+            "A little lemon juice at the end is important because spinach and chickpeas both benefit from acidity.",
+            "Frozen spinach works very well here and is particularly convenient for Pantry Monday.",
+            "For a milder family version, omit the green chilli and use a mild Kashmiri chilli powder."
+        ],
+        "batch-cooking": "Freezes well. Allow to cool completely before freezing in portions.",
+        "leftovers": "Reheats very well. The curry may thicken in the refrigerator, so add a splash of water when reheating."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Saag Paneer",
+            "Dal Chawal",
+            "Aloo Gobi",
+            "South Indian Vegetable Curry",
+            "Dum Aloo"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

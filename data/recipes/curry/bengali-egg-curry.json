@@ -1,0 +1,139 @@
+{
+    "id": "019f8df2-96ba-7747-9ceb-5485e44555e8",
+    "version": 1,
+
+    "title": "Bengali Egg Curry",
+
+    "overview": {
+        "description": "Boiled eggs lightly fried and simmered in a rich Bengali onion, tomato and spice gravy.",
+        "country": "India",
+        "region": "West Bengal",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "8 large eggs",
+        "1 tsp ground turmeric",
+        "1 tsp salt",
+        "3 tbsp mustard oil or neutral oil",
+        "2 medium potatoes, peeled and cut into large chunks",
+        "1 large onion, finely sliced",
+        "2 tomatoes, finely chopped",
+        "1 tbsp fresh ginger, grated",
+        "3 garlic cloves, finely grated",
+        "1 tsp cumin seeds",
+        "1 tsp ground cumin",
+        "1 tsp ground coriander",
+        "½ tsp Kashmiri chilli powder",
+        "½ tsp garam masala",
+        "1 bay leaf",
+        "250–350ml water",
+        "Fresh coriander, to serve"
+    ],
+
+    "method": [
+        "Place the eggs in a saucepan and cover with cold water.",
+        "Bring to the boil, then cook for 9–10 minutes.",
+        "Cool the eggs in cold water, peel them and make a few shallow cuts in the whites.",
+        "Season the eggs with ½ tsp turmeric and a little salt.",
+        "Heat 1 tbsp of the oil in a large frying pan.",
+        "Lightly fry the eggs until the outside develops a little colour.",
+        "Remove the eggs and set aside.",
+        "Add the remaining oil to the pan.",
+        "Add the potatoes and fry until lightly golden on the outside.",
+        "Remove and set aside.",
+        "Add the cumin seeds and bay leaf to the pan.",
+        "Add the sliced onion and cook until softened and golden.",
+        "Add the ginger and garlic and cook for 1–2 minutes.",
+        "Add the tomatoes, ground cumin, ground coriander, remaining turmeric, Kashmiri chilli powder and remaining salt.",
+        "Cook until the tomatoes break down and the oil begins to separate from the masala.",
+        "Add the water and potatoes.",
+        "Cover and simmer until the potatoes are almost tender.",
+        "Add the fried eggs and simmer gently for 5–10 minutes so they absorb some of the sauce.",
+        "Sprinkle with garam masala and fresh coriander.",
+        "Serve with rice."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Steamed Rice"
+        ],
+        "optional-sides": [
+            "Luchi",
+            "Puri",
+            "Chapati",
+            "Raita",
+            "Pickles"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 45,
+        "freezer-label": "better fresh",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Egg curry is made in many different regional styles across India. Bengali versions often include potatoes and traditionally fry the boiled eggs before adding them to the gravy.",
+        "what-you-will-learn": "How to build a layered masala gravy and how lightly frying boiled eggs changes their texture and flavour.",
+        "skills": [
+            "Boiling eggs",
+            "Peeling eggs",
+            "Building a masala",
+            "Frying eggs",
+            "Simmering a curry"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A regional egg curry that demonstrates how eggs can be the main protein in a substantial meal and introduces the children to Bengali spice combinations.",
+        "chapman-tips": [
+            "Don't overcook the eggs; a slightly softer centre is more pleasant in the finished curry.",
+            "Making shallow cuts in the egg whites helps the sauce cling to them.",
+            "Frying the eggs is optional but adds flavour and a slightly firmer exterior.",
+            "Cook the onion slowly enough to develop colour without burning it.",
+            "The potatoes should be tender but still hold their shape.",
+            "Mustard oil gives the dish a more traditional Bengali character.",
+            "The curry is even better after resting for a short time before serving."
+        ],
+        "batch-cooking": "Best eaten fresh. The curry can be refrigerated and reheated gently, but the eggs may become firmer. Do not freeze the completed curry.",
+        "leftovers": "Reheat gently and serve with rice or use the egg and sauce as a filling for a roti or paratha."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Eggs in Purgatory",
+            "Masala Omelette",
+            "Shorshe Mach",
+            "Bengali Fish Curry"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

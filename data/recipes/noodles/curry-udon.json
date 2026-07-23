@@ -1,0 +1,125 @@
+{
+    "id": "019f8e16-dc5b-70b4-bd12-057df62bd910",
+    "version": 1,
+
+    "title": "Japanese Curry Udon",
+
+    "overview": {
+        "description": "Thick, chewy udon noodles served in a rich Japanese curry broth with tender chicken, onion and spring onions.",
+        "country": "Japan",
+        "region": "Nationwide",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "600g fresh or vacuum-packed udon noodles",
+        "400g boneless chicken thighs, thinly sliced",
+        "1 tbsp neutral oil",
+        "1 large onion, thinly sliced",
+        "2 garlic cloves, finely chopped",
+        "10g fresh ginger, grated",
+        "1 tbsp plain flour",
+        "2 tbsp Japanese curry powder or mild curry powder",
+        "1 tsp garam masala, optional",
+        "750ml chicken stock",
+        "2 tbsp light soy sauce",
+        "1 tbsp mirin",
+        "1 tsp sugar",
+        "1 tsp toasted sesame oil",
+        "2 spring onions, sliced",
+        "1 tbsp cornflour mixed with 2 tbsp cold water, optional"
+    ],
+
+    "method": [
+        "If using vacuum-packed udon, loosen the noodles according to the packet instructions.",
+        "If using frozen udon, briefly boil or steam until loosened, then drain.",
+        "Heat the oil in a large saucepan or deep frying pan.",
+        "Add the chicken and cook until lightly browned on the outside.",
+        "Remove the chicken and set aside.",
+        "Add the sliced onion to the pan.",
+        "Cook over medium heat until softened and lightly golden.",
+        "Add the garlic and ginger.",
+        "Cook for 30 seconds.",
+        "Add the flour and curry powder.",
+        "Stir and cook for 1 minute to remove the raw flour flavour and toast the spices.",
+        "Add the chicken stock gradually, stirring constantly to create a smooth sauce.",
+        "Add the soy sauce, mirin, sugar and sesame oil.",
+        "Return the chicken to the pan.",
+        "Simmer gently for 10–15 minutes, until the chicken is cooked through and the broth is richly flavoured.",
+        "If a thicker curry broth is desired, stir in the cornflour slurry gradually and simmer until thickened.",
+        "Add the udon noodles.",
+        "Simmer gently for 2–3 minutes until the noodles are hot and fully coated in the curry broth.",
+        "Taste and adjust the seasoning.",
+        "Serve topped with spring onions."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Spring Onions"
+        ],
+        "optional-sides": [
+            "Japanese Pickles",
+            "Pickled Ginger",
+            "Steamed Edamame",
+            "Soft-Boiled Egg"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 30,
+        "freezer-label": "better fresh",
+        "cost": "moderate",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Curry udon combines two popular Japanese foods: curry and udon noodles. Unlike Japanese curry served with rice, the curry is usually loosened into a soup-like broth designed to be eaten with noodles.",
+        "what-you-will-learn": "How to adapt a curry into a broth, how flour and stock create body and how thick noodles interact with a strongly flavoured sauce.",
+        "skills": [
+            "Making a curry base",
+            "Thickening sauces",
+            "Cooking udon noodles",
+            "Balancing savoury flavours",
+            "Building a broth"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A Japanese noodle dish that demonstrates how the same broad curry flavour profile can be transformed into a completely different meal by changing the consistency and pairing it with udon.",
+        "chapman-tips": [
+            "The curry broth should be more fluid than a curry intended to be served with rice.",
+            "Add the flour and curry powder to the onions before adding the stock so the flour cooks properly.",
+            "Add the stock gradually to avoid lumps.",
+            "Udon absorbs liquid quickly, so keep extra hot stock or water available if the broth becomes too thick.",
+            "Don't overcook the udon; it only needs to heat through.",
+            "The chicken can be replaced with thinly sliced beef, pork or tofu.",
+            "A soft-boiled egg makes a particularly good addition."
+        ],
+        "batch-cooking": "Best eaten fresh. The udon absorbs the broth during storage and can become soft and swollen. If preparing ahead, store the curry broth and noodles separately.",
+        "leftovers": "Store the curry broth separately from the noodles where possible. Reheat the broth gently and add freshly prepared udon."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Yaki Udon",
+            "Chow Mein",
+            "Mee Goreng",
+            "Chicken Katsu Curry"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

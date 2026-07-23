@@ -1,0 +1,127 @@
+{
+    "id": "019f8e0f-6eec-7111-acac-954caa59025e",
+    "version": 1,
+
+    "title": "Greek Village Bread",
+
+    "overview": {
+        "description": "A rustic Greek village loaf with a crisp crust, chewy crumb and deep wheaty flavour, made with a blend of white and wholemeal flour.",
+        "country": "Greece",
+        "region": "Nationwide",
+        "serves": 8
+    },
+
+    "ingredients": [
+        "400g strong white bread flour",
+        "100g wholemeal bread flour",
+        "10g instant dried yeast",
+        "10g salt",
+        "1 tsp sugar",
+        "2 tbsp extra virgin olive oil",
+        "350–380ml lukewarm water"
+    ],
+
+    "method": [
+        "Add the flours, yeast, sugar and salt to a large mixing bowl, keeping the salt and yeast separate initially.",
+        "Add the olive oil.",
+        "Gradually add the water, mixing until a soft, slightly sticky dough forms.",
+        "Knead for 8–10 minutes until smooth and elastic.",
+        "Place the dough in a lightly oiled bowl and cover.",
+        "Leave to rise until approximately doubled in size, about 1–1½ hours.",
+        "Turn the dough onto a lightly floured surface and shape into a round loaf.",
+        "Place the loaf on a sheet of baking paper or a floured proving surface.",
+        "Cover and leave to prove for 30–45 minutes.",
+        "Meanwhile, preheat the oven to 240°C, or as hot as your oven will reliably go, with a baking stone or heavy baking tray inside.",
+        "Score the top of the loaf with a sharp knife.",
+        "Transfer the loaf to the hot baking surface.",
+        "Bake at 240°C for 10 minutes.",
+        "Reduce the oven temperature to 210°C and continue baking for approximately 25–30 minutes.",
+        "The loaf is ready when deeply golden and it sounds hollow when tapped underneath.",
+        "Cool completely on a wire rack before slicing."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Greek Salad",
+            "Feta",
+            "Olives"
+        ],
+        "optional-sides": [
+            "Dips",
+            "Soups",
+            "Stews",
+            "Grilled Meat",
+            "Olive Oil"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 150,
+        "cook-time-minutes": 40,
+        "freezer-label": "freezes well",
+        "cost": "very low",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Horiatiko psomi means village bread and refers to rustic Greek-style bread rather than one single universally standard recipe. Regional versions vary in flour, fermentation and shaping.",
+        "what-you-will-learn": "How a simple flour-and-water dough develops flavour and structure through fermentation, and how a very hot oven creates a crisp crust.",
+        "skills": [
+            "Making yeasted dough",
+            "Kneading bread",
+            "Shaping a round loaf",
+            "Scoring bread",
+            "Baking with steam and high heat"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A rustic everyday bread that gives the collection a proper Greek table bread and demonstrates how a simple dough can produce a loaf with substantial flavour and texture.",
+        "chapman-tips": [
+            "The dough should be soft and slightly sticky rather than stiff.",
+            "Don't add all the water immediately; flour absorbs different amounts depending on the brand and wholemeal content.",
+            "A long enough first rise makes a noticeable difference to the flavour.",
+            "A very hot baking surface helps produce a better crust.",
+            "For a thicker, chewier crust, place a tray of boiling water in the oven when the bread goes in.",
+            "Don't slice the loaf while it is still very hot or the crumb can become gummy.",
+            "The loaf does not need to be a perfect circle; a rustic shape is part of its character."
+        ],
+        "batch-cooking": "Freezes well. Slice before freezing if you expect to use it a few pieces at a time. Thaw at room temperature or refresh briefly in a hot oven.",
+        "leftovers": "Use for toast, sandwiches, dipping into olive oil, breadcrumbs or rustic Greek-style bread salads."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Goan Poi",
+            "Focaccia",
+            "Ciabatta",
+            "Pita Bread"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

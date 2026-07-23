@@ -1,0 +1,138 @@
+{
+    "id": "019f8e3c-7cc1-7588-930c-58c9e6761593",
+    "version": 1,
+
+    "title": "Cantonese Beef Pan-Fried Noodles",
+
+    "overview": {
+        "description": "Crisp pan-fried egg noodles topped with tender beef, vegetables and a glossy Cantonese-style sauce.",
+        "country": "China",
+        "region": "Cantonese cuisine",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "400g fresh egg noodles",
+        "350g beef steak, such as sirloin or rump, thinly sliced against the grain",
+        "1 tbsp light soy sauce",
+        "1 tsp cornflour",
+        "1 tsp neutral oil",
+        "3 tbsp neutral oil, for pan-frying",
+        "1 medium onion, thinly sliced",
+        "1 green pepper, thinly sliced",
+        "150g pak choi, chopped",
+        "150g bean sprouts",
+        "2 garlic cloves, finely chopped",
+        "10g fresh ginger, grated",
+        "",
+        "For the sauce:",
+        "300ml beef stock",
+        "2 tbsp oyster sauce",
+        "1 tbsp light soy sauce",
+        "1 tsp dark soy sauce",
+        "1 tsp sugar",
+        "½ tsp white pepper",
+        "1 tbsp cornflour mixed with 2 tbsp cold water"
+    ],
+
+    "method": [
+        "Mix the beef with the light soy sauce, cornflour and 1 tsp neutral oil.",
+        "Leave to marinate for 15–20 minutes.",
+        "Prepare the noodles according to the packet instructions, taking care not to overcook them.",
+        "Drain thoroughly.",
+        "Heat 1½ tbsp of the pan-frying oil in a large non-stick frying pan over medium-high heat.",
+        "Add the noodles and spread them into an even layer.",
+        "Cook without disturbing until the underside is golden and crisp.",
+        "Carefully turn the noodles or slide them onto a plate and invert them back into the pan.",
+        "Add another 1½ tbsp oil if necessary.",
+        "Cook until the other side is also lightly crisp.",
+        "Transfer the noodle cake to a serving plate.",
+        "Heat a wok or large frying pan over high heat.",
+        "Add a little neutral oil if necessary.",
+        "Stir-fry the beef in batches until browned but still tender.",
+        "Remove and set aside.",
+        "Add the onion and green pepper.",
+        "Stir-fry until beginning to soften.",
+        "Add the garlic and ginger.",
+        "Cook for 30 seconds.",
+        "Add the beef stock, oyster sauce, light soy sauce, dark soy sauce, sugar and white pepper.",
+        "Bring to a simmer.",
+        "Stir in the cornflour slurry gradually until the sauce thickens to a glossy consistency.",
+        "Add the pak choi and bean sprouts.",
+        "Cook briefly until just tender but still slightly crisp.",
+        "Return the beef to the sauce and heat through.",
+        "Pour the beef and vegetable sauce over the crisp noodle cake.",
+        "Serve immediately."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Crisp Pan-Fried Noodles"
+        ],
+        "optional-sides": [
+            "Chinese Greens",
+            "Cucumber Salad",
+            "Pickled Vegetables"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 25,
+        "cook-time-minutes": 25,
+        "freezer-label": "better fresh",
+        "cost": "moderate",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Cantonese pan-fried noodles are often served as a crisp noodle cake topped with a separate stir-fried meat and vegetable sauce. The sauce gradually softens the noodles where it touches them while the edges remain crisp.",
+        "what-you-will-learn": "How to create a crisp noodle cake in a frying pan and how a thickened sauce creates a contrast between crisp and tender textures.",
+        "skills": [
+            "Pan-frying noodles",
+            "Marinating beef",
+            "Stir-frying",
+            "Thickening sauces",
+            "Managing contrasting textures"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A Cantonese noodle dish that introduces a completely different texture from chow mein and lo mein by combining crisp pan-fried noodles with a separate glossy beef and vegetable sauce.",
+        "chapman-tips": [
+            "Use a good non-stick frying pan for the noodle cake.",
+            "Drain the noodles very thoroughly before pan-frying.",
+            "Don't move the noodles too much while they are crisping.",
+            "Cook the beef in batches so it browns rather than steams.",
+            "Slice the beef against the grain for the most tender texture.",
+            "Add the sauce to the noodles just before serving so they retain some crispness.",
+            "The noodle cake does not need to be perfectly round or completely intact.",
+            "Fresh egg noodles generally give a better texture than dried noodles for this dish."
+        ],
+        "batch-cooking": "Better fresh. The crisp noodles lose their texture when stored and reheated.",
+        "leftovers": "The beef and sauce can be refrigerated and reheated separately, but the noodles are best freshly prepared."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Chow Mein",
+            "Chicken Lo Mein",
+            "Yaki Udon",
+            "Mee Goreng",
+            "Mie Goreng Jawa"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

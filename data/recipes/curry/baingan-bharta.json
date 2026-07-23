@@ -1,0 +1,136 @@
+{
+    "id": "019f8df4-0df4-76cd-a3b3-a33fc24e7155",
+    "version": 1,
+
+    "title": "Baingan Bharta",
+
+    "overview": {
+        "description": "A smoky North Indian aubergine dish made by roasting the aubergine until soft and charred before cooking it with onion, tomato, ginger, garlic and spices.",
+        "country": "India",
+        "region": "Punjab",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "2 large aubergines",
+        "2 tbsp neutral oil",
+        "1 large onion, finely chopped",
+        "3 garlic cloves, finely chopped",
+        "1 tbsp fresh ginger, grated",
+        "2 tomatoes, finely chopped",
+        "1 green chilli, finely chopped, optional",
+        "1 tsp cumin seeds",
+        "½ tsp ground turmeric",
+        "1 tsp ground coriander",
+        "½ tsp Kashmiri chilli powder",
+        "1 tsp salt",
+        "2 tbsp fresh coriander, chopped",
+        "1 tbsp lemon juice, optional"
+    ],
+
+    "method": [
+        "Heat the oven grill to high or preheat the oven to 230°C.",
+        "Pierce the aubergines several times with a fork.",
+        "Rub the aubergines lightly with oil.",
+        "Place them under the grill or in the hot oven.",
+        "Cook, turning occasionally, until the skin is deeply charred and the flesh is completely soft.",
+        "This may take approximately 30–45 minutes depending on the cooking method and size of the aubergines.",
+        "Place the cooked aubergines in a bowl and cover for 10 minutes.",
+        "When cool enough to handle, remove the charred skin.",
+        "Roughly chop or mash the soft aubergine flesh.",
+        "Heat the remaining oil in a large frying pan.",
+        "Add the cumin seeds.",
+        "Add the onion and cook until softened and lightly golden.",
+        "Add the ginger, garlic and green chilli if using.",
+        "Cook for 1–2 minutes.",
+        "Add the tomatoes, turmeric, ground coriander, chilli powder and salt.",
+        "Cook until the tomatoes break down and the oil begins to separate from the masala.",
+        "Add the roasted aubergine flesh.",
+        "Cook gently for 10–15 minutes, stirring occasionally.",
+        "Stir through the lemon juice if using.",
+        "Finish with fresh coriander and serve."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Chapati",
+            "Roti"
+        ],
+        "optional-sides": [
+            "Plain Paratha",
+            "Steamed Rice",
+            "Puri",
+            "Plain Yogurt"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 45,
+        "freezer-label": "freezes well",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "The name baingan bharta refers to aubergine that has been mashed or roughly crushed after being cooked, with the smoky flavour from roasting being a defining characteristic.",
+        "what-you-will-learn": "How high heat transforms aubergine and how charring vegetables can create deep smoky flavour without adding extra ingredients.",
+        "skills": [
+            "Roasting vegetables",
+            "Charring aubergine",
+            "Building a masala",
+            "Balancing smoky flavours",
+            "Mashing cooked vegetables"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A vegetable dish that demonstrates how a single ingredient can be transformed through high-heat cooking and introduces the children to smoky, charred flavours.",
+        "chapman-tips": [
+            "The aubergine must be completely soft before removing it from the heat.",
+            "Deep charring gives the best smoky flavour, but do not worry if the skin does not blacken perfectly evenly.",
+            "Covering the cooked aubergine makes the skin easier to remove.",
+            "Don't discard every dark piece of flesh; some of the smoky roasted flavour comes from the parts closest to the skin.",
+            "The finished dish should retain some texture rather than becoming completely smooth.",
+            "If the aubergine tastes slightly bitter, a little extra lemon juice can help balance it.",
+            "A large aubergine is usually easier to roast than several small ones."
+        ],
+        "batch-cooking": "Baingan bharta freezes well. Cool completely before freezing in airtight portions. Thaw overnight in the refrigerator and reheat gently in a pan.",
+        "leftovers": "Use as a filling for wraps, spread onto toast or serve with eggs."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "South Indian Vegetable Curry",
+            "Vegetable Kurma",
+            "Avial",
+            "Ratatouille"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

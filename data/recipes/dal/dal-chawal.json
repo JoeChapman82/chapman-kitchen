@@ -1,0 +1,146 @@
+{
+    "id": "019f8e0b-635b-7392-87fd-59ee36c8d4ee>",
+    "version": 1,
+
+    "title": "Dal Chawal",
+
+    "overview": {
+        "description": "A comforting Indian meal of gently spiced dal and fluffy basmati rice cooked together in a multi-cooker using the pot-in-pot method.",
+        "country": "India",
+        "region": "North India",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "250g red split moong dal",
+        "1 medium onion, finely chopped",
+        "2 medium tomatoes, finely chopped",
+        "4 garlic cloves, finely chopped",
+        "20g fresh ginger, grated",
+        "1 green chilli, finely chopped, optional",
+        "1 tsp cumin seeds",
+        "½ tsp ground turmeric",
+        "1 tsp ground coriander",
+        "1 tsp salt, or to taste",
+        "1 tbsp ghee or neutral oil",
+        "900ml water",
+        "1 tbsp lemon juice, or to taste",
+        "Fresh coriander, to serve",
+        "",
+        "For the rice:",
+        "300g basmati rice",
+        "450ml water",
+        "½ tsp salt",
+        "1 tsp ghee, optional"
+    ],
+
+    "method": [
+        "Rinse the dal thoroughly until the water runs relatively clear.",
+        "Rinse the basmati rice separately until the water runs relatively clear.",
+        "Set the multi-cooker to sauté mode.",
+        "Add the ghee or oil.",
+        "Add the cumin seeds and cook until fragrant.",
+        "Add the onion and cook until softened.",
+        "Add the garlic, ginger and green chilli if using.",
+        "Cook for 1–2 minutes.",
+        "Add the chopped tomatoes, turmeric, ground coriander and salt.",
+        "Cook until the tomatoes have softened and the masala has thickened.",
+        "Add the rinsed dal and 900ml water to the multi-cooker pot.",
+        "Stir thoroughly and scrape the bottom of the pot to ensure no masala is stuck.",
+        "Place a trivet inside the multi-cooker.",
+        "Add the rinsed basmati rice, 450ml water, salt and ghee if using to a heatproof bowl suitable for pot-in-pot cooking.",
+        "Place the bowl on the trivet above the dal.",
+        "Secure the pressure cooker lid.",
+        "Cook on high pressure for 6 minutes.",
+        "Allow the pressure to release naturally for 10 minutes, then release any remaining pressure.",
+        "Carefully remove the rice bowl and fluff the rice with a fork.",
+        "Stir the dal and adjust its consistency with a little hot water if necessary.",
+        "Stir the lemon juice into the dal.",
+        "Finish with fresh coriander.",
+        "Serve the dal and rice together."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Basmati Rice"
+        ],
+        "optional-sides": [
+            "Pappad",
+            "Pickles",
+            "Plain Yogurt",
+            "Cucumber Raita",
+            "Kachumber"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 30,
+        "freezer-label": "freezes well",
+        "cost": "very low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Dal chawal simply means dal and rice, but the combination is one of the great everyday meals of the Indian subcontinent. The exact dal and style vary widely from region to region and household to household.",
+        "what-you-will-learn": "How to use a multi-cooker and pot-in-pot cooking to prepare two separate components of a meal at the same time.",
+        "skills": [
+            "Preparing pulses",
+            "Cooking basmati rice",
+            "Using a multi-cooker",
+            "Pot-in-pot cooking",
+            "Balancing texture"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A fundamental everyday meal that demonstrates how a simple combination of dal and rice can be made efficiently using the multi-cooker while introducing the children to one of the most important meal combinations in Indian cooking.",
+        "chapman-tips": [
+            "Use a separate bowl for the rice so it remains fluffy rather than absorbing the dal.",
+            "The rice-to-water ratio may need a small adjustment depending on the exact basmati rice and bowl used.",
+            "Make sure the rice bowl is securely supported on a trivet above the dal.",
+            "The dal will be very hot and may continue to thicken after cooking.",
+            "If the dal is too thick, loosen it with hot water rather than cold water.",
+            "For a richer finish, stir a little ghee into the dal just before serving.",
+            "The children can compare how the same rice tastes with different dals from the collection.",
+            "For a more substantial meal, serve with a vegetable side or a fried egg."
+        ],
+        "batch-cooking": "Both the dal and rice can be refrigerated and reheated, although the rice is best eaten within a few days. The dal freezes particularly well. Freeze the dal separately from the rice where possible.",
+        "leftovers": "Reheat the dal with a little water. Leftover rice can be used for fried rice, lemon rice or another rice-based meal."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Simple Red Moong Dal",
+            "Sabut Moong Dal",
+            "Brown Masoor Dal Tadka",
+            "Lemon Rice"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

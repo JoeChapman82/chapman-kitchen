@@ -1,0 +1,132 @@
+{
+    "id": "019f8e04-47d4-71d3-b404-becdce0398a5",
+    "version": 1,
+
+    "title": "Saag Paneer",
+
+    "overview": {
+        "description": "A Punjabi dish of paneer cooked in a richly flavoured sauce of spinach and mustard greens with ginger, garlic and spices.",
+        "country": "India",
+        "region": "Punjab",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "400g paneer, cut into bite-sized cubes",
+        "300g fresh spinach",
+        "200g mustard greens, if available, or additional spinach",
+        "2 tbsp ghee or neutral oil",
+        "1 large onion, finely chopped",
+        "4 garlic cloves, finely chopped",
+        "25g fresh ginger, grated",
+        "1 green chilli, finely chopped, optional",
+        "2 medium tomatoes, finely chopped",
+        "1 tsp cumin seeds",
+        "1 tsp ground coriander",
+        "½ tsp ground cumin",
+        "½ tsp ground turmeric",
+        "½ tsp Kashmiri chilli powder",
+        "1 tsp garam masala",
+        "100ml water",
+        "1 tsp salt, or to taste",
+        "1 tbsp butter, optional"
+    ],
+
+    "method": [
+        "Bring a large pan of salted water to the boil.",
+        "Add the spinach and mustard greens.",
+        "Blanch for 1–2 minutes until wilted.",
+        "Transfer the greens to cold water to stop the cooking.",
+        "Drain thoroughly.",
+        "Blend the greens into a coarse purée, adding a little water if necessary.",
+        "Heat half of the ghee or oil in a large frying pan.",
+        "Add the paneer and fry gently until lightly golden on several sides.",
+        "Remove the paneer and set aside.",
+        "Add the remaining ghee or oil to the pan.",
+        "Add the cumin seeds.",
+        "Add the onion and cook until softened and lightly golden.",
+        "Add the ginger, garlic and green chilli if using.",
+        "Cook for 1–2 minutes.",
+        "Add the tomatoes, ground coriander, ground cumin, turmeric, Kashmiri chilli powder and salt.",
+        "Cook until the tomatoes soften and the masala thickens.",
+        "Add the blended greens and water.",
+        "Simmer gently for 8–10 minutes.",
+        "Return the paneer to the pan.",
+        "Add the garam masala and butter if using.",
+        "Simmer gently for a further 5 minutes.",
+        "Taste and adjust the seasoning.",
+        "Serve hot."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Roti",
+            "Chapati"
+        ],
+        "optional-sides": [
+            "Naan",
+            "Paratha",
+            "Steamed Rice",
+            "Pappad",
+            "Plain Yogurt"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 30,
+        "freezer-label": "freezes well",
+        "cost": "moderate",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Saag refers broadly to leafy green vegetables, while palak specifically refers to spinach. Saag paneer can therefore contain a mixture of greens rather than spinach alone.",
+        "what-you-will-learn": "How to prepare leafy greens, create a textured vegetable purée and balance earthy greens with rich paneer and aromatic spices.",
+        "skills": [
+            "Blanching vegetables",
+            "Preparing leafy greens",
+            "Making vegetable purées",
+            "Frying paneer",
+            "Balancing earthy flavours"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A classic Punjabi vegetarian dish that introduces the children to leafy greens as the main ingredient and demonstrates how a vegetable-based sauce can be rich and deeply satisfying.",
+        "chapman-tips": [
+            "Blanching the greens briefly helps preserve their colour and fresh flavour.",
+            "Don't over-blend the greens if you want a more traditional texture.",
+            "Mustard greens add bitterness and depth; spinach makes the dish softer and milder.",
+            "If the paneer is very firm, soak it in warm water for 10–15 minutes before cooking.",
+            "Don't fry the paneer for too long or it can become rubbery.",
+            "A small amount of butter at the end adds richness without making the dish heavy.",
+            "The finished saag should be thick enough to cling to the paneer but still spoonable."
+        ],
+        "batch-cooking": "Freezes well. Cool completely before freezing in airtight portions. Thaw overnight in the refrigerator and reheat gently. The paneer may become slightly firmer after freezing.",
+        "leftovers": "Reheat gently and serve with roti or rice. Leftover saag can also be used as a filling for paratha."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Kashmiri Dum Aloo",
+            "Baingan Bharta",
+            "South Indian Vegetable Curry",
+            "Methi Thepla"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "id": "019f8e02-ffc3-77e8-a40e-783bd733aa43",
+    "version": 1,
+
+    "title": "Kashmiri Dum Aloo",
+
+    "overview": {
+        "description": "Baby potatoes fried until lightly crisp and then slowly cooked in a rich, aromatic Kashmiri yoghurt and spice gravy.",
+        "country": "India",
+        "region": "Kashmir",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "800g small waxy potatoes",
+        "1 tsp salt, plus extra for the cooking water",
+        "4 tbsp neutral oil or ghee",
+        "2 bay leaves",
+        "1 black cardamom pod",
+        "4 green cardamom pods",
+        "1 small cinnamon stick",
+        "4 cloves",
+        "1 tsp cumin seeds",
+        "1 tsp asafoetida (hing), optional",
+        "2 tsp Kashmiri chilli powder",
+        "1 tsp ground fennel",
+        "1 tsp ground ginger",
+        "250g full-fat natural yoghurt",
+        "400ml water",
+        "1 tsp salt, or to taste"
+    ],
+
+    "method": [
+        "Boil the potatoes in salted water until just tender but not soft.",
+        "Drain and allow them to cool enough to handle.",
+        "Peel the potatoes.",
+        "Prick the potatoes several times with a fork or skewer.",
+        "Heat the oil or ghee in a large heavy-based pan.",
+        "Fry the potatoes in batches until lightly golden on the outside.",
+        "Remove and set aside.",
+        "Whisk the yoghurt until completely smooth.",
+        "Add the bay leaves, black cardamom, green cardamom, cinnamon, cloves and cumin seeds to the pan.",
+        "Cook for 30–60 seconds until fragrant.",
+        "Add the asafoetida if using.",
+        "Reduce the heat to low.",
+        "Add the Kashmiri chilli powder, ground fennel and ground ginger.",
+        "Stir briefly, taking care not to burn the spices.",
+        "Add the yoghurt gradually, stirring continuously.",
+        "Cook gently until the yoghurt thickens and the oil begins to separate.",
+        "Add the water and salt.",
+        "Return the potatoes to the pan.",
+        "Bring to a gentle simmer.",
+        "Cover tightly and cook over low heat for 20–30 minutes.",
+        "Remove the lid and simmer briefly if the gravy needs thickening.",
+        "Rest for 10 minutes before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Steamed Rice",
+            "Plain Basmati Rice"
+        ],
+        "optional-sides": [
+            "Naan",
+            "Roti",
+            "Paratha",
+            "Plain Yogurt",
+            "Pickles"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 25,
+        "cook-time-minutes": 50,
+        "freezer-label": "freezes well",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Dum cooking is a traditional technique in which food is cooked slowly in a sealed or tightly covered vessel, allowing steam and flavour to remain inside the dish.",
+        "what-you-will-learn": "How to fry and then slowly braise potatoes, how to cook a yoghurt-based gravy and how gentle covered cooking allows a vegetable to absorb flavour.",
+        "skills": [
+            "Preparing potatoes",
+            "Frying vegetables",
+            "Working with yoghurt",
+            "Cooking with whole spices",
+            "Slow covered cooking"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A classic Kashmiri vegetarian dish that introduces the children to the dum cooking technique and demonstrates how potatoes can become the main event rather than simply an accompaniment.",
+        "chapman-tips": [
+            "Use small potatoes of roughly similar size so they cook evenly.",
+            "Pricking the potatoes allows the sauce to penetrate more deeply.",
+            "Don't fry the potatoes until they are dark brown; lightly golden is enough.",
+            "Add the yoghurt gradually over low heat to reduce the risk of splitting.",
+            "The gravy should be rich and aromatic rather than aggressively hot.",
+            "Keep the heat low once the potatoes are added so the gravy does not catch.",
+            "Resting the finished dish allows the potatoes to absorb more of the sauce.",
+            "The dish often tastes even better the following day."
+        ],
+        "batch-cooking": "Freezes well. Cool completely before freezing in airtight portions. Thaw overnight in the refrigerator and reheat gently. The potatoes may become slightly softer after freezing.",
+        "leftovers": "Reheat gently and serve with rice or bread. The potatoes can also be lightly mashed into the gravy and used as a filling for a roti."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Lamb Rogan Josh",
+            "Baingan Bharta",
+            "South Indian Vegetable Curry",
+            "Aloo Paratha"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

@@ -27,12 +27,14 @@
 - [ ] Dosa, Sambar & Coconut Chutney
 - [ ] Lemon Rice with Vegetable Curry
 - [ ] Vegetable Kurma
+- [ ] Vegetable Avial
 
 #### 🟥 East India (Bengal, Odisha)
 
 - [ ] Cholar Dal
 - [ ] Bengali Fish Curry
 - [ ] Egg Curry
+- [ ] Shorshe Mach
 
 #### 🟦 Central India
 
@@ -53,6 +55,11 @@
 
 - [ ] Dal Chawal with Roti
 - [ ] Saag Paneer
+
+#### 🌱 Prawn
+
+- [ ] Kolkata prawn butter massala
+
 
 ---
 
@@ -83,59 +90,62 @@
 - [x] Chicken Chettinad
 - [x] Dosa
 - [x] Sambar
-- [ ] Coconut Chutney
-- [ ] Lemon Rice
-- [ ] Vegetable Curry
-- [ ] Vegetable Kurma
-- [ ] Parotta
+- [x] Vegetable Curry
+- [x] Vegetable Kurma
+- [x] Vegetable Avial
 
 #### 🟥 East India
 
 - [x] Cholar Dal
-- [ ] Bengali Fish Curry
-- [ ] Egg Curry
-- [ ] Luchi
+- [x] Bengali Fish Curry
+- [x] Shorshe Mach
+- [x] Egg Curry
 
 #### 🟦 Central India
 
-- [ ] Baingan Bharta
-- [ ] Bhindi Masala
+- [x] Baingan Bharta
+- [x] Bhindi Masala
 
 #### 🌴 Goa
 
-- [ ] Goan Fish Curry
-- [ ] Chicken Xacuti
-- [ ] Goan Poi
+- [x] Goan Fish Curry
+- [x] Chicken Xacuti
+- [x] Goan Poi
 
 #### 🏔 Kashmir
 
-- [ ] Rogan Josh
-- [ ] Dum Aloo
+- [x] Rogan Josh
+- [x] Dum Aloo
 
 #### 🌱 Vegetarian
 
-- [ ] Dal
-- [ ] Saag Paneer
+- [x] Dal
+- [x] Saag Paneer
 
 ### Supporting Recipes
 
 #### Breads
 
-- [ ] Naan
-- [ ] Bhature
-- [ ] Chapati
-- [ ] Roti
-- [ ] Paratha
-- [ ] Parotta
-- [ ] Pav Rolls
-- [ ] Luchi
-- [ ] Goan Poi
+- [x] Naan
+- [x] Bhature
+- [x] Chapati
+- [x] Roti
+- [x] Paratha
+- [x] Parotta
+- [x] Pav Rolls
+- [x] Luchi
+- [x] Goan Poi
+- [x] Kulcha
+- [x] Thepla
+- [x] Missi Roti
+- [x] Puri
+- [x] Makki di Roti
 
 #### Rice & Accompaniments
 
-- [ ] Plain Basmati Rice
-- [ ] Lemon Rice
-- [ ] Vegetable Biryani
-- [ ] Raita
-- [ ] Coconut Chutney
-- [ ] Sambar
+- [x] Plain Basmati Rice
+- [x] Lemon Rice
+- [x] Vegetable Biryani
+- [x] Raita
+- [x] Coconut Chutney
+- [x] Sambar

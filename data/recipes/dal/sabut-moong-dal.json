@@ -1,0 +1,152 @@
+{
+    "id": "019f8e08-1405-75bf-aa9a-0e3e9e92359c",
+    "version": 1,
+
+    "title": "Sabut Moong Dal",
+
+    "overview": {
+        "description": "Whole green moong dal pressure-cooked with a deeply flavoured onion, tomato and spice masala, then finished with a fragrant tempering.",
+        "country": "India",
+        "region": "North India",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "250g whole green moong dal",
+        "1 tbsp neutral oil",
+        "1 tbsp ghee",
+        "1 large onion, finely chopped",
+        "4 garlic cloves, finely chopped",
+        "20g fresh ginger, grated",
+        "1 green chilli, finely chopped, optional",
+        "2 medium tomatoes, finely chopped",
+        "1 tsp cumin seeds",
+        "1 tsp ground coriander",
+        "1 tsp ground cumin",
+        "½ tsp ground turmeric",
+        "1 tsp Kashmiri chilli powder",
+        "½ tsp garam masala",
+        "1 tsp salt, or to taste",
+        "750ml water",
+        "1 tbsp lemon juice, or to taste",
+        "Fresh coriander, to serve",
+        "",
+        "For the finishing tadka:",
+        "1 tbsp ghee",
+        "1 tsp cumin seeds",
+        "2 garlic cloves, thinly sliced",
+        "1 dried red chilli"
+    ],
+
+    "method": [
+        "Rinse the whole green moong dal thoroughly.",
+        "For the best texture, soak the dal in plenty of water for at least 4 hours, or overnight.",
+        "Drain the dal before cooking.",
+        "Set the multi-cooker to sauté mode and add the oil and ghee.",
+        "Add the cumin seeds and cook until fragrant.",
+        "Add the onion and cook until softened and lightly golden.",
+        "Add the garlic, ginger and green chilli if using.",
+        "Cook for 1–2 minutes.",
+        "Add the chopped tomatoes, ground coriander, ground cumin, turmeric, Kashmiri chilli powder and salt.",
+        "Cook until the tomatoes have softened and the masala has thickened.",
+        "Add the drained moong dal and stir to coat it in the masala.",
+        "Add the water and stir well, scraping the bottom of the pot to remove any stuck masala.",
+        "Cancel sauté mode and secure the lid.",
+        "Pressure cook on high pressure for 18 minutes.",
+        "Allow the pressure to release naturally for at least 15 minutes before releasing any remaining pressure.",
+        "Open the lid and stir the dal.",
+        "If the dal is thinner than desired, use sauté mode to simmer it uncovered until thickened.",
+        "Stir in the garam masala and lemon juice.",
+        "For the finishing tadka, heat the ghee in a small pan.",
+        "Add the cumin seeds.",
+        "When they begin to sizzle, add the sliced garlic and dried chilli.",
+        "Cook until the garlic is lightly golden.",
+        "Pour the hot tadka over the dal.",
+        "Finish with fresh coriander and serve."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Steamed Rice",
+            "Basmati Rice"
+        ],
+        "optional-sides": [
+            "Chapati",
+            "Roti",
+            "Paratha",
+            "Pappad",
+            "Pickles",
+            "Plain Yogurt"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 45,
+        "freezer-label": "freezes well",
+        "cost": "very low",
+        "after-work": false
+    },
+
+    "learning": {
+        "did-you-know": "Whole green moong beans are the same pulse as moong dal, but with the green outer skin left intact. This gives them a firmer texture and a more pronounced, nutty flavour.",
+        "what-you-will-learn": "How soaking and pressure cooking transform a whole pulse, how to build a deeply flavoured masala in a multi-cooker and how a final tadka adds a fresh layer of flavour.",
+        "skills": [
+            "Preparing whole pulses",
+            "Using a multi-cooker",
+            "Building a masala",
+            "Pressure cooking",
+            "Making a tadka"
+        ]
+    },
+
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A more substantial dal that demonstrates how the same pulse can have a completely different character when cooked whole rather than split and skinned.",
+        "chapman-tips": [
+            "Soaking the whole moong is strongly recommended for a more even texture and shorter pressure-cooking time.",
+            "The dal should be tender but still retain some of its shape.",
+            "Don't rush the onion and tomato masala; this is where much of the flavour develops.",
+            "Scrape the bottom of the multi-cooker thoroughly before pressure cooking to reduce the risk of a burn warning.",
+            "The dal will thicken considerably as it rests.",
+            "The finishing tadka is optional but gives the dish a much more pronounced final layer of flavour.",
+            "For a milder family version, leave the green chilli whole or omit it while keeping the Kashmiri chilli powder for colour and flavour."
+        ],
+        "batch-cooking": "Freezes well. Cool completely before freezing in airtight portions. Thaw overnight in the refrigerator and reheat gently, adding water as necessary to loosen the dal.",
+        "leftovers": "Thin with water and reheat as a soup, serve with rice or use as a filling for chapati or paratha."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Simple Red Moong Dal",
+            "Dal Chawal",
+            "Saag Paneer",
+            "Kashmiri Dum Aloo"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "id": "019f8e8a-59ac-756d-98bd-50eceb86ba08",
+    "version": 1,
+
+    "title": "Greek Salad",
+
+    "overview": {
+        "description": "A classic Greek village salad of ripe tomatoes, cucumber, green pepper, red onion, olives and feta, dressed with olive oil and oregano.",
+        "country": "Greece",
+        "region": "Greece",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "600g ripe tomatoes, cut into large chunks",
+        "1 large cucumber, cut into thick half-moons",
+        "1 green pepper, deseeded and sliced into rings",
+        "1 small red onion, thinly sliced",
+        "150g Greek feta",
+        "100g Kalamata olives, ideally with stones",
+        "1 tsp dried Greek oregano",
+        "4 tbsp extra virgin olive oil",
+        "1 tbsp red wine vinegar, optional",
+        "½ tsp salt, or to taste",
+        "Black pepper, to taste"
+    ],
+
+    "method": [
+        "Place the tomatoes in a large serving bowl.",
+        "Add the cucumber, green pepper and red onion.",
+        "Season lightly with salt and toss gently.",
+        "Add the Kalamata olives.",
+        "Drizzle over the olive oil and red wine vinegar if using.",
+        "Sprinkle over the oregano and add black pepper.",
+        "Toss gently to combine.",
+        "Place the feta on top in one large piece or in large slabs rather than crumbling it finely.",
+        "Drizzle the feta with a little extra olive oil.",
+        "Finish with another pinch of oregano.",
+        "Serve immediately or allow to stand for 10–15 minutes before serving."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Crusty Bread"
+        ],
+        "optional-sides": [
+            "Grilled Pitta",
+            "Tzatziki",
+            "White Beans"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 0,
+        "freezer-label": "better fresh",
+        "cost": "moderate",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Traditional Greek village salad is generally made without lettuce. The combination of ripe tomatoes, cucumber, peppers, olives, onion and feta is known as horiatiki, meaning village-style.",
+        "what-you-will-learn": "How to build a simple salad around high-quality ingredients and how salt draws flavour and moisture from vegetables to create a natural dressing.",
+        "skills": [
+            "Preparing raw vegetables",
+            "Balancing acidity and richness",
+            "Using feta",
+            "Building a simple dressing",
+            "Understanding ingredient quality"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A complete, fresh and simple meal that introduces the salad section with a classic recipe that can also be easily scaled down as a side dish.",
+        "chapman-tips": [
+            "Use the ripest, most flavourful tomatoes available.",
+            "Don't crumble the feta too finely; large pieces are more traditional.",
+            "Kalamata olives with stones generally have better flavour and texture.",
+            "Salt the vegetables lightly rather than heavily salting the dressing.",
+            "Greek oregano has a particularly strong aroma and is worth using if available.",
+            "The salad should be dressed shortly before serving.",
+            "Serve with good bread to soak up the tomato and olive oil juices.",
+            "For a more substantial meal, add white beans or serve with grilled bread."
+        ],
+        "batch-cooking": "Not suitable for freezing. Best prepared fresh.",
+        "leftovers": "Best eaten the same day. Leftover dressed vegetables can be used in a wrap or served with toasted bread."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Fattoush",
+            "Shirazi Salad",
+            "Panzanella",
+            "Nicoise Salad",
+            "Tabbouleh"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}
