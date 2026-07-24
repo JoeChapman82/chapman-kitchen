@@ -1,0 +1,83 @@
+{
+    "id": "019f9584-0132-72b8-98f3-10230130c6c4",
+    "version": 1,
+
+    "title": "Apple",
+
+    "overview": {
+        "description": "A crisp, juicy fruit with a wide range of flavours, colours and textures depending on the variety.",
+        "country": "England",
+        "region": "",
+        "serves": 1
+    },
+
+    "ingredients": [
+        "1 apple"
+    ],
+
+    "method": [
+        "Wash the apple.",
+        "Eat it whole, or cut it into slices.",
+        "The skin can be eaten, but remove the stalk and pips if cutting it into pieces."
+    ],
+
+    "serving": {
+        "serve-with": [],
+        "optional-sides": []
+    },
+
+    "planner": {
+        "prep-time-minutes": 1,
+        "cook-time-minutes": 0,
+        "freezer-label": "better fresh",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Apples float because approximately a quarter of their volume is made up of tiny air spaces. Apples are also members of the rose family, along with pears, strawberries and cherries.",
+        "what-you-will-learn": "How apples differ in flavour and texture, how they ripen and why cutting an apple can cause the flesh to turn brown.",
+        "skills": [
+            "Washing fruit",
+            "Recognising different varieties",
+            "Using a knife safely",
+            "Learning about fruit"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A convenient and widely available fruit snack that gives children the opportunity to explore different varieties and learn how the same type of fruit can have very different flavours and textures.",
+        "chapman-tips": [
+            "Different apple varieties can be sweet, sour, crisp, soft or very juicy.",
+            "The skin contains fibre and can be eaten.",
+            "Apple flesh turns brown after cutting because it reacts with oxygen in the air.",
+            "A little lemon juice can slow down browning.",
+            "Apples that are less pleasant to eat raw may be excellent for cooking."
+        ],
+        "batch-cooking": "Not applicable.",
+        "leftovers": "Apples can be used in crumbles, pies, cakes, sauces, chutneys and salads."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Banana",
+            "Pear",
+            "Orange",
+            "Grapes"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

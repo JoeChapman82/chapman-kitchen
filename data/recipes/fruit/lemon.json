@@ -1,0 +1,87 @@
+{
+    "id": "019f9586-7ebd-763f-b09f-b5e3108d8465",
+    "version": 1,
+
+    "title": "Lemon",
+
+    "overview": {
+        "description": "A bright, highly acidic citrus fruit with a fragrant peel and intensely sour juice.",
+        "country": "China",
+        "region": "",
+        "serves": 1
+    },
+
+    "ingredients": [
+        "1 lemon"
+    ],
+
+    "method": [
+        "Wash the lemon.",
+        "Cut it in half or into wedges.",
+        "Use the juice to flavour food or drinks.",
+        "The peel can also be grated to use as zest.",
+        "A whole lemon is usually too sour to eat like an apple, although the flesh itself is edible."
+    ],
+
+    "serving": {
+        "serve-with": [],
+        "optional-sides": []
+    },
+
+    "planner": {
+        "prep-time-minutes": 2,
+        "cook-time-minutes": 0,
+        "freezer-label": "better fresh",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "In Hindi, both lemons and limes can commonly be called nimbu or neembu, so the exact distinction between the two fruits is often less important in everyday Indian cooking than it is in English-speaking countries.",
+        "what-you-will-learn": "How lemons are used differently from sweeter citrus fruits and how lemons and limes are similar but different fruits.",
+        "skills": [
+            "Juicing fruit",
+            "Using citrus zest",
+            "Recognising acidity",
+            "Comparing citrus fruits"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A versatile citrus fruit that introduces children to acidity, zest and the different ways fruit can be used to change the flavour of food.",
+        "chapman-tips": [
+            "Lemons are usually yellow when ripe, while limes are usually green.",
+            "Lemons and limes are different fruits, but both are strongly acidic citrus fruits.",
+            "Lemon juice can make food taste brighter and fresher.",
+            "The coloured outer peel is called zest and contains fragrant oils.",
+            "The white pith underneath the zest is more bitter.",
+            "Lemon juice can slow the browning of cut apples and other fruits.",
+            "Lemons are commonly used in both sweet and savoury dishes."
+        ],
+        "batch-cooking": "Not applicable.",
+        "leftovers": "Lemon juice can be frozen in ice cube trays. Zest can be frozen separately for later use."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Orange",
+            "Lime",
+            "Apple",
+            "Banana"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

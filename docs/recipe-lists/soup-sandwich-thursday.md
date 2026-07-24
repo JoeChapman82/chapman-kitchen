@@ -14,7 +14,7 @@
 
 #### 🇮🇹 Italy
 
-- [ ] Minestrone
+- [x] Minestrone
 - [ ] Ribollita
 
 #### 🇫🇷 France
@@ -65,7 +65,7 @@
 #### 🧀 Cheese
 
 - [ ] Mature Cheddar & Chutney
-- [ ] Cheese & Pickle
+- [x] Cheese & Pickle
 - [ ] Mozzarella, Tomato & Pesto
 - [ ] Brie & Cranberry
 - [ ] Gruyère Toastie

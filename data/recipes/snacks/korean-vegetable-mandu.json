@@ -1,0 +1,132 @@
+{
+    "id": "019f9573-4d2d-766f-992e-96c8142dfc65",
+    "version": 1,
+
+    "title": "Korean Vegetable Mandu",
+
+    "overview": {
+        "description": "Korean dumplings filled with tofu, glass noodles, cabbage, mushrooms and vegetables, wrapped in thin dumpling wrappers.",
+        "country": "South Korea",
+        "region": "Korea",
+        "serves": 6
+    },
+
+    "ingredients": [
+        "30–36 mandu or dumpling wrappers",
+        "250g firm tofu",
+        "100g dried glass noodles",
+        "200g napa cabbage or white cabbage, finely chopped",
+        "100g carrots, finely grated",
+        "100g shiitake mushrooms, finely chopped",
+        "3 spring onions, finely sliced",
+        "2 garlic cloves, finely grated",
+        "1 tbsp grated ginger",
+        "2 tbsp light soy sauce",
+        "1 tbsp toasted sesame oil",
+        "1 tbsp rice vinegar",
+        "½ tsp black pepper",
+        "1 egg, beaten, optional",
+        "Oil, for cooking"
+    ],
+
+    "method": [
+        "Crumble the tofu into a clean tea towel or muslin cloth.",
+        "Squeeze firmly to remove as much liquid as possible.",
+        "Cook the glass noodles according to the packet instructions.",
+        "Drain thoroughly and cut into short lengths.",
+        "Place the chopped cabbage in a bowl.",
+        "Sprinkle with a little salt and leave for 10 minutes.",
+        "Squeeze the cabbage firmly to remove excess liquid.",
+        "Heat a small amount of oil in a frying pan.",
+        "Cook the mushrooms until their moisture has evaporated.",
+        "Add the garlic and ginger and cook for 1 minute.",
+        "Allow the mushrooms to cool.",
+        "Place the tofu, glass noodles, cabbage, carrots, mushrooms and spring onions in a large bowl.",
+        "Add the soy sauce, sesame oil, rice vinegar and black pepper.",
+        "Add the beaten egg if using.",
+        "Mix thoroughly.",
+        "Place a wrapper in the palm of your hand.",
+        "Add approximately 1 tablespoon of filling to the centre.",
+        "Moisten the edge of the wrapper with water.",
+        "Fold the wrapper over the filling and press firmly to seal.",
+        "Pleat the edge if desired.",
+        "Repeat with the remaining wrappers and filling.",
+        "To cook immediately, pan-fry the mandu in a little oil until golden underneath.",
+        "Add a splash of water to the pan and cover immediately.",
+        "Steam until the wrappers are tender and the filling is hot.",
+        "Alternatively, steam the mandu until cooked through."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Korean Dumpling Dipping Sauce"
+        ],
+        "optional-sides": [
+            "Kimchi",
+            "Korean Cucumber Salad",
+            "Steamed Rice",
+            "Korean Vegetable Pancakes"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 90,
+        "cook-time-minutes": 20,
+        "freezer-label": "freezes well",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Mandu are Korean dumplings that can be steamed, boiled, pan-fried or added to soups, making them one of the most versatile foods in Korean cooking.",
+        "what-you-will-learn": "How to prepare a dumpling filling with controlled moisture and how to fold and cook dumplings without the wrappers becoming soggy.",
+        "skills": [
+            "Making dumplings",
+            "Managing moisture",
+            "Working with tofu",
+            "Folding wrappers",
+            "Pan-steaming"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A freezer-friendly vegetarian snack that is easy to batch cook and provides a different texture and flavour profile from the Indian fritters already in the collection.",
+        "chapman-tips": [
+            "Removing moisture from the tofu and cabbage is the most important step.",
+            "Cook the mushrooms until their water has evaporated.",
+            "Don't overfill the wrappers.",
+            "Keep unused wrappers covered with a damp tea towel so they do not dry out.",
+            "Freeze the mandu in a single layer before transferring them to a freezer bag.",
+            "Cook from frozen rather than thawing if possible.",
+            "Frozen mandu may need a few extra minutes of steaming.",
+            "The egg helps bind the filling but can be omitted for a slightly looser, more traditional-style filling.",
+            "A food processor can make preparing the vegetables much quicker, but avoid turning them into a wet paste."
+        ],
+        "batch-cooking": "Freezes extremely well. Freeze uncooked mandu in a single layer until solid, then transfer to bags or containers.",
+        "leftovers": "Cooked mandu can be refrigerated and reheated, although freshly cooked dumplings have the best texture."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Gyoza",
+            "Vegetable Cutlet",
+            "Chinese Vegetable Spring Rolls",
+            "Japanese Korokke",
+            "Korean Vegetable Pancakes"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

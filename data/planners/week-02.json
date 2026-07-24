@@ -1,27 +1,27 @@
 {
-    "week": 1,
+    "week": 2,
     "nursery-week": true,
     "days": {
         "monday": {
             "breakfast": {
-                "meal": ["Porridge with blackberry and banana"],
+                "meal": ["Porridge with apple, cinnamon and raisins"],
                 "recipes": ["019f767e-ce66-7075-b818-f26d335779e5"]
             },
             "morning-snack": {
-                "meal": ["Sausage roll"],
-                "recipes": ["019f769e-bd22-71dd-9354-70363a99be3c"]
+                "meal": ["Pork guyoza"],
+                "recipes": ["019f8589-adca-73c6-9789-3920cfed8d43"]
             },
             "lunch": {
-                "meal": ["Pork and fennel ragu"],
-                "recipes": ["019f768f-22c8-73cb-b314-9cc8f63e7a72"]
+                "meal": ["Carbonara"],
+                "recipes": ["019f57c1-87aa-7309-abe7-611a8b2973fa"]
             },
             "afternoon-snack": {
                 "meal": ["Fruit"],
                 "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
             },
             "dinner": {
-                "meal": ["Tuscan butter beans", "Foccacia"],
-                "recipes": ["019f5b0c-c823-77ed-90fc-df5fa3b3af1c"]
+                "meal": ["Mujadara"],
+                "recipes": ["019f8e7d-cb17-76cb-b735-1568b2eaea4b"]
             }
         },
         "tuesday": {
@@ -33,21 +33,21 @@
             "lunch": {},
             "afternoon-snack": {},
             "dinner": {
-                "meal": ["Black bean chicken"],
-                "recipes": ["019f5cbb-a138-74bb-a484-afb8d73c44a7"]
+                "meal": ["Chicken Provençal"],
+                "recipes": ["019f867a-dcdf-717f-a1ed-3bb361d5f293"]
             }
         },
         "wednesday": {
             "breakfast": {
-                "meal": ["Korean egg toast"],
-                "recipes": ["019f7688-3c6b-72fb-9919-45a32cac8fca"]
+                "meal": ["Eggs in purgatory"],
+                "recipes": ["019f7bfa-f397-7429-862c-a9d8a006dac3"]
             },
             "morning-snack": {},
             "lunch": {},
             "afternoon-snack": {},
             "dinner": {
-                "meal": ["Aloo paratha", "Cucumber raita"],
-                "recipes": ["019f6e7d-f9a8-779e-8573-2a32f90d145b", "019f6e83-d4f3-75ab-80e4-f0f6ad12a009"]
+                "meal": ["Bengali egg curry"],
+                "recipes": ["019f8df2-96ba-7747-9ceb-5485e44555e8"]
             }
         },
         "thursday": {
@@ -59,8 +59,8 @@
             "lunch": {},
             "afternoon-snack": {},
             "dinner": {
-                "meal": ["Avgolemono", "Halloumi and pepper"],
-                "recipes": ["019f6fb6-8cf9-74ec-b4db-f77ceca94b57"]
+                "meal": ["Minestrone", "Cheese and pickle"],
+                "recipes": ["019f5b03-8fd6-7425-9061-cedc42269ce5"]
             }
         },
         "friday": {
@@ -73,7 +73,7 @@
                 "recipes": []
             },
             "lunch": {
-                "meal": ["Fish and chips"],
+                "meal": ["Batch meal surprise"],
                 "recipes": []
             },
             "afternoon-snack": {
@@ -81,58 +81,51 @@
                 "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
             },
             "dinner": {
-                "meal": ["Pizza party", "Flapjack"],
-                "recipes": ["019f7693-1d8d-7168-8b3c-d4d3d1a5fa0a"]
+                "meal": ["Koshari", "Flapjack"],
+                "recipes": ["019f65c5-5a2b-720c-b6df-8f3e6225e8ed"]
             }
         },
         "saturday": {
             "breakfast": {
-                "meal": ["Scotch pancakes"],
-                "recipes": ["019f7696-2ea6-762b-8ec1-bf3702ad7eeb"]
+                "meal": ["Pancakes"],
+                "recipes": ["019f8f87-4eff-727c-a4bc-9a38f2bf16a0"]
             },
             "morning-snack": {
                 "meal": ["Yogurt"],
                 "recipes": []
             },
             "lunch": {
-                "meal": ["Falafel, Pita, Hummus"],
-                "recipes": [
-                    "019f57a4-777a-7a93-9c35-e240781fb1a6",
-                    "019f57a5-6f95-709d-9f3c-8dde0014a140",
-                    "019f57a5-21de-75a9-ae2b-1974756d9af9"
-                ]
+                "meal": ["Yaki udon"],
+                "recipes": ["019f8e15-5dcb-7230-b3cb-790e7d98d224"]
             },
             "afternoon-snack": {
                 "meal": ["Fruit"],
                 "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
             },
             "dinner": {
-                "meal": ["Currywurst", "Rice pudding"],
-                "recipes": [
-                    "019f6152-fe23-7531-b876-ed690031aae4",
-                    "019f769a-e9b7-76a7-8529-a1da70fc07dd"
-                ]
+                "meal": ["Chicken and chorizo jambalaya", "Apple crumble"],
+                "recipes": ["019f65c1-3b95-7511-a351-5e7f1b1e3e3a", "019f6727-5a06-753b-8e94-f8465b1bff57"]
             }
         },
         "sunday": {
             "breakfast": {
-                "meal": ["Eggs benedict"],
-                "recipes": ["019f76be-348c-7501-9442-dfb16a078361"]
+                "meal": ["Batata poha"],
+                "recipes": ["019f95c5-4873-728a-9b99-1539eb687de3"]
             },
             "morning-snack": {
-                "meal": ["Vegetable cutlet"],
-                "recipes": ["019f956f-8878-75e8-8350-30d083a7a44a"]
+                "meal": ["Japanese Vegetable Korokke"],
+                "recipes": ["019f9574-c035-7617-b63d-9d79b70a0025"]
             },
             "lunch": {
-                "meal": ["Chow mein"],
-                "recipes": ["019f5cbd-b0e7-752a-ba1a-900aac859f6f"]
+                "meal": ["Pesto pasta"],
+                "recipes": ["019f6a61-ea64-741c-9ebe-e7147a746438"]
             },
             "afternoon-snack": {
                 "meal": ["Fruit"],
                 "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
             },
             "dinner": {
-                "meal": ["Beef Sunday lunch"],
+                "meal": ["Chicken Sunday lunch"],
                 "recipes": []
             }
         }

@@ -20,8 +20,8 @@
 
 - [ ] Çılbır (Turkish Eggs)
 - [ ] Croque Madame
-- [ ] Eggs Benedict
-- [ ] Eggs in Purgatory
+- [x] Eggs Benedict
+- [x] Eggs in Purgatory
 - [ ] Pan con Tomate & Fried Eggs
 - [ ] Strapatsada
 

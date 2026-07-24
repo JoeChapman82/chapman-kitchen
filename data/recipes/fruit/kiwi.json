@@ -1,0 +1,86 @@
+{
+    "id": "019f9589-180d-72bc-ab67-8bc3c669553d",
+    "version": 1,
+
+    "title": "Kiwi",
+
+    "overview": {
+        "description": "A small fruit with fuzzy brown skin and bright green flesh containing tiny edible black seeds.",
+        "country": "China",
+        "region": "",
+        "serves": 1
+    },
+
+    "ingredients": [
+        "1 kiwi"
+    ],
+
+    "method": [
+        "Wash the kiwi.",
+        "Cut it in half.",
+        "Scoop out the flesh with a spoon, or peel away the skin and slice the fruit.",
+        "The tiny black seeds can be eaten."
+    ],
+
+    "serving": {
+        "serve-with": [],
+        "optional-sides": []
+    },
+
+    "planner": {
+        "prep-time-minutes": 2,
+        "cook-time-minutes": 0,
+        "freezer-label": "better fresh",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Kiwifruit were originally called Chinese gooseberries, but were renamed kiwifruit when they began to be commercially grown in New Zealand. The tiny black seeds are edible.",
+        "what-you-will-learn": "How a fruit can have edible skin, flesh and seeds, and how kiwifruit changes in texture as it ripens.",
+        "skills": [
+            "Preparing fruit",
+            "Using a spoon safely",
+            "Recognising ripeness",
+            "Learning about fruit"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A visually interesting fruit that gives children the opportunity to explore edible seeds, different textures and the fact that fruit can be prepared in more than one way.",
+        "chapman-tips": [
+            "A ripe kiwi should give slightly when gently pressed.",
+            "Unripe kiwis are firmer and more sour.",
+            "The skin is edible, although many people prefer to peel it because of its texture.",
+            "The tiny black seeds are edible and add a slight crunch.",
+            "Kiwifruit contains an enzyme called actinidin that can help break down proteins.",
+            "This enzyme can make fresh kiwi unsuitable for setting some gelatine desserts unless the fruit is cooked first."
+        ],
+        "batch-cooking": "Not applicable.",
+        "leftovers": "Kiwifruit can be used in fruit salads, smoothies and desserts. Cut kiwi can also be frozen for smoothies."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Banana",
+            "Apple",
+            "Orange",
+            "Lemon",
+            "Lime"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

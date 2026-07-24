@@ -1,0 +1,119 @@
+{
+    "id": "019f956e-1197-776f-8e35-d216fe3ebbee",
+    "version": 1,
+
+    "title": "Onion Bhaji",
+
+    "overview": {
+        "description": "Crisp, deeply flavoured Indian onion fritters made with thinly sliced onions, gram flour and aromatic spices.",
+        "country": "India",
+        "region": "Indian subcontinent",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "3 large onions, thinly sliced",
+        "150g gram flour",
+        "1 tsp ground cumin",
+        "1 tsp ground coriander",
+        "1 tsp turmeric",
+        "1 tsp garam masala",
+        "½ tsp chilli powder, or to taste",
+        "1 tsp salt",
+        "½ tsp baking powder",
+        "Small handful fresh coriander, chopped",
+        "1 green chilli, finely chopped, optional",
+        "Approximately 3–5 tbsp water",
+        "Oil, for deep frying"
+    ],
+
+    "method": [
+        "Place the sliced onions in a large bowl.",
+        "Add the salt and mix thoroughly.",
+        "Leave for 15–20 minutes so the salt draws moisture from the onions.",
+        "Add the gram flour, cumin, coriander, turmeric, garam masala, chilli powder and baking powder.",
+        "Add the fresh coriander and green chilli if using.",
+        "Mix thoroughly until the onions are coated.",
+        "Add the water a little at a time, mixing between additions.",
+        "Stop adding water as soon as the mixture holds together when pressed.",
+        "Heat the oil to approximately 170–180°C.",
+        "Take small handfuls of the mixture and gently drop them into the hot oil.",
+        "Fry in batches, taking care not to overcrowd the pan.",
+        "Cook for approximately 4–6 minutes, turning occasionally, until deep golden brown and crisp.",
+        "Drain on a wire rack or kitchen paper.",
+        "Serve hot."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Mint and Coriander Chutney",
+            "Tamarind Chutney"
+        ],
+        "optional-sides": [
+            "Plain Yogurt",
+            "Lemon Wedges",
+            "Fresh Coriander"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 35,
+        "cook-time-minutes": 20,
+        "freezer-label": "better fresh",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "The word bhaji refers broadly to a vegetable preparation, while onion bhaji is one of the best-known examples outside South Asia.",
+        "what-you-will-learn": "How salt draws moisture from onions and how a minimal amount of water can bind a fritter mixture without making the finished bhaji heavy.",
+        "skills": [
+            "Deep frying",
+            "Making fritters",
+            "Managing moisture",
+            "Balancing spices",
+            "Working with gram flour"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "An inexpensive, freezer-friendly pantry-based snack that can also serve as a starter, side dish or accompaniment to Indian meals.",
+        "chapman-tips": [
+            "Slice the onions thinly so they cook through before the outside becomes too dark.",
+            "Salting the onions before adding the gram flour helps create a cohesive mixture with less water.",
+            "The mixture should be sticky and clumpy rather than wet and runny.",
+            "Avoid making the bhajis too large or the centre may remain soft while the outside browns.",
+            "A wire rack helps preserve crispness better than placing the bhajis directly on kitchen paper.",
+            "Don't overcrowd the oil or the temperature will drop too much.",
+            "The spice level can be increased without changing the structure of the recipe.",
+            "A small amount of fennel seed is also excellent in the mixture.",
+            "For a lighter texture, separate the onion strands slightly as you form each bhaji."
+        ],
+        "batch-cooking": "Better fresh. Can be frozen after frying, although the texture is best when freshly cooked.",
+        "leftovers": "Reheat in an oven or air fryer to restore crispness. Avoid reheating in the microwave if possible."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Pakora",
+            "Samosa",
+            "Falafel",
+            "Aloo Tikki",
+            "Bhindi Masala"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

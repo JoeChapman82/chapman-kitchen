@@ -36,8 +36,8 @@
 
 #### 🌍 World
 
-- [ ] Jambalaya
-- [ ] Koshari
+- [x] Jambalaya
+- [x] Koshari
 - [ ] Paella
 - [ ] Kabab koobideh with tahdig and grilled tomatoes
 #### 🍖 Roasting

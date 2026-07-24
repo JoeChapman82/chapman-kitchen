@@ -1,0 +1,214 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Recipe",
+  "type": "object",
+  "description": "Schema for recipes in the Chapman Kitchen recipe collection.",
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique recipe identifier in kebab-case. Do not use UUIDs as filenames or IDs unless specifically requested."
+    },
+    "version": {
+      "type": "integer",
+      "description": "Recipe schema or recipe version number. Increment when the recipe structure or content changes significantly."
+    },
+    "title": {
+      "type": "string",
+      "description": "The human-readable recipe name."
+    },
+    "overview": {
+      "type": "object",
+      "description": "Basic information about the recipe.",
+      "properties": {
+        "description": {
+          "type": "string",
+          "description": "A short description of the dish, including its main character and important ingredients."
+        },
+        "country": {
+          "type": "string",
+          "description": "The country or culinary tradition most closely associated with the recipe."
+        },
+        "region": {
+          "type": "string",
+          "description": "A more specific region, city or culinary tradition where appropriate."
+        },
+        "serves": {
+          "type": "integer",
+          "description": "The number of people the recipe serves."
+        }
+      },
+      "required": [
+        "description",
+        "serves"
+      ]
+    },
+    "ingredients": {
+      "type": "array",
+      "description": "Ingredients listed as human-readable strings. Use quantities suitable for the stated number of servings. Separate sections using an empty string if desired.",
+      "items": {
+        "type": "string"
+      }
+    },
+    "method": {
+      "type": "array",
+      "description": "Ordered cooking instructions. Each array item should describe one clear action or stage of the recipe.",
+      "items": {
+        "type": "string"
+      }
+    },
+    "serving": {
+      "type": "object",
+      "description": "Suggested accompaniments and serving ideas.",
+      "properties": {
+        "serve-with": {
+          "type": "array",
+          "description": "The main accompaniment or accompaniments that are part of the intended serving suggestion.",
+          "items": {
+            "type": "string"
+          }
+        },
+        "optional-sides": {
+          "type": "array",
+          "description": "Optional side dishes or additions that work well with the recipe.",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "planner": {
+      "type": "object",
+      "description": "Information used by the meal planner and recipe browsing interface.",
+      "properties": {
+        "prep-time-minutes": {
+          "type": "integer",
+          "description": "Active preparation time in minutes, including passive cooking or resting time."
+        },
+        "cook-time-minutes": {
+          "type": "integer",
+          "description": "Cooking time, including baking, simmering, steaming or other passive cooking time."
+        },
+        "freezer-label": {
+          "type": "string",
+          "enum": [
+            "freezes well",
+            "good",
+            "better fresh"
+          ],
+          "description": "How well the finished recipe freezes and reheats."
+        },
+        "cost": {
+          "type": "string",
+          "enum": [
+            "low",
+            "moderate",
+            "high"
+          ],
+          "description": "Approximate relative ingredient cost."
+        },
+        "after-work": {
+          "type": "boolean",
+          "description": "Whether the recipe is practical to cook on a normal working day."
+        }
+      }
+    },
+    "learning": {
+      "type": "object",
+      "description": "Educational and contextual information about the recipe.",
+      "properties": {
+        "did-you-know": {
+          "type": "string",
+          "description": "An interesting historical, cultural or culinary fact about the recipe."
+        },
+        "what-you-will-learn": {
+          "type": "string",
+          "description": "The main cooking technique or concept the cook can learn from making this recipe."
+        },
+        "skills": {
+          "type": "array",
+          "description": "Specific cooking skills practised by making this recipe.",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "notes": {
+      "type": "object",
+      "description": "Practical notes specific to the recipe and the Chapman kitchen.",
+      "properties": {
+        "why-its-in-the-chapman-kitchen": {
+          "type": "string",
+          "description": "Why this recipe is useful, interesting or appropriate for the user's recipe collection."
+        },
+        "chapman-tips": {
+          "type": "array",
+          "description": "Practical recipe-specific tips, including likely pitfalls and useful adaptations.",
+          "items": {
+            "type": "string"
+          }
+        },
+        "batch-cooking": {
+          "type": "string",
+          "description": "How well the recipe works for batch cooking and freezing."
+        },
+        "leftovers": {
+          "type": "string",
+          "description": "Useful ways to use leftovers and how well they keep or reheat."
+        }
+      }
+    },
+    "relationships": {
+      "type": "object",
+      "description": "Links between this recipe and related recipes in the collection.",
+      "properties": {
+        "similar-recipes": {
+          "type": "array",
+          "description": "Names of recipes with similar ingredients, techniques, cuisine or role in the meal planner.",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "history": {
+      "type": "array",
+      "description": "Version history and changes made to the recipe over time.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "date": {
+            "type": "string",
+            "description": "Date of the change in YYYY-MM-DD format."
+          },
+          "note": {
+            "type": "string",
+            "description": "Description of what changed and why."
+          }
+        }
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "description": "Administrative metadata about the recipe.",
+      "properties": {
+        "created": {
+          "type": "string",
+          "description": "Date the recipe was first created."
+        },
+        "updated": {
+          "type": "string",
+          "description": "Date the recipe was last updated."
+        },
+        "created-by": {
+          "type": "string",
+          "description": "Person or process that created the recipe."
+        },
+        "updated-by": {
+          "type": "string",
+          "description": "Person or process that last updated the recipe."
+        }
+      }
+    }
+  }
+}

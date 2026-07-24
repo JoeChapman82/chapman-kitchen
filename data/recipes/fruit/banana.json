@@ -1,0 +1,80 @@
+{
+    "id": "019f9583-2a72-77ab-8d86-94541cdb4b2a",
+    "version": 1,
+
+    "title": "Banana",
+
+    "overview": {
+        "description": "A naturally sweet, soft fruit with a creamy texture and a mild flavour.",
+        "country": "Asia",
+        "region": "",
+        "serves": 1
+    },
+
+    "ingredients": [
+        "1 banana"
+    ],
+
+    "method": [
+        "Peel the banana.",
+        "Eat immediately."
+    ],
+
+    "serving": {
+        "serve-with": [],
+        "optional-sides": []
+    },
+
+    "planner": {
+        "prep-time-minutes": 1,
+        "cook-time-minutes": 0,
+        "freezer-label": "better fresh",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Bananas are technically berries, while strawberries are not. Botanically, a berry is a fruit that develops from a single flower with one ovary and usually contains seeds inside the flesh.",
+        "what-you-will-learn": "How bananas change as they ripen and why their flavour and texture become sweeter and softer over time.",
+        "skills": [
+            "Peeling fruit",
+            "Recognising ripeness",
+            "Learning about fruit"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A simple, convenient fruit snack that requires no cooking and gives children an opportunity to learn about the food they are eating.",
+        "chapman-tips": [
+            "Green bananas are firmer and less sweet.",
+            "Yellow bananas are usually sweet and ready to eat.",
+            "Brown spots generally indicate increased ripeness and sweetness.",
+            "Very ripe bananas are excellent for baking."
+        ],
+        "batch-cooking": "Not applicable.",
+        "leftovers": "Overripe bananas can be used in banana bread, smoothies, pancakes or frozen for later use."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Apple",
+            "Orange",
+            "Pear",
+            "Grapes"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

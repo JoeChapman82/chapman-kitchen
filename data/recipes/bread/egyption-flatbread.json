@@ -1,0 +1,116 @@
+{
+    "id": "019f95a5-2e42-740b-ada7-0499481864a2",
+    "version": 1,
+
+    "title": "Egyptian flatbread (Baladi Bread)",
+
+    "overview": {
+        "description": "A rustic Egyptian flatbread with a slightly chewy crumb and a crisp, flour-dusted exterior, traditionally used for scooping up ful medames and other dishes.",
+        "country": "Egypt",
+        "region": "North Africa",
+        "serves": 6
+    },
+
+    "ingredients": [
+        "350g wholemeal bread flour",
+        "150g strong white bread flour",
+        "10g salt",
+        "7g instant yeast",
+        "350ml warm water",
+        "1 tbsp olive oil, optional",
+        "Extra wholemeal flour or bran, for shaping"
+    ],
+
+    "method": [
+        "Place the flours, salt and yeast in a large bowl.",
+        "Add the warm water and olive oil if using.",
+        "Mix until a rough dough forms.",
+        "Knead for 8–10 minutes until smooth and elastic.",
+        "Cover the dough and leave to rise for approximately 1 hour, or until doubled in size.",
+        "Divide the dough into 6 equal pieces.",
+        "Shape each piece into a ball.",
+        "Cover and rest for 15 minutes.",
+        "Generously dust the work surface with wholemeal flour or bran.",
+        "Roll or press each dough ball into a round approximately 15–18cm in diameter.",
+        "The breads should be relatively thin but not paper-thin.",
+        "Place the breads on baking parchment or a heavily floured tray.",
+        "Cover and leave to rest for 20–30 minutes.",
+        "Preheat the oven to its highest setting, ideally with a baking stone or heavy baking tray inside.",
+        "Place the breads onto the hot surface.",
+        "Bake until puffed and lightly browned, approximately 5–8 minutes.",
+        "Remove from the oven and cover with a clean tea towel while cooling slightly.",
+        "Serve warm."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Ful Medames"
+        ],
+        "optional-sides": [
+            "Hummus",
+            "Baba Ghanoush",
+            "Falafel",
+            "Shakshuka",
+            "Egyptian Fava Bean Salad"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 150,
+        "cook-time-minutes": 8,
+        "freezer-label": "freezes well",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Baladi bread is one of Egypt's most important everyday breads. The word 'baladi' can mean something like 'of the country' or 'local', and the bread is traditionally made with a high proportion of whole wheat flour.",
+        "what-you-will-learn": "How yeast dough rises and how a very hot oven can cause a flatbread to puff up and form a pocket.",
+        "skills": [
+            "Making yeast dough",
+            "Kneading",
+            "Shaping flatbreads",
+            "Working with high-temperature baking",
+            "Freezing bread"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A useful flatbread for scooping up ful medames and other Middle Eastern and North African dishes, while adding an important Egyptian bread to the collection.",
+        "chapman-tips": [
+            "A very hot baking surface helps the bread puff.",
+            "Don't roll the breads too thin.",
+            "Keep the dough covered while working so it does not dry out.",
+            "Wholemeal flour or bran on the outside gives the bread its characteristic rustic finish.",
+            "The bread is best served warm.",
+            "If the breads do not puff completely, they are still perfectly good for dipping and scooping.",
+            "A bread stone or heavy preheated tray helps considerably."
+        ],
+        "batch-cooking": "Freezes well. Allow the breads to cool completely, stack them with baking parchment between them if desired, and freeze in a sealed bag.",
+        "leftovers": "Reheat directly from frozen in a toaster, dry frying pan or hot oven."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Pita Bread",
+            "Greek Village Bread",
+            "Naan",
+            "Batbout",
+            "Focaccia"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

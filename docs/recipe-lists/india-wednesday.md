@@ -33,7 +33,7 @@
 
 - [ ] Cholar Dal
 - [ ] Bengali Fish Curry
-- [ ] Egg Curry
+- [x] Egg Curry
 - [ ] Shorshe Mach
 
 #### 🟦 Central India

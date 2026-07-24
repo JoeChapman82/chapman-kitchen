@@ -1,0 +1,87 @@
+{
+    "id": "019f9588-1a58-715d-9d41-8dd84e4a5d8a",
+    "version": 1,
+
+    "title": "Lime",
+
+    "overview": {
+        "description": "A small, aromatic citrus fruit with intensely sour juice and a fragrant green peel.",
+        "country": "China",
+        "region": "",
+        "serves": 1
+    },
+
+    "ingredients": [
+        "1 lime"
+    ],
+
+    "method": [
+        "Wash the lime.",
+        "Cut it in half or into wedges.",
+        "Squeeze the juice over food or into a drink.",
+        "The green peel can be finely grated to use as zest.",
+        "A whole lime is usually too sour to eat like an apple, although the flesh is edible."
+    ],
+
+    "serving": {
+        "serve-with": [],
+        "optional-sides": []
+    },
+
+    "planner": {
+        "prep-time-minutes": 2,
+        "cook-time-minutes": 0,
+        "freezer-label": "better fresh",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Limes are often picked while they are still green, whereas many varieties of lemon are allowed to ripen until yellow. Some limes will eventually turn yellow as they mature.",
+        "what-you-will-learn": "How limes compare with lemons and how acidity and aroma can vary between different citrus fruits.",
+        "skills": [
+            "Juicing fruit",
+            "Using citrus zest",
+            "Comparing fruit",
+            "Recognising acidity and aroma"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A versatile citrus fruit that provides a useful comparison with lemon and introduces children to the way different fruits can be used to add acidity and aroma to food.",
+        "chapman-tips": [
+            "Limes are usually smaller than lemons.",
+            "The peel is commonly green, although some limes turn yellow as they ripen.",
+            "Lime juice is strongly acidic and can make food taste brighter.",
+            "The zest contains fragrant oils and has a different aroma from lemon zest.",
+            "Limes are especially common in many Southeast Asian, Mexican, Caribbean and South Asian dishes.",
+            "The juice and zest are both useful in cooking.",
+            "Limes are often juicier when they feel slightly heavy for their size and have a little give when gently squeezed."
+        ],
+        "batch-cooking": "Not applicable.",
+        "leftovers": "Lime juice can be frozen in ice cube trays. Zest can be frozen separately for later use."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Lemon",
+            "Orange",
+            "Apple",
+            "Banana"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

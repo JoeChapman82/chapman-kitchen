@@ -15,8 +15,8 @@
 
 #### 🌍 North Africa & Middle East
 
-- [ ] Falafel, Hummus & Pita
-- [ ] Koshari
+- [x] Falafel, Hummus & Pita
+- [x] Koshari
 - [ ] Chicken Shawarma
 - [ ] Lamb Kofta
 

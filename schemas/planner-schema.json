@@ -6,12 +6,7 @@
         "monday": {
             "breakfast": {
                 "meal": [""],
-                "recipes": [
-                    {
-                        "id": "",
-                        "name": ""
-                    }
-                ]
+                "recipes": ["id"]
             },
             "morning-snack": {
                 "meal": [],

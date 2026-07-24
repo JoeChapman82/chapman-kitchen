@@ -1,0 +1,124 @@
+{
+    "id": "019f9570-bad8-73dd-a8a4-bf9fae6f7132",
+    "version": 1,
+
+    "title": "Mixed Vegetable Pakora",
+
+    "overview": {
+        "description": "Crisp Indian vegetable fritters made with mixed vegetables, gram flour and aromatic spices.",
+        "country": "India",
+        "region": "Indian subcontinent",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "150g potatoes, cut into very thin matchsticks or grated",
+        "100g carrots, grated",
+        "100g cabbage, finely shredded",
+        "100g onions, thinly sliced",
+        "75g spinach, finely chopped",
+        "150g gram flour",
+        "1 tsp ground cumin",
+        "1 tsp ground coriander",
+        "½ tsp turmeric",
+        "½ tsp garam masala",
+        "½ tsp chilli powder, or to taste",
+        "1 tsp ajwain, optional",
+        "1 tsp salt",
+        "½ tsp baking powder",
+        "Small handful fresh coriander, chopped",
+        "1 green chilli, finely chopped, optional",
+        "Approximately 3–5 tbsp water",
+        "Oil, for deep frying"
+    ],
+
+    "method": [
+        "Place the prepared vegetables in a large bowl.",
+        "Add the salt and mix thoroughly.",
+        "Leave for 15–20 minutes so the salt draws moisture from the vegetables.",
+        "Add the gram flour, cumin, coriander, turmeric, garam masala, chilli powder, ajwain if using and baking powder.",
+        "Add the fresh coriander and green chilli.",
+        "Mix thoroughly.",
+        "Add the water a little at a time until the vegetables are lightly coated and the mixture holds together when pressed.",
+        "Heat the oil to approximately 170–180°C.",
+        "Take small loose handfuls of the mixture and carefully drop them into the hot oil.",
+        "Fry in batches, taking care not to overcrowd the pan.",
+        "Cook for approximately 4–6 minutes, turning occasionally, until golden brown and crisp.",
+        "Drain on a wire rack or kitchen paper.",
+        "Serve hot."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Mint and Coriander Chutney",
+            "Tamarind Chutney"
+        ],
+        "optional-sides": [
+            "Mango Chutney",
+            "Plain Yogurt",
+            "Lemon Wedges",
+            "Fresh Coriander"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 35,
+        "cook-time-minutes": 20,
+        "freezer-label": "good",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Pakora are found in many regional variations across South Asia, and the word generally refers to vegetables or other ingredients coated in a seasoned batter and fried.",
+        "what-you-will-learn": "How to create a light fritter mixture using the moisture naturally released from vegetables rather than a large quantity of batter.",
+        "skills": [
+            "Deep frying",
+            "Making fritters",
+            "Managing vegetable moisture",
+            "Working with gram flour",
+            "Balancing spices"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "An inexpensive and adaptable snack that uses common vegetables and works well as a family snack, starter or side dish.",
+        "chapman-tips": [
+            "Keep the vegetables relatively thin so they cook through quickly.",
+            "Salting the vegetables first helps release moisture and reduces the amount of added water needed.",
+            "The mixture should be vegetable-heavy rather than a thick batter.",
+            "Don't make the pakoras too large or the outside may brown before the centre cooks.",
+            "Loose, irregular shapes usually produce the best crisp texture.",
+            "Ajwain adds a lovely savoury, slightly thyme-like flavour.",
+            "A wire rack helps prevent the pakoras from becoming soggy after frying.",
+            "Avoid overcrowding the oil.",
+            "For extra crispness, fry the pakoras in two stages: cook them through first, then fry briefly at a higher temperature."
+        ],
+        "batch-cooking": "Good for batch cooking. Freeze after frying and reheat in an oven or air fryer for the best texture.",
+        "leftovers": "Reheat in an oven or air fryer until hot and crisp."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Onion Bhaji",
+            "Vegetable Cutlet",
+            "Aloo Tikki",
+            "Samosa",
+            "Falafel"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

@@ -12,7 +12,7 @@
 - [ ] Marry Me Chicken
 - [ ] Coq au Vin
 - [ ] Chicken Paprikash with nokedli
-- [ ] Chicken Provençal
+- [x] Chicken Provençal
 - [ ] Chicken Fricassée
 
 #### 🌍 Africa

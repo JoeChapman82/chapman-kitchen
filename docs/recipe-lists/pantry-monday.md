@@ -26,7 +26,7 @@
 
 #### 🌍 Middle East & North Africa
 
-- [ ] Mujadara
+- [x] Mujadara
 - [ ] Harira
 - [ ] Shakshuka (Dinner)
 - [ ] Moroccan Vegetable Tagine

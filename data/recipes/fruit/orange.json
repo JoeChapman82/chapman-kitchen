@@ -1,0 +1,85 @@
+{
+    "id": "019f9585-6631-70db-a4a5-9f0bc0064a0b",
+    "version": 1,
+
+    "title": "Orange",
+
+    "overview": {
+        "description": "A juicy citrus fruit with a sweet-tart flavour, fragrant peel and segments that separate naturally.",
+        "country": "China",
+        "region": "",
+        "serves": 1
+    },
+
+    "ingredients": [
+        "1 orange"
+    ],
+
+    "method": [
+        "Wash the orange.",
+        "Peel away the skin and remove as much of the white pith as desired.",
+        "Separate the orange into segments.",
+        "Remove any seeds if necessary.",
+        "Eat immediately."
+    ],
+
+    "serving": {
+        "serve-with": [],
+        "optional-sides": []
+    },
+
+    "planner": {
+        "prep-time-minutes": 2,
+        "cook-time-minutes": 0,
+        "freezer-label": "better fresh",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "The orange part we usually eat is made up of segments filled with tiny juice sacs. The peel contains fragrant oils, which is why rubbing or grating orange zest releases such a strong citrus smell.",
+        "what-you-will-learn": "How citrus fruits are structured and how the peel, pith, flesh, juice and zest are different parts of the same fruit.",
+        "skills": [
+            "Peeling fruit",
+            "Separating segments",
+            "Recognising citrus aromas",
+            "Learning about fruit"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A simple and naturally sweet snack that introduces children to citrus fruit and the different ways one fruit can be used in cooking.",
+        "chapman-tips": [
+            "The peel is not usually eaten directly, but its zest can be used to flavour food.",
+            "The white pith is safe to eat but can taste bitter.",
+            "Different varieties of oranges vary in sweetness, acidity and juiciness.",
+            "Oranges can be juiced, but eating the whole fruit also provides the fibre from the flesh and membranes.",
+            "The peel can be used to add flavour to cakes, puddings, sauces and savoury dishes."
+        ],
+        "batch-cooking": "Not applicable.",
+        "leftovers": "Oranges can be juiced, used in salads, desserts, cakes, sauces and marinades. The zest can be frozen for later use."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Apple",
+            "Banana",
+            "Pear",
+            "Grapes"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

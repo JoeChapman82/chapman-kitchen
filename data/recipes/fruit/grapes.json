@@ -1,0 +1,86 @@
+{
+    "id": "019f958a-b0da-7555-b656-ede8649ea96b",
+    "version": 1,
+
+    "title": "Grapes",
+
+    "overview": {
+        "description": "Small, juicy fruits that grow in bunches and come in many colours, flavours and varieties.",
+        "country": "Europe",
+        "region": "",
+        "serves": 1
+    },
+
+    "ingredients": [
+        "A small bunch of grapes"
+    ],
+
+    "method": [
+        "Wash the grapes thoroughly.",
+        "Remove the grapes from the stem if desired.",
+        "Eat the grapes whole."
+    ],
+
+    "serving": {
+        "serve-with": [],
+        "optional-sides": []
+    },
+
+    "planner": {
+        "prep-time-minutes": 2,
+        "cook-time-minutes": 0,
+        "freezer-label": "better fresh",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Grapes grow in bunches on vines, and there are thousands of different grape varieties. Grapes can be eaten fresh, dried into raisins or pressed to make juice.",
+        "what-you-will-learn": "How grapes grow and how the same fruit can be eaten fresh, dried or turned into other foods and drinks.",
+        "skills": [
+            "Washing fruit",
+            "Recognising different varieties",
+            "Learning about food preservation",
+            "Learning about fruit"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A convenient, naturally sweet fruit snack that introduces children to varieties, growing vines and the way drying can transform fresh fruit into a completely different food.",
+        "chapman-tips": [
+            "Grapes can be green, red, purple, black or other colours depending on the variety.",
+            "Some grapes have seeds and some are seedless.",
+            "The skin is edible.",
+            "Grapes can taste sweet, sour or a mixture of both.",
+            "Raisins are grapes that have been dried, losing much of their water.",
+            "Grapes can be frozen and make a cold, sweet snack."
+        ],
+        "batch-cooking": "Not applicable.",
+        "leftovers": "Grapes can be frozen, dried into raisins or used in fruit salads, desserts and savoury salads."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Banana",
+            "Apple",
+            "Orange",
+            "Kiwi",
+            "Lemon",
+            "Lime"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

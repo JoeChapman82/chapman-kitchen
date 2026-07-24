@@ -1,0 +1,133 @@
+{
+    "id": "019f9574-c035-7617-b63d-9d79b70a0025",
+    "version": 1,
+
+    "title": "Japanese Vegetable Korokke",
+
+    "overview": {
+        "description": "Crisp Japanese potato croquettes filled with sweetcorn, peas, carrot and onion, coated in panko breadcrumbs.",
+        "country": "Japan",
+        "region": "Japan",
+        "serves": 6
+    },
+
+    "ingredients": [
+        "750g potatoes, peeled and cut into chunks",
+        "100g carrots, finely diced",
+        "100g frozen peas",
+        "100g sweetcorn",
+        "1 medium onion, finely diced",
+        "1 tbsp neutral oil",
+        "1 tbsp light soy sauce",
+        "½ tsp ground black pepper",
+        "Salt, to taste",
+        "1 tbsp milk, optional",
+        "",
+        "For coating:",
+        "100g plain flour",
+        "2 large eggs, beaten",
+        "150g panko breadcrumbs",
+        "Oil, for shallow or deep frying"
+    ],
+
+    "method": [
+        "Boil the potatoes in salted water until completely tender.",
+        "Drain thoroughly and allow them to steam dry.",
+        "Mash the potatoes until mostly smooth.",
+        "Cook the carrots, peas and sweetcorn until tender.",
+        "Drain thoroughly.",
+        "Heat the oil in a frying pan.",
+        "Add the onion and cook until soft and lightly golden.",
+        "Add the soy sauce and cook for 30 seconds.",
+        "Add the carrots, peas and sweetcorn.",
+        "Cook for 2–3 minutes to remove excess moisture.",
+        "Add the vegetables to the mashed potatoes.",
+        "Season with black pepper and additional salt if needed.",
+        "Add the milk if the mixture seems too dry.",
+        "Mix thoroughly.",
+        "Allow the mixture to cool until easy to handle.",
+        "Shape the mixture into 10–12 flattened oval croquettes.",
+        "Chill for at least 30 minutes.",
+        "Coat each croquette in flour.",
+        "Dip into beaten egg.",
+        "Coat thoroughly with panko breadcrumbs.",
+        "Chill again for at least 30 minutes if possible.",
+        "Heat the oil to approximately 170–180°C.",
+        "Fry the korokke in batches until golden brown and crisp.",
+        "Drain on a wire rack.",
+        "Serve hot."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Tonkatsu Sauce"
+        ],
+        "optional-sides": [
+            "Japanese Curry Sauce",
+            "Shredded Cabbage",
+            "Japanese Mayonnaise",
+            "Steamed Rice"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 105,
+        "cook-time-minutes": 25,
+        "freezer-label": "freezes well",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Korokke developed from European-style croquettes introduced to Japan and became a popular Japanese comfort food in their own right.",
+        "what-you-will-learn": "How to make a stable potato-based croquette and how chilling helps a breaded filling retain its shape during frying.",
+        "skills": [
+            "Making croquettes",
+            "Managing moisture",
+            "Breadcrumb coating",
+            "Shallow frying",
+            "Batch cooking"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "An inexpensive, family-friendly vegetarian snack that freezes extremely well and uses vegetables already commonly kept in the freezer.",
+        "chapman-tips": [
+            "Steam the potatoes dry after boiling so the mixture is not wet.",
+            "Cook the vegetables until tender but not waterlogged.",
+            "Cook the onions until lightly golden for extra flavour.",
+            "Allow the mixture to cool before shaping.",
+            "Chilling the shaped korokke makes them much easier to coat.",
+            "A second chill after breadcrumbing helps prevent the coating from falling off.",
+            "Panko gives a lighter, crispier coating than ordinary breadcrumbs.",
+            "Don't overcrowd the frying pan.",
+            "The korokke can be made smaller for children's snacks."
+        ],
+        "batch-cooking": "Freezes extremely well. Freeze the shaped and breadcrumb-coated korokke in a single layer before transferring them to a freezer bag or container.",
+        "leftovers": "Reheat in an oven or air fryer until hot and crisp."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Vegetable Cutlet",
+            "Korean Vegetable Mandu",
+            "Onion Bhaji",
+            "Pakora",
+            "Samosa"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "id": "019f95c5-4873-728a-9b99-1539eb687de3",
+    "version": 1,
+
+    "title": "Batata Poha",
+
+    "overview": {
+        "description": "A light but satisfying Indian breakfast made with flattened rice, potato, onion, peanuts and a fragrant tempering of spices.",
+        "country": "India",
+        "region": "Maharashtra",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "300g thick poha (flattened rice)",
+        "2 medium potatoes, peeled and diced into small cubes",
+        "1 medium onion, finely chopped",
+        "75g roasted peanuts",
+        "2 green chillies, finely sliced, optional",
+        "1 tsp mustard seeds",
+        "1 tsp cumin seeds",
+        "½ tsp turmeric",
+        "10–12 curry leaves",
+        "1 tbsp neutral oil",
+        "1 tsp sugar, optional",
+        "1 tsp salt, or to taste",
+        "1 lemon",
+        "Small handful fresh coriander, chopped",
+        "50ml water"
+    ],
+
+    "method": [
+        "Place the poha in a sieve or colander.",
+        "Rinse gently under cold water until softened but not mushy.",
+        "Allow the poha to drain thoroughly.",
+        "Mix in the turmeric, salt and sugar if using.",
+        "Set aside for 10–15 minutes.",
+        "Heat the oil in a large frying pan or kadai.",
+        "Add the mustard seeds.",
+        "When they begin to pop, add the cumin seeds and curry leaves.",
+        "Add the diced potatoes.",
+        "Cook over medium heat, stirring regularly, until the potatoes are almost tender.",
+        "Add the onion and green chillies.",
+        "Cook until the onion has softened.",
+        "Add the drained poha and the water.",
+        "Mix gently until everything is evenly combined.",
+        "Cover and cook over low heat for 3–5 minutes until the poha is hot and the potatoes are fully tender.",
+        "Stir through the roasted peanuts.",
+        "Squeeze over the lemon juice.",
+        "Garnish with fresh coriander.",
+        "Serve hot."
+    ],
+
+    "serving": {
+        "serve-with": [],
+        "optional-sides": [
+            "Fresh Coriander",
+            "Lemon Wedges",
+            "Plain Yogurt",
+            "Extra Roasted Peanuts"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 25,
+        "cook-time-minutes": 20,
+        "freezer-label": "better fresh",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Poha is made from rice that has been parboiled, flattened and dried. This makes it quick to prepare because the rice has already been partially cooked before it reaches the kitchen.",
+        "what-you-will-learn": "How rice can be transformed into flattened rice and how a simple tempering of spices can add flavour and aroma to a breakfast dish.",
+        "skills": [
+            "Preparing poha",
+            "Tempering spices",
+            "Cooking potatoes",
+            "Balancing flavours",
+            "Using rice in different forms"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A quick, inexpensive and filling breakfast that makes good use of pantry staples and provides a different way to eat rice.",
+        "chapman-tips": [
+            "Use thick or medium poha rather than very thin poha for this recipe.",
+            "Rinse the poha gently and avoid soaking it for too long.",
+            "The poha should be soft enough to bend but should still hold its shape.",
+            "Cut the potatoes fairly small so they cook within the same time as the onions.",
+            "The lemon juice is important because it balances the savoury and slightly sweet flavours.",
+            "Add the peanuts near the end so they retain their crunch.",
+            "For a more substantial breakfast, increase the potato slightly.",
+            "For a lighter version, reduce the potato and increase the onion."
+        ],
+        "batch-cooking": "Better fresh. The poha can become soft and lose its best texture when frozen and reheated.",
+        "leftovers": "Leftover poha can be refrigerated and reheated, although it is best eaten fresh."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Upma",
+            "Aloo Paratha",
+            "Batbout",
+            "Pancakes",
+            "Mujadara"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "id": "019f9579-c1ab-760e-a517-52f7346dbf51",
+    "version": 1,
+
+    "title": "Chicken Momos",
+
+    "overview": {
+        "description": "Steamed Himalayan dumplings made with homemade wheat dough and a juicy filling of minced chicken, onion, ginger, garlic and fresh coriander, served with a spicy tomato and chilli chutney.",
+        "country": "India",
+        "region": "Himalayan India",
+        "serves": 6
+    },
+
+    "ingredients": [
+        "For the dough:",
+        "300g plain flour",
+        "Approximately 150ml water",
+        "½ tsp salt",
+        "",
+        "For the filling:",
+        "500g chicken mince",
+        "1 medium onion, very finely chopped",
+        "3 garlic cloves, finely grated",
+        "25g fresh ginger, finely grated",
+        "4 spring onions, finely sliced",
+        "Small handful fresh coriander, finely chopped",
+        "2 tbsp light soy sauce",
+        "1 tsp toasted sesame oil",
+        "½ tsp ground black pepper",
+        "½ tsp ground cumin",
+        "½ tsp chilli powder, optional",
+        "1 tbsp neutral oil",
+        "Salt, to taste",
+        "",
+        "For the chutney:",
+        "300g ripe tomatoes",
+        "2–4 dried red chillies, soaked in hot water",
+        "2 garlic cloves",
+        "1 tbsp lemon juice",
+        "½ tsp salt",
+        "1 tsp toasted sesame oil, optional"
+    ],
+
+    "method": [
+        "Place the flour and salt in a large bowl.",
+        "Gradually add the water, mixing until a dough forms.",
+        "Knead for 8–10 minutes until smooth and elastic.",
+        "Cover the dough and rest for at least 30 minutes.",
+        "For the filling, place the chicken mince in a large bowl.",
+        "Add the onion, garlic, ginger, spring onions and fresh coriander.",
+        "Add the soy sauce, sesame oil, black pepper, cumin and chilli powder if using.",
+        "Add the neutral oil and mix thoroughly.",
+        "Season with salt if necessary.",
+        "Cover and refrigerate the filling while the dough rests.",
+        "Divide the dough into approximately 30–36 equal pieces.",
+        "Roll each piece into a ball.",
+        "Roll each ball into a thin round approximately 8–10cm in diameter.",
+        "Keep the prepared dough rounds covered so they do not dry out.",
+        "Place approximately 1 tablespoon of chicken filling in the centre of each dough round.",
+        "Moisten the edge with a little water.",
+        "Fold and pleat the dough around the filling to seal the momo.",
+        "Repeat with the remaining dough and filling.",
+        "Arrange the momos in a lightly oiled steamer, leaving space between them.",
+        "Steam for approximately 12–15 minutes, or until the dough is cooked and the chicken is completely cooked through.",
+        "For the chutney, soften the tomatoes by roasting, boiling or grilling them.",
+        "Blend the tomatoes, soaked chillies, garlic, lemon juice, salt and sesame oil until smooth or slightly textured.",
+        "Serve the hot momos immediately with the tomato-chilli chutney."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Momo Chutney"
+        ],
+        "optional-sides": [
+            "Fresh Coriander",
+            "Lemon Wedges",
+            "Chilli Oil",
+            "Light Salad"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 105,
+        "cook-time-minutes": 25,
+        "freezer-label": "freezes well",
+        "cost": "moderate",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Momos have strong Tibetan and Himalayan roots and became especially popular across northern India, Nepal and the Himalayan regions, where steamed dumplings are commonly served with intensely flavoured chilli chutneys.",
+        "what-you-will-learn": "How to make a simple dumpling dough, roll wrappers by hand and prepare a juicy minced-meat filling suitable for steaming.",
+        "skills": [
+            "Making dumpling dough",
+            "Kneading",
+            "Rolling wrappers",
+            "Folding dumplings",
+            "Steaming",
+            "Managing minced meat"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A freezer-friendly homemade dumpling that gives the family a Himalayan and northern Indian alternative to gyoza and mandu.",
+        "chapman-tips": [
+            "The dough should be firm but supple rather than soft and sticky.",
+            "Resting the dough makes it much easier to roll.",
+            "Keep unused dough balls and rolled wrappers covered to prevent them drying out.",
+            "Don't roll the wrappers paper-thin; momos traditionally have a slightly thicker, chewier wrapper than gyoza.",
+            "Don't overfill the momos.",
+            "The raw filling should be kept chilled while assembling.",
+            "A little oil in the filling helps keep the chicken moist.",
+            "Leave space between the momos in the steamer so they do not stick together.",
+            "The chutney can be made very hot or relatively mild depending on who is eating it.",
+            "Use a meat thermometer if desired; the chicken filling should reach a safe internal temperature."
+        ],
+        "batch-cooking": "Freezes well. Freeze uncooked momos in a single layer until solid, then transfer to a freezer bag or container. Steam directly from frozen, adding several minutes to the cooking time.",
+        "leftovers": "Cooked momos can be refrigerated and reheated by steaming. They can also be pan-fried after steaming."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Vegetable Momos",
+            "Korean Vegetable Mandu",
+            "Gyoza",
+            "Vegetable Spring Rolls",
+            "Kabab Koobideh"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "id": "019f9576-76ce-7239-951b-dce7eb84f0cb",
+    "version": 1,
+
+    "title": "Vegetable Spring Rolls",
+
+    "overview": {
+        "description": "Crisp Chinese-style spring rolls filled with finely shredded cabbage, carrot, mushrooms and aromatics.",
+        "country": "China",
+        "region": "East Asia",
+        "serves": 6
+    },
+
+    "ingredients": [
+        "18 spring roll wrappers",
+        "300g white cabbage, finely shredded",
+        "150g carrots, finely shredded",
+        "100g shiitake mushrooms, finely sliced",
+        "100g bean sprouts",
+        "3 spring onions, finely sliced",
+        "2 garlic cloves, finely grated",
+        "1 tsp grated ginger",
+        "1 tbsp light soy sauce",
+        "1 tsp toasted sesame oil",
+        "½ tsp white pepper",
+        "1 tsp rice vinegar",
+        "1 tbsp neutral oil",
+        "1 tbsp cornflour",
+        "2 tbsp water",
+        "Oil, for frying"
+    ],
+
+    "method": [
+        "Heat the neutral oil in a large frying pan or wok over high heat.",
+        "Add the mushrooms and cook until their moisture has evaporated.",
+        "Add the cabbage and carrots.",
+        "Stir-fry for 2–3 minutes until slightly softened but still retaining some texture.",
+        "Add the bean sprouts, spring onions, garlic and ginger.",
+        "Stir-fry for 1 minute.",
+        "Add the soy sauce, sesame oil, white pepper and rice vinegar.",
+        "Stir thoroughly.",
+        "Continue cooking until the filling is as dry as possible.",
+        "Transfer the filling to a large tray or bowl.",
+        "Spread it out and allow it to cool completely.",
+        "Mix the cornflour and water to make a thin paste.",
+        "Place one spring roll wrapper in front of you with one corner pointing towards you.",
+        "Place a small amount of filling across the lower third of the wrapper.",
+        "Fold the bottom corner over the filling.",
+        "Fold the side corners towards the centre.",
+        "Roll firmly towards the top corner.",
+        "Brush the final corner with the cornflour paste and seal.",
+        "Repeat with the remaining wrappers and filling.",
+        "Heat the oil to approximately 175°C.",
+        "Fry the spring rolls in batches until golden and crisp.",
+        "Drain on a wire rack."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Sweet Chilli Sauce"
+        ],
+        "optional-sides": [
+            "Soy Sauce",
+            "Plum Sauce",
+            "Chilli Oil"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 45,
+        "cook-time-minutes": 25,
+        "freezer-label": "freezes well",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Spring rolls are associated with the Spring Festival and were traditionally connected with the arrival of spring and the first fresh vegetables of the season.",
+        "what-you-will-learn": "How to create a dry filling suitable for a crisp pastry wrapper and how to roll and seal spring rolls for frying.",
+        "skills": [
+            "Stir-frying",
+            "Managing moisture",
+            "Wrapping spring rolls",
+            "Deep frying",
+            "Batch cooking"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "An inexpensive, freezer-friendly vegetarian snack that works well alongside Asian meals and uses common vegetables and pantry ingredients.",
+        "chapman-tips": [
+            "The filling must be cooled completely before wrapping.",
+            "Cook the filling until it is as dry as possible.",
+            "Don't overfill the wrappers.",
+            "Roll firmly but avoid tearing the wrapper.",
+            "Keep unused wrappers covered so they do not dry out.",
+            "Freeze uncooked spring rolls in a single layer before transferring them to a freezer bag.",
+            "Cook from frozen if the wrappers are suitable for it, allowing extra cooking time.",
+            "Avoid thawing and refreezing.",
+            "A wire rack helps keep the fried spring rolls crisp."
+        ],
+        "batch-cooking": "Freezes well. Freeze uncooked spring rolls in a single layer until solid, then transfer to a freezer bag or container.",
+        "leftovers": "Reheat in an oven or air fryer until hot and crisp."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Korean Vegetable Mandu",
+            "Japanese Vegetable Korokke",
+            "Gyoza",
+            "Vegetable Cutlet",
+            "Pakora"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

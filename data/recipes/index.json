@@ -35,6 +35,10 @@
         "path": "bread/dosa.json",
         "title": "Dosa"
     },
+    "019f95a5-2e42-740b-ada7-0499481864a2": {
+        "path": "bread/egyption-flatbread.json",
+        "title": "Egyptian flatbread (Baladi Bread)"
+    },
     "019f8b95-bcc6-75e4-ac8c-dfac5e4dd371": {
         "path": "bread/goan-poi.json",
         "title": "Goan Poi"
@@ -107,9 +111,13 @@
         "path": "bread/tortillas.json",
         "title": "Flour Tortillas"
     },
+    "019f95c5-4873-728a-9b99-1539eb687de3": {
+        "path": "breakfast/batata-poha.json",
+        "title": "Batata Poha"
+    },
     "019f7bf5-c73d-769b-9fbd-a7cdc37130b6": {
         "path": "breakfast/cilbir.json",
-        "title": "Çılbır"
+        "title": "Çılbır (Turkish eggs)"
     },
     "019f7bf8-41fe-765f-aa65-fdaf7864af24": {
         "path": "breakfast/croque-madame.json",
@@ -334,6 +342,34 @@
     "019f73a3-31f7-714c-8295-c9bbee775740": {
         "path": "fish/fish-tacos.json",
         "title": "Fish Tacos"
+    },
+    "019f9584-0132-72b8-98f3-10230130c6c4": {
+        "path": "fruit/apple.json",
+        "title": "Apple"
+    },
+    "019f9583-2a72-77ab-8d86-94541cdb4b2a": {
+        "path": "fruit/banana.json",
+        "title": "Banana"
+    },
+    "019f958a-b0da-7555-b656-ede8649ea96b": {
+        "path": "fruit/grapes.json",
+        "title": "Grapes"
+    },
+    "019f9589-180d-72bc-ab67-8bc3c669553d": {
+        "path": "fruit/kiwi.json",
+        "title": "Kiwi"
+    },
+    "019f9586-7ebd-763f-b09f-b5e3108d8465": {
+        "path": "fruit/lemon.json",
+        "title": "Lemon"
+    },
+    "019f9588-1a58-715d-9d41-8dd84e4a5d8a": {
+        "path": "fruit/lime.json",
+        "title": "Lime"
+    },
+    "019f9585-6631-70db-a4a5-9f0bc0064a0b": {
+        "path": "fruit/orange.json",
+        "title": "Orange"
     },
     "019f7693-1d8d-7168-8b3c-d4d3d1a5fa0a": {
         "path": "italian/pizza.json",
@@ -619,7 +655,7 @@
         "path": "rice/chicken-yassa.json",
         "title": "Chicken Yassa"
     },
-    "<019f65c1-3b95-7511-a351-5e7f1b1e3e3a": {
+    "019f65c1-3b95-7511-a351-5e7f1b1e3e3a": {
         "path": "rice/jambalaya.json",
         "title": "Jambalaya"
     },
@@ -727,6 +763,10 @@
         "path": "sides/pickled-vegetables.json",
         "title": "Quick-Pickled Vegetables"
     },
+    "019f9579-c1ab-760e-a517-52f7346dbf51": {
+        "path": "snacks/chicken-momos.json",
+        "title": "Chicken Momos"
+    },
     "019f858c-4a69-751b-96dc-6fa441e7d51b": {
         "path": "snacks/chicken-nuggets.json",
         "title": "Chicken Nuggets"
@@ -743,9 +783,21 @@
         "path": "snacks/jamaican-beef-patties.json",
         "title": "Jamaican Beef Patties"
     },
-    "019f90c0-2ba1-7196-8fb6-42808e5c7129": {
+    "019f9574-c035-7617-b63d-9d79b70a0025": {
+        "path": "snacks/japanese-vegetable-korokke.json",
+        "title": "Japanese Vegetable Korokke"
+    },
+    "019f9573-4d2d-766f-992e-96c8142dfc65": {
+        "path": "snacks/korean-vegetable-mandu.json",
+        "title": "Korean Vegetable Mandu"
+    },
+    "019f90d1-e729-74de-aef7-9bff736ed4bb": {
         "path": "snacks/mini-beef-empanadas.json",
-        "title": "019f8586-dc22-7096-98e1-1d3792b94ed0"
+        "title": "Mini Beef Empanadas"
+    },
+    "019f956e-1197-776f-8e35-d216fe3ebbee": {
+        "path": "snacks/onion-bhaji.json",
+        "title": "Onion Bhaji"
     },
     "019f8589-adca-73c6-9789-3920cfed8d43": {
         "path": "snacks/pork-gyoza.json",
@@ -754,6 +806,18 @@
     "019f769e-bd22-71dd-9354-70363a99be3c": {
         "path": "snacks/sausage-roll.json",
         "title": "Sausage Rolls"
+    },
+    "019f956f-8878-75e8-8350-30d083a7a44a": {
+        "path": "snacks/vegetable-cutlet.json",
+        "title": "Vegetable Cutlet"
+    },
+    "019f9576-76ce-7239-951b-dce7eb84f0cb": {
+        "path": "snacks/vegetable-spring-rolls.json",
+        "title": "Vegetable Spring Rolls"
+    },
+    "019f9570-bad8-73dd-a8a4-bf9fae6f7132": {
+        "path": "snacks/vegetalbe-pakora.json",
+        "title": "Mixed Vegetable Pakora"
     },
     "019f6fb6-8cf9-74ec-b4db-f77ceca94b57": {
         "path": "soup/avgolenono-soup.json",
