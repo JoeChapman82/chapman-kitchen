@@ -1,0 +1,123 @@
+{
+    "id": "019f9aca-1fa2-707a-850e-2f18ef3ca431",
+    "version": 1,
+
+    "title": "Slow Cooker Feijoada",
+
+    "overview": {
+        "description": "A rich Brazilian black bean and pork stew slowly cooked with pork shoulder, smoked sausage, bacon and aromatic vegetables.",
+        "country": "Brazil",
+        "region": "Southeast Brazil",
+        "serves": 8
+    },
+
+    "ingredients": [
+        "500g dried black beans",
+        "500g pork shoulder, cut into large chunks",
+        "500g pork belly",
+        "250g chorizo, sliced",
+        "150g bacon, diced",
+        "2 medium onions, finely chopped",
+        "6 garlic cloves, finely chopped",
+        "2 bay leaves",
+        "1 tsp ground cumin",
+        "1 tsp smoked paprika",
+        "1 orange, quartered",
+        "1.5 litres chicken or pork stock",
+        "1 tbsp neutral oil",
+        "Salt, to taste",
+        "Black pepper, to taste"
+    ],
+
+    "method": [
+        "Rinse the black beans thoroughly.",
+        "Soak the beans in plenty of cold water overnight.",
+        "Drain and rinse the beans before cooking.",
+        "Heat the oil in a large frying pan.",
+        "Fry the bacon until it has released some of its fat.",
+        "Add the pork shoulder and pork belly in batches and brown lightly.",
+        "Transfer the pork and bacon to the slow cooker.",
+        "Add the onions and cook until softened.",
+        "Add the garlic, cumin and smoked paprika and cook for 1 minute.",
+        "Transfer the onions and garlic to the slow cooker.",
+        "Add the soaked beans, bay leaves, chorizo and orange quarters.",
+        "Pour in enough stock to cover the ingredients.",
+        "Cook on LOW for 8–10 hours, or until the beans and pork are completely tender.",
+        "Remove the orange quarters and bay leaves.",
+        "Taste and adjust the seasoning.",
+        "If the stew is thinner than desired, remove the lid and cook on HIGH for a short period, or mash some of the beans into the sauce.",
+        "Serve hot."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "White Rice"
+        ],
+        "optional-sides": [
+            "Sautéed Collard Greens",
+            "Orange Slices",
+            "Toasted Cassava Flour",
+            "Brazilian Hot Sauce"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 720,
+        "cook-time-minutes": 600,
+        "freezer-label": "freezes well",
+        "cost": "moderate",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Feijoada is one of Brazil's best-known dishes and is traditionally associated with black beans cooked slowly with pork and other meats. It is commonly served with rice, greens, orange and farofa.",
+        "what-you-will-learn": "How dried beans absorb water and soften during slow cooking, and how long, gentle cooking allows tough cuts of meat to become tender.",
+        "skills": [
+            "Slow cooking",
+            "Cooking dried beans",
+            "Browning meat",
+            "Building flavour",
+            "Batch cooking"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A substantial one-pot meal that is ideal for slow cooking and batch preparation, while introducing a classic Brazilian dish to the meal rotation.",
+        "chapman-tips": [
+            "Use a large slow cooker because the recipe makes a generous batch.",
+            "Soaking the beans overnight reduces the cooking time and helps them cook more evenly.",
+            "Browning the pork and bacon first adds extra depth of flavour.",
+            "The orange is used to add fragrance and balance rather than to make the stew taste strongly of orange.",
+            "Don't add acidic ingredients until the beans are tender, as acidity can slow the softening of beans.",
+            "If using very salty smoked sausage or bacon, season cautiously until the end.",
+            "The stew often tastes even better after resting overnight.",
+            "For a thicker sauce, mash some of the beans against the side of the pot and stir them through."
+        ],
+        "batch-cooking": "Freezes very well. Cool thoroughly, portion and freeze in airtight containers.",
+        "leftovers": "Keeps well in the refrigerator and often tastes even better the following day."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Three Sisters Stew",
+            "Black Bean Chilli",
+            "Mujadara",
+            "Lamb Tagine",
+            "Slow Cooked Beef Short Ribs"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

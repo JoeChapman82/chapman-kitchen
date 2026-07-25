@@ -6,7 +6,7 @@
   "properties": {
     "id": {
       "type": "string",
-      "description": "Unique recipe identifier in kebab-case. Do not use UUIDs as filenames or IDs unless specifically requested."
+      "description": "Unique recipe identifier a uuid v7"
     },
     "version": {
       "type": "integer",

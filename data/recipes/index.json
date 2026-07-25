@@ -371,6 +371,10 @@
         "path": "fruit/orange.json",
         "title": "Orange"
     },
+    "019f9ac8-c0c8-76da-8b93-152fdbaa2a23": {
+        "path": "italian/fritata.json",
+        "title": "Potato, Spinach & Vegetable Frittata"
+    },
     "019f7693-1d8d-7168-8b3c-d4d3d1a5fa0a": {
         "path": "italian/pizza.json",
         "title": "Homemade Pizza"
@@ -484,7 +488,7 @@
         "title": "Pad Thai"
     },
     "019f8e39-f5a6-71dd-af72-04fb1679a094": {
-        "path": "noodles/singarpore-noodles.json",
+        "path": "noodles/singapore-noodles.json",
         "title": "Singapore Noodles"
     },
     "019f8e15-5dcb-7230-b3cb-790e7d98d224": {
@@ -772,7 +776,7 @@
         "title": "Chicken Nuggets"
     },
     "019f8587-cd11-7408-a2d2-0e751dad1fb7": {
-        "path": "snacks/chicken-samaso.json",
+        "path": "snacks/chicken-samasa.json",
         "title": "Chicken Samosas"
     },
     "019f57a4-777a-7a93-9c35-e240781fb1a6": {
@@ -902,6 +906,10 @@
     "019f5cb6-6d1f-74d8-92e6-39c87b6bef9b": {
         "path": "stew/doro-wat.json",
         "title": "Doro Wat"
+    },
+    "019f9aca-1fa2-707a-850e-2f18ef3ca431": {
+        "path": "stew/feijoda.json",
+        "title": "Slow Cooker Feijoada"
     },
     "019f5b05-3f9f-749c-b8c7-baa5a757036b": {
         "path": "stew/gigantes-plaki.json",

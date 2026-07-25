@@ -1,0 +1,122 @@
+{
+    "id": "019f9ac8-c0c8-76da-8b93-152fdbaa2a23",
+    "version": 1,
+
+    "title": "Potato, Spinach & Vegetable Frittata",
+
+    "overview": {
+        "description": "A substantial Italian-style frittata made with potatoes, frozen spinach, onion, peppers and peas.",
+        "country": "Italy",
+        "region": "Italy",
+        "serves": 6
+    },
+
+    "ingredients": [
+        "500g potatoes, peeled and sliced",
+        "300g frozen spinach",
+        "1 medium onion, finely sliced",
+        "1 red pepper, diced",
+        "150g frozen peas",
+        "8 large eggs",
+        "100ml milk",
+        "100g grated cheddar, Parmesan or other hard cheese",
+        "2 tbsp olive oil",
+        "1 tsp dried oregano",
+        "½ tsp black pepper",
+        "Salt, to taste"
+    ],
+
+    "method": [
+        "Cook the frozen spinach according to the packet instructions.",
+        "Drain the spinach thoroughly and squeeze out as much excess water as possible.",
+        "Boil the potato cubes in salted water until almost tender.",
+        "Drain the potatoes thoroughly.",
+        "Preheat the oven to 180°C.",
+        "Heat the olive oil in a large ovenproof frying pan.",
+        "Add the onion and pepper.",
+        "Cook until softened.",
+        "Add the potatoes and cook until lightly golden.",
+        "Add the peas and spinach.",
+        "Cook for 2–3 minutes until the vegetables are hot and any remaining excess moisture has evaporated.",
+        "Beat the eggs and milk together in a bowl.",
+        "Season with the oregano, black pepper and salt.",
+        "Pour the egg mixture over the vegetables.",
+        "Cook over low heat for 3–5 minutes, until the edges begin to set.",
+        "Sprinkle the cheese evenly over the top.",
+        "Transfer the pan to the oven.",
+        "Bake for approximately 15–20 minutes, until the centre is just set.",
+        "Allow the frittata to rest for 5–10 minutes before slicing.",
+        "Serve warm or at room temperature."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Green Salad"
+        ],
+        "optional-sides": [
+            "Crusty Bread",
+            "Tomato Salad",
+            "Roasted Vegetables"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 25,
+        "cook-time-minutes": 40,
+        "freezer-label": "good",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "A frittata is an Italian egg dish that is similar to an omelette, but the ingredients are mixed into the eggs rather than folded inside. It can be cooked partly on the hob and finished in the oven.",
+        "what-you-will-learn": "How eggs set when heated and how vegetables can be combined with eggs to make a substantial meal.",
+        "skills": [
+            "Cooking eggs",
+            "Managing moisture",
+            "Using frozen vegetables",
+            "Oven cooking",
+            "Batch cooking"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "An inexpensive and flexible meal that makes good use of frozen spinach and vegetables while providing a simple vegetarian option that works for breakfast, lunch or dinner.",
+        "chapman-tips": [
+            "Squeeze the spinach very thoroughly or the frittata may become watery.",
+            "Cut the potatoes into small, evenly sized pieces.",
+            "Don't overcook the eggs or the frittata may become rubbery.",
+            "The centre should be just set when the frittata comes out of the oven.",
+            "Allowing it to rest makes it easier to slice.",
+            "The vegetables can be changed according to what is available.",
+            "Mushrooms, courgette, broccoli and sweetcorn would all work well.",
+            "Cook watery vegetables thoroughly before adding the eggs."
+        ],
+        "batch-cooking": "Good for batch cooking. Cool completely before refrigerating or freezing. Individual portions can be reheated gently.",
+        "leftovers": "Good cold or reheated. Leftover slices work well in sandwiches."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Spanish Tortilla",
+            "Aloo Paratha",
+            "Vegetable Cutlet",
+            "Potato & Spinach Curry",
+            "Greek Salad"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

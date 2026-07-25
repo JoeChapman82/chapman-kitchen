@@ -80,7 +80,7 @@
 
   "relationships": {
     "similar-recipes": [
-      "<carbonara-uuid>"
+      "Carbonara"
     ]
   },
 

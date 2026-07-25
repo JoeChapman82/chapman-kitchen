@@ -18,7 +18,7 @@
 #### 🌍 Africa
 
 - [ ] Moroccan Chicken Tagine
-- [ ] Chicken Yassa
+- [x] Chicken Yassa
 - [ ] Doro Wat
 - [ ] West African Chicken Peanut Stew
 

@@ -26,6 +26,10 @@
 - [ ] Pad Kee Mao
 - [ ] Bibimbap
 - [ ] Okonomiyaki
+- [ ] Thai green curry
+- [ ] Thai red curry
+- [ ] Massaman curry
+- [ ] Hang lay curry
 
 #### 🌎 Americas
 
@@ -36,17 +40,20 @@
 
 #### 🇩🇪 Europe
 
-- [ ] Currywurst
+- [x] Currywurst
 - [ ] Gnocchi with Sage Butter
 - [ ] Hungarian Goulash
 - [ ] Swedish Meatballs
 
 #### 🌊 Seafood
 
+- [ ] Fish and chips
 - [ ] Paella
 - [ ] Salmon en Croute
 - [ ] Fish Tacos
 - [ ] Sicilian Pasta con le Sarde
+- [ ] Sweet chilli 
+- [ ] Fish fingers
 
 ---
 

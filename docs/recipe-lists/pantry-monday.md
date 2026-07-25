@@ -21,7 +21,7 @@
 - [ ] Chole with Roti
 - [ ] Rajma Chawal
 - [ ] Aloo Gobi with Dal
-- [ ] Koshari
+- [x] Koshari
 - [ ] Spinach & Chickpea Curry
 
 #### 🌍 Middle East & North Africa
@@ -34,7 +34,7 @@
 #### 🇬🇷 Greece
 
 - [ ] Spanakopita
-- [ ] Briam
+- [x] Briam
 
 #### 🌎 Americas
 

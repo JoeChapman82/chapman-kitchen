@@ -11,6 +11,7 @@
 - [ ] Leek & Potato
 - [ ] Pea & Ham
 - [ ] Carrot & Lentil
+- [ ] Super soup
 
 #### 🇮🇹 Italy
 
@@ -39,7 +40,7 @@
 
 #### 🇯🇵 Japan
 
-- [ ] Ramen-style Chicken Soup
+- [x] Ramen-style Chicken Soup
 
 #### 🇬🇷 Greece
 
@@ -67,7 +68,7 @@
 - [ ] Mature Cheddar & Chutney
 - [x] Cheese & Pickle
 - [ ] Mozzarella, Tomato & Pesto
-- [ ] Brie & Cranberry
+- [x] Brie & Cranberry
 - [ ] Gruyère Toastie
 
 #### 🥩 Meat

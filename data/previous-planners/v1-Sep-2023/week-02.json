@@ -1,5 +1,5 @@
 {
-    "week": 1,
+    "week": 2,
     "nursery-week": true,
     "days": {
         "monday": {
@@ -8,11 +8,11 @@
                 "recipes": []
             },
             "morning-snack": {
-                "meal": ["Sausage roll"],
+                "meal": ["Cheese roll"],
                 "recipes": []
             },
             "lunch": {
-                "meal": ["Carbonara"],
+                "meal": ["Mac and cheese"],
                 "recipes": []
             },
             "afternoon-snack": {
@@ -20,7 +20,7 @@
                 "recipes": []
             },
             "dinner": {
-                "meal": ["Veg and bean chilli"],
+                "meal": ["Gammon and egg or campfire stew"],
                 "recipes": []
             }
         },
@@ -33,7 +33,7 @@
             "lunch": {},
             "afternoon-snack": {},
             "dinner": {
-                "meal": ["Egg fried rice or Marry me chicken"],
+                "meal": ["Lamb pie or lamb tagine"],
                 "recipes": []
             }
         },
@@ -46,7 +46,7 @@
             "lunch": {},
             "afternoon-snack": {},
             "dinner": {
-                "meal": ["Butter chicken", "Brown dal"],
+                "meal": ["Saag aloo or Aloo gobi", "Red lentil curry"],
                 "recipes": []
             }
         },
@@ -59,7 +59,7 @@
             "lunch": {},
             "afternoon-snack": {},
             "dinner": {
-                "meal": ["Super soup", "Ham sandwich"],
+                "meal": ["Carrot and lentil", "Halloumi"],
                 "recipes": []
             }
         },
@@ -73,7 +73,7 @@
                 "recipes": []
             },
             "lunch": {
-                "meal": ["Black bean chicken"],
+                "meal": ["Eat out"],
                 "recipes": []
             },
             "afternoon-snack": {
@@ -81,35 +81,35 @@
                 "recipes": []
             },
             "dinner": {
-                "meal": ["Crab linguini"],
+                "meal": ["Fish and chips"],
                 "recipes": []
             }
         },
         "saturday": {
             "breakfast": {
-                "meal": ["Pancakes"],
+                "meal": ["Scotch pancakes"],
                 "recipes": []
             },
             "morning-snack": {
-                "meal": ["Prawn toast"],
+                "meal": ["Onion bhaji"],
                 "recipes": []
             },
             "lunch": {
-                "meal": ["Omelette"],
+                "meal": ["Pad thai"],
                 "recipes": []
             },
             "afternoon-snack": {
-                "meal": ["Apple"],
+                "meal": ["Pear"],
                 "recipes": []
             },
             "dinner": {
-                "meal": ["Fajitas or Enchildas", "Sponge pudding"],
+                "meal": ["Lasagne", "Apple pie"],
                 "recipes": []
             }
         },
         "sunday": {
             "breakfast": {
-                "meal": ["Poha"],
+                "meal": ["Croissant"],
                 "recipes": []
             },
             "morning-snack": {
@@ -125,7 +125,7 @@
                 "recipes": []
             },
             "dinner": {
-                "meal": ["Gammon Sunday lunch"],
+                "meal": ["Turkey Sunday lunch"],
                 "recipes": []
             }
         }

@@ -1,5 +1,5 @@
 {
-    "week": 1,
+    "week": 5,
     "nursery-week": true,
     "days": {
         "monday": {
@@ -12,7 +12,7 @@
                 "recipes": []
             },
             "lunch": {
-                "meal": ["Carbonara"],
+                "meal": ["Mac and cheese"],
                 "recipes": []
             },
             "afternoon-snack": {
@@ -20,7 +20,7 @@
                 "recipes": []
             },
             "dinner": {
-                "meal": ["Veg and bean chilli"],
+                "meal": ["Chicken curry"],
                 "recipes": []
             }
         },
@@ -33,7 +33,7 @@
             "lunch": {},
             "afternoon-snack": {},
             "dinner": {
-                "meal": ["Egg fried rice or Marry me chicken"],
+                "meal": ["Pork with onion rings"],
                 "recipes": []
             }
         },
@@ -46,7 +46,7 @@
             "lunch": {},
             "afternoon-snack": {},
             "dinner": {
-                "meal": ["Butter chicken", "Brown dal"],
+                "meal": ["Chicken korma", "Aloo paratha"],
                 "recipes": []
             }
         },
@@ -59,7 +59,7 @@
             "lunch": {},
             "afternoon-snack": {},
             "dinner": {
-                "meal": ["Super soup", "Ham sandwich"],
+                "meal": ["Gujrati dal", "Cheese sandwich"],
                 "recipes": []
             }
         },
@@ -73,15 +73,15 @@
                 "recipes": []
             },
             "lunch": {
-                "meal": ["Black bean chicken"],
+                "meal": ["Pad kee mao"],
                 "recipes": []
             },
             "afternoon-snack": {
-                "meal": ["Blackberries"],
+                "meal": ["Blackberry jam on toast"],
                 "recipes": []
             },
             "dinner": {
-                "meal": ["Crab linguini"],
+                "meal": ["Salmon, mash and peas"],
                 "recipes": []
             }
         },
@@ -103,13 +103,13 @@
                 "recipes": []
             },
             "dinner": {
-                "meal": ["Fajitas or Enchildas", "Sponge pudding"],
+                "meal": ["Beef rib or burgers", "Sponge pudding"],
                 "recipes": []
             }
         },
         "sunday": {
             "breakfast": {
-                "meal": ["Poha"],
+                "meal": ["Breakfast couscous"],
                 "recipes": []
             },
             "morning-snack": {
@@ -125,7 +125,7 @@
                 "recipes": []
             },
             "dinner": {
-                "meal": ["Gammon Sunday lunch"],
+                "meal": ["Lamb Sunday lunch"],
                 "recipes": []
             }
         }

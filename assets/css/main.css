@@ -873,11 +873,11 @@ a.btn-secondary:hover {
   margin-bottom: 2rem;
 }
 
+h2.previous-planners,
 .planner-group h2 {
   color: var(--accent-color);
   font-size: 1.3rem;
   margin-bottom: 0.75rem;
-  border-bottom: 1px solid var(--border-color);
   padding-bottom: 0.3rem;
 }
 

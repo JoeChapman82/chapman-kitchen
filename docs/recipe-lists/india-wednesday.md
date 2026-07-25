@@ -35,6 +35,7 @@
 - [ ] Bengali Fish Curry
 - [x] Egg Curry
 - [ ] Shorshe Mach
+- [ ] Frankie
 
 #### 🟦 Central India
 
@@ -43,7 +44,7 @@
 
 #### 🌴 Goa
 
-- [ ] Goan Fish Curry
+- [x] Goan Fish Curry
 - [ ] Chicken Xacuti
 
 #### 🏔 Kashmir

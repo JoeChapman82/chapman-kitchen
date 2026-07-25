@@ -13,9 +13,9 @@
 
   "ingredients": [
     "500g strong white bread flour",
-    "7g instant yeast",
-    "10g fine salt",
-    "15g olive oil",
+    "1 tsp yeast",
+    "1½ tsp fine salt",
+    "1 tbsp olive oil",
     "320ml warm water"
   ],
 
@@ -80,9 +80,9 @@
 
   "relationships": {
     "similar-recipes": [
-      "<naan-uuid>",
-      "<focaccia-uuid>",
-      "<batbout-uuid>"
+      "Naan",
+      "Focaccia",
+      "Batbout"
     ]
   },
 

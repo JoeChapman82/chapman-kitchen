@@ -8,11 +8,12 @@
 
 #### 🍝 Pasta Bakes
 
-- [ ] Lasagne
+- [x] Lasagne
 - [ ] Moussaka
 - [ ] Shepherd's Pie
 - [ ] Cottage Pie
 - [ ] Macaroni cheese
+- [ ] Veg lasagne
 
 #### 🥘 Slow Cooking
 
@@ -27,6 +28,7 @@
 - [ ] Chilli con Carne
 - [ ] Dal Makhani
 - [ ] Rajma
+- [ ] Feijoada
 
 #### 🥧 Pastry
 

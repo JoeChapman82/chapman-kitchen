@@ -25,7 +25,7 @@
         "Add the pudding rice, milk, sugar, butter and vanilla.",
         "Stir well to combine.",
         "Sprinkle the nutmeg over the surface.",
-        "Cook on LOW for 4–5 hours.",
+        "Cook on LOW for 10 hours.",
         "Stir after the first hour, then once or twice more if convenient.",
         "Continue cooking until the rice is tender and the pudding is thick and creamy.",
         "Serve warm or allow to cool before portioning for freezing."
@@ -44,7 +44,7 @@
 
     "planner": {
         "prep-time-minutes": 10,
-        "cook-time-minutes": 300,
+        "cook-time-minutes": 600,
         "freezer-label": "freezes exceptionally well",
         "cost": "budget",
         "after-work": false

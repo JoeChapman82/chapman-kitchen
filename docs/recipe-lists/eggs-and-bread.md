@@ -23,7 +23,7 @@
 - [x] Eggs Benedict
 - [x] Eggs in Purgatory
 - [ ] Pan con Tomate & Fried Eggs
-- [ ] Strapatsada
+- [x] Strapatsada
 
 #### 🌏 Asia
 
