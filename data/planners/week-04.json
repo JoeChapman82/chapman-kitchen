@@ -20,8 +20,8 @@
                 "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
             },
             "dinner": {
-                "meal": ["Three sisters stew", "Cheesecake"],
-                "recipes": ["019f8e83-5fb9-755e-ac8e-caf68164859f"]
+                "meal": ["Bubble and squeak", "Cheesecake"],
+                "recipes": ["019f6721-e042-74cb-865f-15a8e31e3732"]
             }
         },
         "tuesday": {
@@ -125,7 +125,7 @@
                 "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
             },
             "dinner": {
-                "meal": ["Gammon Sunday lunch. Butternut squash, carrots and brocolli"],
+                "meal": ["Gammon, roasties, butternut squash, carrots and brocolli"],
                 "recipes": []
             }
         }

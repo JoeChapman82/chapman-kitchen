@@ -1,0 +1,109 @@
+{
+    "id": "019f9edc-1c15-70fc-a455-36d1d626e080",
+    "version": 1,
+
+    "title": "Spaghetti al Pomodoro",
+
+    "overview": {
+        "description": "Spaghetti tossed with a simple, slowly simmered tomato sauce made with tomatoes, garlic, olive oil and basil.",
+        "country": "Italy",
+        "region": "Campania",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "400g spaghetti",
+        "2 tbsp extra virgin olive oil",
+        "3 garlic cloves, thinly sliced",
+        "800g tinned peeled tomatoes",
+        "Small handful fresh basil leaves",
+        "Salt, to taste",
+        "Black pepper, to taste",
+        "50g finely grated Parmesan or Pecorino, optional"
+    ],
+
+    "method": [
+        "Heat the olive oil in a large saucepan over low heat.",
+        "Add the sliced garlic and cook gently until fragrant but not browned.",
+        "Add the tomatoes and crush them with a wooden spoon.",
+        "Season lightly with salt and black pepper.",
+        "Bring the sauce to a gentle simmer.",
+        "Cook uncovered for 30–45 minutes, stirring occasionally, until the sauce has thickened and the flavour has deepened.",
+        "Tear most of the basil leaves and stir them into the sauce near the end of cooking.",
+        "Bring a large pan of salted water to the boil.",
+        "Cook the spaghetti until al dente according to the packet instructions.",
+        "Reserve a mugful of the pasta cooking water.",
+        "Drain the spaghetti.",
+        "Add the spaghetti to the tomato sauce.",
+        "Toss thoroughly, adding a little pasta water if necessary to loosen the sauce.",
+        "Serve with the remaining basil and grated cheese if using."
+    ],
+
+    "serving": {
+        "serve-with": [],
+        "optional-sides": [
+            "Garlic Bread",
+            "Green Salad",
+            "Focaccia"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 45,
+        "freezer-label": "freezes well",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Pomodoro means 'tomato' in Italian. Spaghetti al pomodoro is a classic example of Italian cooking where a small number of simple ingredients are used to create a complete dish.",
+        "what-you-will-learn": "How slowly cooking tomatoes develops flavour and how pasta cooking water can help a sauce cling to the pasta.",
+        "skills": [
+            "Making tomato sauce",
+            "Cooking pasta",
+            "Managing heat",
+            "Balancing seasoning",
+            "Using pasta water"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A simple, affordable and family-friendly pasta dish that is useful as both a complete meal and a foundation for more elaborate pasta recipes.",
+        "chapman-tips": [
+            "Use good-quality tinned tomatoes if possible.",
+            "Don't brown the garlic heavily or it can make the sauce bitter.",
+            "A gentle simmer gives the tomatoes time to become sweeter and more concentrated.",
+            "Don't rinse the cooked spaghetti.",
+            "The starch in the reserved pasta water helps the sauce emulsify and cling to the pasta.",
+            "Add the pasta to the sauce rather than simply pouring sauce over the pasta.",
+            "The sauce can be made in a larger batch and frozen separately."
+        ],
+        "batch-cooking": "Freezes well. The tomato sauce freezes particularly well and can be made in a large batch. Cooked spaghetti can also be frozen, although freshly cooked pasta gives the best texture.",
+        "leftovers": "Leftover spaghetti can be reheated gently or used to make a frittata di spaghetti."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Pizza Sauce",
+            "Meatballs in Marinara Sauce",
+            "Pesto Pasta",
+            "Pesto Rosso Pasta",
+            "Lasagne"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

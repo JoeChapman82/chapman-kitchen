@@ -8,20 +8,20 @@
                 "recipes": ["019f767e-ce66-7075-b818-f26d335779e5"]
             },
             "morning-snack": {
-                "meal": ["Beef empanadas"],
-                "recipes": ["019f90d1-e729-74de-aef7-9bff736ed4bb"]
+                "meal": ["Sausage roll"],
+                "recipes": ["019f769e-bd22-71dd-9354-70363a99be3c"]
             },
             "lunch": {
-                "meal": ["Singapore noodles"],
-                "recipes": ["019f8e39-f5a6-71dd-af72-04fb1679a094"]
+                "meal": ["Spaghetti al pomodoro"],
+                "recipes": ["019f9edc-1c15-70fc-a455-36d1d626e080"]
             },
             "afternoon-snack": {
                 "meal": ["Fruit"],
                 "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
             },
             "dinner": {
-                "meal": ["Briam"],
-                "recipes": ["019f6718-4303-735c-9c81-6d37f1452ed2"]
+                "meal": ["Three sisters stew", "Cheesecake"],
+                "recipes": ["019f8e83-5fb9-755e-ac8e-caf68164859f"]
             }
         },
         "tuesday": {
@@ -33,21 +33,21 @@
             "lunch": {},
             "afternoon-snack": {},
             "dinner": {
-                "meal": ["Chicken Yassa"],
-                "recipes": ["019f5cb4-bb1e-76df-a9e0-0cf3409af82c"]
+                "meal": ["Chicken Paprikash with nokedli"],
+                "recipes": ["019f8674-5742-749b-8ae9-046816348c69", "019f8677-e282-7747-843c-228ee3eb0e61"]
             }
         },
         "wednesday": {
             "breakfast": {
-                "meal": ["Strapatsada"],
-                "recipes": ["019f7bfe-7740-706c-a976-5580f9e41912"]
+                "meal": ["Massala ommelette"],
+                "recipes": ["019f7c00-6b0e-71ab-b0c5-80c9ac6392eb"]
             },
             "morning-snack": {},
             "lunch": {},
             "afternoon-snack": {},
             "dinner": {
-                "meal": ["Goan fish curry"],
-                "recipes": ["019f8df7-8075-7778-9988-f7fe197fa0d6"]
+                "meal": ["Saag paneer"],
+                "recipes": ["019f8e04-47d4-71d3-b404-becdce0398a5"]
             }
         },
         "thursday": {
@@ -59,8 +59,8 @@
             "lunch": {},
             "afternoon-snack": {},
             "dinner": {
-                "meal": ["Chicken ramen", "Brie and cranberry"],
-                "recipes": ["019f6fb4-ac3d-7611-a1b9-0a7d7c0a8c0c5"]
+                "meal": ["Leek and potato", "Ham salad"],
+                "recipes": ["019f5f13-4b4d-760d-8b91-43c11cd54190"]
             }
         },
         "friday": {
@@ -73,59 +73,59 @@
                 "recipes": []
             },
             "lunch": {
-                "meal": ["Eat out"],
-                "recipes": []
+                "meal": ["Pad thai"],
+                "recipes": ["019f7399-e2b1-7326-87f9-9b8ce237a8da"]
             },
             "afternoon-snack": {
                 "meal": ["Fruit"],
                 "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
             },
             "dinner": {
-                "meal": ["Gnocchi with Sage Butter", "Flapjack"],
-                "recipes": ["019f6155-c06b-7289-89d6-5c7ff35b2fe3"]
+                "meal": ["Swedish meatballs", "Flapjack"],
+                "recipes": ["019f615b-c4d8-72e8-9e42-943fde85ac03"]
             }
         },
         "saturday": {
             "breakfast": {
-                "meal": ["Scotch pancakes"],
-                "recipes": ["019f7696-2ea6-762b-8ec1-bf3702ad7eeb"]
+                "meal": ["Pancakes"],
+                "recipes": ["019f8f87-4eff-727c-a4bc-9a38f2bf16a0"]
             },
             "morning-snack": {
                 "meal": ["Yogurt"],
                 "recipes": []
             },
             "lunch": {
-                "meal": ["Fritata"],
-                "recipes": ["019f9ac8-c0c8-76da-8b93-152fdbaa2a23"]
+                "meal": ["Sweet potato quesadillas"],
+                "recipes": ["019f9eb1-610d-74a8-951c-a332497bb3d7"]
             },
             "afternoon-snack": {
                 "meal": ["Fruit"],
                 "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
             },
             "dinner": {
-                "meal": ["Lasagne", "Peach cobbler"],
-                "recipes": ["019f61e3-ad84-763d-a9ac-045e3e18d8c5", "019f90b4-cbda-737a-862d-3c72fd07c830"]
+                "meal": ["Chilli con carne", "Spotted dick with custard"],
+                "recipes": ["019f642f-294c-755a-940f-913b84308c81", "019f90b8-818d-74da-911e-fe9979013055", "019f90bb-294b-75bb-b60b-e2a97f9d8926"]
             }
         },
         "sunday": {
             "breakfast": {
-                "meal": ["Croissants"],
-                "recipes": []
+                "meal": ["Dosa, Sambar, Aloo massala"],
+                "recipes": ["019f6e88-d4bc-7079-9029-2e6327fa0219", "019f6e88-01c9-7128-b1df-2cb7091d68d6", "019f9eb7-b5fb-70de-a0c8-7d463a4024e3"]
             },
             "morning-snack": {
-                "meal": ["Onion bhaji"],
-                "recipes": ["019f956e-1197-776f-8e35-d216fe3ebbee"]
+                "meal": ["Vegetable spring roll"],
+                "recipes": ["019f9576-76ce-7239-951b-dce7eb84f0cb"]
             },
             "lunch": {
-                "meal": ["Pesto Rosso"],
-                "recipes": ["019f6b70-a069-7666-90e9-26ade31ca6ff"]
+                "meal": ["Okonomiyaki"],
+                "recipes": ["019f739c-8cd7-752e-9791-5c9adae6d7f3"]
             },
             "afternoon-snack": {
                 "meal": ["Fruit"],
                 "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
             },
             "dinner": {
-                "meal": ["Pork, mash, parsnips, carrots, cabbage"],
+                "meal": ["Gammon Sunday lunch. Butternut squash, carrots and brocolli"],
                 "recipes": []
             }
         }
