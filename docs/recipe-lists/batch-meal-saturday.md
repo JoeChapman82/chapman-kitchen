@@ -25,7 +25,7 @@
 #### 🍛 Big Pot Meals
 
 - [ ] Bolognese
-- [ ] Chilli con Carne
+- [x] Chilli con Carne
 - [ ] Dal Makhani
 - [ ] Rajma
 - [ ] Feijoada

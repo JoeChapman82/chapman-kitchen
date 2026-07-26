@@ -1,0 +1,122 @@
+{
+    "id": "019f9eb7-b5fb-70de-a0c8-7d463a4024e3",
+    "version": 1,
+
+    "title": "Aloo Masala",
+
+    "overview": {
+        "description": "Soft potatoes cooked with onion, mustard seeds, curry leaves, turmeric and gentle spices.",
+        "country": "India",
+        "region": "South India",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "800g potatoes, peeled and cut into medium chunks",
+        "1 large onion, finely sliced",
+        "2 green chillies, finely sliced, optional",
+        "2 garlic cloves, finely chopped",
+        "1 tsp mustard seeds",
+        "1 tsp cumin seeds",
+        "10–12 curry leaves",
+        "½ tsp turmeric",
+        "½ tsp ground cumin",
+        "½ tsp ground coriander",
+        "1 tbsp lemon juice",
+        "2 tbsp neutral oil",
+        "Small handful fresh coriander, chopped",
+        "Salt, to taste"
+    ],
+
+    "method": [
+        "Boil the potatoes in salted water until tender but not falling apart.",
+        "Drain the potatoes and allow them to steam dry for a few minutes.",
+        "Heat the oil in a large frying pan or kadai.",
+        "Add the mustard seeds.",
+        "When they begin to pop, add the cumin seeds and curry leaves.",
+        "Add the sliced onion and cook until softened and lightly golden.",
+        "Add the garlic and green chillies.",
+        "Cook for 1 minute.",
+        "Add the turmeric, ground cumin and ground coriander.",
+        "Stir for 30 seconds.",
+        "Add the cooked potatoes and salt.",
+        "Gently stir until the potatoes are coated in the spices.",
+        "Cook for 5–8 minutes, stirring occasionally, until the potatoes have absorbed the flavours.",
+        "Squeeze over the lemon juice.",
+        "Garnish with fresh coriander.",
+        "Serve hot."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Masala Dosa"
+        ],
+        "optional-sides": [
+            "Plain Rice",
+            "Roti",
+            "Chapati",
+            "Naan",
+            "Coconut Chutney",
+            "Sambar"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 25,
+        "cook-time-minutes": 25,
+        "freezer-label": "good",
+        "cost": "low",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Aloo means potato in several South Asian languages, while masala generally refers to a mixture of spices or a spiced preparation. Aloo masala can therefore refer to many different spiced potato dishes.",
+        "what-you-will-learn": "How whole spices are tempered in hot oil to release their aroma and how spices can transform a simple potato into a flavourful dish.",
+        "skills": [
+            "Boiling potatoes",
+            "Tempering whole spices",
+            "Balancing spices",
+            "Managing potato texture",
+            "Using fresh herbs"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A versatile potato dish that can be served as a filling, side dish or simple meal and makes good use of familiar pantry spices.",
+        "chapman-tips": [
+            "Don't overcook the potatoes during boiling or they may break apart in the pan.",
+            "Allowing the potatoes to steam dry helps them absorb the spices without becoming watery.",
+            "Mustard seeds should be added to hot oil and allowed to pop before adding other ingredients.",
+            "The lemon juice at the end helps balance the richness and spices.",
+            "For a drier dosa filling, break some of the potatoes apart as they cook.",
+            "For a chunkier side dish, stir very gently and keep the potato pieces intact.",
+            "Fresh coriander can be replaced with a little fresh curry leaf if desired."
+        ],
+        "batch-cooking": "Good for batch cooking. Cool thoroughly before refrigerating or freezing. The texture may soften slightly after freezing and reheating.",
+        "leftovers": "Leftover aloo masala can be used as a filling for dosa, paratha, sandwiches, wraps or samosas."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Aloo Gobi",
+            "Aloo Paratha",
+            "Batata Poha",
+            "Vegetable Cutlet",
+            "Potato & Spinach Frittata"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}

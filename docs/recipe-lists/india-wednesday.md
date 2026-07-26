@@ -55,7 +55,7 @@
 #### 🌱 Vegetarian Favourites
 
 - [ ] Dal Chawal with Roti
-- [ ] Saag Paneer
+- [x] Saag Paneer
 
 #### 🌱 Prawn
 

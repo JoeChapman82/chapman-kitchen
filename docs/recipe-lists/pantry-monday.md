@@ -39,7 +39,7 @@
 #### 🌎 Americas
 
 - [ ] Vegetable & Black Bean Chilli
-- [ ] Three Sisters Stew
+- [x] Three Sisters Stew
 
 #### 🌍 Africa
 

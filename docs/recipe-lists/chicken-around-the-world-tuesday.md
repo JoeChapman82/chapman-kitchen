@@ -11,7 +11,7 @@
 - [ ] Chicken Cacciatore
 - [ ] Marry Me Chicken
 - [ ] Coq au Vin
-- [ ] Chicken Paprikash with nokedli
+- [x] Chicken Paprikash with nokedli
 - [x] Chicken Provençal
 - [ ] Chicken Fricassée
 

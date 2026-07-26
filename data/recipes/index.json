@@ -187,6 +187,10 @@
         "path": "chutney/red-onion-chutney.json",
         "title": "Caramelised Onion Chutney"
     },
+    "019f9eb7-b5fb-70de-a0c8-7d463a4024e3": {
+        "path": "curry/aloo-massala.json",
+        "title": "Aloo Masala"
+    },
     "019f8e7b-0c6b-7735-a31b-b30c34d1c5c2": {
         "path": "curry/aloo.gobi.json",
         "title": "Aloo Gobi"
@@ -747,6 +751,10 @@
         "path": "sandwich/chicken-shawarma.json",
         "title": "Chicken Shawarma"
     },
+    "019f9eb1-610d-74a8-951c-a332497bb3d7": {
+        "path": "sandwich/sweet-potato-quesadillas.json",
+        "title": "Sweet Potato & Spicy Sausage Quesadillas"
+    },
     "019f8b70-8893-763e-8536-ea99fd8f8532": {
         "path": "sauce/green-sauce.json",
         "title": "Peruvian Ají Verde"
@@ -875,7 +883,7 @@
         "path": "soup/ribollita.json",
         "title": "Ribollita"
     },
-    "019f6e88-01c9-7128-b1df-2cb7091d68d6>": {
+    "019f6e88-01c9-7128-b1df-2cb7091d68d6": {
         "path": "soup/sambar.json",
         "title": "Sambar"
     },

@@ -28,7 +28,7 @@
 #### 🌏 Asia
 
 - [x] Korean Egg Toast
-- [ ] Masala Omelette & Buttered Toast
+- [x] Masala Omelette & Buttered Toast
 - [ ] Tamago Sando
 
 #### 🌎 Americas

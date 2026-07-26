@@ -1,6 +1,6 @@
-- [ ] sweet potato quesadilas
+- [x] sweet potato quesadilas
 - [ ] Spaghetti and meatballs
 - [x] Pad thai
 - [ ] Pad kee mao
-- [ ] Carbonara
+- [x] Carbonara
 - [ ] Pasta bake

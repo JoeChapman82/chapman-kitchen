@@ -9,7 +9,7 @@
 #### 🇮🇹 Mediterranean
 
 - [ ] Moussaka
-- [ ] Briam
+- [x] Briam
 - [ ] Spanakopita
 - [ ] Greek Chicken Souvlaki
 
@@ -22,12 +22,12 @@
 
 #### 🌏 East Asia
 
-- [ ] Pad Thai
+- [x] Pad Thai
 - [ ] Pad Kee Mao
 - [ ] Bibimbap
-- [ ] Okonomiyaki
+- [x] Okonomiyaki
 - [ ] Thai green curry
-- [ ] Thai red curry
+- [x] Thai red curry
 - [ ] Massaman curry
 - [ ] Hang lay curry
 
@@ -36,14 +36,14 @@
 - [ ] Homemade Burgers
 - [ ] Fajitas
 - [ ] Enchiladas
-- [ ] Jambalaya
+- [x] Jambalaya
 
 #### 🇩🇪 Europe
 
 - [x] Currywurst
-- [ ] Gnocchi with Sage Butter
+- [x] Gnocchi with Sage Butter
 - [ ] Hungarian Goulash
-- [ ] Swedish Meatballs
+- [x] Swedish Meatballs
 
 #### 🌊 Seafood
 
@@ -52,7 +52,7 @@
 - [ ] Salmon en Croute
 - [ ] Fish Tacos
 - [ ] Sicilian Pasta con le Sarde
-- [ ] Sweet chilli 
+- [ ] Sweet chilli fish
 - [ ] Fish fingers
 
 ---

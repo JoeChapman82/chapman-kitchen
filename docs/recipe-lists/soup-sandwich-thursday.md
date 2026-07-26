@@ -8,7 +8,7 @@
 
 #### 🇬🇧 Britain
 
-- [ ] Leek & Potato
+- [x] Leek & Potato
 - [ ] Pea & Ham
 - [ ] Carrot & Lentil
 - [ ] Super soup
@@ -73,7 +73,7 @@
 
 #### 🥩 Meat
 
-- [ ] Ham Salad
+- [x] Ham Salad
 - [ ] Coronation Chicken
 - [ ] Chicken Mayo
 - [ ] Pastrami

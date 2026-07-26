@@ -1,0 +1,125 @@
+{
+    "id": "019f9eb1-610d-74a8-951c-a332497bb3d7",
+    "version": 1,
+
+    "title": "Sweet Potato & Spicy Sausage Quesadillas",
+
+    "overview": {
+        "description": "Crisp flour tortillas filled with roasted sweet potato, spicy sausage, melted cheese and onion.",
+        "country": "Mexico",
+        "region": "Mesoamerica",
+        "serves": 4
+    },
+
+    "ingredients": [
+        "600g sweet potatoes, peeled and cut into small cubes",
+        "250g spicy sausage, removed from its casing and crumbled",
+        "1 medium red onion, finely sliced",
+        "1 red pepper, diced",
+        "2 garlic cloves, finely chopped",
+        "1 tsp smoked paprika",
+        "½ tsp ground cumin",
+        "½ tsp chilli powder, optional",
+        "150g grated cheddar or Monterey Jack",
+        "8 medium flour tortillas",
+        "1 tbsp olive oil",
+        "Salt, to taste",
+        "Black pepper, to taste"
+    ],
+
+    "method": [
+        "Preheat the oven to 200°C.",
+        "Toss the sweet potato with half the olive oil, the smoked paprika, cumin, chilli powder if using, salt and black pepper.",
+        "Spread the sweet potato on a baking tray.",
+        "Roast for 25–30 minutes, turning once, until tender and lightly caramelised.",
+        "While the sweet potato cooks, heat the remaining oil in a large frying pan.",
+        "Add the spicy sausage and cook until browned and cooked through.",
+        "Add the red onion and red pepper.",
+        "Cook until softened.",
+        "Add the garlic and cook for 1 minute.",
+        "Remove from the heat.",
+        "Add the roasted sweet potato to the sausage mixture and gently combine.",
+        "Heat a large dry frying pan over medium heat.",
+        "Place one tortilla in the pan.",
+        "Spread cheese over half of the tortilla.",
+        "Add some of the sweet potato and sausage filling.",
+        "Add a little more cheese.",
+        "Fold the tortilla over the filling.",
+        "Cook until the underside is golden and crisp.",
+        "Carefully turn the quesadilla and cook until the other side is golden and the cheese has melted.",
+        "Repeat with the remaining tortillas and filling.",
+        "Cut into wedges and serve."
+    ],
+
+    "serving": {
+        "serve-with": [
+            "Salsa"
+        ],
+        "optional-sides": [
+            "Sour Cream",
+            "Guacamole",
+            "Tomato Salsa",
+            "Green Salad",
+            "Lime Wedges"
+        ]
+    },
+
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 40,
+        "freezer-label": "good",
+        "cost": "moderate",
+        "after-work": true
+    },
+
+    "learning": {
+        "did-you-know": "Quesadillas get their name from queso, the Spanish word for cheese. The cheese melts between tortillas or inside folded tortillas, while the other fillings can vary enormously.",
+        "what-you-will-learn": "How roasting concentrates the sweetness of vegetables and how cheese helps bind fillings together inside a crisp tortilla.",
+        "skills": [
+            "Roasting vegetables",
+            "Cooking sausage",
+            "Balancing sweet and spicy flavours",
+            "Pan-frying",
+            "Batch cooking"
+        ]
+    },
+
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A family-friendly meal that combines sweet potato with spicy sausage and melted cheese in a format that is easy to customise and works well for batch preparation.",
+        "chapman-tips": [
+            "Cut the sweet potato into small cubes so it cooks quickly and develops plenty of caramelised edges.",
+            "Roasting the sweet potato gives it much more flavour than boiling.",
+            "Don't overfill the quesadillas or they will be difficult to turn.",
+            "Use enough cheese to help hold the filling together.",
+            "A moderately hot pan gives the tortilla time to crisp while the cheese melts.",
+            "The heat level can be adjusted by changing the sausage or adding chilli separately.",
+            "A little lime juice or fresh coriander works particularly well with the sweet potato."
+        ],
+        "batch-cooking": "Good for batch cooking. Prepare the filling in advance and refrigerate it until needed. Assembled quesadillas can be cooked and frozen, although freshly cooked quesadillas have the best texture.",
+        "leftovers": "Leftover filling can be used in omelettes, wraps, sandwiches or on top of baked potatoes."
+    },
+
+    "relationships": {
+        "similar-recipes": [
+            "Fajitas",
+            "Chimichangas",
+            "Vegetable & Black Bean Chilli",
+            "Frittata",
+            "Aloo Paratha"
+        ]
+    },
+
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+
+    "metadata": {
+        "created": "",
+        "updated": "",
+        "created-by": "",
+        "updated-by": ""
+    }
+}
