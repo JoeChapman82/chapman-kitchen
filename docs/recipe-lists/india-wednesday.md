@@ -16,7 +16,7 @@
 
 #### 🟧 West India (Gujarat, Rajasthan)
 
-- [ ] Pav Bhaji
+- [x] Pav Bhaji
 - [ ] Vegetable Biryani with Raita
 - [ ] Gujarati Dal
 - [ ] Sev Tameta

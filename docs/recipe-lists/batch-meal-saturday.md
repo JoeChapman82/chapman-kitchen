@@ -9,7 +9,7 @@
 #### 🍝 Pasta Bakes
 
 - [x] Lasagne
-- [ ] Moussaka
+- [x] Moussaka
 - [ ] Shepherd's Pie
 - [ ] Cottage Pie
 - [ ] Macaroni cheese

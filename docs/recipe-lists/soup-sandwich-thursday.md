@@ -56,7 +56,7 @@
 
 #### 🇨🇳 China
 
-- [ ] Egg Drop Soup
+- [x] Egg Drop Soup
 - [ ] Hot and sour soup
 
 ---
@@ -76,7 +76,7 @@
 - [x] Ham Salad
 - [ ] Coronation Chicken
 - [ ] Chicken Mayo
-- [ ] Pastrami
+- [x] Pastrami
 
 #### 🥗 Vegetarian
 

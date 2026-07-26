@@ -18,7 +18,7 @@
 
 #### 🇪🇺 Europe
 
-- [ ] Çılbır (Turkish Eggs)
+- [x] Çılbır (Turkish Eggs)
 - [ ] Croque Madame
 - [x] Eggs Benedict
 - [x] Eggs in Purgatory

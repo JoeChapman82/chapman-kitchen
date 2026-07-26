@@ -48,7 +48,7 @@
 #### 🌊 Seafood
 
 - [ ] Fish and chips
-- [ ] Paella
+- [x] Paella
 - [ ] Salmon en Croute
 - [ ] Fish Tacos
 - [ ] Sicilian Pasta con le Sarde
