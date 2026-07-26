@@ -28,7 +28,7 @@
 
 #### 🇮🇳 India
 
-- [ ] Mulligatawny
+- [x] Mulligatawny
 
 #### 🇲🇽 Mexico
 
@@ -67,7 +67,7 @@
 
 - [ ] Mature Cheddar & Chutney
 - [x] Cheese & Pickle
-- [ ] Mozzarella, Tomato & Pesto
+- [x] Mozzarella, Tomato & Pesto
 - [x] Brie & Cranberry
 - [ ] Gruyère Toastie
 

@@ -8,7 +8,7 @@
 
 #### 🇮🇹 Mediterranean
 
-- [ ] Moussaka
+- [x] Moussaka
 - [x] Briam
 - [ ] Spanakopita
 - [ ] Greek Chicken Souvlaki
@@ -23,17 +23,17 @@
 #### 🌏 East Asia
 
 - [x] Pad Thai
-- [ ] Pad Kee Mao
+- [x] Pad Kee Mao
 - [ ] Bibimbap
 - [x] Okonomiyaki
 - [ ] Thai green curry
 - [x] Thai red curry
-- [ ] Massaman curry
+- [x] Massaman curry
 - [ ] Hang lay curry
 
 #### 🌎 Americas
 
-- [ ] Homemade Burgers
+- [x] Homemade Burgers
 - [ ] Fajitas
 - [ ] Enchiladas
 - [x] Jambalaya
@@ -63,7 +63,7 @@
 
 #### 🇮🇹 Mediterranean
 
-- [ ] Moussaka
+- [x] Moussaka
 - [ ] Briam
 - [ ] Spanakopita
 - [ ] Greek Chicken Souvlaki

@@ -13,7 +13,7 @@
 - [ ] Coq au Vin
 - [x] Chicken Paprikash with nokedli
 - [x] Chicken Provençal
-- [ ] Chicken Fricassée
+- [x] Chicken Fricassée
 
 #### 🌍 Africa
 
@@ -40,7 +40,7 @@
 
 - [ ] Chicken Satay
 - [ ] Thai Green Curry
-- [ ] Thai Red Curry
+- [x] Thai Red Curry
 - [ ] Vietnamese Lemongrass Chicken
 
 #### 🌎 Americas
@@ -48,7 +48,7 @@
 - [ ] Chicken Fajitas
 - [ ] Chicken Enchiladas
 - [ ] Pollo Asado
-- [ ] Peruvian Roast Chicken
+- [x] Peruvian Roast Chicken
 
 ---
 

@@ -28,7 +28,7 @@
 - [x] Chilli con Carne
 - [ ] Dal Makhani
 - [ ] Rajma
-- [ ] Feijoada
+- [x] Feijoada
 
 #### 🥧 Pastry
 
@@ -40,7 +40,7 @@
 
 - [x] Jambalaya
 - [x] Koshari
-- [ ] Paella
+- [x] Paella
 - [ ] Kabab koobideh with tahdig and grilled tomatoes
 #### 🍖 Roasting
 

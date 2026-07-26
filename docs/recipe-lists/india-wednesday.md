@@ -59,7 +59,7 @@
 
 #### 🌱 Prawn
 
-- [ ] Kolkata prawn butter massala
+- [x] Kolkata prawn butter massala
 
 
 ---

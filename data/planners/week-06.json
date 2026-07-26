@@ -1,27 +1,27 @@
 {
-    "week": 5,
+    "week": 6,
     "nursery-week": true,
     "days": {
         "monday": {
             "breakfast": {
-                "meal": ["Porridge with blackberry and banana"],
+                "meal": ["Porridge with apple and cinnamon"],
                 "recipes": ["019f767e-ce66-7075-b818-f26d335779e5"]
             },
             "morning-snack": {
-                "meal": ["Sausage roll"],
-                "recipes": ["019f769e-bd22-71dd-9354-70363a99be3c"]
+                "meal": ["Pork gyoza"],
+                "recipes": ["019f8589-adca-73c6-9789-3920cfed8d43"]
             },
             "lunch": {
-                "meal": ["Spaghetti al pomodoro"],
-                "recipes": ["019f9edc-1c15-70fc-a455-36d1d626e080"]
+                "meal": ["Dal Chawal with Roti"],
+                "recipes": ["019f8e0b-635b-7392-87fd-59ee36c8d4ee", "019f8b78-a909-713d-9165-bfa5d6ba52dd"]
             },
             "afternoon-snack": {
                 "meal": ["Fruit"],
                 "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
             },
             "dinner": {
-                "meal": ["Three sisters stew", "Cheesecake"],
-                "recipes": ["019f8e83-5fb9-755e-ac8e-caf68164859f"]
+                "meal": ["Red red", "Cheesecake"],
+                "recipes": ["019f671b-192e-76f8-8168-cf59307bb0c3"]
             }
         },
         "tuesday": {
@@ -33,21 +33,21 @@
             "lunch": {},
             "afternoon-snack": {},
             "dinner": {
-                "meal": ["Marry me chicken"],
-                "recipes": ["019f866d-834d-76f1-a295-38a68cc25da7"]
+                "meal": ["Chicken Fricassée"],
+                "recipes": ["019f867c-4b2f-735e-a569-1db2b00b2dbf"]
             }
         },
         "wednesday": {
             "breakfast": {
-                "meal": ["Çılbır (Turkish Eggs)"],
-                "recipes": ["019f7bf5-c73d-769b-9fbd-a7cdc37130b6"]
+                "meal": ["Croque Madame"],
+                "recipes": ["019f7bf8-41fe-765f-aa65-fdaf7864af24"]
             },
             "morning-snack": {},
             "lunch": {},
             "afternoon-snack": {},
             "dinner": {
-                "meal": ["Pav bhaji"],
-                "recipes": ["019f6e80-1228-766c-afd8-b77171e3350e"]
+                "meal": ["Kolkota prawn butter massala"],
+                "recipes": ["019f8dfd-7f80-7618-b5f7-e4f440fb1bad"]
             }
         },
         "thursday": {
@@ -59,8 +59,8 @@
             "lunch": {},
             "afternoon-snack": {},
             "dinner": {
-                "meal": ["Egg drop soup", "Pastrami"],
-                "recipes": ["019f6fbc-4fca-74e9-ade2-4b3bf6e665e1"]
+                "meal": ["Mulligatawny", "Mozerella and tomato"],
+                "recipes": ["019f6fae-58ca-74ee-b976-4702a29a85c9"]
             }
         },
         "friday": {
@@ -73,60 +73,60 @@
                 "recipes": []
             },
             "lunch": {
-                "meal": ["Eat out"],
-                "recipes": []
+                "meal": ["Massaman curry"],
+                "recipes": ["019f6b7d-b22b-7799-80cb-9f2cb911ffbe", "019f6b7e-f4ef-77d8-bbcf-10de910103e0"]
             },
             "afternoon-snack": {
                 "meal": ["Fruit"],
                 "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
             },
             "dinner": {
-                "meal": ["Paella", "Flapjack"],
-                "recipes": ["019f65c2-dec8-7369-a79b-b16b3d112517"]
+                "meal": ["Burgers", "Flapjack"],
+                "recipes": ["019f739d-e62c-705d-9dc4-0e0206858d83"]
             }
         },
         "saturday": {
             "breakfast": {
-                "meal": ["Scotch pancakes"],
-                "recipes": ["019f7696-2ea6-762b-8ec1-bf3702ad7eeb"]
+                "meal": ["Pancakes"],
+                "recipes": ["019f8f87-4eff-727c-a4bc-9a38f2bf16a0"]
             },
             "morning-snack": {
                 "meal": ["Yogurt"],
                 "recipes": []
             },
             "lunch": {
-                "meal": ["Mie Goreng Jawa"],
-                "recipes": ["019f8e14-070b-725d-ac5a-6da236f7c925"]
+                "meal": ["Pad Kee mao"],
+                "recipes": ["019f6163-8e75-761b-915c-cf2ef3795248"]
             },
             "afternoon-snack": {
                 "meal": ["Fruit"],
                 "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
             },
             "dinner": {
-                "meal": ["Moussaka", "Bread and butter pudding"],
-                "recipes": ["019f641d-074c-77ea-8359-55d8640051fd", "019f90b6-8193-7148-b1e5-26adb0fb6699"]
+                "meal": ["Feijoada", "Jam roly poly"],
+                "recipes": ["019f9aca-1fa2-707a-850e-2f18ef3ca431", "019f90b9-ea47-7685-b94e-fe73acc18a59"]
             }
         },
         "sunday": {
             "breakfast": {
-                "meal": ["Full english"],
+                "meal": ["Breakfast couscous"],
                 "recipes": []
             },
             "morning-snack": {
-                "meal": ["Vegetable cutlet"],
-                "recipes": ["019f956f-8878-75e8-8350-30d083a7a44a"]
+                "meal": ["Japanese Vegetable Korokke"],
+                "recipes": ["019f9574-c035-7617-b63d-9d79b70a0025"]
             },
             "lunch": {
-                "meal": ["Pesto pasta"],
-                "recipes": ["019f6a61-ea64-741c-9ebe-e7147a746438"]
+                "meal": ["Pesto rosso"],
+                "recipes": ["019f6b70-a069-7666-90e9-26ade31ca6ff"]
             },
             "afternoon-snack": {
                 "meal": ["Fruit"],
                 "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
             },
             "dinner": {
-                "meal": ["Peruvian Roast Chicken", "Picked vegetables"],
-                "recipes": ["019f8b6e-7982-75a5-ab74-b64fe0314655", "019f8b7d-0342-76f4-945f-7808e05242b9"]
+                "meal": ["Lamb, roasties, brocolli, red cabbage"],
+                "recipes": []
             }
         }
     }
