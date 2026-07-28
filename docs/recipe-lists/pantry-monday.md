@@ -10,14 +10,14 @@
 
 - [ ] Pasta e Ceci
 - [ ] Ribollita
-- [ ] Minestrone
+- [x] Minestrone
 - [ ] Gigantes Plaki
 - [x] Tuscan Butter Beans
 - [ ] Mushroom & Pearl Barley Risotto
 
 #### 🇮🇳 India
 
-- [ ] Dal Chawal with Roti
+- [x] Dal Chawal with Roti
 - [ ] Chole with Roti
 - [ ] Rajma Chawal
 - [ ] Aloo Gobi with Dal
@@ -43,12 +43,12 @@
 
 #### 🌍 Africa
 
-- [ ] Red Red
+- [x] Red Red
 - [ ] Peanut & Sweet Potato Stew
 
 #### 🇬🇧 Britain
 
-- [ ] Bubble & Squeak with Fried Eggs
+- [x] Bubble & Squeak with Fried Eggs
 - [ ] Homity Pie
 
 ---
