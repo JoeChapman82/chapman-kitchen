@@ -1,16 +1,13 @@
 {
     "id": "019f7bfc-75e1-741b-ba9e-2000b33392bf",
     "version": 1,
-
     "title": "Pan con Tomate (Pa amb Tomàquet)",
-
     "overview": {
         "description": "A classic Catalan breakfast of toasted bread rubbed with garlic and ripe tomato, finished with olive oil and flaky sea salt.",
         "country": "Spain",
         "region": "Catalonia",
         "serves": 2
     },
-
     "ingredients": [
         "4 slices rustic bread",
         "2 very ripe tomatoes",
@@ -19,7 +16,6 @@
         "Flaky sea salt",
         "Black pepper (optional)"
     ],
-
     "method": [
         "Toast the bread until crisp but still slightly chewy in the centre.",
         "Peel the garlic clove.",
@@ -30,7 +26,6 @@
         "Finish with flaky sea salt and a little black pepper if desired.",
         "Serve immediately."
     ],
-
     "serving": {
         "serve-with": [
             "Jamón Serrano",
@@ -42,7 +37,6 @@
             "Boiled Eggs"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 5,
         "cook-time-minutes": 5,
@@ -50,7 +44,6 @@
         "cost": "very low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Pa amb Tomàquet has been enjoyed in Catalonia for well over a century and is often served from breakfast through to dinner.",
         "what-you-will-learn": "How high-quality ingredients and simple techniques can produce outstanding flavour.",
@@ -60,7 +53,6 @@
             "Balancing seasoning"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -72,7 +64,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "An incredibly simple breakfast that celebrates good bread, ripe tomatoes and excellent olive oil while using ingredients almost always found in the kitchen during summer.",
         "chapman-tips": [
@@ -85,7 +76,6 @@
         "batch-cooking": "Not suitable.",
         "leftovers": "Best made fresh."
     },
-
     "relationships": {
         "similar-recipes": [
             "Eggs in Purgatory",
@@ -93,16 +83,14 @@
             "Homemade Pizza"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-19",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

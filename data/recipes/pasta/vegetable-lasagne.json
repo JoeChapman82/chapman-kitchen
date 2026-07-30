@@ -1,16 +1,13 @@
 {
     "id": "019f739f-5155-7018-ab31-53811601d558",
     "version": 1,
-
     "title": "Vegetable Lasagne",
-
     "overview": {
         "description": "Layers of roasted vegetables, tomato sauce, creamy béchamel and pasta baked with bubbling cheese.",
         "country": "Italy",
         "region": "Emilia-Romagna (inspired)",
         "serves": 8
     },
-
     "ingredients": [
         "2 courgettes, sliced",
         "2 peppers, diced",
@@ -29,7 +26,6 @@
         "200g mozzarella, torn",
         "75g Parmesan, grated"
     ],
-
     "method": [
         "Roast the courgettes, peppers and mushrooms at 220°C (200°C fan) for 25 minutes until lightly caramelised.",
         "Meanwhile, heat the olive oil over a medium heat.",
@@ -46,7 +42,6 @@
         "Bake at 200°C (180°C fan) for 40–45 minutes until golden and bubbling.",
         "Rest for 15 minutes before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Green Salad"
@@ -55,7 +50,6 @@
             "Garlic Bread"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 30,
         "cook-time-minutes": 70,
@@ -63,7 +57,6 @@
         "cost": "budget",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Lasagne doesn't have to contain meat. Vegetable versions have long been popular throughout Italy, particularly when seasonal produce is abundant.",
         "what-you-will-learn": "How roasting vegetables concentrates their flavour and prevents a watery lasagne.",
@@ -74,7 +67,6 @@
             "Baking"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -86,7 +78,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A hearty vegetarian main that's perfect for batch cooking and uses vegetables already common in the Chapman Kitchen.",
         "chapman-tips": [
@@ -98,7 +89,6 @@
         "batch-cooking": "Bake, cool completely and freeze whole or in individual portions for up to 6 months.",
         "leftovers": "Reheats beautifully in the oven or microwave."
     },
-
     "relationships": {
         "similar-recipes": [
             "Lasagne",
@@ -107,16 +97,14 @@
             "Spanakopita"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-18",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

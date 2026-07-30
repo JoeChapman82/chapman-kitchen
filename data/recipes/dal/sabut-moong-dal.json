@@ -1,16 +1,13 @@
 {
     "id": "019f8e08-1405-75bf-aa9a-0e3e9e92359c",
     "version": 1,
-
     "title": "Sabut Moong Dal",
-
     "overview": {
         "description": "Whole green moong dal pressure-cooked with a deeply flavoured onion, tomato and spice masala, then finished with a fragrant tempering.",
         "country": "India",
         "region": "North India",
         "serves": 4
     },
-
     "ingredients": [
         "250g whole green moong dal",
         "1 tbsp neutral oil",
@@ -37,7 +34,6 @@
         "2 garlic cloves, thinly sliced",
         "1 dried red chilli"
     ],
-
     "method": [
         "Rinse the whole green moong dal thoroughly.",
         "For the best texture, soak the dal in plenty of water for at least 4 hours, or overnight.",
@@ -64,7 +60,6 @@
         "Pour the hot tadka over the dal.",
         "Finish with fresh coriander and serve."
     ],
-
     "serving": {
         "serve-with": [
             "Steamed Rice",
@@ -79,7 +74,6 @@
             "Plain Yogurt"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 45,
@@ -87,7 +81,6 @@
         "cost": "very low",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Whole green moong beans are the same pulse as moong dal, but with the green outer skin left intact. This gives them a firmer texture and a more pronounced, nutty flavour.",
         "what-you-will-learn": "How soaking and pressure cooking transform a whole pulse, how to build a deeply flavoured masala in a multi-cooker and how a final tadka adds a fresh layer of flavour.",
@@ -99,7 +92,6 @@
             "Making a tadka"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -111,7 +103,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A more substantial dal that demonstrates how the same pulse can have a completely different character when cooked whole rather than split and skinned.",
         "chapman-tips": [
@@ -126,7 +117,6 @@
         "batch-cooking": "Freezes well. Cool completely before freezing in airtight portions. Thaw overnight in the refrigerator and reheat gently, adding water as necessary to loosen the dal.",
         "leftovers": "Thin with water and reheat as a soup, serve with rice or use as a filling for chapati or paratha."
     },
-
     "relationships": {
         "similar-recipes": [
             "Simple Red Moong Dal",
@@ -135,18 +125,16 @@
             "Kashmiri Dum Aloo"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

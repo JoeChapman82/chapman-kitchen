@@ -1,16 +1,13 @@
 {
     "id": "019f8671-8fc9-7140-9fd5-1c16f8e8a47e",
     "version": 1,
-
     "title": "Coq au Vin",
-
     "overview": {
         "description": "Chicken slowly braised in red wine with lardons, mushrooms, pearl onions and aromatic herbs.",
         "country": "France",
         "region": "Burgundy",
         "serves": 4
     },
-
     "ingredients": [
         "4 chicken thighs, bone-in and skin-on",
         "4 chicken drumsticks",
@@ -31,7 +28,6 @@
         "Black pepper",
         "Fresh parsley, to serve"
     ],
-
     "method": [
         "Pat the chicken dry and season lightly with salt and black pepper.",
         "Heat a large heavy-based casserole over a medium heat.",
@@ -58,7 +54,6 @@
         "Taste and adjust the seasoning.",
         "Scatter with fresh parsley before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Mashed Potatoes"
@@ -69,7 +64,6 @@
             "Green Beans"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 30,
         "cook-time-minutes": 90,
@@ -77,7 +71,6 @@
         "cost": "mid-range",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Coq au vin literally means 'rooster with wine'. The dish is traditionally associated with Burgundy, although many French regions have their own versions using local wines and ingredients.",
         "what-you-will-learn": "How to brown meat, build a wine-based braising sauce and slowly cook chicken until tender and deeply flavoured.",
@@ -89,7 +82,6 @@
             "Reducing sauces"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -101,7 +93,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A classic French dish that teaches how time, wine and gentle cooking can transform inexpensive chicken into a deeply flavoured meal.",
         "chapman-tips": [
@@ -114,7 +105,6 @@
         "batch-cooking": "Cool completely before freezing in portions. Freeze the chicken and sauce together.",
         "leftovers": "Reheat gently and serve with mashed potatoes, noodles or crusty bread. The chicken can also be removed from the bones and used in a pie or pasta dish."
     },
-
     "relationships": {
         "similar-recipes": [
             "Chicken Cacciatore",
@@ -122,18 +112,16 @@
             "Lamb Kofta"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-21",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

@@ -1,32 +1,26 @@
 {
     "id": "019f9589-180d-72bc-ab67-8bc3c669553d",
     "version": 1,
-
     "title": "Kiwi",
-
     "overview": {
         "description": "A small fruit with fuzzy brown skin and bright green flesh containing tiny edible black seeds.",
         "country": "China",
         "region": "",
         "serves": 1
     },
-
     "ingredients": [
         "1 kiwi"
     ],
-
     "method": [
         "Wash the kiwi.",
         "Cut it in half.",
         "Scoop out the flesh with a spoon, or peel away the skin and slice the fruit.",
         "The tiny black seeds can be eaten."
     ],
-
     "serving": {
         "serve-with": [],
         "optional-sides": []
     },
-
     "planner": {
         "prep-time-minutes": 2,
         "cook-time-minutes": 0,
@@ -34,7 +28,6 @@
         "cost": "low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Kiwifruit were originally called Chinese gooseberries, but were renamed kiwifruit when they began to be commercially grown in New Zealand. The tiny black seeds are edible.",
         "what-you-will-learn": "How a fruit can have edible skin, flesh and seeds, and how kiwifruit changes in texture as it ripens.",
@@ -45,7 +38,6 @@
             "Learning about fruit"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A visually interesting fruit that gives children the opportunity to explore edible seeds, different textures and the fact that fruit can be prepared in more than one way.",
         "chapman-tips": [
@@ -59,7 +51,6 @@
         "batch-cooking": "Not applicable.",
         "leftovers": "Kiwifruit can be used in fruit salads, smoothies and desserts. Cut kiwi can also be frozen for smoothies."
     },
-
     "relationships": {
         "similar-recipes": [
             "Banana",
@@ -69,18 +60,16 @@
             "Lime"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-24",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

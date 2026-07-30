@@ -1,16 +1,13 @@
 {
     "id": "019f8674-5742-749b-8ae9-046816348c69",
     "version": 1,
-
     "title": "Chicken Paprikash",
-
     "overview": {
         "description": "Tender chicken slowly cooked with onions and Hungarian paprika in a rich sauce finished with sour cream.",
         "country": "Hungary",
         "region": "Nationwide",
         "serves": 4
     },
-
     "ingredients": [
         "8 chicken thighs, bone-in and skinless",
         "2 tbsp lard or neutral oil",
@@ -25,7 +22,6 @@
         "Black pepper",
         "Fresh parsley, to serve"
     ],
-
     "method": [
         "Season the chicken thighs with salt and black pepper.",
         "Heat the lard or oil in a large heavy-based casserole over a medium heat.",
@@ -47,7 +43,6 @@
         "Taste and adjust the seasoning.",
         "Scatter with fresh parsley before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Nokedli"
@@ -58,7 +53,6 @@
             "Crusty Bread"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 60,
@@ -66,7 +60,6 @@
         "cost": "budget",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Paprikás csirke is one of Hungary's best-known traditional dishes, and the word paprikás refers to dishes in which paprika is a defining ingredient.",
         "what-you-will-learn": "How to use paprika without burning it, slowly soften onions into a sauce and incorporate sour cream without curdling it.",
@@ -78,7 +71,6 @@
             "Braising"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -90,7 +82,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A simple but deeply comforting Hungarian chicken dish that shows how a small number of carefully handled ingredients can create a rich and distinctive sauce.",
         "chapman-tips": [
@@ -104,7 +95,6 @@
         "batch-cooking": "Cool completely before freezing in portions. Freeze the chicken and sauce together. The sour cream sauce may separate slightly when reheated, so reheat gently and stir well.",
         "leftovers": "Remove the chicken from the bones and reheat gently with the sauce. Serve with noodles, potatoes or bread."
     },
-
     "relationships": {
         "similar-recipes": [
             "Chicken Cacciatore",
@@ -112,18 +102,16 @@
             "Chicken Saag"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-21",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

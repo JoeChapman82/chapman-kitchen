@@ -1,16 +1,13 @@
 {
     "id": "019f8f82-ec6e-7466-8bbb-cac4640f5ba0",
     "version": 1,
-
     "title": "Salade de Lentilles",
-
     "overview": {
         "description": "A warm French lentil salad with green lentils, carrots, onion, fresh herbs and a sharp mustard vinaigrette.",
         "country": "France",
         "region": "France",
         "serves": 4
     },
-
     "ingredients": [
         "300g green or Puy-style lentils",
         "2 carrots, finely diced",
@@ -31,7 +28,6 @@
         "½ tsp salt",
         "Black pepper, to taste"
     ],
-
     "method": [
         "Rinse the lentils thoroughly.",
         "Place the lentils in a saucepan with the crushed garlic, bay leaves, thyme and stock or water.",
@@ -50,7 +46,6 @@
         "Taste and adjust the seasoning.",
         "Serve warm or at room temperature."
     ],
-
     "serving": {
         "serve-with": [
             "Crusty Bread"
@@ -62,7 +57,6 @@
             "Green Salad"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 30,
@@ -70,7 +64,6 @@
         "cost": "low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Lentil salads are particularly associated with French home cooking, and Puy lentils are prized because they retain their shape and have a distinctive peppery flavour.",
         "what-you-will-learn": "How to cook lentils so they retain their texture and how warm ingredients absorb vinaigrette more effectively than cold ones.",
@@ -82,7 +75,6 @@
             "Serving a warm salad"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A warming, inexpensive complete meal salad that works particularly well in colder weather and makes excellent use of the lentils already in the pantry.",
         "chapman-tips": [
@@ -98,7 +90,6 @@
         "batch-cooking": "Freezes well, although the fresh herbs should ideally be added after reheating.",
         "leftovers": "Excellent cold or gently reheated. Leftovers can be used as a filling for wraps or served with a fried egg."
     },
-
     "relationships": {
         "similar-recipes": [
             "Mujadara",
@@ -108,18 +99,16 @@
             "Three Sisters Stew"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

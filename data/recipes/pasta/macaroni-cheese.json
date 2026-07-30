@@ -1,16 +1,13 @@
 {
     "id": "019f90b1-193d-7094-96bd-452b4dbbdbb3",
     "version": 1,
-
     "title": "Macaroni Cheese",
-
     "overview": {
         "description": "Baked macaroni pasta coated in a rich, creamy cheese sauce and finished with a golden, crisp topping.",
         "country": "United Kingdom",
         "region": "British",
         "serves": 6
     },
-
     "ingredients": [
         "500g macaroni",
         "60g butter",
@@ -29,7 +26,6 @@
         "50g breadcrumbs",
         "50g mature cheddar, grated"
     ],
-
     "method": [
         "Preheat the oven to 200°C.",
         "Bring a large saucepan of salted water to the boil.",
@@ -52,7 +48,6 @@
         "Bake for 20–25 minutes until bubbling and golden.",
         "Allow to rest for 5 minutes before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Green Salad"
@@ -64,7 +59,6 @@
             "Roasted Vegetables"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 40,
@@ -72,7 +66,6 @@
         "cost": "low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "The classic cheese sauce begins with a roux, which thickens the milk and allows the cheese to form a smooth sauce rather than simply melting into a thin liquid.",
         "what-you-will-learn": "How to make a smooth cheese sauce and how to slightly undercook pasta so it finishes cooking without becoming soft and mushy in the oven.",
@@ -84,7 +77,6 @@
             "Balancing cheese flavours"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A comforting family pasta dish that is inexpensive, freezer-friendly and adaptable enough to serve as either a main meal or a side.",
         "chapman-tips": [
@@ -101,7 +93,6 @@
         "batch-cooking": "Freezes well. Freeze in individual portions or as a complete assembled dish before baking.",
         "leftovers": "Reheats well, although adding a splash of milk before reheating helps restore creaminess."
     },
-
     "relationships": {
         "similar-recipes": [
             "Lasagne",
@@ -111,18 +102,16 @@
             "Fish Pie"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

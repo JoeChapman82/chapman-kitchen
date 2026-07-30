@@ -1,16 +1,13 @@
 {
     "id": "019f9579-c1ab-760e-a517-52f7346dbf51",
     "version": 1,
-
     "title": "Chicken Momos",
-
     "overview": {
         "description": "Steamed Himalayan dumplings made with homemade wheat dough and a juicy filling of minced chicken, onion, ginger, garlic and fresh coriander, served with a spicy tomato and chilli chutney.",
         "country": "India",
         "region": "Himalayan India",
         "serves": 6
     },
-
     "ingredients": [
         "For the dough:",
         "300g plain flour",
@@ -40,7 +37,6 @@
         "½ tsp salt",
         "1 tsp toasted sesame oil, optional"
     ],
-
     "method": [
         "Place the flour and salt in a large bowl.",
         "Gradually add the water, mixing until a dough forms.",
@@ -66,7 +62,6 @@
         "Blend the tomatoes, soaked chillies, garlic, lemon juice, salt and sesame oil until smooth or slightly textured.",
         "Serve the hot momos immediately with the tomato-chilli chutney."
     ],
-
     "serving": {
         "serve-with": [
             "Momo Chutney"
@@ -78,7 +73,6 @@
             "Light Salad"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 105,
         "cook-time-minutes": 25,
@@ -86,7 +80,6 @@
         "cost": "moderate",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Momos have strong Tibetan and Himalayan roots and became especially popular across northern India, Nepal and the Himalayan regions, where steamed dumplings are commonly served with intensely flavoured chilli chutneys.",
         "what-you-will-learn": "How to make a simple dumpling dough, roll wrappers by hand and prepare a juicy minced-meat filling suitable for steaming.",
@@ -99,7 +92,6 @@
             "Managing minced meat"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A freezer-friendly homemade dumpling that gives the family a Himalayan and northern Indian alternative to gyoza and mandu.",
         "chapman-tips": [
@@ -117,7 +109,6 @@
         "batch-cooking": "Freezes well. Freeze uncooked momos in a single layer until solid, then transfer to a freezer bag or container. Steam directly from frozen, adding several minutes to the cooking time.",
         "leftovers": "Cooked momos can be refrigerated and reheated by steaming. They can also be pan-fried after steaming."
     },
-
     "relationships": {
         "similar-recipes": [
             "Vegetable Momos",
@@ -127,18 +118,16 @@
             "Kabab Koobideh"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-24",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

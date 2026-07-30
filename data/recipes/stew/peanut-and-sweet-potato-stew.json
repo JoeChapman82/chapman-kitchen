@@ -1,16 +1,13 @@
 {
     "id": "019f671e-7223-707d-a7dc-7b41e2f13f77",
     "version": 1,
-
     "title": "Peanut & Sweet Potato Stew",
-
     "overview": {
         "description": "A hearty West African-inspired stew of sweet potatoes, black-eyed beans and peanut butter simmered with tomatoes and warming spices.",
         "country": "West Africa",
         "region": "",
         "serves": 4
     },
-
     "ingredients": [
         "2 tbsp vegetable oil",
         "1 onion, diced",
@@ -29,7 +26,6 @@
         "Freshly ground black pepper",
         "Fresh coriander, chopped"
     ],
-
     "method": [
         "Heat the oil in a large saucepan over a medium heat.",
         "Cook the onion for 6–8 minutes until softened.",
@@ -44,7 +40,6 @@
         "Season with salt and black pepper.",
         "Scatter with chopped coriander before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Flatbread"
@@ -55,7 +50,6 @@
             "Chilli Flakes"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 40,
@@ -63,7 +57,6 @@
         "cost": "budget",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Groundnuts (peanuts) feature prominently in many West African cuisines, where they're used to enrich soups, stews and sauces.",
         "what-you-will-learn": "How peanut butter can thicken and enrich a stew, and how balancing sweet vegetables with savoury spices creates depth of flavour.",
@@ -74,7 +67,6 @@
             "Finishing with leafy greens"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -86,7 +78,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "An inexpensive, nutritious vegetarian meal that introduces West African flavours while making excellent use of pantry ingredients.",
         "chapman-tips": [
@@ -98,7 +89,6 @@
         "batch-cooking": "Freeze in individual portions for quick weekday meals.",
         "leftovers": "Excellent reheated and also works well served over rice the next day."
     },
-
     "relationships": {
         "similar-recipes": [
             "West African Chicken Peanut Stew",
@@ -107,16 +97,14 @@
             "Sweet Potato Curry"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-15",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

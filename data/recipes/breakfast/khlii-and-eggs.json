@@ -1,16 +1,13 @@
 {
     "id": "019f65d7-b947-70ca-b22f-60ca1749596c",
     "version": 1,
-
     "title": "Khlii & Eggs (Chapman Version)",
-
     "overview": {
         "description": "A Moroccan-inspired breakfast of warmly spiced beef and eggs, adapted using fresh beef instead of traditional preserved khlii while keeping the flavours true to the original.",
         "country": "Morocco",
         "region": "North Africa",
         "serves": 4
     },
-
     "ingredients": [
         "300g diced beef steak",
         "1 tbsp olive oil",
@@ -25,7 +22,6 @@
         "Freshly ground black pepper",
         "Fresh parsley, chopped"
     ],
-
     "method": [
         "Heat the olive oil in a frying pan over a medium-high heat.",
         "Brown the beef well on all sides.",
@@ -38,7 +34,6 @@
         "Cover with a lid and cook until the egg whites are set and the yolks are cooked to your liking.",
         "Finish with chopped parsley before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Batbout"
@@ -49,7 +44,6 @@
             "Tomato Salad"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 10,
         "cook-time-minutes": 15,
@@ -57,7 +51,6 @@
         "cost": "mid-range",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Traditional khlii is preserved meat that can be stored for months without refrigeration and is often served with eggs for breakfast in Morocco.",
         "what-you-will-learn": "How Moroccan spices transform a simple breakfast and how to cook eggs gently over a savoury base.",
@@ -67,7 +60,6 @@
             "Cooking eggs"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -79,7 +71,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "Introduces Moroccan breakfast flavours without requiring specialist preserved meat that's difficult to source in the UK.",
         "chapman-tips": [
@@ -91,7 +82,6 @@
         "batch-cooking": "Not suitable for freezing once assembled.",
         "leftovers": "The cooked beef can be reheated gently and topped with freshly cooked eggs."
     },
-
     "relationships": {
         "similar-recipes": [
             "Shakshuka",
@@ -100,18 +90,16 @@
             "Eggs in Purgatory"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-15",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

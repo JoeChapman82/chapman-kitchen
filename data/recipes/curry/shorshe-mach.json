@@ -1,16 +1,13 @@
 {
     "id": "019f8df0-f476-711e-965a-06c064951f1c",
     "version": 1,
-
     "title": "Shorshe Mach",
-
     "overview": {
         "description": "A classic Bengali fish dish in a pungent mustard sauce with green chilli, turmeric and mustard oil.",
         "country": "India",
         "region": "West Bengal",
         "serves": 4
     },
-
     "ingredients": [
         "600g firm white fish fillets, such as cod, haddock or pollock",
         "1 tsp ground turmeric",
@@ -24,7 +21,6 @@
         "150–200ml water",
         "Salt, to taste"
     ],
-
     "method": [
         "Cut the fish into large pieces.",
         "Season the fish with ½ tsp turmeric and ½ tsp salt.",
@@ -42,7 +38,6 @@
         "Taste and adjust the salt.",
         "Serve immediately with steamed rice."
     ],
-
     "serving": {
         "serve-with": [
             "Steamed Rice"
@@ -54,7 +49,6 @@
             "Coconut Chutney"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 30,
         "cook-time-minutes": 20,
@@ -62,7 +56,6 @@
         "cost": "moderate",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Shorshe mach is one of the most recognisable dishes of Bengali cuisine, where mustard is used not just as a condiment but as a major cooking ingredient.",
         "what-you-will-learn": "How to prepare mustard seeds as a sauce, balance the strong flavour of mustard and cook fish gently in a delicate sauce.",
@@ -74,7 +67,6 @@
             "Balancing strong flavours"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -86,7 +78,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A defining Bengali dish that introduces the children to mustard as a central ingredient and demonstrates how a small number of strong flavours can create a distinctive regional dish.",
         "chapman-tips": [
@@ -101,7 +92,6 @@
         "batch-cooking": "Best eaten fresh. It can be refrigerated and reheated gently, but the fish may become softer and the mustard flavour may become more pronounced. Freezing is possible but not recommended for the best texture.",
         "leftovers": "Reheat gently and serve with fresh rice. Flake leftover fish into the sauce and use it as a filling for a flatbread."
     },
-
     "relationships": {
         "similar-recipes": [
             "Bengali Fish Curry",
@@ -109,18 +99,16 @@
             "South Indian Vegetable Curry"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

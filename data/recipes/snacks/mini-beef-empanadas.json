@@ -1,16 +1,13 @@
 {
     "id": "019f90d1-e729-74de-aef7-9bff736ed4bb",
     "version": 1,
-
     "title": "Mini Beef Empanadas",
-
     "overview": {
         "description": "Small baked Argentine-style empanadas filled with savoury beef, onion, paprika, cumin and olives.",
         "country": "Argentina",
         "region": "Nationwide",
         "serves": 12
     },
-
     "ingredients": [
         "300g plain flour",
         "1 tsp fine salt",
@@ -35,7 +32,6 @@
         "",
         "1 egg, beaten, for brushing"
     ],
-
     "method": [
         "Mix the flour and salt in a large bowl.",
         "Rub in the cold butter until the mixture resembles breadcrumbs.",
@@ -61,7 +57,6 @@
         "Bake for 20–25 minutes until golden brown.",
         "Allow to cool slightly before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Chimichurri"
@@ -72,7 +67,6 @@
             "Green Salad"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 45,
         "cook-time-minutes": 25,
@@ -80,7 +74,6 @@
         "cost": "mid-range",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Empanadas are found throughout Latin America, Spain and the Philippines, but Argentine empanadas have developed many distinct regional styles and fillings.",
         "what-you-will-learn": "How to make a simple filled pastry, create a flavourful minced beef filling and shape small pastries for batch cooking.",
@@ -92,7 +85,6 @@
             "Freezer preparation"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -104,7 +96,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A freezer-friendly snack that gives the children something different from sausage rolls while teaching the useful skill of making and shaping filled pastry.",
         "chapman-tips": [
@@ -117,7 +108,6 @@
         "batch-cooking": "Freeze assembled, unbaked empanadas on a tray until solid, then transfer to a freezer bag or container. Bake from frozen at 200°C (180°C fan), adding approximately 10 minutes to the cooking time.",
         "leftovers": "Cooked empanadas are good cold or can be reheated in the oven to restore the crisp pastry."
     },
-
     "relationships": {
         "similar-recipes": [
             "Jamaican Beef Patties",
@@ -125,18 +115,16 @@
             "Pork Gyoza"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

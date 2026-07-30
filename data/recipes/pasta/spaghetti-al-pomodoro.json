@@ -1,16 +1,13 @@
 {
     "id": "019f9edc-1c15-70fc-a455-36d1d626e080",
     "version": 1,
-
     "title": "Spaghetti al Pomodoro",
-
     "overview": {
         "description": "Spaghetti tossed with a simple, slowly simmered tomato sauce made with tomatoes, garlic, olive oil and basil.",
         "country": "Italy",
         "region": "Campania",
         "serves": 4
     },
-
     "ingredients": [
         "400g spaghetti",
         "2 tbsp extra virgin olive oil",
@@ -21,7 +18,6 @@
         "Black pepper, to taste",
         "50g finely grated Parmesan or Pecorino, optional"
     ],
-
     "method": [
         "Heat the olive oil in a large saucepan over low heat.",
         "Add the sliced garlic and cook gently until fragrant but not browned.",
@@ -38,7 +34,6 @@
         "Toss thoroughly, adding a little pasta water if necessary to loosen the sauce.",
         "Serve with the remaining basil and grated cheese if using."
     ],
-
     "serving": {
         "serve-with": [],
         "optional-sides": [
@@ -47,7 +42,6 @@
             "Focaccia"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 45,
@@ -55,7 +49,6 @@
         "cost": "low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Pomodoro means 'tomato' in Italian. Spaghetti al pomodoro is a classic example of Italian cooking where a small number of simple ingredients are used to create a complete dish.",
         "what-you-will-learn": "How slowly cooking tomatoes develops flavour and how pasta cooking water can help a sauce cling to the pasta.",
@@ -67,7 +60,6 @@
             "Using pasta water"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A simple, affordable and family-friendly pasta dish that is useful as both a complete meal and a foundation for more elaborate pasta recipes.",
         "chapman-tips": [
@@ -82,7 +74,6 @@
         "batch-cooking": "Freezes well. The tomato sauce freezes particularly well and can be made in a large batch. Cooked spaghetti can also be frozen, although freshly cooked pasta gives the best texture.",
         "leftovers": "Leftover spaghetti can be reheated gently or used to make a frittata di spaghetti."
     },
-
     "relationships": {
         "similar-recipes": [
             "Pizza Sauce",
@@ -92,18 +83,16 @@
             "Lasagne"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-26",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

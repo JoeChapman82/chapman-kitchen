@@ -1,16 +1,13 @@
 {
     "id": "019f6155-c06b-7289-89d6-5c7ff35b2fe3",
     "version": 1,
-
     "title": "Gnocchi with Sage Butter Sauce",
-
     "overview": {
         "description": "Soft potato gnocchi tossed in nutty brown butter with fresh sage and finished with Parmesan. A beautifully simple Italian dish that proves a handful of good ingredients can make an exceptional meal.",
         "country": "Italy",
         "region": "Northern Italy",
         "serves": 4
     },
-
     "ingredients": [
         "800g fresh potato gnocchi",
         "75g unsalted butter",
@@ -19,7 +16,6 @@
         "Freshly ground black pepper",
         "Salt"
     ],
-
     "method": [
         "Bring a large pan of well-salted water to the boil.",
         "Cook the gnocchi according to the packet instructions until they float to the surface, then drain well.",
@@ -31,7 +27,6 @@
         "Season with freshly ground black pepper and a little salt if needed.",
         "Serve immediately with the remaining Parmesan sprinkled over the top."
     ],
-
     "serving": {
         "serve-with": [],
         "optional-sides": [
@@ -39,7 +34,6 @@
             "Garlic Focaccia"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 5,
         "cook-time-minutes": 15,
@@ -47,7 +41,6 @@
         "cost": "budget",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Brown butter, known in French as beurre noisette, develops a rich nutty flavour as the milk solids gently caramelise.",
         "what-you-will-learn": "How to brown butter without burning it, why sage pairs so well with butter, and how simple dishes rely on careful technique rather than lots of ingredients.",
@@ -57,7 +50,6 @@
             "Balancing simple flavours"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -69,7 +61,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "One of the simplest meals in the planner and an excellent reminder that outstanding food doesn't always need long ingredient lists or complex techniques.",
         "chapman-tips": [
@@ -80,7 +71,6 @@
         "batch-cooking": "Not suitable for freezing once cooked.",
         "leftovers": "Best eaten immediately, although leftovers can be lightly fried until crisp the following day."
     },
-
     "relationships": {
         "similar-recipes": [
             "Carbonara",
@@ -88,16 +78,14 @@
             "Pesto Rosso Pasta"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-14",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

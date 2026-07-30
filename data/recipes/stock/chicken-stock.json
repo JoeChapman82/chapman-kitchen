@@ -1,16 +1,13 @@
 {
     "id": "019f768d-6e6b-7292-90a2-7f6f62d472d3",
     "version": 1,
-
     "title": "Chicken Stock",
-
     "overview": {
         "description": "A rich homemade stock made from a leftover roast chicken carcass, gently simmered to extract maximum flavour.",
         "country": "United Kingdom",
         "region": "Traditional",
         "serves": 12
     },
-
     "ingredients": [
         "1 cooked chicken carcass",
         "1 onion, halved (leave the skin on)",
@@ -21,7 +18,6 @@
         "Small handful fresh parsley stalks",
         "2.5 litres cold water"
     ],
-
     "method": [
         "Break the chicken carcass into a few large pieces so it fits comfortably into a stock pot.",
         "Add the onion, carrot, celery, bay leaves, peppercorns and parsley stalks.",
@@ -35,12 +31,10 @@
         "Refrigerate overnight if you wish to remove the fat.",
         "Portion into containers and freeze."
     ],
-
     "serving": {
         "serve-with": [],
         "optional-sides": []
     },
-
     "planner": {
         "prep-time-minutes": 10,
         "cook-time-minutes": 180,
@@ -48,7 +42,6 @@
         "cost": "very low",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Starting with cold water slowly draws flavour and gelatin from the bones, producing a richer stock.",
         "what-you-will-learn": "How to extract flavour from leftover bones and create a versatile foundation for soups, sauces and stews.",
@@ -59,7 +52,6 @@
             "Cooling food safely"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -71,7 +63,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "One Sunday roast provides the foundation for many more meals during the following weeks. Homemade stock adds depth that shop-bought versions rarely match.",
         "chapman-tips": [
@@ -84,7 +75,6 @@
         "batch-cooking": "Freeze for up to 6 months.",
         "leftovers": "Use anywhere stock is called for throughout the cookbook."
     },
-
     "relationships": {
         "similar-recipes": [
             "Chicken Ramen",
@@ -94,16 +84,14 @@
             "French Onion Soup"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-18",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

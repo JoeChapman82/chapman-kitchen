@@ -1,16 +1,13 @@
 {
     "id": "019f956e-1197-776f-8e35-d216fe3ebbee",
     "version": 1,
-
     "title": "Onion Bhaji",
-
     "overview": {
         "description": "Crisp, deeply flavoured Indian onion fritters made with thinly sliced onions, gram flour and aromatic spices.",
         "country": "India",
         "region": "Indian subcontinent",
         "serves": 4
     },
-
     "ingredients": [
         "3 large onions, thinly sliced",
         "150g gram flour",
@@ -26,7 +23,6 @@
         "Approximately 3–5 tbsp water",
         "Oil, for deep frying"
     ],
-
     "method": [
         "Place the sliced onions in a large bowl.",
         "Add the salt and mix thoroughly.",
@@ -43,7 +39,6 @@
         "Drain on a wire rack or kitchen paper.",
         "Serve hot."
     ],
-
     "serving": {
         "serve-with": [
             "Mint and Coriander Chutney",
@@ -55,7 +50,6 @@
             "Fresh Coriander"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 35,
         "cook-time-minutes": 20,
@@ -63,7 +57,6 @@
         "cost": "low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "The word bhaji refers broadly to a vegetable preparation, while onion bhaji is one of the best-known examples outside South Asia.",
         "what-you-will-learn": "How salt draws moisture from onions and how a minimal amount of water can bind a fritter mixture without making the finished bhaji heavy.",
@@ -75,7 +68,6 @@
             "Working with gram flour"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "An inexpensive, freezer-friendly pantry-based snack that can also serve as a starter, side dish or accompaniment to Indian meals.",
         "chapman-tips": [
@@ -92,7 +84,6 @@
         "batch-cooking": "Better fresh. Can be frozen after frying, although the texture is best when freshly cooked.",
         "leftovers": "Reheat in an oven or air fryer to restore crispness. Avoid reheating in the microwave if possible."
     },
-
     "relationships": {
         "similar-recipes": [
             "Pakora",
@@ -102,18 +93,16 @@
             "Bhindi Masala"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-24",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

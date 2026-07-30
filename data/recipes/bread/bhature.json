@@ -1,16 +1,13 @@
 {
     "id": "019f6b89-a9a8-711e-bbf7-34233667ff90",
     "version": 1,
-
     "title": "Bhature",
-
     "overview": {
         "description": "Soft, fluffy North Indian deep-fried bread traditionally served with Punjabi Chole. Crisp outside with a light, airy interior.",
         "country": "India",
         "region": "Punjab",
         "serves": 8
     },
-
     "ingredients": [
         "500g plain flour",
         "1 tsp baking powder",
@@ -22,7 +19,6 @@
         "50-80ml warm water, as needed",
         "Vegetable oil, for deep frying"
     ],
-
     "method": [
         "Mix together the plain flour, baking powder, bicarbonate of soda, sugar and salt.",
         "Add the yoghurt and vegetable oil.",
@@ -38,7 +34,6 @@
         "Remove and drain on kitchen paper.",
         "Repeat with the remaining dough."
     ],
-
     "serving": {
         "serve-with": [
             "Chole (Punjabi Chickpea Curry)"
@@ -48,7 +43,6 @@
             "Mango Pickle"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 140,
         "cook-time-minutes": 20,
@@ -56,7 +50,6 @@
         "cost": "budget",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Bhature and Chole are one of North India's most iconic food pairings, especially around Delhi and Punjab.",
         "what-you-will-learn": "How to make a soft enriched dough and deep fry bread until it puffs into a light, airy bhatura.",
@@ -67,7 +60,6 @@
             "Deep frying"
         ]
     },
-
     "nutrition": {
         "portion-size": "2 bhature",
         "calories": "",
@@ -79,7 +71,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "The traditional accompaniment to Chole and a great recipe for occasional weekend meals.",
         "chapman-tips": [
@@ -91,7 +82,6 @@
         "batch-cooking": "Not recommended. Bhature are at their best freshly fried.",
         "leftovers": "Can be reheated in a hot oven, although they lose some of their characteristic puffiness."
     },
-
     "relationships": {
         "similar-recipes": [
             "Chole (Punjabi Chickpea Curry)",
@@ -99,16 +89,14 @@
             "Batbout"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-16",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

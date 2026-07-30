@@ -1,16 +1,13 @@
 {
     "id": "019f90bb-294b-75bb-b60b-e2a97f9d8926",
     "version": 1,
-
     "title": "Homemade Vanilla Custard",
-
     "overview": {
         "description": "A rich, smooth pouring custard made with egg yolks, milk, cream, sugar and vanilla.",
         "country": "United Kingdom",
         "region": "Britain",
         "serves": 6
     },
-
     "ingredients": [
         "500ml whole milk",
         "250ml double cream",
@@ -19,7 +16,6 @@
         "75g caster sugar",
         "1 tbsp cornflour, optional"
     ],
-
     "method": [
         "If using a vanilla pod, split it lengthways and scrape out the seeds.",
         "Place the milk, cream, vanilla seeds and vanilla pod in a saucepan.",
@@ -37,7 +33,6 @@
         "Stir in the vanilla extract if using it instead of a vanilla pod.",
         "Serve warm."
     ],
-
     "serving": {
         "serve-with": [
             "Spotted Dick",
@@ -54,7 +49,6 @@
             "Puddings"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 10,
         "cook-time-minutes": 15,
@@ -62,7 +56,6 @@
         "cost": "moderate",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Custard thickens because the egg yolk proteins gently set as they are heated. Too much heat causes the proteins to tighten and scramble, which is why custard must be cooked gently.",
         "what-you-will-learn": "How to make a smooth pouring custard and how to control temperature to prevent the egg yolks from scrambling.",
@@ -74,7 +67,6 @@
             "Balancing sweetness"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "An essential accompaniment for the growing collection of traditional British puddings and a versatile sauce for many other desserts.",
         "chapman-tips": [
@@ -91,7 +83,6 @@
         "batch-cooking": "Better fresh. Can be made ahead and gently reheated.",
         "leftovers": "Refrigerate and use within a few days. Reheat gently while stirring."
     },
-
     "relationships": {
         "similar-recipes": [
             "Bread and Butter Pudding",
@@ -101,18 +92,16 @@
             "Peach Cobbler"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

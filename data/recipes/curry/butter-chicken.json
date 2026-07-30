@@ -1,16 +1,13 @@
 {
     "id": "019f6a0a-6997-760a-9e41-4a4306e99ea9",
     "version": 1,
-
     "title": "Butter Chicken (Murgh Makhani)",
-
     "overview": {
         "description": "Tender marinated chicken cooked in a rich tomato, butter and lightly spiced sauce. Based on the classic Punjabi dish from Delhi.",
         "country": "India",
         "region": "Punjab / Delhi",
         "serves": 4
     },
-
     "ingredients": [
         "800g boneless skinless chicken thighs, cut into large pieces",
         "",
@@ -43,7 +40,6 @@
         "Salt",
         "Fresh coriander, chopped"
     ],
-
     "method": [
         "=== Marinate ===",
         "Combine all the marinade ingredients.",
@@ -71,7 +67,6 @@
         "Taste and adjust the seasoning.",
         "Finish with fresh coriander."
     ],
-
     "serving": {
         "serve-with": [
             "Homemade Naan",
@@ -83,7 +78,6 @@
             "Mango Chutney"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 270,
         "cook-time-minutes": 60,
@@ -91,7 +85,6 @@
         "cost": "mid-range",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Butter Chicken was created in Delhi in the 1950s as a way to use leftover tandoori chicken by simmering it in a rich tomato and butter sauce.",
         "what-you-will-learn": "How to marinate chicken with yoghurt, build a classic Punjabi curry base and balance tomatoes, butter and cream without overpowering the spices.",
@@ -103,7 +96,6 @@
             "Balancing flavours"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -115,7 +107,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "One of the family's favourite curries and an excellent introduction to authentic North Indian cooking.",
         "chapman-tips": [
@@ -127,7 +118,6 @@
         "batch-cooking": "Freeze the finished curry in family-sized portions.",
         "leftovers": "Often tastes even better the following day as the spices continue to develop."
     },
-
     "relationships": {
         "similar-recipes": [
             "Chicken Tikka",
@@ -136,16 +126,14 @@
             "Chicken Chettinad"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-16",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

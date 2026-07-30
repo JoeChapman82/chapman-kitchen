@@ -1,16 +1,13 @@
 {
     "id": "019f5cc1-438d-7513-9b7b-a4f3505be338",
     "version": 1,
-
     "title": "Teriyaki Chicken",
-
     "overview": {
         "description": "Juicy chicken glazed in a homemade teriyaki sauce made from soy sauce, mirin, sake and sugar. Sweet, savoury and beautifully glossy, it's a Japanese classic that's surprisingly simple to make.",
         "country": "Japan",
         "region": "",
         "serves": 4
     },
-
     "ingredients": [
         "600g chicken thighs, boneless and skinless",
         "2 tbsp vegetable oil",
@@ -23,7 +20,6 @@
         "2 spring onions, finely sliced",
         "1 tsp sesame seeds (optional)"
     ],
-
     "method": [
         "In a small bowl, combine the soy sauce, mirin, sake, sugar, ginger and garlic. Stir until the sugar has mostly dissolved.",
         "Heat the vegetable oil in a large frying pan over a medium-high heat.",
@@ -34,7 +30,6 @@
         "Slice the chicken if serving whole, then spoon over any remaining glaze.",
         "Scatter with the spring onions and sesame seeds before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Steamed Rice"
@@ -45,7 +40,6 @@
             "Quick Pickled Cucumber"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 10,
         "cook-time-minutes": 20,
@@ -53,7 +47,6 @@
         "cost": "mid-range",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "The word 'teriyaki' comes from the Japanese words 'teri' (glaze or shine) and 'yaki' (to grill or cook). The glossy finish is the defining feature of the dish.",
         "what-you-will-learn": "How to make a traditional teriyaki glaze from scratch, how reduction thickens a sauce naturally, and how Japanese cooking often relies on a handful of high-quality ingredients.",
@@ -64,7 +57,6 @@
             "Balancing sweet and savoury flavours"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -76,7 +68,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A brilliant weeknight meal that introduces classic Japanese flavours while using just a handful of ingredients. Making the sauce from scratch is quick and produces a far better result than bottled alternatives.",
         "chapman-tips": [
@@ -87,7 +78,6 @@
         "batch-cooking": "Freeze cooked chicken and sauce together for up to three months.",
         "leftovers": "Excellent served cold in a lunchbox with rice or reheated gently in a frying pan."
     },
-
     "relationships": {
         "similar-recipes": [
             "Black Bean Chicken",
@@ -95,16 +85,14 @@
             "Kung Pao Chicken"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-13",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

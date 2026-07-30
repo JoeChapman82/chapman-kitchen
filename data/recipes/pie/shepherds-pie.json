@@ -1,16 +1,13 @@
 {
     "id": "019f6423-b0ba-7691-ac34-28459b30f6b4",
     "version": 1,
-
     "title": "Shepherd's Pie",
-
     "overview": {
         "description": "A traditional British pie made with slow-cooked lamb in a rich gravy, topped with creamy mashed potato and baked until golden. Proper comfort food that's ideal for batch cooking.",
         "country": "United Kingdom",
         "region": "England",
         "serves": 8
     },
-
     "ingredients": [
         "2 tbsp vegetable oil",
         "1kg lamb mince",
@@ -30,7 +27,6 @@
         "Salt",
         "Freshly ground black pepper"
     ],
-
     "method": [
         "Peel the potatoes, cut into chunks and cook in salted boiling water until tender.",
         "Meanwhile, heat the oil in a large saucepan and brown the lamb mince thoroughly.",
@@ -46,7 +42,6 @@
         "Bake at 200°C (180°C fan) for 30 minutes until the topping is golden and the filling is bubbling.",
         "Leave to rest for 10 minutes before serving."
     ],
-
     "serving": {
         "serve-with": [],
         "optional-sides": [
@@ -55,7 +50,6 @@
             "Braised Cabbage"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 30,
         "cook-time-minutes": 75,
@@ -63,7 +57,6 @@
         "cost": "mid-range",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "A Shepherd's Pie is traditionally made with lamb. When beef is used, the dish is properly called Cottage Pie.",
         "what-you-will-learn": "How to build a rich meat filling, make smooth mashed potato and create a crisp, golden topping.",
@@ -74,7 +67,6 @@
             "Batch cooking"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -86,7 +78,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A classic family favourite that freezes beautifully and fits perfectly into Saturday batch cooking.",
         "chapman-tips": [
@@ -97,7 +88,6 @@
         "batch-cooking": "Bake two pies while the oven is on and freeze one whole or in individual portions for up to three months.",
         "leftovers": "Reheat thoroughly in the oven or microwave until piping hot."
     },
-
     "relationships": {
         "similar-recipes": [
             "Cottage Pie",
@@ -106,16 +96,14 @@
             "Lancashire Hotpot"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-15",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

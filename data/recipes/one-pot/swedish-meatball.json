@@ -1,16 +1,13 @@
 {
     "id": "019f615b-c4d8-72e8-9e42-943fde85ac03",
     "version": 1,
-
     "title": "Swedish Meatballs",
-
     "overview": {
         "description": "Tender beef and pork meatballs gently seasoned with allspice and nutmeg, served in a rich creamy gravy. A classic Swedish comfort food traditionally accompanied by mashed potatoes and lingonberry jam.",
         "country": "Sweden",
         "region": "",
         "serves": 4
     },
-
     "ingredients": [
         "250g beef mince",
         "250g pork mince",
@@ -29,7 +26,6 @@
         "150ml double cream",
         "1 tsp Dijon mustard"
     ],
-
     "method": [
         "Mix the beef mince, pork mince, grated onion, garlic, breadcrumbs, egg, milk, allspice, nutmeg, salt and pepper until just combined.",
         "Shape into approximately 20–24 small meatballs.",
@@ -42,7 +38,6 @@
         "Return the meatballs to the pan and simmer gently for 10–15 minutes until cooked through and the sauce has thickened.",
         "Taste and adjust the seasoning before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Mashed Potatoes"
@@ -53,7 +48,6 @@
             "Steamed Green Beans"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 25,
         "cook-time-minutes": 30,
@@ -61,7 +55,6 @@
         "cost": "mid-range",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Swedish meatballs are traditionally flavoured with warming spices like allspice, giving them a distinctive taste that sets them apart from Italian or British meatballs.",
         "what-you-will-learn": "How to make tender meatballs, build a simple pan gravy and balance rich flavours with traditional accompaniments.",
@@ -72,7 +65,6 @@
             "Balancing seasoning"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -84,7 +76,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A comforting family meal that's simple enough for a weekday but different enough to introduce Scandinavian flavours and techniques.",
         "chapman-tips": [
@@ -95,7 +86,6 @@
         "batch-cooking": "Freeze the cooked meatballs in their gravy for up to three months.",
         "leftovers": "Reheat gently over a low heat, adding a splash of stock if the gravy becomes too thick."
     },
-
     "relationships": {
         "similar-recipes": [
             "Hungarian Goulash",
@@ -103,16 +93,14 @@
             "Homemade Burgers"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-14",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

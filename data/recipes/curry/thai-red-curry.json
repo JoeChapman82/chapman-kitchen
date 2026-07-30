@@ -1,16 +1,13 @@
 {
     "id": "019f6b72-7563-7610-914c-2f5393776097",
     "version": 1,
-
     "title": "Thai Red Curry",
-
     "overview": {
         "description": "A rich, fragrant Thai curry with tender chicken, creamy coconut milk and homemade Thai red curry paste.",
         "country": "Thailand",
         "region": "Central Thailand",
         "serves": 4
     },
-
     "ingredients": [
         "700g boneless skinless chicken thighs, sliced",
         "2 tbsp Thai Red Curry Paste",
@@ -25,7 +22,6 @@
         "1 tsp palm sugar",
         "Handful Thai basil leaves"
     ],
-
     "method": [
         "Heat the oil over a medium heat.",
         "Add the Thai Red Curry Paste.",
@@ -39,7 +35,6 @@
         "Remove the makrut lime leaves if preferred.",
         "Stir through the Thai basil just before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Steamed Jasmine Rice"
@@ -49,7 +44,6 @@
             "Spring Rolls"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 25,
@@ -57,7 +51,6 @@
         "cost": "mid-range",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Thai curries balance salty, sweet, spicy and aromatic flavours rather than relying on heat alone.",
         "what-you-will-learn": "How to fry curry paste correctly, balance Thai flavours and finish a curry with fresh herbs.",
@@ -68,7 +61,6 @@
             "Using Thai herbs"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -80,7 +72,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A quick weeknight curry made possible by keeping homemade curry paste in the freezer.",
         "chapman-tips": [
@@ -92,7 +83,6 @@
         "batch-cooking": "Freeze once cooled. Thai basil is best added fresh after reheating if possible.",
         "leftovers": "Reheat gently to avoid splitting the coconut milk."
     },
-
     "relationships": {
         "similar-recipes": [
             "Thai Red Curry Paste",
@@ -100,16 +90,14 @@
             "Chicken Satay"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-16",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

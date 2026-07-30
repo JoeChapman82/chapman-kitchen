@@ -1,16 +1,13 @@
 {
     "id": "019f6e7d-f9a8-779e-8573-2a32f90d145b",
     "version": 1,
-
     "title": "Aloo Paratha",
-
     "overview": {
         "description": "Wholemeal flatbreads stuffed with a lightly spiced potato filling and cooked on a hot tawa until crisp and golden.",
         "country": "India",
         "region": "Punjab",
         "serves": 8
     },
-
     "ingredients": [
         "500g atta flour",
         "1 tsp salt",
@@ -29,7 +26,6 @@
         "",
         "Ghee or butter, for cooking"
     ],
-
     "method": [
         "Mix the atta and salt.",
         "Add the water and oil and knead for 8–10 minutes until smooth.",
@@ -55,7 +51,6 @@
         "Turn, brush lightly with ghee and cook for another 2 minutes.",
         "Flip once more, brush the second side with ghee and cook until both sides are golden with darker toasted spots."
     ],
-
     "serving": {
         "serve-with": [
             "Natural yoghurt",
@@ -66,7 +61,6 @@
             "Chole"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 50,
         "cook-time-minutes": 25,
@@ -74,7 +68,6 @@
         "cost": "budget",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Aloo paratha is one of the most popular breakfasts across North India, particularly in Punjab.",
         "what-you-will-learn": "How to make soft chapati dough, prepare a smooth potato filling and seal and roll stuffed flatbreads without tearing.",
@@ -86,7 +79,6 @@
             "Cooking on a tawa"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -98,7 +90,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A filling breakfast or light meal made almost entirely from pantry staples that are always available.",
         "chapman-tips": [
@@ -110,7 +101,6 @@
         "batch-cooking": "Freeze cooked parathas between sheets of baking paper. Reheat directly from frozen in a dry frying pan.",
         "leftovers": "Excellent toasted the next day or packed into lunchboxes."
     },
-
     "relationships": {
         "similar-recipes": [
             "Quick No-Yeast Naan",
@@ -118,16 +108,14 @@
             "Chole (Punjabi Chickpea Curry)"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-17",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

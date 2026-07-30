@@ -1,16 +1,13 @@
 {
     "id": "019f6b79-ff18-72a9-917a-0f26d3df4416",
     "version": 1,
-
     "title": "Gaeng Hang Lay (Northern Thai Pork Curry)",
-
     "overview": {
         "description": "A rich, slow-cooked Northern Thai curry influenced by Burmese cuisine, with tender pork in a fragrant sweet, sour and gently spiced sauce.",
         "country": "Thailand",
         "region": "Northern Thailand (Chiang Mai)",
         "serves": 4
     },
-
     "ingredients": [
         "800g pork shoulder, cut into large chunks",
         "2 tbsp Hang Lay curry paste",
@@ -24,7 +21,6 @@
         "2 tbsp fish sauce",
         "6 small pickled garlic cloves (optional)"
     ],
-
     "method": [
         "Coat the pork with the Hang Lay curry paste.",
         "Leave to marinate for at least 1 hour, preferably overnight.",
@@ -42,7 +38,6 @@
         "Remove the lid for the final 20 minutes if the sauce needs reducing.",
         "Taste and adjust the balance of sweet, sour and salty before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Steamed Jasmine Rice"
@@ -52,7 +47,6 @@
             "Steamed Greens"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 90,
         "cook-time-minutes": 180,
@@ -60,7 +54,6 @@
         "cost": "budget",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Gaeng Hang Lay reflects the historical influence of neighbouring Myanmar on Northern Thai cuisine and is unusual among Thai curries because it contains no coconut milk.",
         "what-you-will-learn": "How to build a slow-cooked curry, balance sweet, sour and savoury flavours, and cook pork shoulder until meltingly tender.",
@@ -71,7 +64,6 @@
             "Balancing sweet and sour flavours"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -83,7 +75,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A completely different style of Thai curry that showcases the diversity of Thai regional cooking beyond coconut-based curries.",
         "chapman-tips": [
@@ -95,7 +86,6 @@
         "batch-cooking": "Freeze in family-sized portions for up to 6 months.",
         "leftovers": "Reheat gently on the hob; the flavour improves overnight."
     },
-
     "relationships": {
         "similar-recipes": [
             "Thai Red Curry",
@@ -104,16 +94,14 @@
             "Beef Bourguignon"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-16",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

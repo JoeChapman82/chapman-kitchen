@@ -1,16 +1,13 @@
 {
     "id": "019f8e39-f5a6-71dd-af72-04fb1679a094",
     "version": 1,
-
     "title": "Singapore Noodles",
-
     "overview": {
         "description": "A Hong Kong-style stir-fried rice vermicelli dish with prawns, egg, vegetables and aromatic curry powder.",
         "country": "China",
         "region": "Hong Kong",
         "serves": 4
     },
-
     "ingredients": [
         "250g thin rice vermicelli",
         "250g raw prawns, peeled and deveined",
@@ -29,7 +26,6 @@
         "½ tsp white pepper",
         "Salt, to taste"
     ],
-
     "method": [
         "Soak the rice vermicelli according to the packet instructions until just tender.",
         "Drain thoroughly and set aside.",
@@ -54,7 +50,6 @@
         "Taste and adjust the seasoning.",
         "Serve immediately."
     ],
-
     "serving": {
         "serve-with": [
             "Spring Onions"
@@ -65,7 +60,6 @@
             "Cucumber Salad"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 25,
         "cook-time-minutes": 15,
@@ -73,7 +67,6 @@
         "cost": "moderate",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Singapore noodles are generally considered a Hong Kong–style Cantonese dish rather than a traditional Singaporean dish. The name is believed to reflect the use of curry powder and Southeast Asian-inspired flavours.",
         "what-you-will-learn": "How to prepare delicate rice vermicelli for stir-frying and how curry powder can be used as an aromatic seasoning rather than simply as the base of a curry.",
@@ -85,7 +78,6 @@
             "Balancing aromatic spices"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A Hong Kong-style noodle dish that adds thin rice vermicelli and curry powder to the collection, giving the children another completely different noodle texture and flavour profile.",
         "chapman-tips": [
@@ -100,7 +92,6 @@
         "batch-cooking": "Better fresh. The rice vermicelli can become soft and clump together when frozen and reheated.",
         "leftovers": "Reheat quickly in a hot wok or frying pan. Leftovers can be eaten cold or at room temperature as part of a packed lunch."
     },
-
     "relationships": {
         "similar-recipes": [
             "Chow Mein",
@@ -110,18 +101,16 @@
             "Yaki Udon"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

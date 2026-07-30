@@ -1,16 +1,13 @@
 {
     "id": "019f8e8a-59ac-756d-98bd-50eceb86ba08",
     "version": 1,
-
     "title": "Greek Salad",
-
     "overview": {
         "description": "A classic Greek village salad of ripe tomatoes, cucumber, green pepper, red onion, olives and feta, dressed with olive oil and oregano.",
         "country": "Greece",
         "region": "Greece",
         "serves": 4
     },
-
     "ingredients": [
         "600g ripe tomatoes, cut into large chunks",
         "1 large cucumber, cut into thick half-moons",
@@ -24,7 +21,6 @@
         "½ tsp salt, or to taste",
         "Black pepper, to taste"
     ],
-
     "method": [
         "Place the tomatoes in a large serving bowl.",
         "Add the cucumber, green pepper and red onion.",
@@ -38,7 +34,6 @@
         "Finish with another pinch of oregano.",
         "Serve immediately or allow to stand for 10–15 minutes before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Crusty Bread"
@@ -49,7 +44,6 @@
             "White Beans"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 0,
@@ -57,7 +51,6 @@
         "cost": "moderate",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Traditional Greek village salad is generally made without lettuce. The combination of ripe tomatoes, cucumber, peppers, olives, onion and feta is known as horiatiki, meaning village-style.",
         "what-you-will-learn": "How to build a simple salad around high-quality ingredients and how salt draws flavour and moisture from vegetables to create a natural dressing.",
@@ -69,7 +62,6 @@
             "Understanding ingredient quality"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A complete, fresh and simple meal that introduces the salad section with a classic recipe that can also be easily scaled down as a side dish.",
         "chapman-tips": [
@@ -85,7 +77,6 @@
         "batch-cooking": "Not suitable for freezing. Best prepared fresh.",
         "leftovers": "Best eaten the same day. Leftover dressed vegetables can be used in a wrap or served with toasted bread."
     },
-
     "relationships": {
         "similar-recipes": [
             "Fattoush",
@@ -95,18 +86,16 @@
             "Tabbouleh"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

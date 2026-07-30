@@ -1,16 +1,13 @@
 {
     "id": "019f8f89-5666-7308-904f-1b51cc5e9cdf",
     "version": 1,
-
     "title": "Jamie Oliver's Beef Short Ribs",
-
     "overview": {
         "description": "Slow-braised beef short ribs cooked with celery, carrots, walnuts, onion marmalade and smooth ale until the meat becomes exceptionally tender.",
         "country": "United Kingdom",
         "region": "British",
         "serves": 6
     },
-
     "ingredients": [
         "6 beef short ribs, bone in, approximately 1.6kg",
         "2 heads celery",
@@ -24,7 +21,6 @@
         "Sea salt, to taste",
         "Black pepper, to taste"
     ],
-
     "method": [
         "Preheat the oven to 160°C.",
         "Heat a large shallow casserole pan over medium-high heat.",
@@ -46,7 +42,6 @@
         "Serve the tender beef with the vegetables, baked potatoes and creamed horseradish.",
         "Scatter over the reserved celery leaves."
     ],
-
     "serving": {
         "serve-with": [
             "Baked Potatoes",
@@ -58,7 +53,6 @@
             "Crusty Bread"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 25,
         "cook-time-minutes": 240,
@@ -66,7 +60,6 @@
         "cost": "moderate",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Short ribs are a relatively tough cut, but long, gentle cooking transforms the connective tissue into gelatin and makes the meat exceptionally tender.",
         "what-you-will-learn": "How a long braise transforms a tough cut of beef and how a combination of ale, vegetables, onion marmalade and walnuts creates a rich cooking liquid.",
@@ -78,7 +71,6 @@
             "Removing excess fat"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A memorable, comforting batch-friendly meal that makes excellent use of an inexpensive cut of beef and produces a deeply flavoured braising liquid with valuable leftovers.",
         "chapman-tips": [
@@ -94,7 +86,6 @@
         "batch-cooking": "Freezes well. Freeze the beef and braising liquid together in portions where possible.",
         "leftovers": "Excellent reheated. The leftover beef can be used in pies, sandwiches or shredded into a rich beef dish. The leftover braising liquid can be strained, skimmed and frozen for use in gravy, stews, lentils or other braises."
     },
-
     "relationships": {
         "similar-recipes": [
             "Rogan Josh",
@@ -104,18 +95,16 @@
             "Korean Beef Short Ribs"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

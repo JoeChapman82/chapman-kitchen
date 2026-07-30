@@ -1,16 +1,13 @@
 {
     "id": "019f642a-2ef3-73b9-8c27-749260e011b8",
     "version": 1,
-
     "title": "Osso Buco",
-
     "overview": {
         "description": "A classic Milanese braise of beef shin slowly cooked with vegetables, white wine and stock until the meat is meltingly tender. Finished with a fresh gremolata for brightness.",
         "country": "Italy",
         "region": "Lombardy",
         "serves": 4
     },
-
     "ingredients": [
         "4 beef shin slices (about 300–350g each)",
         "2 tbsp plain flour",
@@ -32,7 +29,6 @@
         "1 lemon",
         "1 garlic clove"
     ],
-
     "method": [
         "Season the beef shin with salt and pepper, then dust lightly with flour.",
         "Heat the olive oil in a large casserole dish and brown the beef on both sides. Remove and set aside.",
@@ -47,7 +43,6 @@
         "Remove the bay leaves and thyme stems.",
         "Scatter the gremolata over each portion just before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Creamy Mashed Potato"
@@ -58,7 +53,6 @@
             "Steamed Green Beans"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 30,
         "cook-time-minutes": 180,
@@ -66,7 +60,6 @@
         "cost": "mid-range",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Osso Buco means 'bone with a hole' in Italian, referring to the marrow-filled centre of the shin bone, which melts into the sauce during cooking.",
         "what-you-will-learn": "How to braise beef shin, reduce wine, and finish a rich dish with a fresh gremolata.",
@@ -77,7 +70,6 @@
             "Making gremolata"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -89,7 +81,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "An explorer recipe that introduces a classic Italian braise while using ingredients that are readily available in the UK.",
         "chapman-tips": [
@@ -101,7 +92,6 @@
         "batch-cooking": "Freeze cooled portions with plenty of sauce for up to three months.",
         "leftovers": "Excellent reheated gently and served with fresh mashed potato or creamy polenta."
     },
-
     "relationships": {
         "similar-recipes": [
             "Beef Bourguignon",
@@ -110,16 +100,14 @@
             "Lancashire Hotpot"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-15",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

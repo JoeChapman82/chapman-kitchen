@@ -1,16 +1,13 @@
 {
     "id": "019f6426-cfc1-740d-adee-ca51b7ee766f",
     "version": 1,
-
     "title": "Beef Bourguignon",
-
     "overview": {
         "description": "A classic French beef stew slowly braised with red wine, mushrooms, onions and herbs until the meat is meltingly tender. A wonderful weekend project that freezes beautifully.",
         "country": "France",
         "region": "Burgundy",
         "serves": 8
     },
-
     "ingredients": [
         "2 tbsp vegetable oil",
         "1kg beef chuck or braising steak, cut into large cubes",
@@ -29,7 +26,6 @@
         "Salt",
         "Freshly ground black pepper"
     ],
-
     "method": [
         "Season the beef well with salt and pepper.",
         "Heat the oil in a large casserole and brown the beef in batches. Remove and set aside.",
@@ -44,7 +40,6 @@
         "Stir the mushrooms and shallots into the stew and cook uncovered for the final 30 minutes.",
         "Remove the bay leaves and thyme stems before serving. Adjust the seasoning if required."
     ],
-
     "serving": {
         "serve-with": [
             "Mashed Potato"
@@ -54,7 +49,6 @@
             "Buttery Green Beans"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 30,
         "cook-time-minutes": 210,
@@ -62,7 +56,6 @@
         "cost": "mid-range",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Beef Bourguignon began as a peasant dish in Burgundy, where tougher cuts of beef were slowly cooked in the region's famous red wine until tender.",
         "what-you-will-learn": "How to brown meat properly, build flavour through deglazing and use slow cooking to transform inexpensive cuts into an elegant meal.",
@@ -73,7 +66,6 @@
             "Batch cooking"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -85,7 +77,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "One of the finest examples of slow cooking. It's perfect for a relaxed Saturday, freezes brilliantly and makes excellent leftovers.",
         "chapman-tips": [
@@ -97,7 +88,6 @@
         "batch-cooking": "Cool completely before freezing in meal-sized portions for up to three months.",
         "leftovers": "Reheat gently on the hob or in the microwave until piping hot. Excellent with fresh mashed potatoes or crusty bread."
     },
-
     "relationships": {
         "similar-recipes": [
             "Hungarian Goulash",
@@ -106,16 +96,14 @@
             "Cottage Pie"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-15",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

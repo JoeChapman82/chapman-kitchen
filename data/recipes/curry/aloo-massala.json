@@ -1,16 +1,13 @@
 {
     "id": "019f9eb7-b5fb-70de-a0c8-7d463a4024e3",
     "version": 1,
-
     "title": "Aloo Masala",
-
     "overview": {
         "description": "Soft potatoes cooked with onion, mustard seeds, curry leaves, turmeric and gentle spices.",
         "country": "India",
         "region": "South India",
         "serves": 4
     },
-
     "ingredients": [
         "800g potatoes, peeled and cut into medium chunks",
         "1 large onion, finely sliced",
@@ -27,7 +24,6 @@
         "Small handful fresh coriander, chopped",
         "Salt, to taste"
     ],
-
     "method": [
         "Boil the potatoes in salted water until tender but not falling apart.",
         "Drain the potatoes and allow them to steam dry for a few minutes.",
@@ -46,7 +42,6 @@
         "Garnish with fresh coriander.",
         "Serve hot."
     ],
-
     "serving": {
         "serve-with": [
             "Masala Dosa"
@@ -60,7 +55,6 @@
             "Sambar"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 25,
         "cook-time-minutes": 25,
@@ -68,7 +62,6 @@
         "cost": "low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Aloo means potato in several South Asian languages, while masala generally refers to a mixture of spices or a spiced preparation. Aloo masala can therefore refer to many different spiced potato dishes.",
         "what-you-will-learn": "How whole spices are tempered in hot oil to release their aroma and how spices can transform a simple potato into a flavourful dish.",
@@ -80,7 +73,6 @@
             "Using fresh herbs"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A versatile potato dish that can be served as a filling, side dish or simple meal and makes good use of familiar pantry spices.",
         "chapman-tips": [
@@ -95,7 +87,6 @@
         "batch-cooking": "Good for batch cooking. Cool thoroughly before refrigerating or freezing. The texture may soften slightly after freezing and reheating.",
         "leftovers": "Leftover aloo masala can be used as a filling for dosa, paratha, sandwiches, wraps or samosas."
     },
-
     "relationships": {
         "similar-recipes": [
             "Aloo Gobi",
@@ -105,18 +96,16 @@
             "Potato & Spinach Frittata"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-26",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

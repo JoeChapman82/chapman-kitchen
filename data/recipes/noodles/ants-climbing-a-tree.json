@@ -1,16 +1,13 @@
 {
     "id": "019f8e3d-85fc-73f1-b796-134ccb147480",
     "version": 1,
-
     "title": "Ants Climbing a Tree",
-
     "overview": {
         "description": "A Sichuan dish of mung bean glass noodles cooked with minced pork, fermented chilli bean paste and aromatic seasonings.",
         "country": "China",
         "region": "Sichuan",
         "serves": 4
     },
-
     "ingredients": [
         "200g mung bean glass noodles",
         "250g minced pork",
@@ -28,7 +25,6 @@
         "1 tbsp Shaoxing wine",
         "1 small handful fresh coriander, optional"
     ],
-
     "method": [
         "Soak the mung bean glass noodles according to the packet instructions until softened but not completely tender.",
         "Drain thoroughly and set aside.",
@@ -49,7 +45,6 @@
         "Garnish with spring onions and coriander if using.",
         "Serve immediately."
     ],
-
     "serving": {
         "serve-with": [
             "Steamed Rice"
@@ -60,7 +55,6 @@
             "Pickled Vegetables"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 20,
@@ -68,7 +62,6 @@
         "cost": "low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "The name Ants Climbing a Tree refers to the small pieces of minced pork clinging to the long glass noodles, which are imagined as ants climbing branches.",
         "what-you-will-learn": "How fermented chilli bean paste creates depth and savouriness, and how glass noodles absorb the flavours of a strongly seasoned broth.",
@@ -80,7 +73,6 @@
             "Building flavour with fermented ingredients"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A Sichuan noodle dish that provides a final textural contrast to the collection, using mung bean glass noodles that absorb a deeply savoury and spicy sauce.",
         "chapman-tips": [
@@ -96,7 +88,6 @@
         "batch-cooking": "Better fresh. The glass noodles continue absorbing liquid as they stand and can become soft when reheated.",
         "leftovers": "Reheat gently with a splash of water or stock. The noodles may need loosening as they absorb more liquid during storage."
     },
-
     "relationships": {
         "similar-recipes": [
             "Japchae",
@@ -106,18 +97,16 @@
             "Mie Goreng Jawa"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

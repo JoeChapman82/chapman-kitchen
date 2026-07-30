@@ -1,16 +1,13 @@
 {
     "id": "019f6724-ad70-713b-aa19-c081fd73925b",
     "version": 1,
-
     "title": "Homity Pie",
-
     "overview": {
         "description": "A traditional British vegetarian pie filled with potatoes, onions, mature Cheddar and fresh parsley in a crisp shortcrust pastry case.",
         "country": "United Kingdom",
         "region": "England",
         "serves": 6
     },
-
     "ingredients": [
         "1 quantity shortcrust pastry",
         "750g potatoes, peeled and diced",
@@ -23,7 +20,6 @@
         "Salt",
         "Freshly ground black pepper"
     ],
-
     "method": [
         "=== Pastry ===",
         "Line a 23cm pie dish with the shortcrust pastry.",
@@ -43,7 +39,6 @@
         "Bake at 180°C fan (200°C conventional) for 30–35 minutes until golden and bubbling.",
         "Allow to stand for 10 minutes before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Seasonal Salad"
@@ -54,7 +49,6 @@
             "Steamed Green Vegetables"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 30,
         "cook-time-minutes": 50,
@@ -62,7 +56,6 @@
         "cost": "budget",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Homity Pie became popular in Britain during the Second World War as a filling vegetarian meal that relied on simple home-grown ingredients.",
         "what-you-will-learn": "How to blind bake pastry, balance a simple savoury filling and bake a pie with a crisp base.",
@@ -73,7 +66,6 @@
             "Pie assembly"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -85,7 +77,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A classic British comfort food that turns simple pantry ingredients into a satisfying vegetarian meal.",
         "chapman-tips": [
@@ -97,7 +88,6 @@
         "batch-cooking": "Freeze either before or after baking.",
         "leftovers": "Excellent cold for lunch or reheated in the oven."
     },
-
     "relationships": {
         "similar-recipes": [
             "Bubble and Squeak",
@@ -106,16 +96,14 @@
             "Cottage Pie"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-15",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

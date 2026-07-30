@@ -1,16 +1,13 @@
 {
     "id": "019f8e09-69cd-7496-8f1b-3d527a04ea5c",
     "version": 1,
-
     "title": "Brown Masoor Dal Tadka",
-
     "overview": {
         "description": "A hearty brown masoor dal cooked with onion, tomato and spices, then finished with a fragrant garlic and cumin tadka.",
         "country": "India",
         "region": "North India",
         "serves": 4
     },
-
     "ingredients": [
         "250g brown masoor dal",
         "1 tbsp neutral oil",
@@ -38,7 +35,6 @@
         "1 dried red chilli",
         "¼ tsp asafoetida (hing), optional"
     ],
-
     "method": [
         "Rinse the brown masoor dal thoroughly.",
         "Soak the dal in plenty of water for 30–60 minutes if you have time.",
@@ -66,7 +62,6 @@
         "Pour the hot tadka over the dal.",
         "Finish with fresh coriander and serve."
     ],
-
     "serving": {
         "serve-with": [
             "Steamed Rice",
@@ -81,7 +76,6 @@
             "Plain Yogurt"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 40,
@@ -89,7 +83,6 @@
         "cost": "very low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Brown masoor dal is a whole or partially split lentil with its brown outer skin intact. Compared with red lentils, it has a firmer texture and a more earthy flavour.",
         "what-you-will-learn": "How the outer skin of a pulse affects cooking time and texture, how to build a savoury masala and how a finishing tadka adds a second layer of flavour.",
@@ -101,7 +94,6 @@
             "Making a tadka"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A hearty everyday dal that demonstrates another distinct pulse texture and gives the children a chance to compare three different forms of lentil and moong.",
         "chapman-tips": [
@@ -116,7 +108,6 @@
         "batch-cooking": "Freezes well. Cool completely before freezing in airtight portions. Thaw overnight in the refrigerator and reheat gently, adding water if necessary.",
         "leftovers": "Thin with water and reheat as a soup, serve with rice or use as a filling for chapati or paratha."
     },
-
     "relationships": {
         "similar-recipes": [
             "Simple Red Moong Dal",
@@ -125,18 +116,16 @@
             "Saag Paneer"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

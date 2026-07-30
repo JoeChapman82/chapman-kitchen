@@ -1,16 +1,13 @@
 {
     "id": "019f6163-c3ae-712c-8917-6f251f2efa1c",
     "version": 1,
-
     "title": "Bibimbap",
-
     "overview": {
         "description": "A colourful Korean rice bowl topped with seasoned vegetables, marinated beef, a fried egg and a spicy gochujang sauce. Mix everything together before eating for a beautifully balanced meal.",
         "country": "South Korea",
         "region": "",
         "serves": 4
     },
-
     "ingredients": [
         "500g beef steak (sirloin or rump), thinly sliced",
         "300g jasmine or short grain rice",
@@ -27,7 +24,6 @@
         "2 spring onions, sliced",
         "Sesame seeds"
     ],
-
     "method": [
         "Cook the rice according to the packet instructions and keep warm.",
         "Mix the beef with the soy sauce, sesame oil, garlic and sugar. Leave to marinate for about 20 minutes.",
@@ -39,7 +35,6 @@
         "Top each bowl with a fried egg.",
         "Serve sprinkled with spring onions, sesame seeds and the gochujang sauce."
     ],
-
     "serving": {
         "serve-with": [
             "Gochujang Sauce"
@@ -49,7 +44,6 @@
             "Cucumber Salad"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 35,
         "cook-time-minutes": 20,
@@ -57,7 +51,6 @@
         "cost": "mid-range",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Bibimbap literally means 'mixed rice'. Although it's beautifully arranged when served, it's traditionally stirred together before eating.",
         "what-you-will-learn": "How to prepare several simple components, cook vegetables individually to preserve their flavour, and balance textures in one bowl.",
@@ -68,7 +61,6 @@
             "Plating"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -80,7 +72,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A fantastic way to introduce Korean cooking while encouraging plenty of vegetables. It also teaches preparation and organisation rather than difficult cooking techniques.",
         "chapman-tips": [
@@ -91,7 +82,6 @@
         "batch-cooking": "Prepare the vegetables and beef ahead of time, then assemble fresh.",
         "leftovers": "Excellent for lunch the following day, although the egg is best cooked fresh."
     },
-
     "relationships": {
         "similar-recipes": [
             "Black Bean Chicken",
@@ -99,16 +89,14 @@
             "Pad Kee Mao"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-14",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

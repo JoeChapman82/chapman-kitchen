@@ -1,16 +1,13 @@
 {
     "id": "019f90b4-cbda-737a-862d-3c72fd07c830",
     "version": 1,
-
     "title": "Peach Cobbler with Tinned Peaches",
-
     "overview": {
         "description": "A warm peach cobbler made with tinned peaches and topped with soft, golden sweet biscuit dough.",
         "country": "United States",
         "region": "Southern United States",
         "serves": 6
     },
-
     "ingredients": [
         "3 x 410g tins sliced peaches",
         "50g light brown sugar",
@@ -29,7 +26,6 @@
         "150ml double cream",
         "1 tsp vanilla extract"
     ],
-
     "method": [
         "Preheat the oven to 190°C.",
         "Drain the peaches, reserving 150ml of the syrup.",
@@ -45,7 +41,6 @@
         "Bake for 35–45 minutes until the peaches are bubbling and the topping is golden brown and cooked through.",
         "Allow to rest for 10 minutes before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Vanilla Ice Cream"
@@ -56,7 +51,6 @@
             "Crème Fraîche"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 45,
@@ -64,7 +58,6 @@
         "cost": "low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "American cobbler toppings vary considerably by region, ranging from biscuit-like dough to cake batter and pastry-style toppings.",
         "what-you-will-learn": "How to turn tinned fruit into a balanced baked fruit pudding and how to make a soft biscuit-style cobbler topping.",
@@ -76,7 +69,6 @@
             "Balancing sweetness"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "An inexpensive, reliable fruit pudding using tinned peaches from the pantry rather than expensive fresh fruit.",
         "chapman-tips": [
@@ -92,7 +84,6 @@
         "batch-cooking": "Better fresh. The topping is at its best on the day it is baked.",
         "leftovers": "Good reheated gently, although the topping will soften."
     },
-
     "relationships": {
         "similar-recipes": [
             "Apple Crumble",
@@ -102,18 +93,16 @@
             "Rice Pudding"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

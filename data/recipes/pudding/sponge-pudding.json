@@ -1,16 +1,13 @@
 {
     "id": "019f90b3-77a3-7545-a085-712a52cd3622",
     "version": 1,
-
     "title": "Slow-Cooked Jam Sponge Pudding",
-
     "overview": {
         "description": "A soft steamed sponge pudding cooked slowly over raspberry or blackberry jam until light, tender and rich with fruit.",
         "country": "United Kingdom",
         "region": "British",
         "serves": 6
     },
-
     "ingredients": [
         "150g raspberry or blackberry jam",
         "125g unsalted butter, softened",
@@ -22,7 +19,6 @@
         "1 tsp vanilla extract",
         "Pinch of salt"
     ],
-
     "method": [
         "Grease a 1.5 litre pudding basin or heatproof bowl.",
         "Spoon the jam into the bottom of the basin.",
@@ -42,7 +38,6 @@
         "Leave to stand for 5 minutes.",
         "Turn the pudding out onto a serving plate, allowing the jam to run over the sponge."
     ],
-
     "serving": {
         "serve-with": [
             "Custard"
@@ -53,7 +48,6 @@
             "Crème Fraîche"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 180,
@@ -61,7 +55,6 @@
         "cost": "low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Steamed sponge puddings are descendants of older British boiled puddings, but using a covered basin allows the sponge to cook gently in a moist environment without drying out.",
         "what-you-will-learn": "How to make a soft steamed sponge and how slow, moist cooking produces a tender pudding.",
@@ -73,7 +66,6 @@
             "Turning out puddings"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A simple, comforting family pudding that can cook slowly while the main meal is being prepared and works particularly well with the family's weekly pudding tradition.",
         "chapman-tips": [
@@ -89,7 +81,6 @@
         "batch-cooking": "Freezes well. Cool completely, wrap securely and freeze in portions.",
         "leftovers": "Reheat gently in the microwave or by steaming. Excellent with custard."
     },
-
     "relationships": {
         "similar-recipes": [
             "Sticky Toffee Pudding",
@@ -99,18 +90,16 @@
             "Bread and Butter Pudding"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

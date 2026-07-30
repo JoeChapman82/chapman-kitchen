@@ -1,16 +1,13 @@
 {
     "id": "019f8e0f-6eec-7111-acac-954caa59025e",
     "version": 1,
-
     "title": "Greek Village Bread",
-
     "overview": {
         "description": "A rustic Greek village loaf with a crisp crust, chewy crumb and deep wheaty flavour, made with a blend of white and wholemeal flour.",
         "country": "Greece",
         "region": "Nationwide",
         "serves": 8
     },
-
     "ingredients": [
         "400g strong white bread flour",
         "100g wholemeal bread flour",
@@ -20,7 +17,6 @@
         "2 tbsp extra virgin olive oil",
         "350–380ml lukewarm water"
     ],
-
     "method": [
         "Add the flours, yeast, sugar and salt to a large mixing bowl, keeping the salt and yeast separate initially.",
         "Add the olive oil.",
@@ -39,7 +35,6 @@
         "The loaf is ready when deeply golden and it sounds hollow when tapped underneath.",
         "Cool completely on a wire rack before slicing."
     ],
-
     "serving": {
         "serve-with": [
             "Greek Salad",
@@ -54,7 +49,6 @@
             "Olive Oil"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 150,
         "cook-time-minutes": 40,
@@ -62,7 +56,6 @@
         "cost": "very low",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Horiatiko psomi means village bread and refers to rustic Greek-style bread rather than one single universally standard recipe. Regional versions vary in flour, fermentation and shaping.",
         "what-you-will-learn": "How a simple flour-and-water dough develops flavour and structure through fermentation, and how a very hot oven creates a crisp crust.",
@@ -74,7 +67,6 @@
             "Baking with steam and high heat"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -86,7 +78,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A rustic everyday bread that gives the collection a proper Greek table bread and demonstrates how a simple dough can produce a loaf with substantial flavour and texture.",
         "chapman-tips": [
@@ -101,7 +92,6 @@
         "batch-cooking": "Freezes well. Slice before freezing if you expect to use it a few pieces at a time. Thaw at room temperature or refresh briefly in a hot oven.",
         "leftovers": "Use for toast, sandwiches, dipping into olive oil, breadcrumbs or rustic Greek-style bread salads."
     },
-
     "relationships": {
         "similar-recipes": [
             "Goan Poi",
@@ -110,18 +100,16 @@
             "Pita Bread"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

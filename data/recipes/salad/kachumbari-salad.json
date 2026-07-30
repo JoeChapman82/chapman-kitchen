@@ -1,16 +1,13 @@
 {
     "id": "019f8f83-cfbb-765a-8182-e4716c8e8f2b",
     "version": 1,
-
     "title": "Kachumbari",
-
     "overview": {
         "description": "A fresh East African salad of tomatoes, red onion, coriander, lime and chilli, served with avocado and beans for a more substantial meal.",
         "country": "Kenya",
         "region": "East Africa",
         "serves": 4
     },
-
     "ingredients": [
         "600g ripe tomatoes, diced",
         "1 large red onion, finely diced",
@@ -23,7 +20,6 @@
         "½ tsp salt, or to taste",
         "Black pepper, to taste"
     ],
-
     "method": [
         "Place the diced red onion in a bowl.",
         "Cover with cold water and leave for 10 minutes.",
@@ -34,7 +30,6 @@
         "Taste and adjust the lime juice and seasoning.",
         "Serve immediately."
     ],
-
     "serving": {
         "serve-with": [
             "Chapati",
@@ -48,7 +43,6 @@
             "Plain Yogurt"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 0,
@@ -56,7 +50,6 @@
         "cost": "low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "The name kachumbari is related to the Swahili word for a salad of chopped fresh ingredients. It is particularly popular across East Africa and is commonly served with grilled meats and rice dishes.",
         "what-you-will-learn": "How a simple combination of fresh ingredients can be balanced through acidity, salt and heat, and how to turn a traditional accompaniment into a more substantial meal.",
@@ -68,7 +61,6 @@
             "Building a fresh salad"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A quick, inexpensive and highly adaptable salad that introduces East African flavours and can work either as a complete bean-based meal or as a fresh accompaniment to grilled foods.",
         "chapman-tips": [
@@ -84,7 +76,6 @@
         "batch-cooking": "Better fresh. The tomatoes release liquid and the avocado softens over time.",
         "leftovers": "Best eaten the same day. Leftovers can be used in wraps or served with rice and beans."
     },
-
     "relationships": {
         "similar-recipes": [
             "Kachumber",
@@ -94,18 +85,16 @@
             "Vietnamese Chicken Salad"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

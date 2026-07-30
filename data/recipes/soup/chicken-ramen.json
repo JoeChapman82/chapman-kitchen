@@ -1,16 +1,13 @@
 {
     "id": "019f6fb4-ac3d-7611-a1b9-0a7d7c0a8c0c",
     "version": 1,
-
     "title": "Weeknight Chicken Ramen",
-
     "overview": {
         "description": "A quick homemade chicken ramen built on rich chicken stock, miso and soy sauce, finished with noodles, chicken and fresh toppings.",
         "country": "Japan",
         "region": "Inspired by Tokyo-style shoyu ramen",
         "serves": 4
     },
-
     "ingredients": [
         "1 litre homemade chicken stock",
         "2 tbsp white miso paste",
@@ -28,7 +25,6 @@
         "2 spring onions, finely sliced",
         "Sesame seeds"
     ],
-
     "method": [
         "Bring the chicken stock to a gentle simmer.",
         "Add the ginger, garlic and whole spring onions.",
@@ -44,7 +40,6 @@
         "Ladle over the broth, vegetables and chicken.",
         "Top with soft-boiled egg, sliced spring onions and sesame seeds."
     ],
-
     "serving": {
         "serve-with": [],
         "optional-sides": [
@@ -53,7 +48,6 @@
             "Extra spring onions"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 25,
@@ -61,7 +55,6 @@
         "cost": "budget",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Japanese ramen is usually built from three elements: broth, tare (seasoning base) and aroma oil.",
         "what-you-will-learn": "How to turn homemade chicken stock into a balanced ramen broth using miso and soy sauce.",
@@ -72,7 +65,6 @@
             "Preparing toppings"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -84,7 +76,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A practical homemade ramen that uses homemade chicken stock while remaining achievable on a weeknight.",
         "chapman-tips": [
@@ -96,7 +87,6 @@
         "batch-cooking": "Freeze only the broth. Cook fresh noodles when serving.",
         "leftovers": "Store broth and noodles separately."
     },
-
     "relationships": {
         "similar-recipes": [
             "Pad Kee Mao",
@@ -104,16 +94,14 @@
             "Vietnamese Lemongrass Chicken"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-17",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

@@ -1,16 +1,13 @@
 {
     "id": "019f6e83-d4f3-75ab-80e4-f0f6ad12a009",
     "version": 1,
-
     "title": "Cucumber Raita",
-
     "overview": {
         "description": "A cool, refreshing yoghurt accompaniment with cucumber, cumin and fresh herbs. Perfect alongside spicy Indian dishes.",
         "country": "India",
         "region": "North India",
         "serves": 4
     },
-
     "ingredients": [
         "400g Greek yoghurt",
         "½ cucumber, grated",
@@ -20,7 +17,6 @@
         "1 tbsp fresh mint, finely chopped",
         "¼ tsp Kashmiri chilli powder (optional)"
     ],
-
     "method": [
         "Grate the cucumber.",
         "Sprinkle with the salt and leave for 10 minutes.",
@@ -32,7 +28,6 @@
         "Sprinkle with Kashmiri chilli powder before serving, if using.",
         "Chill until required."
     ],
-
     "serving": {
         "serve-with": [
             "Vegetable Biryani",
@@ -45,7 +40,6 @@
         ],
         "optional-sides": []
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 0,
@@ -53,7 +47,6 @@
         "cost": "budget",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Raita is designed to cool the palate and balance richly spiced dishes rather than simply adding another flavour.",
         "what-you-will-learn": "How to prepare cucumber correctly and season yoghurt so it complements rather than overpowers a meal.",
@@ -63,7 +56,6 @@
             "Making cold accompaniments"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -75,7 +67,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A simple, cooling accompaniment that pairs with almost every Indian meal in the collection.",
         "chapman-tips": [
@@ -87,7 +78,6 @@
         "batch-cooking": "Not suitable for freezing.",
         "leftovers": "Best eaten within 24 hours."
     },
-
     "relationships": {
         "similar-recipes": [
             "Vegetable Biryani",
@@ -95,16 +85,14 @@
             "Chole (Punjabi Chickpea Curry)"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-17",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

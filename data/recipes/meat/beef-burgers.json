@@ -1,16 +1,13 @@
 {
     "id": "019f739d-e62c-705d-9dc4-0e0206858d83",
     "version": 1,
-
     "title": "Homemade Beef Burgers",
-
     "overview": {
         "description": "Juicy homemade beef burgers made with well-marbled mince and simply seasoned to let the beef shine.",
         "country": "United States",
         "region": "Classic American",
         "serves": 4
     },
-
     "ingredients": [
         "800g beef mince (20% fat)",
         "1½ tsp fine salt",
@@ -19,7 +16,6 @@
         "4 burger buns",
         "4 slices mature Cheddar (optional)"
     ],
-
     "method": [
         "Divide the mince into 4 equal portions.",
         "Gently shape into patties approximately 2cm thick.",
@@ -32,7 +28,6 @@
         "Add the cheese during the final minute if using.",
         "Rest the burgers for 3–5 minutes before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Burger Buns",
@@ -46,7 +41,6 @@
             "Burger Sauce"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 10,
         "cook-time-minutes": 10,
@@ -54,7 +48,6 @@
         "cost": "budget",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Many of the world's best burger restaurants season only with salt and pepper, relying on high-quality beef rather than additional ingredients.",
         "what-you-will-learn": "How to shape burgers correctly, avoid overworking the meat and develop a deep crust while keeping the centre juicy.",
@@ -65,7 +58,6 @@
             "Building a crust"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -77,7 +69,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A simple family favourite that proves great burgers come from good ingredients and good technique rather than complicated recipes.",
         "chapman-tips": [
@@ -89,23 +80,20 @@
         "batch-cooking": "Freeze uncooked patties separated with baking paper, or freeze cooked burgers once cooled.",
         "leftovers": "Excellent sliced into wraps or served cold in sandwiches."
     },
-
     "relationships": {
         "similar-recipes": [
             "Lamb Kofta",
             "Chicken Shawarma"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-18",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

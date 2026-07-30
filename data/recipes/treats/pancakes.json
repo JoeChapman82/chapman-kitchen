@@ -1,16 +1,13 @@
 {
     "id": "019f8f87-4eff-727c-a4bc-9a38f2bf16a0",
     "version": 1,
-
     "title": "British Pancakes",
-
     "overview": {
         "description": "Thin, lightly crisp-edged British pancakes made from a simple batter of flour, milk and eggs.",
         "country": "United Kingdom",
         "region": "Britain",
         "serves": 4
     },
-
     "ingredients": [
         "150g plain flour",
         "2 large eggs",
@@ -18,7 +15,6 @@
         "1 pinch salt",
         "Butter or neutral oil, for cooking"
     ],
-
     "method": [
         "Place the flour and salt in a large mixing bowl.",
         "Make a well in the centre.",
@@ -35,7 +31,6 @@
         "Cook the other side for approximately 20–30 seconds.",
         "Repeat with the remaining batter."
     ],
-
     "serving": {
         "serve-with": [
             "Lemon Juice",
@@ -49,7 +44,6 @@
             "Chocolate Spread"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 5,
         "cook-time-minutes": 20,
@@ -57,7 +51,6 @@
         "cost": "low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "British pancakes are closer to French crêpes than to thick American-style pancakes. Traditionally, they are particularly associated with Shrove Tuesday.",
         "what-you-will-learn": "How to make a thin batter and control pan temperature to produce thin pancakes with lightly crisp edges.",
@@ -69,7 +62,6 @@
             "Cooking thin batters"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A simple family recipe that is quick, inexpensive and versatile enough for both sweet and savoury fillings.",
         "chapman-tips": [
@@ -85,7 +77,6 @@
         "batch-cooking": "Freezes well. Stack with baking paper between the pancakes and freeze in an airtight container.",
         "leftovers": "Reheat in a frying pan or microwave. Leftover pancakes can be used for both sweet and savoury fillings."
     },
-
     "relationships": {
         "similar-recipes": [
             "French Crêpes",
@@ -95,18 +86,16 @@
             "Dutch Baby"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

@@ -1,16 +1,13 @@
 {
     "id": "019f641d-074c-77ea-8359-55d8640051fd",
     "version": 1,
-
     "title": "Moussaka",
-
     "overview": {
         "description": "A comforting Greek bake of layers of aubergine, rich lamb sauce and creamy béchamel, finished with a golden Parmesan topping. Perfect for batch cooking and one of the family's favourite meals.",
         "country": "Greece",
         "region": "",
         "serves": 8
     },
-
     "ingredients": [
         "2 large aubergines",
         "2 tbsp olive oil",
@@ -30,7 +27,6 @@
         "Pinch of freshly grated nutmeg",
         "75g Parmesan, finely grated"
     ],
-
     "method": [
         "Slice the aubergines into approximately 1cm rounds.",
         "Soak the slices in lightly salted water for 20 minutes, then drain and pat thoroughly dry.",
@@ -52,7 +48,6 @@
         "Bake for 40–45 minutes until golden brown and bubbling.",
         "Leave to rest for at least 20 minutes before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Greek Village Bread"
@@ -61,7 +56,6 @@
             "Greek Salad"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 50,
         "cook-time-minutes": 90,
@@ -69,7 +63,6 @@
         "cost": "mid-range",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Although often thought of as an ancient Greek dish, modern moussaka was popularised in the early 20th century by chef Nikolaos Tselementes, who introduced the French-style béchamel topping.",
         "what-you-will-learn": "How to prepare aubergines, build a rich meat sauce, make a classic béchamel and assemble layered bakes.",
@@ -80,7 +73,6 @@
             "Batch cooking"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -92,7 +84,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "One of the family's favourite comfort foods and a perfect Saturday project. It freezes beautifully and rewards the extra effort with outstanding flavour.",
         "chapman-tips": [
@@ -104,7 +95,6 @@
         "batch-cooking": "Bake two dishes while the oven is on and freeze one whole or in individual portions for up to three months.",
         "leftovers": "Reheat thoroughly in the oven or microwave. Like lasagne, it's often even better the following day."
     },
-
     "relationships": {
         "similar-recipes": [
             "Lasagne",
@@ -113,16 +103,14 @@
             "Cottage Pie"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-15",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

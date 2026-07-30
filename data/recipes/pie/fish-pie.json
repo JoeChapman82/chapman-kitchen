@@ -1,16 +1,13 @@
 {
     "id": "019f909c-679e-724b-a816-651fb17ea445",
     "version": 1,
-
     "title": "Fish Pie",
-
     "overview": {
         "description": "A classic British fish pie with mixed fish in a creamy leek and parsley sauce topped with fluffy mashed potato.",
         "country": "United Kingdom",
         "region": "Britain",
         "serves": 6
     },
-
     "ingredients": [
         "700g mixed fish, cut into large pieces",
         "200g raw peeled prawns, optional",
@@ -32,7 +29,6 @@
         "100ml milk",
         "50g mature cheddar, grated, optional"
     ],
-
     "method": [
         "Preheat the oven to 200°C.",
         "Place the potatoes in a large saucepan of salted water.",
@@ -58,7 +54,6 @@
         "Bake for 30–40 minutes until bubbling and golden on top.",
         "Allow to rest for 5–10 minutes before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Green Vegetables"
@@ -71,7 +66,6 @@
             "Simple Salad"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 35,
         "cook-time-minutes": 40,
@@ -79,7 +73,6 @@
         "cost": "moderate",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Fish pie is a British comfort food that developed from the tradition of combining fish with a thick sauce and a pastry or potato topping.",
         "what-you-will-learn": "How to make a smooth white sauce and how residual heat and oven cooking gently cook delicate fish without drying it out.",
@@ -91,7 +84,6 @@
             "Freezer cooking"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A comforting family meal that makes excellent use of frozen fish and can be assembled ahead or batch-cooked for the freezer.",
         "chapman-tips": [
@@ -107,7 +99,6 @@
         "batch-cooking": "Freezes well. Assemble and cool completely before freezing, then thaw thoroughly before baking where practical.",
         "leftovers": "Reheats well and can be portioned for lunches."
     },
-
     "relationships": {
         "similar-recipes": [
             "Salmon en Croute",
@@ -117,18 +108,16 @@
             "Cottage Pie"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

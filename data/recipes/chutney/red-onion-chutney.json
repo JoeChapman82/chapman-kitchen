@@ -1,16 +1,13 @@
 {
     "id": "019f909a-62b6-75e3-a16d-ae748e7e5358",
     "version": 1,
-
     "title": "Caramelised Onion Chutney",
-
     "overview": {
         "description": "A rich, sweet and savoury chutney made from slowly caramelised onions, vinegar and brown sugar.",
         "country": "United Kingdom",
         "region": "British",
         "serves": 12
     },
-
     "ingredients": [
         "1kg onions, thinly sliced",
         "2 tbsp olive oil",
@@ -22,7 +19,6 @@
         "½ tsp freshly ground black pepper",
         "2 sprigs fresh thyme, leaves picked"
     ],
-
     "method": [
         "Heat the olive oil in a large heavy-based saucepan over medium heat.",
         "Add the sliced onions and salt.",
@@ -38,7 +34,6 @@
         "Taste and adjust the balance of sweetness, acidity and seasoning.",
         "Allow to cool before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Cheese",
@@ -53,7 +48,6 @@
             "Roast Beef"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 90,
@@ -61,7 +55,6 @@
         "cost": "low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Caramelisation and the Maillard reaction both contribute to the deep flavour of cooked onions, although they are different chemical processes.",
         "what-you-will-learn": "How slow cooking transforms onions into a sweet, deeply flavoured preserve and how vinegar balances sweetness in a chutney.",
@@ -73,7 +66,6 @@
             "Making a preserve"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A versatile homemade chutney that can turn simple cheese, bread or leftovers into a much more interesting meal.",
         "chapman-tips": [
@@ -89,7 +81,6 @@
         "batch-cooking": "Freezes well in small portions. It can also be stored in the refrigerator for several weeks in a clean, sealed container.",
         "leftovers": "Excellent with cheese sandwiches, burgers, sausages, pies and leftover roast meat."
     },
-
     "relationships": {
         "similar-recipes": [
             "Tomato Chutney",
@@ -99,18 +90,16 @@
             "Cranberry Sauce"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

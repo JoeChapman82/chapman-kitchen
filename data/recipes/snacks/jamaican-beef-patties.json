@@ -1,16 +1,13 @@
 {
     "id": "019f8585-9ab2-7476-b2ee-34d7987986a0",
     "version": 1,
-
     "title": "Jamaican Beef Patties",
-
     "overview": {
         "description": "Flaky golden pastry filled with richly seasoned Jamaican beef, onion and aromatic spices.",
         "country": "Jamaica",
         "region": "Caribbean",
         "serves": 8
     },
-
     "ingredients": [
         "500g plain flour",
         "1 tsp fine salt",
@@ -36,7 +33,6 @@
         "",
         "1 egg, beaten, for brushing"
     ],
-
     "method": [
         "Mix the flour, salt, curry powder and turmeric together in a large bowl.",
         "Rub in the cold butter and beef dripping or lard until the mixture resembles coarse breadcrumbs.",
@@ -63,7 +59,6 @@
         "Bake for 25–30 minutes until golden and crisp.",
         "Allow to cool for a few minutes before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Hot Sauce"
@@ -74,7 +69,6 @@
             "Fresh Fruit"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 45,
         "cook-time-minutes": 30,
@@ -82,7 +76,6 @@
         "cost": "mid-range",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Jamaican beef patties developed from the influence of Cornish pasties, Indian spices and Jamaican ingredients, creating a pastry snack that is now one of Jamaica's most recognisable foods.",
         "what-you-will-learn": "How to make a richly seasoned minced beef filling, work with pastry and shape filled pastries for batch cooking.",
@@ -94,7 +87,6 @@
             "Freezer preparation"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -106,7 +98,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A substantial freezer-friendly snack that combines a flaky, warmly spiced pastry with a deeply seasoned beef filling.",
         "chapman-tips": [
@@ -119,7 +110,6 @@
         "batch-cooking": "Freeze the assembled, unbaked patties on a tray until solid, then transfer to a freezer bag or container. Bake from frozen at 200°C (180°C fan), adding approximately 10–15 minutes to the cooking time.",
         "leftovers": "Cooked patties can be refrigerated and reheated in the oven. They are also good cold in packed lunches."
     },
-
     "relationships": {
         "similar-recipes": [
             "Mini Sausage Rolls",
@@ -127,16 +117,14 @@
             "Mini Meat Pies"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-21",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

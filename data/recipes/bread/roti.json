@@ -1,23 +1,19 @@
 {
     "id": "019f8b78-a909-713d-9165-bfa5d6ba52dd",
     "version": 1,
-
     "title": "Roti",
-
     "overview": {
         "description": "Thin, unleavened Indian flatbreads made from atta and water, cooked on a hot tawa and optionally puffed directly over a flame.",
         "country": "India",
         "region": "Nationwide",
         "serves": 4
     },
-
     "ingredients": [
         "250g atta (wholemeal chapati flour)",
         "160–180ml warm water",
         "½ tsp salt, optional",
         "Extra atta, for dusting"
     ],
-
     "method": [
         "Place the atta and salt, if using, in a large bowl.",
         "Gradually add the warm water, mixing with your fingers until a soft dough forms.",
@@ -26,16 +22,15 @@
         "Divide the dough into 8 equal portions and roll each into a smooth ball.",
         "Flatten one ball and dust lightly with atta.",
         "Roll into a thin circle approximately 15–18cm in diameter.",
-    "Heat a dry tawa or heavy-based frying pan over medium-high heat until properly hot.",
-    "Place the roti on the hot pan.",
-    "Cook until the surface begins to show small bubbles and the underside develops pale brown spots.",
-    "Turn the roti and cook the second side until more brown spots appear.",
-    "Turn the roti once more and gently press around the edges and surface with a clean cloth or spatula to encourage it to puff.",
-    "Remove from the pan once cooked.",
-    "Keep the cooked roti wrapped in a clean tea towel.",
+        "Heat a dry tawa or heavy-based frying pan over medium-high heat until properly hot.",
+        "Place the roti on the hot pan.",
+        "Cook until the surface begins to show small bubbles and the underside develops pale brown spots.",
+        "Turn the roti and cook the second side until more brown spots appear.",
+        "Turn the roti once more and gently press around the edges and surface with a clean cloth or spatula to encourage it to puff.",
+        "Remove from the pan once cooked.",
+        "Keep the cooked roti wrapped in a clean tea towel.",
         "Repeat with the remaining dough."
     ],
-
     "serving": {
         "serve-with": [
             "Dal",
@@ -50,7 +45,6 @@
             "Chutney"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 30,
         "cook-time-minutes": 20,
@@ -58,7 +52,6 @@
         "cost": "very low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Roti are made throughout South Asia, with regional differences in flour, thickness, cooking method and terminology.",
         "what-you-will-learn": "How a lean unleavened dough behaves differently from richer or softer flatbreads, and how direct heat can encourage a roti to puff.",
@@ -70,7 +63,6 @@
             "Cooking over direct heat"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -82,7 +74,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A fundamental South Asian flatbread that is inexpensive, versatile and provides a useful opportunity to practise dough handling and high-heat cooking.",
         "chapman-tips": [
@@ -98,7 +89,6 @@
         "batch-cooking": "Cooked roti freeze well. Cool completely, stack with baking paper between them if desired and freeze in a sealed bag or container. Reheat directly from frozen in a dry frying pan.",
         "leftovers": "Use leftover roti as wraps, cut into strips for dipping or toast until crisp for a snack."
     },
-
     "relationships": {
         "similar-recipes": [
             "Chapati",
@@ -106,16 +96,14 @@
             "Aloo Paratha"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-22",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

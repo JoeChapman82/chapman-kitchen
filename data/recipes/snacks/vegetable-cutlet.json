@@ -1,16 +1,13 @@
 {
     "id": "019f956f-8878-75e8-8350-30d083a7a44a",
     "version": 1,
-
     "title": "Vegetable Cutlet",
-
     "overview": {
         "description": "Crisp, golden Indian vegetable cutlets made from mashed potato and spiced vegetables with a crunchy breadcrumb coating.",
         "country": "India",
         "region": "Indian subcontinent",
         "serves": 4
     },
-
     "ingredients": [
         "500g potatoes, peeled and cut into chunks",
         "150g carrots, finely diced",
@@ -33,7 +30,6 @@
         "Approximately 100ml water",
         "Oil, for shallow frying"
     ],
-
     "method": [
         "Boil the potatoes in salted water until tender.",
         "Drain thoroughly and allow them to steam dry.",
@@ -60,7 +56,6 @@
         "Fry the cutlets in batches until golden brown and crisp on both sides.",
         "Drain briefly before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Mint and Coriander Chutney",
@@ -73,7 +68,6 @@
             "Fresh Salad"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 75,
         "cook-time-minutes": 30,
@@ -81,7 +75,6 @@
         "cost": "low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Vegetable cutlets are found in several South Asian cuisines and are particularly popular as snacks, appetisers and tea-time food.",
         "what-you-will-learn": "How to build a vegetable mixture that holds together, how to manage moisture and how to create a crisp breadcrumb coating.",
@@ -93,7 +86,6 @@
             "Batch cooking"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "An inexpensive, freezer-friendly vegetable snack that uses common vegetables and can be served as a snack, starter or light meal.",
         "chapman-tips": [
@@ -110,7 +102,6 @@
         "batch-cooking": "Freezes well. Freeze the shaped and breadcrumb-coated cutlets before frying, then cook from thawed or partially thawed.",
         "leftovers": "Reheat in an oven or air fryer until hot and crisp."
     },
-
     "relationships": {
         "similar-recipes": [
             "Onion Bhaji",
@@ -120,18 +111,16 @@
             "Falafel"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-24",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

@@ -1,16 +1,13 @@
 {
     "id": "019f6428-ee1f-74c6-9622-aa0c05de22b8",
     "version": 1,
-
     "title": "Lancashire Hotpot",
-
     "overview": {
         "description": "A traditional Lancashire casserole of slow-cooked lamb, onions and rich stock, topped with crisp, golden slices of potato. Simple ingredients transformed into classic British comfort food.",
         "country": "United Kingdom",
         "region": "Lancashire",
         "serves": 8
     },
-
     "ingredients": [
         "2 tbsp vegetable oil",
         "1kg lamb shoulder, cut into large chunks",
@@ -27,7 +24,6 @@
         "Salt",
         "Freshly ground black pepper"
     ],
-
     "method": [
         "Heat the vegetable oil in a large casserole dish over a medium-high heat.",
         "Season the lamb with salt and pepper, dust lightly with the flour and brown in batches. Remove and set aside.",
@@ -42,7 +38,6 @@
         "Remove the lid, brush the potatoes with any remaining butter if needed and return to the oven for a further 30–40 minutes until the potatoes are crisp and deeply golden.",
         "Leave to rest for 10 minutes before serving."
     ],
-
     "serving": {
         "serve-with": [],
         "optional-sides": [
@@ -51,7 +46,6 @@
             "Pickled Red Cabbage"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 30,
         "cook-time-minutes": 160,
@@ -59,7 +53,6 @@
         "cost": "mid-range",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Lancashire Hotpot dates back to the Industrial Revolution, when workers needed hearty meals that could cook slowly while they were at work.",
         "what-you-will-learn": "How to brown meat for maximum flavour, layer potatoes for an attractive finish and use slow cooking to tenderise lamb shoulder.",
@@ -70,7 +63,6 @@
             "Batch cooking"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -82,7 +74,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A wonderful winter meal that's economical, deeply satisfying and perfect for slow Saturday cooking.",
         "chapman-tips": [
@@ -94,7 +85,6 @@
         "batch-cooking": "Freeze cooled portions for up to three months. Defrost overnight before reheating thoroughly.",
         "leftovers": "Excellent reheated in the oven, where the potato topping crisps up again."
     },
-
     "relationships": {
         "similar-recipes": [
             "Shepherd's Pie",
@@ -103,16 +93,14 @@
             "Moussaka"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-15",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

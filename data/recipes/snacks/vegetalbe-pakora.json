@@ -1,16 +1,13 @@
 {
     "id": "019f9570-bad8-73dd-a8a4-bf9fae6f7132",
     "version": 1,
-
     "title": "Mixed Vegetable Pakora",
-
     "overview": {
         "description": "Crisp Indian vegetable fritters made with mixed vegetables, gram flour and aromatic spices.",
         "country": "India",
         "region": "Indian subcontinent",
         "serves": 4
     },
-
     "ingredients": [
         "150g potatoes, cut into very thin matchsticks or grated",
         "100g carrots, grated",
@@ -31,7 +28,6 @@
         "Approximately 3–5 tbsp water",
         "Oil, for deep frying"
     ],
-
     "method": [
         "Place the prepared vegetables in a large bowl.",
         "Add the salt and mix thoroughly.",
@@ -47,7 +43,6 @@
         "Drain on a wire rack or kitchen paper.",
         "Serve hot."
     ],
-
     "serving": {
         "serve-with": [
             "Mint and Coriander Chutney",
@@ -60,7 +55,6 @@
             "Fresh Coriander"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 35,
         "cook-time-minutes": 20,
@@ -68,7 +62,6 @@
         "cost": "low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Pakora are found in many regional variations across South Asia, and the word generally refers to vegetables or other ingredients coated in a seasoned batter and fried.",
         "what-you-will-learn": "How to create a light fritter mixture using the moisture naturally released from vegetables rather than a large quantity of batter.",
@@ -80,7 +73,6 @@
             "Balancing spices"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "An inexpensive and adaptable snack that uses common vegetables and works well as a family snack, starter or side dish.",
         "chapman-tips": [
@@ -97,7 +89,6 @@
         "batch-cooking": "Good for batch cooking. Freeze after frying and reheat in an oven or air fryer for the best texture.",
         "leftovers": "Reheat in an oven or air fryer until hot and crisp."
     },
-
     "relationships": {
         "similar-recipes": [
             "Onion Bhaji",
@@ -107,18 +98,16 @@
             "Falafel"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-24",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

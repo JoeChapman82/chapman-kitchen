@@ -1,22 +1,18 @@
 {
     "id": "019f90bf-bb77-7553-b613-5ddd9d4ba6b7",
     "version": 1,
-
     "title": "Blackberry Jam",
-
     "overview": {
         "description": "A rich, intensely fruity blackberry jam with a bright acidity and soft, spreadable set.",
         "country": "United Kingdom",
         "region": "Britain",
         "serves": 20
     },
-
     "ingredients": [
         "1kg blackberries",
         "500g jam sugar",
         "Juice of 1 lemon"
     ],
-
     "method": [
         "Place a small plate in the freezer for testing the set later.",
         "Place the blackberries and lemon juice in a large preserving pan.",
@@ -34,7 +30,6 @@
         "Pour the hot jam into hot sterilised jars.",
         "Seal immediately and allow to cool."
     ],
-
     "serving": {
         "serve-with": [
             "Toast",
@@ -49,7 +44,6 @@
             "Cakes"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 25,
@@ -57,7 +51,6 @@
         "cost": "moderate",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Blackberries contain natural pectin, but the amount varies depending on how ripe they are. Slightly underripe fruit generally contains more pectin than very ripe fruit.",
         "what-you-will-learn": "How sugar, fruit acidity and pectin combine to create a set preserve and how to test jam for the correct setting point.",
@@ -69,7 +62,6 @@
             "Preserving fruit"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A simple homemade preserve that makes excellent use of fresh or frozen blackberries and provides a useful way to preserve seasonal fruit.",
         "chapman-tips": [
@@ -85,7 +77,6 @@
         "batch-cooking": "Freezes well. Properly jarred jam is better suited to long-term storage.",
         "leftovers": "Excellent in cakes, crumbles, sauces and desserts."
     },
-
     "relationships": {
         "similar-recipes": [
             "Strawberry Jam",
@@ -95,18 +86,16 @@
             "Cranberry Sauce"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

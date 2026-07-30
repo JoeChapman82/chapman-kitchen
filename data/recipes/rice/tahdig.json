@@ -1,16 +1,13 @@
 {
     "id": "019f8f74-a574-771f-abe4-32e3b694f421",
     "version": 1,
-
     "title": "Tahdig",
-
     "overview": {
         "description": "Persian steamed rice with a golden, crisp layer of rice formed at the bottom of the pot.",
         "country": "Iran",
         "region": "Persia / Iran",
         "serves": 4
     },
-
     "ingredients": [
         "400g basmati rice",
         "2 tbsp salt, for the cooking water",
@@ -19,7 +16,6 @@
         "100ml water",
         "Salt, to taste"
     ],
-
     "method": [
         "Rinse the rice repeatedly in cold water until the water runs mostly clear.",
         "Place the rice in a large bowl and cover with cold water.",
@@ -45,7 +41,6 @@
         "Invert the pan onto a large serving platter so the crisp tahdig is revealed.",
         "Alternatively, spoon the rice onto a platter and serve the tahdig separately in pieces."
     ],
-
     "serving": {
         "serve-with": [
             "Persian Stews",
@@ -59,7 +54,6 @@
             "Pickled Vegetables"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 70,
         "cook-time-minutes": 50,
@@ -67,7 +61,6 @@
         "cost": "low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Tahdig means 'bottom of the pot' in Persian. The crisp layer is often considered the best part of the meal and is commonly shared among the diners.",
         "what-you-will-learn": "How parboiling and steaming produce fluffy rice while controlled heat creates a crisp, golden layer at the bottom of the pot.",
@@ -79,7 +72,6 @@
             "Creating a crisp rice crust"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A fascinating rice technique that transforms a familiar pantry staple into something completely different, while introducing one of the defining pleasures of Persian cuisine.",
         "chapman-tips": [
@@ -95,7 +87,6 @@
         "batch-cooking": "Better fresh. The crisp texture is lost during refrigeration and reheating.",
         "leftovers": "The fluffy rice reheats well, but the tahdig is best eaten immediately."
     },
-
     "relationships": {
         "similar-recipes": [
             "Persian Jeweled Rice",
@@ -105,18 +96,16 @@
             "Plain Basmati Rice"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

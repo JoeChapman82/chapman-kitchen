@@ -1,16 +1,13 @@
 {
     "id": "019f61e3-ad84-763d-a9ac-045e3e18d8c5",
     "version": 1,
-
     "title": "Lasagne",
-
     "overview": {
         "description": "Layers of rich homemade Bolognese, creamy béchamel, pasta and Parmesan baked until bubbling and golden. A classic Italian comfort food that's perfect for batch cooking.",
         "country": "Italy",
         "region": "Emilia-Romagna",
         "serves": 8
     },
-
     "ingredients": [
         "1 batch Homemade Bolognese",
         "12 dried lasagne sheets",
@@ -22,7 +19,6 @@
         "Salt",
         "Freshly ground black pepper"
     ],
-
     "method": [
         "Prepare one batch of Homemade Bolognese and set aside.",
         "To make the bechamel, melt the butter in a saucepan over a medium heat.",
@@ -38,7 +34,6 @@
         "Bake for 40–45 minutes until golden brown and bubbling.",
         "Leave to rest for at least 15 minutes before serving. This makes it much easier to portion cleanly."
     ],
-
     "serving": {
         "serve-with": [
             "Focaccia"
@@ -48,7 +43,6 @@
             "Garlic Bread"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 45,
         "cook-time-minutes": 45,
@@ -56,7 +50,6 @@
         "cost": "mid-range",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Lasagne originates from the Emilia-Romagna region of Italy, where it's traditionally made with ragù, béchamel and Parmesan rather than mozzarella.",
         "what-you-will-learn": "How to make a classic béchamel, assemble layered dishes and why resting baked dishes improves both texture and serving.",
@@ -67,7 +60,6 @@
             "Batch cooking"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -79,7 +71,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "One of the family's favourite meals and an excellent Saturday project. It freezes exceptionally well and makes several future meals with very little extra work.",
         "chapman-tips": [
@@ -90,7 +81,6 @@
         "batch-cooking": "Bake two while the oven is on. Freeze whole or in individual portions for up to three months.",
         "leftovers": "Reheat in the oven or microwave until piping hot. Many people think it tastes even better the following day."
     },
-
     "relationships": {
         "similar-recipes": [
             "Bolognese",
@@ -98,16 +88,14 @@
             "Shepherd's Pie"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-14",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

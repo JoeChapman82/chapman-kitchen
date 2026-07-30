@@ -1,20 +1,16 @@
 {
     "id": "019f9586-7ebd-763f-b09f-b5e3108d8465",
     "version": 1,
-
     "title": "Lemon",
-
     "overview": {
         "description": "A bright, highly acidic citrus fruit with a fragrant peel and intensely sour juice.",
         "country": "China",
         "region": "",
         "serves": 1
     },
-
     "ingredients": [
         "1 lemon"
     ],
-
     "method": [
         "Wash the lemon.",
         "Cut it in half or into wedges.",
@@ -22,12 +18,10 @@
         "The peel can also be grated to use as zest.",
         "A whole lemon is usually too sour to eat like an apple, although the flesh itself is edible."
     ],
-
     "serving": {
         "serve-with": [],
         "optional-sides": []
     },
-
     "planner": {
         "prep-time-minutes": 2,
         "cook-time-minutes": 0,
@@ -35,7 +29,6 @@
         "cost": "low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "In Hindi, both lemons and limes can commonly be called nimbu or neembu, so the exact distinction between the two fruits is often less important in everyday Indian cooking than it is in English-speaking countries.",
         "what-you-will-learn": "How lemons are used differently from sweeter citrus fruits and how lemons and limes are similar but different fruits.",
@@ -46,7 +39,6 @@
             "Comparing citrus fruits"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A versatile citrus fruit that introduces children to acidity, zest and the different ways fruit can be used to change the flavour of food.",
         "chapman-tips": [
@@ -61,7 +53,6 @@
         "batch-cooking": "Not applicable.",
         "leftovers": "Lemon juice can be frozen in ice cube trays. Zest can be frozen separately for later use."
     },
-
     "relationships": {
         "similar-recipes": [
             "Orange",
@@ -70,18 +61,16 @@
             "Banana"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-24",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

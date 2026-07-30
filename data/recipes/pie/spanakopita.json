@@ -1,16 +1,13 @@
 {
     "id": "019f6713-0fd0-707b-827d-6cfb0ff073d0",
     "version": 1,
-
     "title": "Spanakopita",
-
     "overview": {
         "description": "A traditional Greek spinach and feta pie baked in crisp filo pastry. Rich enough to be satisfying while still feeling fresh and light.",
         "country": "Greece",
         "region": "",
         "serves": 8
     },
-
     "ingredients": [
         "1kg frozen chopped spinach, thawed and thoroughly squeezed dry",
         "250g feta, crumbled",
@@ -23,7 +20,6 @@
         "2 tbsp olive oil",
         "Freshly ground black pepper"
     ],
-
     "method": [
         "=== Filling ===",
         "Heat the olive oil in a frying pan over a medium heat.",
@@ -46,7 +42,6 @@
         "Bake at 180°C fan (200°C conventional) for 40–45 minutes until crisp and deep golden.",
         "Allow to cool for 10 minutes before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Greek Salad"
@@ -57,7 +52,6 @@
             "Roasted Tomatoes"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 30,
         "cook-time-minutes": 45,
@@ -65,7 +59,6 @@
         "cost": "mid-range",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Spanakopita has been enjoyed throughout Greece for centuries and belongs to a family of savoury pies known as 'pites'.",
         "what-you-will-learn": "How to prepare spinach properly, work with delicate filo pastry and create crisp pastry layers.",
@@ -76,7 +69,6 @@
             "Baking"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -88,7 +80,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A fantastic vegetarian centrepiece that introduces filo pastry while making excellent use of frozen spinach.",
         "chapman-tips": [
@@ -100,7 +91,6 @@
         "batch-cooking": "Freeze either before or after baking for up to three months.",
         "leftovers": "Reheat in the oven or air fryer to restore the crisp pastry."
     },
-
     "relationships": {
         "similar-recipes": [
             "Salmon en Croute",
@@ -109,16 +99,14 @@
             "Falafel & Hummus Pita"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-15",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

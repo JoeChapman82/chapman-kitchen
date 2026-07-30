@@ -1,16 +1,13 @@
 {
     "id": "019f7bfe-7740-706c-a976-5580f9e41912",
     "version": 1,
-
     "title": "Strapatsada",
-
     "overview": {
         "description": "A simple Greek breakfast of softly scrambled eggs gently cooked with ripe tomatoes, olive oil and feta.",
         "country": "Greece",
         "region": "Nationwide",
         "serves": 2
     },
-
     "ingredients": [
         "4 large ripe tomatoes, grated or finely chopped",
         "4 eggs",
@@ -20,7 +17,6 @@
         "Salt",
         "Black pepper"
     ],
-
     "method": [
         "Heat the olive oil over a medium heat.",
         "Add the grated tomatoes.",
@@ -34,7 +30,6 @@
         "Scatter over the remaining feta and herbs.",
         "Serve immediately."
     ],
-
     "serving": {
         "serve-with": [
             "Crusty Bread"
@@ -45,7 +40,6 @@
             "Extra Virgin Olive Oil"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 10,
         "cook-time-minutes": 20,
@@ -53,7 +47,6 @@
         "cost": "budget",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Strapatsada is a traditional Greek farmhouse breakfast that makes the most of summer tomatoes when they're at their sweetest.",
         "what-you-will-learn": "How slowly reducing fresh tomatoes concentrates their sweetness before gently scrambling eggs into the sauce.",
@@ -63,7 +56,6 @@
             "Seasoning with cheese"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -75,7 +67,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A wonderfully simple breakfast that makes the most of good tomatoes and teaches that a few quality ingredients are often all you need.",
         "chapman-tips": [
@@ -87,7 +78,6 @@
         "batch-cooking": "Not suitable.",
         "leftovers": "Best eaten immediately."
     },
-
     "relationships": {
         "similar-recipes": [
             "Eggs in Purgatory",
@@ -95,16 +85,14 @@
             "Çılbır"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-19",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

@@ -1,16 +1,13 @@
 {
     "id": "019f8f71-e82e-7050-9627-0e501376025d",
     "version": 1,
-
     "title": "Tabbouleh",
-
     "overview": {
         "description": "A fresh Levantine herb salad made primarily with parsley and mint, finely chopped tomatoes, a small amount of bulgur and a bright lemon and olive oil dressing.",
         "country": "Lebanon",
         "region": "Levant",
         "serves": 4
     },
-
     "ingredients": [
         "100g fine bulgur",
         "150ml boiling water",
@@ -23,7 +20,6 @@
         "1 tsp salt, or to taste",
         "Black pepper, to taste"
     ],
-
     "method": [
         "Place the bulgur in a bowl.",
         "Pour over the boiling water.",
@@ -40,7 +36,6 @@
         "Taste and adjust the lemon juice, salt and olive oil.",
         "Leave to stand for 15–30 minutes before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Lettuce Leaves",
@@ -53,7 +48,6 @@
             "Plain Yogurt"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 30,
         "cook-time-minutes": 0,
@@ -61,7 +55,6 @@
         "cost": "low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "In traditional Lebanese tabbouleh, parsley is the dominant ingredient and bulgur is used in relatively small quantities. Many Western versions contain much more bulgur than is traditional.",
         "what-you-will-learn": "How to make an herb-led salad and how lemon, olive oil and fresh herbs can create a complete dish without needing a heavy dressing.",
@@ -73,7 +66,6 @@
             "Managing moisture"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A fresh, herb-heavy complete meal salad that provides a strong contrast to the vegetable-led Greek salad, bread-based fattoush and fish-based Niçoise.",
         "chapman-tips": [
@@ -89,7 +81,6 @@
         "batch-cooking": "Better fresh. The herbs lose freshness and the tomatoes release more liquid over time.",
         "leftovers": "Best eaten within 1–2 days. Leftovers can be served in wraps or alongside hummus and falafel."
     },
-
     "relationships": {
         "similar-recipes": [
             "Fattoush",
@@ -99,18 +90,16 @@
             "Kosambari"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

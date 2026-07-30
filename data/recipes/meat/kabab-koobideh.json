@@ -1,16 +1,13 @@
 {
     "id": "019f8f79-e81b-7420-9335-53df51c878e9",
     "version": 1,
-
     "title": "Kabab Koobideh",
-
     "overview": {
         "description": "Persian grilled minced meat kebabs seasoned with onion, saffron and spices, traditionally served with Persian rice and tahdig.",
         "country": "Iran",
         "region": "Persia / Iran",
         "serves": 4
     },
-
     "ingredients": [
         "500g lamb mince, ideally around 20% fat",
         "500g beef mince, ideally around 15–20% fat",
@@ -23,7 +20,6 @@
         "2 large tomatoes",
         "2 tbsp butter, melted, for brushing"
     ],
-
     "method": [
         "Grate the onions as finely as possible.",
         "Place the grated onion in a clean tea towel or muslin cloth.",
@@ -46,7 +42,6 @@
         "Cook until softened and lightly charred.",
         "Serve the koobideh immediately with Persian rice and tahdig."
     ],
-
     "serving": {
         "serve-with": [
             "Persian Rice",
@@ -62,7 +57,6 @@
             "Lemon Wedges"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 30,
         "cook-time-minutes": 20,
@@ -70,7 +64,6 @@
         "cost": "moderate",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Koobideh comes from the Persian word koobidan, meaning 'to pound' or 'to beat', referring to the traditional preparation of working the meat mixture until it becomes cohesive.",
         "what-you-will-learn": "How to make a cohesive minced-meat kebab mixture and how onion moisture, fat and thorough mixing affect the texture and stability of grilled kebabs.",
@@ -82,7 +75,6 @@
             "Managing saffron"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A classic Iranian family meal that may recreate the kebab and Persian rice dish the Chapman family remembers, while being adaptable for cooking on an induction hob.",
         "chapman-tips": [
@@ -100,7 +92,6 @@
         "batch-cooking": "Freezes well either raw or cooked. Freeze raw shaped portions on a tray before transferring to a container, or cool cooked koobideh completely before freezing.",
         "leftovers": "Reheat gently and serve with rice, in flatbread, or crumbled into a salad."
     },
-
     "relationships": {
         "similar-recipes": [
             "Kabab Chenjeh",
@@ -110,18 +101,16 @@
             "Persian Rice"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

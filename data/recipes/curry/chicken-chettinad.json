@@ -1,16 +1,13 @@
 {
     "id": "019f6a0d-051c-765b-a332-463c61946984",
     "version": 1,
-
     "title": "Chicken Chettinad",
-
     "overview": {
         "description": "A fragrant South Indian chicken curry made with freshly roasted spices, curry leaves, coconut and black pepper. Richly aromatic without relying on heavy cream.",
         "country": "India",
         "region": "Chettinad, Tamil Nadu",
         "serves": 4
     },
-
     "ingredients": [
         "800g bone-in chicken thighs and drumsticks (or boneless thighs)",
         "2 tbsp ghee",
@@ -34,7 +31,6 @@
         "1 small cinnamon stick",
         "2 tbsp grated desiccated coconut"
     ],
-
     "method": [
         "=== Make the Masala ===",
         "Dry fry all the masala ingredients except the coconut over a medium heat until fragrant.",
@@ -57,7 +53,6 @@
         "Adjust the seasoning.",
         "Scatter with fresh coriander before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Basmati Rice"
@@ -68,7 +63,6 @@
             "Cucumber Raita"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 25,
         "cook-time-minutes": 50,
@@ -76,7 +70,6 @@
         "cost": "mid-range",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Chettinad cuisine from Tamil Nadu is famous throughout India for its complex spice blends and generous use of black pepper and curry leaves.",
         "what-you-will-learn": "How to toast and grind whole spices, build a South Indian curry base and use coconut to balance bold spice flavours.",
@@ -88,7 +81,6 @@
             "Balancing spice"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -100,7 +92,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "Introduces the distinctive flavours of South Indian cooking and showcases how different regional Indian curries can be.",
         "chapman-tips": [
@@ -112,7 +103,6 @@
         "batch-cooking": "Freeze in family-sized portions once cooled.",
         "leftovers": "The curry develops an even deeper flavour overnight and reheats beautifully."
     },
-
     "relationships": {
         "similar-recipes": [
             "Butter Chicken (Murgh Makhani)",
@@ -121,16 +111,14 @@
             "Chicken Yassa"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-16",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

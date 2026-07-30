@@ -1,16 +1,13 @@
 {
     "id": "019f858c-4a69-751b-96dc-6fa441e7d51b",
     "version": 1,
-
     "title": "Chicken Nuggets",
-
     "overview": {
         "description": "Tender pieces of chicken coated in crisp breadcrumbs and baked or fried until golden.",
         "country": "United States",
         "region": "",
         "serves": 4
     },
-
     "ingredients": [
         "600g boneless, skinless chicken thighs",
         "100g plain flour",
@@ -23,7 +20,6 @@
         "Black pepper",
         "Oil, for cooking"
     ],
-
     "method": [
         "Cut the chicken thighs into bite-sized nugget pieces.",
         "Set up three shallow bowls: one with the flour seasoned with salt and pepper, one with the beaten eggs, and one with the breadcrumbs mixed with the paprika, garlic powder and onion powder.",
@@ -37,7 +33,6 @@
         "Alternatively, shallow-fry or deep-fry until golden and cooked through.",
         "Allow to cool slightly before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Ketchup"
@@ -49,7 +44,6 @@
             "Chips"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 25,
         "cook-time-minutes": 20,
@@ -57,7 +51,6 @@
         "cost": "budget",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Chicken nuggets became popular as a convenient food in the second half of the twentieth century, but the basic idea of breaded and fried pieces of meat is much older.",
         "what-you-will-learn": "How to create a simple breadcrumb coating and prepare a homemade freezer-friendly alternative to commercially produced nuggets.",
@@ -69,7 +62,6 @@
             "Freezer preparation"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -81,7 +73,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A genuinely useful homemade freezer snack that is popular with children and gives you control over the ingredients without making the recipe complicated.",
         "chapman-tips": [
@@ -94,7 +85,6 @@
         "batch-cooking": "Freeze the breaded, uncooked nuggets in a single layer until solid, then transfer to a freezer bag or container. Cook directly from frozen, adding approximately 5–10 minutes to the cooking time.",
         "leftovers": "Cooked nuggets can be refrigerated and reheated in an oven or air fryer. They are also useful chopped into wraps or salads."
     },
-
     "relationships": {
         "similar-recipes": [
             "Chicken Samosas",
@@ -102,18 +92,16 @@
             "Chicken Croquettes"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-21",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

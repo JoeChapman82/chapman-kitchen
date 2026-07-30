@@ -1,16 +1,13 @@
 {
     "id": "019f9ac8-c0c8-76da-8b93-152fdbaa2a23",
     "version": 1,
-
     "title": "Potato, Spinach & Vegetable Frittata",
-
     "overview": {
         "description": "A substantial Italian-style frittata made with potatoes, frozen spinach, onion, peppers and peas.",
         "country": "Italy",
         "region": "Italy",
         "serves": 6
     },
-
     "ingredients": [
         "500g potatoes, peeled and sliced",
         "300g frozen spinach",
@@ -25,7 +22,6 @@
         "½ tsp black pepper",
         "Salt, to taste"
     ],
-
     "method": [
         "Cook the frozen spinach according to the packet instructions.",
         "Drain the spinach thoroughly and squeeze out as much excess water as possible.",
@@ -48,7 +44,6 @@
         "Allow the frittata to rest for 5–10 minutes before slicing.",
         "Serve warm or at room temperature."
     ],
-
     "serving": {
         "serve-with": [
             "Green Salad"
@@ -59,7 +54,6 @@
             "Roasted Vegetables"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 25,
         "cook-time-minutes": 40,
@@ -67,7 +61,6 @@
         "cost": "low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "A frittata is an Italian egg dish that is similar to an omelette, but the ingredients are mixed into the eggs rather than folded inside. It can be cooked partly on the hob and finished in the oven.",
         "what-you-will-learn": "How eggs set when heated and how vegetables can be combined with eggs to make a substantial meal.",
@@ -79,7 +72,6 @@
             "Batch cooking"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "An inexpensive and flexible meal that makes good use of frozen spinach and vegetables while providing a simple vegetarian option that works for breakfast, lunch or dinner.",
         "chapman-tips": [
@@ -95,7 +87,6 @@
         "batch-cooking": "Good for batch cooking. Cool completely before refrigerating or freezing. Individual portions can be reheated gently.",
         "leftovers": "Good cold or reheated. Leftover slices work well in sandwiches."
     },
-
     "relationships": {
         "similar-recipes": [
             "Spanish Tortilla",
@@ -105,18 +96,16 @@
             "Greek Salad"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-25",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

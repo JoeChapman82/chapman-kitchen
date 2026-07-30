@@ -1,16 +1,13 @@
 {
     "id": "019f61e8-8228-7166-9f6e-2172d3df1718",
     "version": 1,
-
     "title": "Bolognese",
-
     "overview": {
         "description": "A rich, slow-cooked Italian meat sauce built on a soffritto, good quality beef and plenty of time. Perfect served with pasta or as the foundation for lasagne and many other family favourites.",
         "country": "Italy",
         "region": "Emilia-Romagna",
         "serves": 8
     },
-
     "ingredients": [
         "2 tbsp olive oil",
         "2 onions, finely diced",
@@ -27,7 +24,6 @@
         "Salt",
         "Freshly ground black pepper"
     ],
-
     "method": [
         "Heat the olive oil in a large heavy-based saucepan over a medium heat.",
         "Cook the onion, carrot and celery for 15–20 minutes until very soft and sweet but not browned.",
@@ -40,7 +36,6 @@
         "Cook uncovered for 2–3 hours, stirring occasionally, until rich, thick and deeply flavoured.",
         "Remove the bay leaves before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Fresh Pasta",
@@ -52,7 +47,6 @@
             "Focaccia"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 25,
         "cook-time-minutes": 180,
@@ -60,7 +54,6 @@
         "cost": "mid-range",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Traditional Bolognese (Ragù alla Bolognese) is slowly simmered and often includes milk, which softens the acidity of the tomatoes and enriches the finished sauce.",
         "what-you-will-learn": "How to build flavour from a soffritto, why patience is essential for a great ragù and how slow cooking transforms simple ingredients.",
@@ -71,7 +64,6 @@
             "Batch cooking"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -83,7 +75,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "This is one of the foundation recipes of the entire cookbook. A single batch becomes multiple future meals and freezes beautifully.",
         "chapman-tips": [
@@ -95,7 +86,6 @@
         "batch-cooking": "Divide into meal-sized portions and freeze for up to three months.",
         "leftovers": "Perfect for lasagne, pasta bakes, stuffed vegetables or simply reheated with fresh pasta."
     },
-
     "relationships": {
         "similar-recipes": [
             "Lasagne",
@@ -104,16 +94,14 @@
             "Moussaka"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-14",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

@@ -1,16 +1,13 @@
 {
     "id": "019f6a51-15cc-72e0-b99a-c7303bbe314d",
     "version": 1,
-
     "title": "Chicken Jalfrezi",
-
     "overview": {
         "description": "A fresh, lightly spiced stir-fried chicken curry with peppers, onions and tomatoes. Brighter and drier than many restaurant versions.",
         "country": "India",
         "region": "Bengal (Anglo-Indian)",
         "serves": 4
     },
-
     "ingredients": [
         "700g chicken breast, cut into bite-sized pieces",
         "2 tbsp ghee",
@@ -30,7 +27,6 @@
         "Fresh coriander, chopped",
         "Salt"
     ],
-
     "method": [
         "Heat the ghee over a medium-high heat.",
         "Add the cumin seeds and cook for 30 seconds until fragrant.",
@@ -46,7 +42,6 @@
         "Finish with the garam masala and fresh coriander.",
         "Season to taste before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Chapati",
@@ -58,7 +53,6 @@
             "Mango Chutney"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 20,
         "cook-time-minutes": 25,
@@ -66,7 +60,6 @@
         "cost": "mid-range",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "The word 'jalfrezi' comes from Bengali and roughly means 'hot fry'. The dish was originally created to transform leftover cooked meat into a new meal.",
         "what-you-will-learn": "How to bloom spices, cook vegetables so they retain texture and create a curry with a light, fresh sauce rather than a heavy gravy.",
@@ -77,7 +70,6 @@
             "Cooking chicken"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -89,7 +81,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "Offers a completely different style of Indian curry, with crisp vegetables and a lighter sauce that's ideal for a weekday meal.",
         "chapman-tips": [
@@ -101,7 +92,6 @@
         "batch-cooking": "Freeze once cooled in family-sized portions.",
         "leftovers": "Excellent reheated and also works well wrapped in homemade chapatis for lunch."
     },
-
     "relationships": {
         "similar-recipes": [
             "Butter Chicken (Murgh Makhani)",
@@ -110,16 +100,14 @@
             "Black Bean Chicken"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-16",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

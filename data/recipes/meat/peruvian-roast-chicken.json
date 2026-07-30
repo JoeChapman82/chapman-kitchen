@@ -1,16 +1,13 @@
 {
     "id": "019f8b6e-7982-75a5-ab74-b64fe0314655",
     "version": 1,
-
     "title": "Peruvian Roast Chicken",
-
     "overview": {
         "description": "Peruvian-style roast chicken marinated with garlic, spices, vinegar and citrus, then roasted until deeply flavoured and juicy.",
         "country": "Peru",
         "region": "Lima",
         "serves": 4
     },
-
     "ingredients": [
         "1.5kg whole chicken",
         "4 cloves garlic, finely grated",
@@ -27,7 +24,6 @@
         "¼ tsp ground cinnamon",
         "¼ tsp ground cloves"
     ],
-
     "method": [
         "Pat the chicken completely dry.",
         "Mix the garlic, soy sauce, vinegar, lime juice, olive oil, cumin, paprika, oregano, coriander, black pepper, salt, cinnamon and cloves.",
@@ -41,7 +37,6 @@
         "Check that the thickest part of the thigh reaches 74°C.",
         "Rest the chicken for 15–20 minutes before carving."
     ],
-
     "serving": {
         "serve-with": [
             "Green Sauce"
@@ -54,7 +49,6 @@
             "Avocado"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 20,
         "cook-time-minutes": 90,
@@ -62,7 +56,6 @@
         "cost": "budget",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Pollo a la brasa is one of Peru's most popular dishes and was originally developed in Lima. The traditional restaurant version is roasted over charcoal and is usually served with fries and a distinctive green sauce.",
         "what-you-will-learn": "How to marinate a whole chicken, build layers of flavour with spices and acid, and roast a bird evenly while keeping the meat juicy.",
@@ -74,7 +67,6 @@
             "Carving"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -86,7 +78,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A distinctive South American roast chicken that introduces the children to a completely different spice profile while making excellent use of a whole chicken.",
         "chapman-tips": [
@@ -99,7 +90,6 @@
         "batch-cooking": "Cooked chicken freezes well. Strip the meat from the bones, allow it to cool completely and freeze in portions with a little of the cooking juices.",
         "leftovers": "Use leftover chicken in sandwiches, wraps, rice bowls, salads, tacos or soups. Save the carcass for chicken stock."
     },
-
     "relationships": {
         "similar-recipes": [
             "Pollo Asado",
@@ -107,16 +97,14 @@
             "Chicken Cacciatore"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-22",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

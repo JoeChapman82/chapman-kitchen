@@ -1,16 +1,13 @@
 {
     "id": "019f6718-4303-735c-9c81-6d37f1452ed2",
     "version": 1,
-
     "title": "Briam",
-
     "overview": {
         "description": "A traditional Greek tray bake of seasonal vegetables slowly roasted in olive oil, tomatoes and herbs until tender and lightly caramelised.",
         "country": "Greece",
         "region": "",
         "serves": 6
     },
-
     "ingredients": [
         "2 aubergines, sliced",
         "2 courgettes, sliced",
@@ -24,7 +21,6 @@
         "Salt",
         "Freshly ground black pepper"
     ],
-
     "method": [
         "Preheat the oven to 170°C fan (190°C conventional).",
         "Lightly salt the aubergine slices and leave for 20 minutes.",
@@ -39,7 +35,6 @@
         "Remove the foil and continue baking for a further 40–50 minutes until the vegetables are tender and beginning to caramelise.",
         "Scatter with the fresh parsley before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Homemade Pita",
@@ -52,7 +47,6 @@
             "Tzatziki"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 25,
         "cook-time-minutes": 95,
@@ -60,7 +54,6 @@
         "cost": "budget",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Briam is Greece's version of the many Mediterranean vegetable bakes that celebrate seasonal produce and generous olive oil.",
         "what-you-will-learn": "How slow roasting concentrates flavour, caramelises vegetables and creates a rich sauce with very little effort.",
@@ -71,7 +64,6 @@
             "Seasoning vegetables"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -83,7 +75,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "One of the best examples in the cookbook of how simple pantry vegetables can become a complete and deeply satisfying meal.",
         "chapman-tips": [
@@ -95,7 +86,6 @@
         "batch-cooking": "Freezes well and reheats beautifully.",
         "leftovers": "Excellent the next day, either hot or at room temperature."
     },
-
     "relationships": {
         "similar-recipes": [
             "Ratatouille",
@@ -104,16 +94,14 @@
             "Tuscan Butter Beans"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-15",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

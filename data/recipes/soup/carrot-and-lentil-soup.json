@@ -1,16 +1,13 @@
 {
     "id": "019f5f16-93c0-708e-86f9-25b45454a91b",
     "version": 1,
-
     "title": "Carrot & Lentil Soup",
-
     "overview": {
         "description": "A smooth, lightly spiced soup combining sweet carrots and red lentils with gentle warming spices. Filling, inexpensive and perfect for a weekday lunch or light dinner.",
         "country": "United Kingdom",
         "region": "",
         "serves": 4
     },
-
     "ingredients": [
         "2 tbsp olive oil",
         "1 onion, diced",
@@ -26,7 +23,6 @@
         "Freshly ground black pepper",
         "Fresh coriander, chopped (optional)"
     ],
-
     "method": [
         "Heat the olive oil in a large saucepan over a medium heat.",
         "Add the onion and cook gently for about 8 minutes until softened.",
@@ -40,7 +36,6 @@
         "Season to taste with salt and freshly ground black pepper.",
         "Serve with a sprinkling of chopped coriander if desired."
     ],
-
     "serving": {
         "serve-with": [
             "Cheese & Chutney Sandwich"
@@ -50,7 +45,6 @@
             "Butter"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 35,
@@ -58,7 +52,6 @@
         "cost": "budget",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Red lentils break down completely during cooking, making them perfect for naturally thickening soups without needing flour or cream.",
         "what-you-will-learn": "How gently toasting ground spices develops their flavour, how lentils create a silky texture, and how to balance sweetness with savoury seasoning.",
@@ -69,7 +62,6 @@
             "Seasoning"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -81,7 +73,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "An inexpensive pantry-friendly soup that's nutritious, freezer-friendly and ideal for busy weekdays. The gentle spices add interest without overpowering the vegetables.",
         "chapman-tips": [
@@ -92,7 +83,6 @@
         "batch-cooking": "Freeze in family-sized portions for up to three months.",
         "leftovers": "Reheat gently with a splash of stock if the soup thickens during storage."
     },
-
     "relationships": {
         "similar-recipes": [
             "Leek & Potato Soup",
@@ -100,16 +90,14 @@
             "Red Lentil Soup"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-14",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

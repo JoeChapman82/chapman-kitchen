@@ -1,16 +1,13 @@
 {
     "id": "019f8f72-c73d-723f-8484-7fbe72d8adab",
     "version": 1,
-
     "title": "Shirazi Salad",
-
     "overview": {
         "description": "A finely diced Persian salad of cucumber, tomato, red onion and herbs dressed with sharp citrus and olive oil.",
         "country": "Iran",
         "region": "Shiraz, Fars Province",
         "serves": 4
     },
-
     "ingredients": [
         "4 ripe tomatoes",
         "2 large cucumbers",
@@ -22,7 +19,6 @@
         "½ tsp salt, or to taste",
         "Black pepper, to taste"
     ],
-
     "method": [
         "Finely dice the tomatoes.",
         "Finely dice the cucumbers.",
@@ -34,7 +30,6 @@
         "Leave to stand for 10–15 minutes.",
         "Taste and adjust the acidity and seasoning before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Flatbread"
@@ -46,7 +41,6 @@
             "White Beans"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 0,
@@ -54,7 +48,6 @@
         "cost": "low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Shirazi salad is named after Shiraz in southern Iran. Many traditional versions use ab-ghooreh, or verjuice, which provides a distinctive sharp acidity.",
         "what-you-will-learn": "How finely diced vegetables create a different salad experience from salads built around large chunks, and how acidity can be the defining flavour of a dish.",
@@ -66,7 +59,6 @@
             "Managing moisture"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A very simple, inexpensive and refreshing salad that provides a sharp, acidic contrast to the richer and more substantial salads already in the collection.",
         "chapman-tips": [
@@ -82,7 +74,6 @@
         "batch-cooking": "Better fresh. The vegetables release water as they stand.",
         "leftovers": "Best eaten the same day. Leftovers can be drained and used as a filling for wraps or served with leftover rice."
     },
-
     "relationships": {
         "similar-recipes": [
             "Kachumber",
@@ -92,18 +83,16 @@
             "Kachumbari"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

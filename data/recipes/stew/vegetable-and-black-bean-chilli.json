@@ -1,16 +1,13 @@
 {
     "id": "019f8e81-1058-765e-9caf-e17bba87a70e",
     "version": 1,
-
     "title": "Vegetable & Black Bean Chilli",
-
     "overview": {
         "description": "A smoky, richly spiced chilli made with black beans, vegetables, tomatoes and sweetcorn.",
         "country": "Mexico",
         "region": "Mexico / Mexican-inspired",
         "serves": 4
     },
-
     "ingredients": [
         "2 x 400g tins black beans, drained and rinsed",
         "2 tbsp olive oil",
@@ -33,7 +30,6 @@
         "1 tbsp lime juice",
         "Small handful fresh coriander, chopped"
     ],
-
     "method": [
         "Heat the olive oil in a large saucepan or casserole over medium heat.",
         "Add the onion, red pepper and carrots.",
@@ -55,7 +51,6 @@
         "Taste and adjust the seasoning.",
         "Finish with fresh coriander."
     ],
-
     "serving": {
         "serve-with": [
             "Rice"
@@ -69,7 +64,6 @@
             "Lime Wedges"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 20,
         "cook-time-minutes": 40,
@@ -77,7 +71,6 @@
         "cost": "low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Black beans are a staple ingredient in many parts of Latin America. Their creamy texture and earthy flavour make them particularly well suited to long-simmered dishes.",
         "what-you-will-learn": "How to build a smoky, richly flavoured bean chilli and how to thicken a stew naturally by partially breaking down some of the beans.",
@@ -89,7 +82,6 @@
             "Thickening a stew naturally"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A cheap, filling and freezer-friendly Pantry Monday meal that makes excellent use of your black beans while introducing a different flavour profile from the Indian, Levantine and North African dishes already in the collection.",
         "chapman-tips": [
@@ -104,7 +96,6 @@
         "batch-cooking": "Freezes well. Cool completely before freezing in portions.",
         "leftovers": "Reheat gently with a splash of water if necessary. Excellent in burritos, quesadillas or on baked potatoes."
     },
-
     "relationships": {
         "similar-recipes": [
             "Moroccan Vegetable Tagine",
@@ -114,18 +105,16 @@
             "Chicken Fajitas"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

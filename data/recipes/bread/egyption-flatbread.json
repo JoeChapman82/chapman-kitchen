@@ -1,16 +1,13 @@
 {
     "id": "019f95a5-2e42-740b-ada7-0499481864a2",
     "version": 1,
-
     "title": "Egyptian flatbread (Baladi Bread)",
-
     "overview": {
         "description": "A rustic Egyptian flatbread with a slightly chewy crumb and a crisp, flour-dusted exterior, traditionally used for scooping up ful medames and other dishes.",
         "country": "Egypt",
         "region": "North Africa",
         "serves": 6
     },
-
     "ingredients": [
         "350g wholemeal bread flour",
         "150g strong white bread flour",
@@ -20,7 +17,6 @@
         "1 tbsp olive oil, optional",
         "Extra wholemeal flour or bran, for shaping"
     ],
-
     "method": [
         "Place the flours, salt and yeast in a large bowl.",
         "Add the warm water and olive oil if using.",
@@ -41,7 +37,6 @@
         "Remove from the oven and cover with a clean tea towel while cooling slightly.",
         "Serve warm."
     ],
-
     "serving": {
         "serve-with": [
             "Ful Medames"
@@ -54,7 +49,6 @@
             "Egyptian Fava Bean Salad"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 150,
         "cook-time-minutes": 8,
@@ -62,7 +56,6 @@
         "cost": "low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Baladi bread is one of Egypt's most important everyday breads. The word 'baladi' can mean something like 'of the country' or 'local', and the bread is traditionally made with a high proportion of whole wheat flour.",
         "what-you-will-learn": "How yeast dough rises and how a very hot oven can cause a flatbread to puff up and form a pocket.",
@@ -74,7 +67,6 @@
             "Freezing bread"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A useful flatbread for scooping up ful medames and other Middle Eastern and North African dishes, while adding an important Egyptian bread to the collection.",
         "chapman-tips": [
@@ -89,7 +81,6 @@
         "batch-cooking": "Freezes well. Allow the breads to cool completely, stack them with baking parchment between them if desired, and freeze in a sealed bag.",
         "leftovers": "Reheat directly from frozen in a toaster, dry frying pan or hot oven."
     },
-
     "relationships": {
         "similar-recipes": [
             "Pita Bread",
@@ -99,18 +90,16 @@
             "Focaccia"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-24",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

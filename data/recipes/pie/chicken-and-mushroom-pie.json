@@ -1,16 +1,13 @@
 {
     "id": "019f65c8-6dfb-7294-8e21-a389cb3aea88",
     "version": 1,
-
     "title": "Chicken & Mushroom Pie",
-
     "overview": {
         "description": "Tender chicken and mushrooms in a creamy herb sauce, baked beneath a golden pastry lid. Classic British comfort food that's perfect for batch cooking.",
         "country": "United Kingdom",
         "region": "",
         "serves": 8
     },
-
     "ingredients": [
         "2 tbsp butter",
         "2 onions, diced",
@@ -28,7 +25,6 @@
         "1 quantity shortcrust pastry",
         "1 egg, beaten"
     ],
-
     "method": [
         "=== Filling ===",
         "Heat the butter in a large saucepan over a medium heat.",
@@ -50,7 +46,6 @@
         "Bake at 180°C fan (200°C conventional) for 30–35 minutes until the pastry is deep golden and crisp.",
         "Allow to stand for 10 minutes before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Mashed Potato",
@@ -62,7 +57,6 @@
             "Gravy"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 35,
         "cook-time-minutes": 55,
@@ -70,7 +64,6 @@
         "cost": "mid-range",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Chicken and mushroom pie has been a staple of British home cooking for generations, combining simple ingredients into one of the country's favourite comfort foods.",
         "what-you-will-learn": "How to make a creamy pie filling, thicken a sauce with flour and bake a crisp pastry lid.",
@@ -82,7 +75,6 @@
             "Baking"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -94,7 +86,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A classic freezer-friendly comfort meal that's ideal for Saturday batch cooking and makes excellent leftovers.",
         "chapman-tips": [
@@ -106,7 +97,6 @@
         "batch-cooking": "Freeze either the finished baked pie or an assembled unbaked pie for up to three months.",
         "leftovers": "Reheat in the oven to keep the pastry crisp."
     },
-
     "relationships": {
         "similar-recipes": [
             "Steak Pie",
@@ -115,18 +105,16 @@
             "Cottage Pie"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-15",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

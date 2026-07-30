@@ -1,16 +1,13 @@
 {
     "id": "019f8f7f-050a-76db-baf8-6a81066a74ed",
     "version": 1,
-
     "title": "Som Tam",
-
     "overview": {
         "description": "A Thai green papaya salad combining crunchy shredded papaya with lime, fish sauce, palm sugar, garlic, chilli, tomatoes and peanuts.",
         "country": "Thailand",
         "region": "Northeastern Thailand / Isan",
         "serves": 4
     },
-
     "ingredients": [
         "1 medium green papaya, peeled and deseeded",
         "150g green beans, cut into 3cm pieces",
@@ -24,7 +21,6 @@
         "1 tbsp dried shrimp, optional",
         "1 small handful Thai basil or fresh coriander, optional"
     ],
-
     "method": [
         "Peel the green papaya.",
         "Cut it in half and remove the seeds.",
@@ -47,7 +43,6 @@
         "Finish with the remaining peanuts and herbs if using.",
         "Serve immediately."
     ],
-
     "serving": {
         "serve-with": [
             "Sticky Rice"
@@ -59,7 +54,6 @@
             "Fresh Cabbage"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 25,
         "cook-time-minutes": 0,
@@ -67,7 +61,6 @@
         "cost": "moderate",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Som tam means 'pounded sour' in Thai, referring to the preparation method and the characteristic sharp flavour of the salad.",
         "what-you-will-learn": "How pounding and bruising ingredients releases flavour and changes texture, and how to balance the five major flavour sensations of Thai cooking.",
@@ -79,7 +72,6 @@
             "Managing chilli heat"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A vibrant and highly distinctive complete meal salad that introduces a completely different flavour balance and preparation technique from the Mediterranean, Middle Eastern and South Asian salads already in the collection.",
         "chapman-tips": [
@@ -95,7 +87,6 @@
         "batch-cooking": "Better fresh. The papaya gradually loses its crisp texture once dressed.",
         "leftovers": "Best eaten immediately. Undressed shredded papaya can be stored separately and dressed just before eating."
     },
-
     "relationships": {
         "similar-recipes": [
             "Vietnamese Chicken Salad",
@@ -105,7 +96,6 @@
             "Fattoush"
         ]
     },
-
     "history": [
         {
             "date": "",
@@ -113,9 +103,9 @@
         }
     ],
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

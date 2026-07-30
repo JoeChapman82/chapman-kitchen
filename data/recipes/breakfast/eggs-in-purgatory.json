@@ -1,16 +1,13 @@
 {
     "id": "019f7bfa-f397-7429-862c-a9d8a006dac3",
     "version": 1,
-
     "title": "Eggs in Purgatory (Uova in Purgatorio)",
-
     "overview": {
         "description": "Eggs gently poached in a rich garlic and tomato sauce with basil, chilli and Parmesan.",
         "country": "Italy",
         "region": "Campania",
         "serves": 2
     },
-
     "ingredients": [
         "4 eggs",
         "2 tbsp extra virgin olive oil",
@@ -23,7 +20,6 @@
         "Salt",
         "Black pepper"
     ],
-
     "method": [
         "Heat the olive oil over a medium heat.",
         "Cook the sliced garlic gently until fragrant but not browned.",
@@ -39,7 +35,6 @@
         "Scatter over the Parmesan and remaining basil.",
         "Serve immediately."
     ],
-
     "serving": {
         "serve-with": [
             "Crusty Bread"
@@ -49,7 +44,6 @@
             "Green Salad"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 5,
         "cook-time-minutes": 20,
@@ -57,7 +51,6 @@
         "cost": "budget",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "The bubbling red tomato sauce is said to resemble the flames of purgatory, giving the dish its memorable name.",
         "what-you-will-learn": "How to build a simple Italian tomato sauce and gently poach eggs directly in it.",
@@ -68,7 +61,6 @@
             "Using fresh herbs"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -80,7 +72,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A quick, comforting meal made almost entirely from pantry staples, offering an Italian counterpart to Shakshuka.",
         "chapman-tips": [
@@ -92,7 +83,6 @@
         "batch-cooking": "The tomato sauce freezes beautifully. Defrost, reheat and add fresh eggs when serving.",
         "leftovers": "The sauce makes an excellent pasta sauce the following day."
     },
-
     "relationships": {
         "similar-recipes": [
             "Shakshuka",
@@ -100,16 +90,14 @@
             "Croque Madame"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-19",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

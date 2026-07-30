@@ -1,16 +1,13 @@
 {
     "id": "019f8b69-6c0e-712c-b035-e2a356bc63f7",
     "version": 1,
-
     "title": "Chicken Enchiladas",
-
     "overview": {
         "description": "Soft corn tortillas filled with seasoned chicken, rolled and baked in a rich red chilli and tomato sauce with melted cheese.",
         "country": "Mexico",
         "region": "Nationwide",
         "serves": 4
     },
-
     "ingredients": [
         "600g boneless, skinless chicken thighs",
         "1 onion, quartered",
@@ -36,7 +33,6 @@
         "Sour cream",
         "Lime wedges"
     ],
-
     "method": [
         "Place the chicken thighs in a saucepan with the quartered onion, garlic, bay leaf and a generous pinch of salt.",
         "Cover with water and bring to a gentle simmer.",
@@ -62,7 +58,6 @@
         "Bake for 20–25 minutes until hot and bubbling.",
         "Finish with fresh coriander and serve with sour cream and lime wedges."
     ],
-
     "serving": {
         "serve-with": [
             "Sour Cream",
@@ -76,7 +71,6 @@
             "Fresh Salsa"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 30,
         "cook-time-minutes": 60,
@@ -84,7 +78,6 @@
         "cost": "budget",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "The word enchilada comes from the Spanish enchilar, meaning 'to season with chilli'. The defining feature is the tortilla being covered in chilli sauce rather than simply being used as a wrap.",
         "what-you-will-learn": "How to poach and shred chicken, make a chilli-based sauce and assemble filled tortillas for baking.",
@@ -96,7 +89,6 @@
             "Assembling baked dishes"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -108,7 +100,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A comforting Mexican dish that builds on the family-friendly appeal of fajitas while introducing a different way to use tortillas, chilli sauces and shredded chicken.",
         "chapman-tips": [
@@ -122,7 +113,6 @@
         "batch-cooking": "Assemble the enchiladas in a freezer-safe dish, cover tightly and freeze before baking. Thaw in the refrigerator before baking, or bake from frozen at a lower temperature until heated through before uncovering and browning the cheese.",
         "leftovers": "Leftover enchiladas reheat well in the oven or microwave. Shredded leftover chicken and sauce can also be used in quesadillas or burritos."
     },
-
     "relationships": {
         "similar-recipes": [
             "Chicken Fajitas",
@@ -130,16 +120,14 @@
             "Chicken Shawarma"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-22",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

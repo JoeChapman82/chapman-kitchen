@@ -1,16 +1,13 @@
 {
     "id": "019f65cc-ffa4-730c-8022-bd775eff9eb3",
     "version": 1,
-
     "title": "Steak Pie",
-
     "overview": {
         "description": "Slow-cooked British steak pie with tender beef in a rich gravy, baked beneath golden pastry. Perfect for weekends and excellent for batch cooking.",
         "country": "United Kingdom",
         "region": "",
         "serves": 8
     },
-
     "ingredients": [
         "2 tbsp vegetable oil",
         "1kg braising steak, cut into large chunks",
@@ -30,7 +27,6 @@
         "1 quantity shortcrust pastry",
         "1 egg, beaten"
     ],
-
     "method": [
         "=== Filling ===",
         "Heat the oil in a large casserole over a medium-high heat.",
@@ -53,7 +49,6 @@
         "Bake at 180°C fan (200°C conventional) for 30–35 minutes until deep golden.",
         "Leave to stand for 10 minutes before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Mashed Potato",
@@ -65,7 +60,6 @@
             "Gravy"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 30,
         "cook-time-minutes": 240,
@@ -73,7 +67,6 @@
         "cost": "mid-range",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Steak pie is one of Britain's best-loved comfort foods and is particularly associated with Scotland and northern England.",
         "what-you-will-learn": "How to braise beef until tender, build a rich gravy and assemble a traditional pie.",
@@ -85,7 +78,6 @@
             "Batch cooking"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -97,7 +89,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A classic British comfort meal that's ideal for batch cooking and freezing. Slow cooking transforms an inexpensive cut of beef into something exceptional.",
         "chapman-tips": [
@@ -109,7 +100,6 @@
         "batch-cooking": "Freeze either the cooked filling or the assembled pie for up to three months.",
         "leftovers": "Reheat in the oven rather than the microwave to keep the pastry crisp."
     },
-
     "relationships": {
         "similar-recipes": [
             "Chicken & Mushroom Pie",
@@ -118,18 +108,16 @@
             "Cottage Pie"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-15",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

@@ -1,16 +1,13 @@
 {
     "id": "019f8e06-346f-77ac-9426-9cfcad181120",
     "version": 1,
-
     "title": "Simple Red Moong Dal",
-
     "overview": {
         "description": "A simple, comforting dal made from split red moong dal and finished with a fragrant tempering of ghee, cumin, garlic and dried chilli.",
         "country": "India",
         "region": "North India",
         "serves": 4
     },
-
     "ingredients": [
         "250g split red moong dal",
         "900ml water",
@@ -26,7 +23,6 @@
         "Fresh coriander, to serve",
         "½ lemon, optional"
     ],
-
     "method": [
         "Rinse the moong dal several times until the water runs relatively clear.",
         "Place the dal, water and turmeric in a saucepan.",
@@ -46,7 +42,6 @@
         "Finish with fresh coriander and lemon juice if using.",
         "Serve hot."
     ],
-
     "serving": {
         "serve-with": [
             "Steamed Rice"
@@ -60,7 +55,6 @@
             "Plain Yogurt"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 5,
         "cook-time-minutes": 30,
@@ -68,7 +62,6 @@
         "cost": "very low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Moong dal cooks more quickly than many other pulses and naturally breaks down into a smooth, creamy texture without needing dairy.",
         "what-you-will-learn": "How to cook a simple pulse until tender and how a tadka can transform a mild base with a small amount of intensely flavoured ingredients.",
@@ -80,7 +73,6 @@
             "Balancing seasoning"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A simple foundation recipe that introduces the children to dal and the idea that a small finishing tempering can completely change the flavour of a dish.",
         "chapman-tips": [
@@ -95,7 +87,6 @@
         "batch-cooking": "Freezes well. Cool completely before freezing in airtight portions. Thaw overnight in the refrigerator and reheat gently, adding a little water if necessary.",
         "leftovers": "Thin with water and reheat as a soup, serve with rice or use as a filling for a savoury flatbread."
     },
-
     "relationships": {
         "similar-recipes": [
             "Dal Chawal",
@@ -104,18 +95,16 @@
             "Aloo Paratha"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

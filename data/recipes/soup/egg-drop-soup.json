@@ -1,16 +1,13 @@
 {
     "id": "019f6fbc-4fca-74e9-ade2-4b3bf6e665e1",
     "version": 1,
-
     "title": "Egg Drop Soup",
-
     "overview": {
         "description": "A light Chinese soup of silky egg ribbons suspended in a delicately seasoned chicken broth.",
         "country": "China",
         "region": "Nationwide",
         "serves": 4
     },
-
     "ingredients": [
         "1 litre homemade chicken stock",
         "1 tsp light soy sauce",
@@ -22,7 +19,6 @@
         "2 spring onions, finely sliced",
         "Salt, to taste"
     ],
-
     "method": [
         "Bring the chicken stock to a gentle simmer.",
         "Season with the soy sauce, sesame oil and white pepper.",
@@ -35,7 +31,6 @@
         "Taste and season if required.",
         "Serve topped with sliced spring onions."
     ],
-
     "serving": {
         "serve-with": [],
         "optional-sides": [
@@ -43,7 +38,6 @@
             "Spring Rolls"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 5,
         "cook-time-minutes": 10,
@@ -51,7 +45,6 @@
         "cost": "budget",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Egg Drop Soup is known as Dàn Huā Tāng (蛋花汤), which literally means 'egg flower soup' because the egg ribbons resemble blossoms floating in the broth.",
         "what-you-will-learn": "How to lightly thicken a broth and create delicate egg ribbons by controlling temperature and pouring technique.",
@@ -62,7 +55,6 @@
             "Gentle simmering"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -74,7 +66,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "An incredibly quick soup that transforms homemade chicken stock into something elegant using only a handful of pantry ingredients.",
         "chapman-tips": [
@@ -86,7 +77,6 @@
         "batch-cooking": "Freeze only the seasoned broth. Add freshly beaten eggs after reheating.",
         "leftovers": "Best eaten fresh, as the egg ribbons continue to soften during storage."
     },
-
     "relationships": {
         "similar-recipes": [
             "Chicken Ramen",
@@ -94,16 +84,14 @@
             "Tortilla Soup"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-17",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

@@ -1,16 +1,13 @@
 {
     "id": "019f8b87-6e50-71db-896c-d3bca8dde111",
     "version": 1,
-
     "title": "Avial",
-
     "overview": {
         "description": "A thick South Indian vegetable dish made with mixed vegetables, coconut, green chilli and yogurt, finished with curry leaves and coconut oil.",
         "country": "India",
         "region": "Kerala",
         "serves": 4
     },
-
     "ingredients": [
         "150g carrot, cut into batons",
         "150g green beans, cut into short lengths",
@@ -32,7 +29,6 @@
         "10–12 fresh curry leaves",
         "1 tbsp coconut oil"
     ],
-
     "method": [
         "Add the grated coconut, green chillies, cumin seeds and water to a blender.",
         "Blend to a coarse paste and set aside.",
@@ -49,7 +45,6 @@
         "Pour the coconut oil and curry leaves over the avial.",
         "Stir gently and serve."
     ],
-
     "serving": {
         "serve-with": [
             "Steamed Rice"
@@ -61,7 +56,6 @@
             "Pickles"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 25,
         "cook-time-minutes": 30,
@@ -69,7 +63,6 @@
         "cost": "budget",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Avial is strongly associated with Kerala and is traditionally made with a mixture of vegetables cooked with coconut and yogurt. It is also an important part of a traditional Kerala sadya feast.",
         "what-you-will-learn": "How to cook a mixture of vegetables so they remain distinct, make a coarse coconut paste and finish a dish with yogurt without allowing it to split.",
@@ -81,7 +74,6 @@
             "Tempering curry leaves"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -93,7 +85,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A distinctive Kerala vegetable dish that shows how coconut and yogurt can create a thick, lightly spiced accompaniment without a conventional curry sauce.",
         "chapman-tips": [
@@ -107,7 +98,6 @@
         "batch-cooking": "Avial is best fresh because the vegetables and yogurt can lose texture when frozen and reheated. If freezing is necessary, freeze without the yogurt and add fresh yogurt after reheating.",
         "leftovers": "Reheat gently and serve with rice. Leftover avial can also be eaten at room temperature as part of a larger meal."
     },
-
     "relationships": {
         "similar-recipes": [
             "South Indian Vegetable Curry",
@@ -115,18 +105,16 @@
             "Sambar"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-22",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

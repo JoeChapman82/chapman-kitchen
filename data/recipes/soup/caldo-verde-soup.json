@@ -1,16 +1,13 @@
 {
     "id": "019f6fb8-1e65-714b-817b-430e14a38262",
     "version": 1,
-
     "title": "Caldo Verde",
-
     "overview": {
         "description": "A traditional Portuguese soup of potatoes, onions, kale and chorizo in a rich chicken stock.",
         "country": "Portugal",
         "region": "Northern Portugal",
         "serves": 4
     },
-
     "ingredients": [
         "1 tbsp olive oil",
         "150g cooking chorizo, sliced",
@@ -22,7 +19,6 @@
         "Salt, to taste",
         "Freshly ground black pepper"
     ],
-
     "method": [
         "Heat the olive oil over a medium heat.",
         "Cook the chorizo until lightly browned and it has released some of its oil.",
@@ -37,7 +33,6 @@
         "Season with salt and black pepper.",
         "Serve topped with the reserved chorizo."
     ],
-
     "serving": {
         "serve-with": [
             "Crusty Bread"
@@ -46,7 +41,6 @@
             "Olives"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 35,
@@ -54,7 +48,6 @@
         "cost": "budget",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Caldo Verde is considered Portugal's national soup and is traditionally served at festivals and family celebrations.",
         "what-you-will-learn": "How to create a silky potato soup and use cured sausage to add depth of flavour with only a small amount.",
@@ -65,7 +58,6 @@
             "Preparing kale"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -77,7 +69,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A comforting soup that uses everyday ingredients already found in the Chapman Kitchen while introducing a Portuguese classic.",
         "chapman-tips": [
@@ -90,7 +81,6 @@
         "batch-cooking": "Freeze in family-sized portions for up to 6 months. Add freshly crisped chorizo after reheating if desired.",
         "leftovers": "Reheat gently without boiling to preserve the kale's colour."
     },
-
     "relationships": {
         "similar-recipes": [
             "French Onion Soup",
@@ -98,16 +88,14 @@
             "Thai Butternut Squash Soup"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-17",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

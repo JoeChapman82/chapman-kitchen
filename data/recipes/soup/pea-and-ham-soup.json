@@ -1,16 +1,13 @@
 {
     "id": "019f5f14-b023-767e-8320-276f3f7c76b3",
     "version": 1,
-
     "title": "Pea & Ham Soup",
-
     "overview": {
         "description": "A traditional British soup combining sweet peas with smoky ham in a smooth, comforting bowl that's perfect with a cheese sandwich.",
         "country": "United Kingdom",
         "region": "",
         "serves": 4
     },
-
     "ingredients": [
         "25g butter",
         "1 onion, diced",
@@ -23,7 +20,6 @@
         "Freshly ground black pepper",
         "Fresh mint, chopped (optional)"
     ],
-
     "method": [
         "Melt the butter in a large saucepan over a medium heat.",
         "Add the onion and cook gently for about 8 minutes until softened without colouring.",
@@ -36,7 +32,6 @@
         "Warm through gently without boiling.",
         "Serve topped with the remaining diced ham and a little chopped mint if desired."
     ],
-
     "serving": {
         "serve-with": [
             "Cheese & Onion Sandwich"
@@ -45,7 +40,6 @@
             "Crusty Bread"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 20,
@@ -53,7 +47,6 @@
         "cost": "budget",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Pea and ham soup has been a staple of British kitchens for generations, originally made to use up leftover ham from a Sunday roast or boiled gammon.",
         "what-you-will-learn": "How frozen peas preserve their sweetness, why soups made with peas only need a short cooking time, and how leftovers from other meals can become a completely new dish.",
@@ -64,7 +57,6 @@
             "Balancing seasoning"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -76,7 +68,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A fantastic economical soup that makes excellent use of leftover ham while relying on freezer staples. Quick enough for a Thursday evening and ideal for batch cooking.",
         "chapman-tips": [
@@ -87,7 +78,6 @@
         "batch-cooking": "Freeze in family-sized portions for up to three months.",
         "leftovers": "Reheat gently, adding a splash of stock if the soup thickens after chilling."
     },
-
     "relationships": {
         "similar-recipes": [
             "Leek & Potato Soup",
@@ -95,16 +85,14 @@
             "Minestrone"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-14",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

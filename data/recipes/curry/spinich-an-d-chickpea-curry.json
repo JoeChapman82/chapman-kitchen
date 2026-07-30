@@ -1,16 +1,13 @@
 {
     "id": "019f8e7c-6f46-72ad-8a07-1dc02d0a9f99",
     "version": 1,
-
     "title": "Spinach & Chickpea Curry",
-
     "overview": {
         "description": "A North Indian-style curry of chickpeas cooked in a richly spiced spinach and tomato masala.",
         "country": "India",
         "region": "North India",
         "serves": 4
     },
-
     "ingredients": [
         "2 x 400g tins chickpeas, drained and rinsed",
         "400g fresh spinach, or 250g frozen spinach",
@@ -31,7 +28,6 @@
         "1 tbsp lemon juice",
         "Small handful fresh coriander, chopped"
     ],
-
     "method": [
         "If using fresh spinach, blanch it in boiling water for 1 minute.",
         "Drain and cool under cold water.",
@@ -54,7 +50,6 @@
         "Finish with the lemon juice and fresh coriander.",
         "Taste and adjust the seasoning before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Roti",
@@ -68,7 +63,6 @@
             "Naan"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 35,
@@ -76,7 +70,6 @@
         "cost": "low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Palak chana combines chickpeas with palak, meaning spinach. It belongs to the broad family of Indian dishes where leafy greens are cooked into a richly spiced masala.",
         "what-you-will-learn": "How to turn leafy greens into a rich curry base and how chickpeas absorb flavour during a gentle simmer.",
@@ -88,7 +81,6 @@
             "Developing flavour through simmering"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A cheap, nutritious Pantry Monday curry that makes excellent use of chickpeas and spinach while offering a completely different texture from dal and a different flavour profile from saag paneer.",
         "chapman-tips": [
@@ -103,7 +95,6 @@
         "batch-cooking": "Freezes well. Allow to cool completely before freezing in portions.",
         "leftovers": "Reheats very well. The curry may thicken in the refrigerator, so add a splash of water when reheating."
     },
-
     "relationships": {
         "similar-recipes": [
             "Saag Paneer",
@@ -113,18 +104,16 @@
             "Dum Aloo"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

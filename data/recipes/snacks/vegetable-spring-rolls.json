@@ -1,16 +1,13 @@
 {
     "id": "019f9576-76ce-7239-951b-dce7eb84f0cb",
     "version": 1,
-
     "title": "Vegetable Spring Rolls",
-
     "overview": {
         "description": "Crisp Chinese-style spring rolls filled with finely shredded cabbage, carrot, mushrooms and aromatics.",
         "country": "China",
         "region": "East Asia",
         "serves": 6
     },
-
     "ingredients": [
         "18 spring roll wrappers",
         "300g white cabbage, finely shredded",
@@ -29,7 +26,6 @@
         "2 tbsp water",
         "Oil, for frying"
     ],
-
     "method": [
         "Heat the neutral oil in a large frying pan or wok over high heat.",
         "Add the mushrooms and cook until their moisture has evaporated.",
@@ -54,7 +50,6 @@
         "Fry the spring rolls in batches until golden and crisp.",
         "Drain on a wire rack."
     ],
-
     "serving": {
         "serve-with": [
             "Sweet Chilli Sauce"
@@ -65,7 +60,6 @@
             "Chilli Oil"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 45,
         "cook-time-minutes": 25,
@@ -73,7 +67,6 @@
         "cost": "low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Spring rolls are associated with the Spring Festival and were traditionally connected with the arrival of spring and the first fresh vegetables of the season.",
         "what-you-will-learn": "How to create a dry filling suitable for a crisp pastry wrapper and how to roll and seal spring rolls for frying.",
@@ -85,7 +78,6 @@
             "Batch cooking"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "An inexpensive, freezer-friendly vegetarian snack that works well alongside Asian meals and uses common vegetables and pantry ingredients.",
         "chapman-tips": [
@@ -102,7 +94,6 @@
         "batch-cooking": "Freezes well. Freeze uncooked spring rolls in a single layer until solid, then transfer to a freezer bag or container.",
         "leftovers": "Reheat in an oven or air fryer until hot and crisp."
     },
-
     "relationships": {
         "similar-recipes": [
             "Korean Vegetable Mandu",
@@ -112,18 +103,16 @@
             "Pakora"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-24",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

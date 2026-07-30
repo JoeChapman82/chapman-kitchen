@@ -1,16 +1,13 @@
 {
     "id": "019f8b99-5b87-77fa-9ef2-eebcad2de445",
     "version": 1,
-
     "title": "Methi Thepla",
-
     "overview": {
         "description": "A seasoned Gujarati flatbread made with wholemeal flour, gram flour and dried fenugreek leaves, cooked on a hot tawa.",
         "country": "India",
         "region": "Gujarat",
         "serves": 4
     },
-
     "ingredients": [
         "200g atta (wholemeal chapati flour)",
         "50g gram flour (besan)",
@@ -25,7 +22,6 @@
         "Approximately 120–150ml water",
         "Extra oil, for cooking"
     ],
-
     "method": [
         "Add the atta, gram flour, dried fenugreek leaves, cumin, coriander, turmeric, chilli powder and salt to a large bowl.",
         "Add the yogurt and oil.",
@@ -42,7 +38,6 @@
         "Cook until golden-brown spots appear and the thepla is cooked through.",
         "Repeat with the remaining dough."
     ],
-
     "serving": {
         "serve-with": [
             "Plain Yogurt",
@@ -55,7 +50,6 @@
             "Tea"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 40,
         "cook-time-minutes": 20,
@@ -63,7 +57,6 @@
         "cost": "very low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Thepla is strongly associated with Gujarati cuisine and is popular as an everyday food as well as a travel food because it keeps well.",
         "what-you-will-learn": "How to build flavour directly into a flatbread dough using spices, herbs and gram flour.",
@@ -75,7 +68,6 @@
             "Balancing spices"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -87,7 +79,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A versatile Gujarati flatbread that introduces the idea of incorporating herbs, spices and gram flour directly into the dough.",
         "chapman-tips": [
@@ -101,7 +92,6 @@
         "batch-cooking": "Thepla freeze well. Cool completely, stack with baking paper between them if desired and freeze in an airtight bag or container. Reheat directly from frozen in a dry frying pan.",
         "leftovers": "Use leftover thepla as wraps or cut into strips and serve with dips."
     },
-
     "relationships": {
         "similar-recipes": [
             "Chapati",
@@ -110,18 +100,16 @@
             "Methi Paratha"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-22",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

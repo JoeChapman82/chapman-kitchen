@@ -1,16 +1,13 @@
 {
     "id": "019f7685-5581-729d-a306-eaacf3d3495",
     "version": 1,
-
     "title": "Basic Muesli",
-
     "overview": {
         "description": "A simple homemade muesli made from rolled oats, dried fruit and seeds, ready to customise with seasonal fruit and yoghurt.",
         "country": "Switzerland",
         "region": "Nationwide",
         "serves": 12
     },
-
     "ingredients": [
         "500g rolled oats",
         "100g raisins",
@@ -20,7 +17,6 @@
         "50g flaked almonds (optional)",
         "2 tsp ground cinnamon"
     ],
-
     "method": [
         "Combine all the ingredients in a large bowl.",
         "Mix thoroughly until evenly distributed.",
@@ -28,7 +24,6 @@
         "Store in a cool, dry place.",
         "Serve approximately 60g per person with milk or yoghurt."
     ],
-
     "serving": {
         "serve-with": [
             "Milk",
@@ -41,7 +36,6 @@
             "Honey"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 10,
         "cook-time-minutes": 0,
@@ -49,7 +43,6 @@
         "cost": "budget",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Traditional Swiss Bircher muesli was originally soaked overnight with grated apple rather than simply served with milk.",
         "what-you-will-learn": "How to build a balanced homemade breakfast mix that can be adapted throughout the year.",
@@ -59,7 +52,6 @@
             "Batch preparation"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -71,7 +63,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A quick breakfast made almost entirely from pantry staples, avoiding the added sugar found in many shop-bought mueslis.",
         "chapman-tips": [
@@ -83,23 +74,20 @@
         "batch-cooking": "Make a month's supply at once.",
         "leftovers": "Simply refill the storage jar as needed."
     },
-
     "relationships": {
         "similar-recipes": [
             "Creamy Porridge",
             "Bircher Muesli"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-18",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

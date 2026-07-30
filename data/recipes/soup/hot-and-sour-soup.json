@@ -1,16 +1,13 @@
 {
     "id": "019f7391-5707-74fa-be07-e46b40144e51",
     "version": 1,
-
     "title": "Hot and Sour Soup",
-
     "overview": {
         "description": "A warming Chinese soup with chicken, mushrooms and tofu in a savoury broth balanced with vinegar, white pepper and chilli.",
         "country": "China",
         "region": "Sichuan-inspired",
         "serves": 4
     },
-
     "ingredients": [
         "1 litre homemade chicken stock",
         "200g cooked chicken, shredded",
@@ -28,7 +25,6 @@
         "2 eggs, beaten",
         "2 spring onions, finely sliced"
     ],
-
     "method": [
         "Bring the chicken stock to a gentle simmer.",
         "Add the garlic, ginger and mushrooms.",
@@ -42,7 +38,6 @@
         "Taste and adjust the balance of soy sauce, vinegar, chilli oil and white pepper.",
         "Serve topped with sliced spring onions."
     ],
-
     "serving": {
         "serve-with": [],
         "optional-sides": [
@@ -50,7 +45,6 @@
             "Steamed Dumplings"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 10,
         "cook-time-minutes": 20,
@@ -58,7 +52,6 @@
         "cost": "budget",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "The 'hot' in Hot and Sour Soup traditionally comes more from white pepper than from chillies.",
         "what-you-will-learn": "How to balance salty, sour, spicy and umami flavours while creating silky egg ribbons.",
@@ -69,7 +62,6 @@
             "Cooking tofu"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -81,7 +73,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A quick, flavour-packed soup that uses homemade chicken stock and introduces classic Chinese flavour balancing with just a handful of pantry ingredients.",
         "chapman-tips": [
@@ -93,7 +84,6 @@
         "batch-cooking": "Freeze the soup base before adding the eggs. Stir fresh eggs through after reheating.",
         "leftovers": "Reheat gently and avoid boiling to keep the tofu intact and the egg tender."
     },
-
     "relationships": {
         "similar-recipes": [
             "Egg Drop Soup",
@@ -101,16 +91,14 @@
             "Tortilla Soup"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-18",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

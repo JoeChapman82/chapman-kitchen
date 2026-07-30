@@ -1,16 +1,13 @@
 {
     "id": "019f6fb2-749a-73ff-9326-cbc704058cca",
     "version": 1,
-
     "title": "Thai Butternut Squash Soup",
-
     "overview": {
         "description": "A smooth, warming Thai-inspired soup of roasted butternut squash, homemade red curry paste, coconut milk and chicken stock.",
         "country": "Thailand",
         "region": "Central Thailand (inspired)",
         "serves": 4
     },
-
     "ingredients": [
         "1kg butternut squash, peeled and diced",
         "1 tbsp vegetable oil",
@@ -23,7 +20,6 @@
         "Juice of 1 lime",
         "Fresh coriander, chopped"
     ],
-
     "method": [
         "Roast the butternut squash at 200°C (180°C fan) for 30 minutes until tender and lightly caramelised.",
         "Meanwhile, heat the oil over a medium heat.",
@@ -38,7 +34,6 @@
         "Taste and adjust if needed.",
         "Serve topped with fresh coriander."
     ],
-
     "serving": {
         "serve-with": [
             "Crusty Bread"
@@ -48,7 +43,6 @@
             "Toasted Pumpkin Seeds"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 45,
@@ -56,7 +50,6 @@
         "cost": "budget",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Thai soups are built around balancing salty, sour, sweet and spicy flavours rather than allowing one flavour to dominate.",
         "what-you-will-learn": "How roasting vegetables develops sweetness and how Thai curry paste can be used as the flavour base for soups.",
@@ -67,7 +60,6 @@
             "Blending soups"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -79,7 +71,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A simple freezer-friendly soup that makes excellent use of homemade curry paste, chicken stock and a vegetable that's already a regular in the Chapman Kitchen.",
         "chapman-tips": [
@@ -91,7 +82,6 @@
         "batch-cooking": "Freeze in family-sized portions for up to 6 months.",
         "leftovers": "Reheat gently without boiling to keep the coconut milk smooth."
     },
-
     "relationships": {
         "similar-recipes": [
             "Thai Red Curry",
@@ -99,16 +89,14 @@
             "Harira"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-17",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

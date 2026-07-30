@@ -1,16 +1,13 @@
 {
     "id": "019f8b70-8893-763e-8536-ea99fd8f8532",
     "version": 1,
-
     "title": "Peruvian Ají Verde",
-
     "overview": {
         "description": "A bright, creamy Peruvian green chilli sauce made with ají amarillo, coriander, lime and mayonnaise.",
         "country": "Peru",
         "region": "Lima",
         "serves": 6
     },
-
     "ingredients": [
         "2 tbsp ají amarillo paste",
         "1 fresh jalapeño, roughly chopped",
@@ -22,7 +19,6 @@
         "1 tbsp olive oil",
         "Salt, to taste"
     ],
-
     "method": [
         "Add the ají amarillo paste, jalapeño, coriander, garlic and lime juice to a blender or food processor.",
         "Blend until finely chopped.",
@@ -31,7 +27,6 @@
         "Taste and adjust the lime juice, salt and chilli to your preference.",
         "Refrigerate for at least 30 minutes before serving to allow the flavours to develop."
     ],
-
     "serving": {
         "serve-with": [
             "Peruvian Roast Chicken"
@@ -45,7 +40,6 @@
             "Tacos"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 10,
         "cook-time-minutes": 0,
@@ -53,7 +47,6 @@
         "cost": "low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Ají verde is one of the most recognisable sauces served with Peruvian-style roast chicken, although recipes vary between households and restaurants.",
         "what-you-will-learn": "How to balance chilli heat, acidity, herbs, creaminess and salt to make a versatile sauce.",
@@ -64,7 +57,6 @@
             "Using fresh herbs"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -76,7 +68,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A versatile Peruvian sauce that introduces ají amarillo and adds a bright, spicy contrast to roast chicken and other rich foods.",
         "chapman-tips": [
@@ -90,7 +81,6 @@
         "batch-cooking": "Make a larger batch if desired, but keep refrigerated and use within a few days. Freezing is not recommended because the mayonnaise and dairy can separate.",
         "leftovers": "Use as a dipping sauce for chicken, roasted potatoes, chips or vegetables, or spread it into sandwiches and wraps."
     },
-
     "relationships": {
         "similar-recipes": [
             "Toum",
@@ -98,16 +88,14 @@
             "Hummus"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-22",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

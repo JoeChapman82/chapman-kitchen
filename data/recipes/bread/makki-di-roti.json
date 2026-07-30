@@ -1,23 +1,19 @@
 {
     "id": "019f8b9c-d776-7538-b4f2-f716b81f3297",
     "version": 1,
-
     "title": "Makki di Roti",
-
     "overview": {
         "description": "A traditional Punjabi flatbread made from maize flour, shaped by hand and cooked on a hot tawa until lightly browned and crisp at the edges.",
         "country": "India",
         "region": "Punjab",
         "serves": 4
     },
-
     "ingredients": [
         "250g makki atta (fine maize flour)",
         "½ tsp salt",
         "Approximately 180–220ml hot water",
         "Ghee or butter, for serving"
     ],
-
     "method": [
         "Place the makki atta and salt in a large bowl.",
         "Gradually add the hot water, mixing with a spoon until the flour is cool enough to handle.",
@@ -34,7 +30,6 @@
         "Brush with ghee or butter before serving.",
         "Repeat with the remaining dough."
     ],
-
     "serving": {
         "serve-with": [
             "Sarson da Saag"
@@ -47,7 +42,6 @@
             "Dal"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 25,
         "cook-time-minutes": 20,
@@ -55,7 +49,6 @@
         "cost": "very low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Makki di roti is a traditional Punjabi bread made from maize flour and is particularly famous as the classic accompaniment to sarson da saag.",
         "what-you-will-learn": "How to work with a gluten-free dough and shape a flatbread by pressing and patting rather than rolling.",
@@ -67,7 +60,6 @@
             "Handling fragile dough"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -79,7 +71,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A distinctive Punjabi flatbread that introduces the children to maize flour and demonstrates how a bread can be made without relying on wheat gluten.",
         "chapman-tips": [
@@ -94,7 +85,6 @@
         "batch-cooking": "Makki di roti is best fresh. If necessary, cooked rotis can be cooled and frozen, although they may become slightly more fragile after reheating.",
         "leftovers": "Reheat gently on a dry tawa or frying pan and serve with butter, yogurt or leftover curry."
     },
-
     "relationships": {
         "similar-recipes": [
             "Chapati",
@@ -103,18 +93,16 @@
             "Thepla"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-22",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

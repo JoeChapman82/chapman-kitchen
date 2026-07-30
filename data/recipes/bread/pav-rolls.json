@@ -1,16 +1,13 @@
 {
     "id": "019f6e81-295a-731c-ae1f-4cbba447b937",
     "version": 1,
-
     "title": "Pav Rolls",
-
     "overview": {
         "description": "Soft, buttery Indian bread rolls traditionally served with Pav Bhaji. Light, fluffy and baked together so they pull apart easily.",
         "country": "India",
         "region": "Maharashtra",
         "serves": 8
     },
-
     "ingredients": [
         "500g strong white bread flour",
         "7g instant yeast",
@@ -21,7 +18,6 @@
         "50ml warm water",
         "Butter, melted, for brushing"
     ],
-
     "method": [
         "Place the flour, yeast, sugar, salt, butter, milk and water into the bread maker in the order recommended by the manufacturer.",
         "Run the dough programme.",
@@ -34,7 +30,6 @@
         "Brush generously with melted butter while still hot.",
         "Allow to cool slightly before pulling apart."
     ],
-
     "serving": {
         "serve-with": [
             "Pav Bhaji"
@@ -43,7 +38,6 @@
             "Butter"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 100,
         "cook-time-minutes": 25,
@@ -51,7 +45,6 @@
         "cost": "budget",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "The name 'pav' comes from the Portuguese word for bread and reflects the Portuguese influence on western India.",
         "what-you-will-learn": "How to shape soft bread rolls and bake them together to produce their characteristic pull-apart texture.",
@@ -62,7 +55,6 @@
             "Bread baking"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -74,7 +66,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "Fresh pav transforms homemade Pav Bhaji and the bread maker makes them almost effortless.",
         "chapman-tips": [
@@ -86,7 +77,6 @@
         "batch-cooking": "Freeze for up to 3 months.",
         "leftovers": "Excellent for breakfast rolls, sandwiches or toasted with butter."
     },
-
     "relationships": {
         "similar-recipes": [
             "Pav Bhaji",
@@ -94,16 +84,14 @@
             "Batbout"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-17",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

@@ -1,16 +1,13 @@
 {
     "id": "019f7bf5-c73d-769b-9fbd-a7cdc37130b6",
     "version": 1,
-
     "title": "Çılbır (Turkish eggs)",
-
     "overview": {
         "description": "Turkish poached eggs served over garlicky yoghurt and finished with a warm butter and chilli sauce.",
         "country": "Turkey",
         "region": "Ottoman",
         "serves": 2
     },
-
     "ingredients": [
         "4 eggs",
         "300g Greek yoghurt",
@@ -21,7 +18,6 @@
         "Salt",
         "1 tbsp white vinegar (optional, for poaching)"
     ],
-
     "method": [
         "Bring the yoghurt to room temperature.",
         "Mix the yoghurt with the garlic and a pinch of salt.",
@@ -36,7 +32,6 @@
         "Spoon over the warm butter sauce.",
         "Serve immediately."
     ],
-
     "serving": {
         "serve-with": [
             "Warm Crusty Bread"
@@ -48,7 +43,6 @@
             "Tomatoes"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 5,
         "cook-time-minutes": 10,
@@ -56,7 +50,6 @@
         "cost": "budget",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Çılbır dates back to the Ottoman Empire and has been enjoyed in Turkey for centuries.",
         "what-you-will-learn": "How warm and cold elements can be combined to create contrast in a dish, and how flavoured butter can transform simple ingredients.",
@@ -66,7 +59,6 @@
             "Balancing flavours"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -78,7 +70,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A simple but impressive egg dish built almost entirely from staples already found in the Chapman Kitchen.",
         "chapman-tips": [
@@ -91,7 +82,6 @@
         "batch-cooking": "Not suitable.",
         "leftovers": "Best eaten immediately."
     },
-
     "relationships": {
         "similar-recipes": [
             "Eggs Benedict",
@@ -99,16 +89,14 @@
             "Ful Medames"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-19",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

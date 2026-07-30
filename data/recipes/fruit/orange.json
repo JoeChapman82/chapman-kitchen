@@ -1,20 +1,16 @@
 {
     "id": "019f9585-6631-70db-a4a5-9f0bc0064a0b",
     "version": 1,
-
     "title": "Orange",
-
     "overview": {
         "description": "A juicy citrus fruit with a sweet-tart flavour, fragrant peel and segments that separate naturally.",
         "country": "China",
         "region": "",
         "serves": 1
     },
-
     "ingredients": [
         "1 orange"
     ],
-
     "method": [
         "Wash the orange.",
         "Peel away the skin and remove as much of the white pith as desired.",
@@ -22,12 +18,10 @@
         "Remove any seeds if necessary.",
         "Eat immediately."
     ],
-
     "serving": {
         "serve-with": [],
         "optional-sides": []
     },
-
     "planner": {
         "prep-time-minutes": 2,
         "cook-time-minutes": 0,
@@ -35,7 +29,6 @@
         "cost": "low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "The orange part we usually eat is made up of segments filled with tiny juice sacs. The peel contains fragrant oils, which is why rubbing or grating orange zest releases such a strong citrus smell.",
         "what-you-will-learn": "How citrus fruits are structured and how the peel, pith, flesh, juice and zest are different parts of the same fruit.",
@@ -46,7 +39,6 @@
             "Learning about fruit"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A simple and naturally sweet snack that introduces children to citrus fruit and the different ways one fruit can be used in cooking.",
         "chapman-tips": [
@@ -59,7 +51,6 @@
         "batch-cooking": "Not applicable.",
         "leftovers": "Oranges can be juiced, used in salads, desserts, cakes, sauces and marinades. The zest can be frozen for later use."
     },
-
     "relationships": {
         "similar-recipes": [
             "Apple",
@@ -68,18 +59,16 @@
             "Grapes"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-24",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

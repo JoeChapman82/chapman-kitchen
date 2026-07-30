@@ -1,16 +1,13 @@
 {
     "id": "019f8e02-ffc3-77e8-a40e-783bd733aa43",
     "version": 1,
-
     "title": "Kashmiri Dum Aloo",
-
     "overview": {
         "description": "Baby potatoes fried until lightly crisp and then slowly cooked in a rich, aromatic Kashmiri yoghurt and spice gravy.",
         "country": "India",
         "region": "Kashmir",
         "serves": 4
     },
-
     "ingredients": [
         "800g small waxy potatoes",
         "1 tsp salt, plus extra for the cooking water",
@@ -29,7 +26,6 @@
         "400ml water",
         "1 tsp salt, or to taste"
     ],
-
     "method": [
         "Boil the potatoes in salted water until just tender but not soft.",
         "Drain and allow them to cool enough to handle.",
@@ -54,7 +50,6 @@
         "Remove the lid and simmer briefly if the gravy needs thickening.",
         "Rest for 10 minutes before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Steamed Rice",
@@ -68,7 +63,6 @@
             "Pickles"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 25,
         "cook-time-minutes": 50,
@@ -76,7 +70,6 @@
         "cost": "low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Dum cooking is a traditional technique in which food is cooked slowly in a sealed or tightly covered vessel, allowing steam and flavour to remain inside the dish.",
         "what-you-will-learn": "How to fry and then slowly braise potatoes, how to cook a yoghurt-based gravy and how gentle covered cooking allows a vegetable to absorb flavour.",
@@ -88,7 +81,6 @@
             "Slow covered cooking"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A classic Kashmiri vegetarian dish that introduces the children to the dum cooking technique and demonstrates how potatoes can become the main event rather than simply an accompaniment.",
         "chapman-tips": [
@@ -104,7 +96,6 @@
         "batch-cooking": "Freezes well. Cool completely before freezing in airtight portions. Thaw overnight in the refrigerator and reheat gently. The potatoes may become slightly softer after freezing.",
         "leftovers": "Reheat gently and serve with rice or bread. The potatoes can also be lightly mashed into the gravy and used as a filling for a roti."
     },
-
     "relationships": {
         "similar-recipes": [
             "Lamb Rogan Josh",
@@ -113,18 +104,16 @@
             "Aloo Paratha"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

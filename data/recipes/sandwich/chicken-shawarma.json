@@ -1,16 +1,13 @@
 {
     "id": "019f7394-b384-7208-85b8-629211fbb77c",
     "version": 1,
-
     "title": "Chicken Shawarma",
-
     "overview": {
         "description": "Juicy Middle Eastern spiced chicken thighs marinated with yoghurt, lemon and warm spices, then roasted until lightly charred.",
         "country": "Lebanon",
         "region": "Levant",
         "serves": 4
     },
-
     "ingredients": [
         "800g boneless skinless chicken thighs",
         "200g Greek yoghurt",
@@ -27,7 +24,6 @@
         "½ tsp black pepper",
         "1 tsp salt"
     ],
-
     "method": [
         "Combine the yoghurt, olive oil, lemon juice, garlic and all the spices.",
         "Coat the chicken thoroughly in the marinade.",
@@ -40,7 +36,6 @@
         "Return the sliced chicken to the roasting tray and roast for a further 5 minutes to crisp the edges.",
         "Serve immediately."
     ],
-
     "serving": {
         "serve-with": [
             "Batbout or Flatbread",
@@ -53,7 +48,6 @@
             "Hummus"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 40,
@@ -61,7 +55,6 @@
         "cost": "budget",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Shawarma is believed to have originated in the Ottoman Empire and spread throughout the Levant, where each country developed its own spice blend and accompaniments.",
         "what-you-will-learn": "How to build a balanced shawarma marinade and recreate the crispy edges of rotisserie shawarma in a home oven.",
@@ -72,7 +65,6 @@
             "Resting meat"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -84,7 +76,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A restaurant favourite that uses inexpensive chicken thighs, freezes well and pairs with several other recipes already in the Chapman Kitchen.",
         "chapman-tips": [
@@ -96,7 +87,6 @@
         "batch-cooking": "Freeze cooked sliced chicken in meal-sized portions for up to 6 months.",
         "leftovers": "Excellent in wraps, salads, rice bowls or alongside hummus."
     },
-
     "relationships": {
         "similar-recipes": [
             "Chicken Satay",
@@ -105,16 +95,14 @@
             "Batbout"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-18",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

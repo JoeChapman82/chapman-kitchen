@@ -1,16 +1,13 @@
 {
     "id": "019f8e3c-7cc1-7588-930c-58c9e6761593",
     "version": 1,
-
     "title": "Cantonese Beef Pan-Fried Noodles",
-
     "overview": {
         "description": "Crisp pan-fried egg noodles topped with tender beef, vegetables and a glossy Cantonese-style sauce.",
         "country": "China",
         "region": "Cantonese cuisine",
         "serves": 4
     },
-
     "ingredients": [
         "400g fresh egg noodles",
         "350g beef steak, such as sirloin or rump, thinly sliced against the grain",
@@ -34,7 +31,6 @@
         "½ tsp white pepper",
         "1 tbsp cornflour mixed with 2 tbsp cold water"
     ],
-
     "method": [
         "Mix the beef with the light soy sauce, cornflour and 1 tsp neutral oil.",
         "Leave to marinate for 15–20 minutes.",
@@ -64,7 +60,6 @@
         "Pour the beef and vegetable sauce over the crisp noodle cake.",
         "Serve immediately."
     ],
-
     "serving": {
         "serve-with": [
             "Crisp Pan-Fried Noodles"
@@ -75,7 +70,6 @@
             "Pickled Vegetables"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 25,
         "cook-time-minutes": 25,
@@ -83,7 +77,6 @@
         "cost": "moderate",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Cantonese pan-fried noodles are often served as a crisp noodle cake topped with a separate stir-fried meat and vegetable sauce. The sauce gradually softens the noodles where it touches them while the edges remain crisp.",
         "what-you-will-learn": "How to create a crisp noodle cake in a frying pan and how a thickened sauce creates a contrast between crisp and tender textures.",
@@ -95,7 +88,6 @@
             "Managing contrasting textures"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A Cantonese noodle dish that introduces a completely different texture from chow mein and lo mein by combining crisp pan-fried noodles with a separate glossy beef and vegetable sauce.",
         "chapman-tips": [
@@ -111,7 +103,6 @@
         "batch-cooking": "Better fresh. The crisp noodles lose their texture when stored and reheated.",
         "leftovers": "The beef and sauce can be refrigerated and reheated separately, but the noodles are best freshly prepared."
     },
-
     "relationships": {
         "similar-recipes": [
             "Chow Mein",
@@ -121,18 +112,16 @@
             "Mie Goreng Jawa"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

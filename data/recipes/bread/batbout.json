@@ -1,16 +1,13 @@
 {
     "id": "019f670b-e842-743d-b8c5-75b91a3f483e",
     "version": 1,
-
     "title": "Batbout",
-
     "overview": {
         "description": "A soft Moroccan stovetop flatbread with a pocket similar to pita. Perfect for tagines, soups and sandwiches.",
         "country": "Morocco",
         "region": "North Africa",
         "serves": 8
     },
-
     "ingredients": [
         "500g strong white bread flour",
         "100g fine semolina",
@@ -19,7 +16,6 @@
         "350ml warm water",
         "1 tbsp olive oil"
     ],
-
     "method": [
         "=== Mix ===",
         "Combine the flour, semolina, salt and yeast in a large bowl.",
@@ -47,7 +43,6 @@
         "=== Cool ===",
         "Transfer to a wire rack and allow to cool slightly before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Moroccan Chicken Tagine",
@@ -60,7 +55,6 @@
             "Honey"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 100,
         "cook-time-minutes": 30,
@@ -68,7 +62,6 @@
         "cost": "budget",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Batbout is unusual because it is cooked on a hot pan rather than baked in an oven, giving it a soft texture and characteristic pocket.",
         "what-you-will-learn": "How to make an enriched flatbread, develop gluten through kneading and cook bread successfully on the hob.",
@@ -80,7 +73,6 @@
             "Pan cooking bread"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -92,7 +84,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "One of the most versatile breads in the cookbook. It works equally well with Moroccan meals, soups and sandwiches, while requiring no oven.",
         "chapman-tips": [
@@ -104,7 +95,6 @@
         "batch-cooking": "Freeze once completely cooled.",
         "leftovers": "Split and toast for sandwiches or warm gently in a dry frying pan."
     },
-
     "relationships": {
         "similar-recipes": [
             "Pita",
@@ -113,18 +103,16 @@
             "Focaccia"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-15",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

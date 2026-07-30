@@ -1,16 +1,13 @@
 {
     "id": "019f8b95-27c0-700f-94db-86ab62701e0d",
     "version": 1,
-
     "title": "Luchi",
-
     "overview": {
         "description": "Soft, pale, puffed Bengali flatbreads made from plain flour and deep-fried until they inflate.",
         "country": "India",
         "region": "West Bengal",
         "serves": 4
     },
-
     "ingredients": [
         "250g plain flour",
         "½ tsp salt",
@@ -18,7 +15,6 @@
         "140–160ml warm water",
         "Neutral oil or ghee, for deep-frying"
     ],
-
     "method": [
         "Mix the flour and salt in a large bowl.",
         "Rub in the ghee or oil.",
@@ -35,7 +31,6 @@
         "Remove and drain on kitchen paper.",
         "Repeat with the remaining dough."
     ],
-
     "serving": {
         "serve-with": [
             "Aloo Dum",
@@ -49,7 +44,6 @@
             "Pickles"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 30,
         "cook-time-minutes": 20,
@@ -57,7 +51,6 @@
         "cost": "very low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Luchi is especially associated with Bengali cuisine and is traditionally served at celebrations and special meals alongside rich curries and dal.",
         "what-you-will-learn": "How a simple plain-flour dough can puff when introduced to hot oil and how dough thickness and oil temperature affect the result.",
@@ -69,7 +62,6 @@
             "Working with puffed breads"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -81,7 +73,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A distinctive Bengali bread that introduces the children to a completely different flatbread technique: turning dough into a soft, inflated bread through deep-frying.",
         "chapman-tips": [
@@ -95,7 +86,6 @@
         "batch-cooking": "Luchi are best made fresh and do not freeze particularly well once cooked. The dough can be prepared in advance and kept covered in the refrigerator for a short period.",
         "leftovers": "Leftover luchi can be reheated briefly in a dry frying pan, although the texture is best when freshly cooked."
     },
-
     "relationships": {
         "similar-recipes": [
             "Puri",
@@ -104,18 +94,16 @@
             "Kerala Parotta"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-22",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

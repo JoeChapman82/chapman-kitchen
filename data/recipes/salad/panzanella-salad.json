@@ -1,16 +1,13 @@
 {
     "id": "019f8f6f-eea2-72ad-8489-ac2ac53ff896",
     "version": 1,
-
     "title": "Panzanella",
-
     "overview": {
         "description": "A Tuscan bread salad of ripe tomatoes, stale bread, red onion and basil dressed with olive oil and vinegar.",
         "country": "Italy",
         "region": "Tuscany",
         "serves": 4
     },
-
     "ingredients": [
         "400g stale rustic bread, such as sourdough or Greek village bread",
         "600g ripe tomatoes, cut into large chunks",
@@ -22,7 +19,6 @@
         "½ tsp salt, or to taste",
         "Black pepper, to taste"
     ],
-
     "method": [
         "Tear the stale bread into large bite-sized pieces.",
         "If the bread is not sufficiently stale, leave it uncovered for several hours or dry it briefly in a low oven.",
@@ -38,7 +34,6 @@
         "Season with black pepper.",
         "Taste and adjust the oil, vinegar and salt before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Fresh Basil"
@@ -50,7 +45,6 @@
             "Grilled Fish"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 20,
         "cook-time-minutes": 0,
@@ -58,7 +52,6 @@
         "cost": "low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Panzanella is traditionally associated with Tuscany and is a classic example of cucina povera, where simple ingredients and leftover bread are transformed into a satisfying meal.",
         "what-you-will-learn": "How stale bread can absorb flavour and moisture to become the foundation of a complete salad rather than simply being served alongside it.",
@@ -70,7 +63,6 @@
             "Managing texture"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A particularly useful recipe for a household that regularly makes bread. It turns stale bread into a substantial meal while showcasing the flavour of good tomatoes.",
         "chapman-tips": [
@@ -86,7 +78,6 @@
         "batch-cooking": "Better fresh. The bread continues absorbing liquid and becomes increasingly soft as it stands.",
         "leftovers": "Best eaten the same day. Any leftovers can be used as a filling for toasted sandwiches or served alongside grilled food."
     },
-
     "relationships": {
         "similar-recipes": [
             "Fattoush",
@@ -96,18 +87,16 @@
             "Salade de Lentilles"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

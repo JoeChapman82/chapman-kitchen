@@ -1,16 +1,13 @@
 {
     "id": "019f65d5-d5f5-72ef-a384-4dfdc5a9be63",
     "version": 1,
-
     "title": "Ful Medames",
-
     "overview": {
         "description": "A traditional Egyptian breakfast of gently seasoned fava beans topped with fried eggs and served with warm flatbread. Nutritious, economical and surprisingly filling.",
         "country": "Egypt",
         "region": "North Africa",
         "serves": 4
     },
-
     "ingredients": [
         "2 × 400g tins fava (broad) beans, drained",
         "2 tbsp olive oil",
@@ -23,7 +20,6 @@
         "4 eggs",
         "Fresh parsley, chopped"
     ],
-
     "method": [
         "Heat 1 tablespoon of the olive oil in a saucepan over a medium heat.",
         "Cook the garlic for 1 minute until fragrant.",
@@ -38,7 +34,6 @@
         "Top each portion with a fried egg.",
         "Finish with chopped parsley."
     ],
-
     "serving": {
         "serve-with": [
             "Batbout",
@@ -52,7 +47,6 @@
             "Chilli flakes"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 10,
         "cook-time-minutes": 15,
@@ -60,7 +54,6 @@
         "cost": "budget",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Ful Medames has been eaten in Egypt for thousands of years and remains one of the country's most popular breakfasts.",
         "what-you-will-learn": "How to season beans simply with spices and lemon, and how to create texture by partially mashing them.",
@@ -71,7 +64,6 @@
             "Balancing acidity"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -83,7 +75,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "An inexpensive breakfast that introduces Egyptian cooking while making excellent use of pantry ingredients.",
         "chapman-tips": [
@@ -95,7 +86,6 @@
         "batch-cooking": "Freeze the bean mixture for up to three months. Fry fresh eggs when serving.",
         "leftovers": "The bean mixture also makes an excellent lunch served in warm pita."
     },
-
     "relationships": {
         "similar-recipes": [
             "Shakshuka",
@@ -104,18 +94,16 @@
             "Dal Chawal"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-15",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

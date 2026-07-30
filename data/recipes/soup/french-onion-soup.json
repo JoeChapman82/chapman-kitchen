@@ -1,16 +1,13 @@
 {
     "id": "019f6faf-a83f-7704-a4f8-98f3216faf29",
     "version": 1,
-
     "title": "French Onion Soup",
-
     "overview": {
         "description": "A rich French soup of deeply caramelised onions in beef stock, topped with toasted bread and melted cheese.",
         "country": "France",
         "region": "Île-de-France",
         "serves": 4
     },
-
     "ingredients": [
         "1kg brown onions, thinly sliced",
         "50g butter",
@@ -24,7 +21,6 @@
         "4 slices baguette",
         "150g Gruyère, grated"
     ],
-
     "method": [
         "Melt the butter in a large heavy-based saucepan over a medium-low heat.",
         "Add the onions with a pinch of salt.",
@@ -41,7 +37,6 @@
         "Cover generously with the grated Gruyère.",
         "Grill until the cheese is bubbling and golden."
     ],
-
     "serving": {
         "serve-with": [
             "Green Salad"
@@ -50,7 +45,6 @@
             "Extra crusty bread"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 80,
@@ -58,7 +52,6 @@
         "cost": "moderate",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "French onion soup dates back centuries, but the gratinéed version with bread and cheese became especially popular in Paris during the 19th century.",
         "what-you-will-learn": "How to properly caramelise onions, deglaze a pan and finish a soup under the grill.",
@@ -69,7 +62,6 @@
             "Gratinating"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -81,7 +73,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A classic soup that showcases the flavour of homemade beef stock and demonstrates how patience transforms simple ingredients.",
         "chapman-tips": [
@@ -93,7 +84,6 @@
         "batch-cooking": "Freeze the soup base in portions for up to 6 months.",
         "leftovers": "Reheat gently and add fresh bread and cheese before serving."
     },
-
     "relationships": {
         "similar-recipes": [
             "Harira",
@@ -101,16 +91,14 @@
             "Minestrone"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-17",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

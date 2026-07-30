@@ -1,16 +1,13 @@
 {
     "id": "019f8f80-dc30-7068-9fe5-d93543cdc323",
     "version": 1,
-
     "title": "Vietnamese Chicken Salad",
-
     "overview": {
         "description": "A fresh Vietnamese salad of tender shredded chicken, crunchy cabbage, carrot, herbs and roasted peanuts dressed with lime, fish sauce and a touch of sweetness.",
         "country": "Vietnam",
         "region": "Vietnam",
         "serves": 4
     },
-
     "ingredients": [
         "500g boneless chicken breasts or thighs",
         "½ small white cabbage, finely shredded",
@@ -29,7 +26,6 @@
         "1 small red chilli, finely sliced, optional",
         "2 tbsp water"
     ],
-
     "method": [
         "Place the chicken in a saucepan and cover with cold water.",
         "Bring the water gently to a simmer.",
@@ -48,7 +44,6 @@
         "Taste and adjust the balance of lime, fish sauce and sugar.",
         "Scatter over the peanuts just before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Fresh Herbs",
@@ -61,7 +56,6 @@
             "Pickled Vegetables"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 25,
         "cook-time-minutes": 15,
@@ -69,7 +63,6 @@
         "cost": "moderate",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Gỏi gà is a Vietnamese shredded chicken salad whose name simply means chicken salad. Different regions and households use varying combinations of cabbage, herbs, onion, Vietnamese coriander and other fresh ingredients.",
         "what-you-will-learn": "How to combine tender meat with raw crunchy vegetables and how to balance the Vietnamese flavour combination of sweet, sour, salty and aromatic ingredients.",
@@ -81,7 +74,6 @@
             "Using fresh herbs"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A complete meal salad that uses familiar chicken in a completely different format, while introducing the children to the fresh herbs, lime and fish sauce flavours of Vietnamese cooking.",
         "chapman-tips": [
@@ -97,7 +89,6 @@
         "batch-cooking": "The chicken can be cooked ahead, but the salad is best assembled and dressed shortly before serving.",
         "leftovers": "Best eaten within 1 day. Leftovers can be used as a filling for rice paper rolls or sandwiches."
     },
-
     "relationships": {
         "similar-recipes": [
             "Som Tam",
@@ -107,18 +98,16 @@
             "Salade Niçoise"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

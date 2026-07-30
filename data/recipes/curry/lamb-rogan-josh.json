@@ -1,16 +1,13 @@
 {
     "id": "019f8e00-d7f6-738d-bd7f-8f3299e2ffec",
     "version": 1,
-
     "title": "Lamb Rogan Josh",
-
     "overview": {
         "description": "A classic Kashmiri lamb curry made with tender lamb, yoghurt and aromatic spices, with a deep red colour from Kashmiri chilli rather than tomatoes.",
         "country": "India",
         "region": "Kashmir",
         "serves": 4
     },
-
     "ingredients": [
         "1kg lamb shoulder, cut into large pieces",
         "3 tbsp neutral oil or ghee",
@@ -30,7 +27,6 @@
         "400–500ml water",
         "1½ tsp salt, or to taste"
     ],
-
     "method": [
         "Remove the lamb from the refrigerator and allow it to come towards room temperature.",
         "Whisk the yoghurt until smooth.",
@@ -52,7 +48,6 @@
         "Taste and adjust the seasoning.",
         "Rest for 10–15 minutes before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Steamed Rice",
@@ -66,7 +61,6 @@
             "Pickles"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 25,
         "cook-time-minutes": 120,
@@ -74,7 +68,6 @@
         "cost": "moderate",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Rogan josh is associated with Kashmiri cuisine and is traditionally made in several regional styles. The deep red colour can come from mild Kashmiri chilli rather than a large amount of heat.",
         "what-you-will-learn": "How to build a deeply flavoured curry from whole spices, yoghurt and slow-cooked lamb while separating colour, aroma and heat as different elements of the dish.",
@@ -86,7 +79,6 @@
             "Managing chilli heat"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -98,7 +90,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A classic Kashmiri lamb dish that demonstrates how a curry can develop extraordinary depth without relying on tomatoes, onions or garlic.",
         "chapman-tips": [
@@ -114,7 +105,6 @@
         "batch-cooking": "Freezes well. Cool completely before freezing in airtight portions. Thaw overnight in the refrigerator and reheat gently until piping hot.",
         "leftovers": "Reheat gently and serve with fresh rice or bread. The lamb can also be shredded and used as a filling for a roti or paratha."
     },
-
     "relationships": {
         "similar-recipes": [
             "Chicken Xacuti",
@@ -123,18 +113,16 @@
             "Chicken Paprikash"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

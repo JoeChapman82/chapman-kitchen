@@ -1,16 +1,13 @@
 {
     "id": "019f6b74-9357-71e8-bf80-87780e5e5246",
     "version": 1,
-
     "title": "Thai Green Curry",
-
     "overview": {
         "description": "A fragrant Thai curry with homemade green curry paste, tender chicken, coconut milk and fresh herbs. Bright, aromatic and gently spicy.",
         "country": "Thailand",
         "region": "Central Thailand",
         "serves": 4
     },
-
     "ingredients": [
         "700g boneless skinless chicken thighs, sliced",
         "2 tbsp Thai Green Curry Paste",
@@ -24,7 +21,6 @@
         "1 tsp palm sugar",
         "Handful Thai basil leaves"
     ],
-
     "method": [
         "Heat the oil over a medium heat.",
         "Add the Thai Green Curry Paste.",
@@ -38,7 +34,6 @@
         "Remove the makrut lime leaves if preferred.",
         "Fold through the Thai basil immediately before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Steamed Jasmine Rice"
@@ -48,7 +43,6 @@
             "Spring Rolls"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 20,
@@ -56,7 +50,6 @@
         "cost": "mid-range",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Green curry is generally hotter than red curry because it uses fresh green chillies rather than dried red ones.",
         "what-you-will-learn": "How to cook with homemade curry paste, coconut milk and fresh Thai herbs to create a balanced Southeast Asian curry.",
@@ -67,7 +60,6 @@
             "Using Thai basil"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -79,7 +71,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A quick homemade curry that showcases the flavour of the frozen homemade green curry paste.",
         "chapman-tips": [
@@ -91,7 +82,6 @@
         "batch-cooking": "Freeze once cooled. Fresh Thai basil is best added after reheating if available.",
         "leftovers": "Reheat gently over a low heat to preserve the coconut milk."
     },
-
     "relationships": {
         "similar-recipes": [
             "Thai Green Curry Paste",
@@ -99,16 +89,14 @@
             "Chicken Satay"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-16",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

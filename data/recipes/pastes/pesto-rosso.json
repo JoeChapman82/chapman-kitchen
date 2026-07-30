@@ -1,16 +1,13 @@
 {
     "id": "019f6b70-a069-7666-90e9-26ade31ca6ff",
     "version": 1,
-
     "title": "Pesto Rosso",
-
     "overview": {
         "description": "A rich Italian red pesto made from sun-dried tomatoes, Parmesan, basil and toasted nuts. Perfect stirred through pasta, spread on sandwiches or used as a flavour base.",
         "country": "Italy",
         "region": "Sicily",
         "serves": 5
     },
-
     "ingredients": [
         "200g oil-packed sun-dried tomatoes, drained",
         "50g Parmesan, finely grated",
@@ -20,7 +17,6 @@
         "80ml extra virgin olive oil",
         "Freshly ground black pepper"
     ],
-
     "method": [
         "Toast the pine nuts in a dry frying pan over a medium heat until lightly golden.",
         "Allow to cool.",
@@ -31,7 +27,6 @@
         "Transfer to a clean jar.",
         "Cover the surface with a thin layer of olive oil before refrigerating or freezing."
     ],
-
     "serving": {
         "serve-with": [
             "Pasta"
@@ -44,7 +39,6 @@
             "Focaccia"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 10,
         "cook-time-minutes": 5,
@@ -52,7 +46,6 @@
         "cost": "mid-range",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Pesto Rosso originated in Sicily, where sun-dried tomatoes are abundant thanks to the island's warm Mediterranean climate.",
         "what-you-will-learn": "How to balance salty cheese, sweet tomatoes and rich olive oil into a versatile Italian sauce.",
@@ -63,7 +56,6 @@
             "Balancing flavours"
         ]
     },
-
     "nutrition": {
         "portion-size": "Approximately 2 tbsp",
         "calories": "",
@@ -75,7 +67,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A versatile freezer staple that can transform pasta, sandwiches and roasted vegetables in minutes.",
         "chapman-tips": [
@@ -87,7 +78,6 @@
         "batch-cooking": "Freeze in silicone ice cube trays or small containers for up to 6 months.",
         "leftovers": "Stir into pasta, spread on homemade focaccia or use as a marinade for chicken."
     },
-
     "relationships": {
         "similar-recipes": [
             "Pesto Genovese",
@@ -95,16 +85,14 @@
             "Pasta al Pesto"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-16",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

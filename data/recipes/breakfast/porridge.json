@@ -1,23 +1,19 @@
 {
     "id": "019f767e-ce66-7075-b818-f26d335779e5",
     "version": 1,
-
     "title": "Creamy Porridge",
-
     "overview": {
         "description": "A simple, creamy bowl of porridge made with rolled oats and milk, cooked gently until smooth and comforting.",
         "country": "United Kingdom",
         "region": "Nationwide",
         "serves": 2
     },
-
     "ingredients": [
         "125g rolled oats",
         "550ml semi-skimmed milk",
         "200ml water",
         "Pinch of salt"
     ],
-
     "method": [
         "Combine the oats, water, milk and salt in a saucepan.",
         "Bring slowly to a gentle simmer over a medium heat.",
@@ -25,7 +21,6 @@
         "Cook for 8–10 minutes, stirring regularly until thick and creamy.",
         "Serve immediately with your choice of toppings."
     ],
-
     "serving": {
         "serve-with": [
             "Honey",
@@ -39,7 +34,6 @@
             "Toasted Nuts"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 2,
         "cook-time-minutes": 10,
@@ -47,7 +41,6 @@
         "cost": "budget",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Adding a little water as well as milk helps the oats cook more evenly while still producing a rich, creamy porridge.",
         "what-you-will-learn": "How to cook rolled oats gently to achieve a creamy texture without sticking or scorching.",
@@ -56,7 +49,6 @@
             "Balancing consistency"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -68,7 +60,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "An inexpensive, filling breakfast made from pantry staples that can be varied with seasonal fruit and different toppings.",
         "chapman-tips": [
@@ -81,22 +72,19 @@
         "batch-cooking": "Best cooked fresh.",
         "leftovers": "Reheat with a splash of milk to loosen the texture."
     },
-
     "relationships": {
         "similar-recipes": [
             "Rice Pudding"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-18",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

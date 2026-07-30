@@ -1,16 +1,13 @@
 {
     "id": "019f671b-192e-76f8-8168-cf59307bb0c3",
     "version": 1,
-
     "title": "Red Red",
-
     "overview": {
         "description": "A traditional Ghanaian black-eyed bean stew cooked with tomatoes, onions and red palm oil. Rich, comforting and packed with flavour despite its simple ingredients.",
         "country": "Ghana",
         "region": "West Africa",
         "serves": 4
     },
-
     "ingredients": [
         "2 tbsp red palm oil (or vegetable oil)",
         "2 onions, finely sliced",
@@ -26,7 +23,6 @@
         "Freshly ground black pepper",
         "Fresh parsley or coriander, chopped"
     ],
-
     "method": [
         "Heat the palm oil over a medium heat.",
         "Cook the onions for 10–12 minutes until soft and beginning to caramelise.",
@@ -40,7 +36,6 @@
         "Season to taste.",
         "Scatter with chopped herbs before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Flatbread"
@@ -51,7 +46,6 @@
             "Avocado"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 10,
         "cook-time-minutes": 45,
@@ -59,7 +53,6 @@
         "cost": "budget",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "The name 'Red Red' comes from the red colour of both the palm oil and the tomato sauce used in the dish.",
         "what-you-will-learn": "How caramelising onions builds sweetness, how palm oil contributes flavour, and how partially mashing beans naturally thickens a stew.",
@@ -70,7 +63,6 @@
             "Balancing richness"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -82,7 +74,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "One of the most economical meals in the cookbook while introducing authentic West African flavours using mostly pantry ingredients.",
         "chapman-tips": [
@@ -94,7 +85,6 @@
         "batch-cooking": "Excellent for freezing in meal-sized portions.",
         "leftovers": "Often tastes even better the following day."
     },
-
     "relationships": {
         "similar-recipes": [
             "West African Chicken Peanut Stew",
@@ -103,16 +93,14 @@
             "Rajma"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-15",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

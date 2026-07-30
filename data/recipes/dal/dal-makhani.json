@@ -1,16 +1,13 @@
 {
     "id": "019f642d-9c0f-71b0-86fa-0f4f5112636d",
     "version": 1,
-
     "title": "Dal Makhani",
-
     "overview": {
         "description": "A rich and creamy North Indian dal made with whole black urad dal and kidney beans, slowly cooked with tomatoes, butter and aromatic spices until silky smooth.",
         "country": "India",
         "region": "Punjab",
         "serves": 8
     },
-
     "ingredients": [
         "300g whole black urad dal",
         "100g dried kidney beans",
@@ -30,7 +27,6 @@
         "Salt",
         "Fresh coriander, chopped"
     ],
-
     "method": [
         "Soak the urad dal and kidney beans overnight in plenty of cold water.",
         "Drain and rinse the beans, then cover with fresh water and simmer until completely tender, around 1½–2 hours.",
@@ -45,7 +41,6 @@
         "Stir in the garam masala, double cream and season with salt.",
         "Finish with fresh coriander before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Naan"
@@ -56,7 +51,6 @@
             "Raita"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 720,
         "cook-time-minutes": 180,
@@ -64,7 +58,6 @@
         "cost": "budget",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Dal Makhani originated in Punjab and literally means 'buttery lentils'. Traditionally it is cooked slowly for many hours to develop its famous creamy texture.",
         "what-you-will-learn": "How slow cooking develops flavour, how to prepare dried pulses and how to create creaminess without blending.",
@@ -76,7 +69,6 @@
             "Batch cooking"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -88,7 +80,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "One of the richest vegetarian dishes in the planner and an excellent showcase for pantry ingredients. Perfect for freezing and one of the family's regular Indian meals.",
         "chapman-tips": [
@@ -100,7 +91,6 @@
         "batch-cooking": "Freeze in meal-sized portions for up to three months.",
         "leftovers": "Often even better the following day after the flavours have developed further."
     },
-
     "relationships": {
         "similar-recipes": [
             "Rajma",
@@ -109,16 +99,14 @@
             "Gujarati Dal"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-15",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

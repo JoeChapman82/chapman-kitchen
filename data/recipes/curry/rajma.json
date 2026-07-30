@@ -1,16 +1,13 @@
 {
     "id": "019f642b-8980-74ac-88dc-acecaff0c8d7",
     "version": 1,
-
     "title": "Rajma",
-
     "overview": {
         "description": "A comforting North Indian kidney bean curry gently simmered with onions, tomatoes and warming spices. Simple, economical and one of India's great everyday meals.",
         "country": "India",
         "region": "Punjab",
         "serves": 8
     },
-
     "ingredients": [
         "2 tbsp vegetable oil",
         "2 onions, finely diced",
@@ -28,7 +25,6 @@
         "Salt",
         "Fresh coriander, chopped"
     ],
-
     "method": [
         "Heat the vegetable oil in a large saucepan over a medium heat.",
         "Cook the onions for 10–12 minutes until soft and beginning to caramelise.",
@@ -41,7 +37,6 @@
         "Season with salt and stir in the remaining garam masala.",
         "Finish with freshly chopped coriander before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Steamed Basmati Rice"
@@ -53,7 +48,6 @@
             "Mango Chutney"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 55,
@@ -61,7 +55,6 @@
         "cost": "budget",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Rajma is one of the most popular everyday meals in North India, especially in Punjab, where it's traditionally served with rice as Rajma Chawal.",
         "what-you-will-learn": "How to build flavour by cooking onions slowly, balancing spices and naturally thickening a bean curry.",
@@ -72,7 +65,6 @@
             "Batch cooking"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -84,7 +76,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "One of the best value meals in the planner. Nutritious, filling, family-friendly and ideal for keeping portions in the freezer.",
         "chapman-tips": [
@@ -96,7 +87,6 @@
         "batch-cooking": "Freeze in meal-sized portions for up to three months.",
         "leftovers": "Often tastes even better the following day. Serve with fresh rice or use as a filling for wraps."
     },
-
     "relationships": {
         "similar-recipes": [
             "Dal Makhani",
@@ -105,16 +95,14 @@
             "Gujarati Dal"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-15",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

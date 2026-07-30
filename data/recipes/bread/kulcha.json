@@ -1,16 +1,13 @@
 {
     "id": "019f8b97-fc6b-74f9-b614-6358f437e674",
     "version": 1,
-
     "title": "Kulcha",
-
     "overview": {
         "description": "A soft, leavened North Indian flatbread with a lightly crisp, blistered surface, cooked on a very hot tawa or heavy frying pan.",
         "country": "India",
         "region": "Punjab",
         "serves": 4
     },
-
     "ingredients": [
         "300g plain flour",
         "½ tsp baking powder",
@@ -24,7 +21,6 @@
         "Melted butter or ghee, for brushing",
         "Fresh coriander, optional"
     ],
-
     "method": [
         "Mix the flour, baking powder, baking soda, sugar and salt in a large bowl.",
         "Add the yogurt and oil.",
@@ -41,7 +37,6 @@
         "Brush with melted butter or ghee.",
         "Repeat with the remaining dough."
     ],
-
     "serving": {
         "serve-with": [
             "Chole",
@@ -56,7 +51,6 @@
             "Butter"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 70,
         "cook-time-minutes": 15,
@@ -64,7 +58,6 @@
         "cost": "very low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Kulcha is strongly associated with Punjab, particularly Amritsar, and is traditionally cooked in a tandoor. It may be made plain or stuffed with ingredients such as potato or onion.",
         "what-you-will-learn": "How yogurt, chemical leavening and high heat create a soft, blistered flatbread without requiring yeast.",
@@ -76,7 +69,6 @@
             "Managing leavened dough"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -88,7 +80,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A useful addition to the Indian bread collection that demonstrates how yogurt and chemical leavening can create a soft, blistered bread without yeast.",
         "chapman-tips": [
@@ -103,7 +94,6 @@
         "batch-cooking": "Cooked kulcha can be cooled, wrapped and frozen. Reheat in a dry frying pan or hot oven.",
         "leftovers": "Use leftover kulcha to scoop up curry, make a sandwich or serve with eggs."
     },
-
     "relationships": {
         "similar-recipes": [
             "Naan",
@@ -112,18 +102,16 @@
             "Goan Poi"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-22",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

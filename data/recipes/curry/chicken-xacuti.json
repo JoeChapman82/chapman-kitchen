@@ -1,16 +1,13 @@
 {
     "id": "019f8df8-6c7d-77e9-8d1b-cd0dc1c2a0e3",
     "version": 1,
-
     "title": "Chicken Xacuti",
-
     "overview": {
         "description": "A complex Goan chicken curry made with roasted whole spices, coconut and aromatics, creating a deeply flavoured, fragrant and gently warming sauce.",
         "country": "India",
         "region": "Goa",
         "serves": 4
     },
-
     "ingredients": [
         "1kg chicken thighs, bone-in or boneless",
         "1 tsp salt",
@@ -41,7 +38,6 @@
         "200–300ml water",
         "Fresh coriander, to serve"
     ],
-
     "method": [
         "Season the chicken with the salt.",
         "Toast the grated coconut in a dry frying pan until lightly golden. Remove and set aside.",
@@ -63,7 +59,6 @@
         "Simmer uncovered for a few minutes if the sauce needs thickening.",
         "Finish with fresh coriander and serve."
     ],
-
     "serving": {
         "serve-with": [
             "Steamed Rice",
@@ -76,7 +71,6 @@
             "Pickles"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 30,
         "cook-time-minutes": 60,
@@ -84,7 +78,6 @@
         "cost": "moderate",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Xacuti is one of Goa's best-known spice-rich curries. The name is often written as xacuti or shakuti, reflecting the region's Portuguese influence and varied transliteration.",
         "what-you-will-learn": "How dry-toasting whole spices and coconut develops depth and how a complex spice paste creates a layered curry without relying on a large number of fresh ingredients.",
@@ -96,7 +89,6 @@
             "Balancing sourness"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -108,7 +100,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A complex regional curry that demonstrates how roasting spices and coconut can create depth and complexity through technique rather than simply adding more chilli.",
         "chapman-tips": [
@@ -123,7 +114,6 @@
         "batch-cooking": "Chicken xacuti freezes well. Cool completely before freezing in airtight portions. Thaw overnight in the refrigerator and reheat gently until piping hot.",
         "leftovers": "Leftover xacuti is excellent with rice, roti or bread. The sauce can also be used as a filling for a wrap."
     },
-
     "relationships": {
         "similar-recipes": [
             "Goan Fish Curry",
@@ -132,18 +122,16 @@
             "Peruvian Roast Chicken"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

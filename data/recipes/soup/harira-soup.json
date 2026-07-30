@@ -1,16 +1,13 @@
 {
     "id": "019f6fac-7429-752d-aaae-14b19898f1fc",
     "version": 1,
-
     "title": "Harira",
-
     "overview": {
         "description": "A hearty Moroccan soup of lamb, chickpeas, lentils and tomatoes, gently spiced and finished with fresh herbs and lemon.",
         "country": "Morocco",
         "region": "Nationwide",
         "serves": 6
     },
-
     "ingredients": [
         "300g lamb shoulder, diced",
         "1 tbsp olive oil",
@@ -34,7 +31,6 @@
         "Juice of 1 lemon",
         "Salt, to taste"
     ],
-
     "method": [
         "Heat the olive oil over a medium-high heat.",
         "Brown the lamb well on all sides.",
@@ -50,7 +46,6 @@
         "Add the lemon juice and season to taste.",
         "Serve garnished with the remaining herbs."
     ],
-
     "serving": {
         "serve-with": [
             "Batbout"
@@ -60,7 +55,6 @@
             "Lemon Wedges"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 20,
         "cook-time-minutes": 75,
@@ -68,7 +62,6 @@
         "cost": "budget",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Harira is traditionally eaten across Morocco to break the fast during Ramadan, but it's enjoyed throughout the year as a nourishing family meal.",
         "what-you-will-learn": "How to build flavour by browning lamb, layering spices and balancing richness with fresh herbs and lemon.",
@@ -79,7 +72,6 @@
             "Balancing acidity"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -91,7 +83,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A hearty one-pot soup that's ideal for batch cooking and makes excellent use of pantry staples and homemade stock.",
         "chapman-tips": [
@@ -103,7 +94,6 @@
         "batch-cooking": "Freeze in family-sized portions for up to 6 months.",
         "leftovers": "The flavours deepen overnight and it's often even better the next day."
     },
-
     "relationships": {
         "similar-recipes": [
             "Carrot & Lentil Soup",
@@ -112,16 +102,14 @@
             "Red Red"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-17",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

@@ -1,16 +1,13 @@
 {
     "id": "019f8b8e-cfbb-710f-9c76-0314596c30a0",
     "version": 1,
-
     "title": "Plain Paratha",
-
     "overview": {
         "description": "A layered Indian flatbread made from wholemeal atta, folded with ghee or oil and cooked on a hot tawa until crisp outside and soft inside.",
         "country": "India",
         "region": "North India",
         "serves": 4
     },
-
     "ingredients": [
         "250g atta (wholemeal chapati flour)",
         "½ tsp salt",
@@ -19,7 +16,6 @@
         "Extra atta, for dusting",
         "Extra oil or ghee, for layering and cooking"
     ],
-
     "method": [
         "Mix the atta and salt in a large bowl.",
         "Add the oil or ghee.",
@@ -41,7 +37,6 @@
         "Keep warm in a clean tea towel.",
         "Repeat with the remaining dough."
     ],
-
     "serving": {
         "serve-with": [
             "Vegetable Curry",
@@ -55,7 +50,6 @@
             "Plain Yogurt"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 40,
         "cook-time-minutes": 20,
@@ -63,7 +57,6 @@
         "cost": "very low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "The word paratha is often linked to the idea of layered or folded bread, reflecting the technique used to create its characteristic flaky texture.",
         "what-you-will-learn": "How fat and folding create layers in a flatbread and how to cook a richer dough so it becomes crisp without drying out.",
@@ -75,7 +68,6 @@
             "Cooking on a tawa"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -87,7 +79,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A useful progression from chapati and roti that introduces layering and the effect of fat on the texture of flatbread.",
         "chapman-tips": [
@@ -101,7 +92,6 @@
         "batch-cooking": "Cooked paratha freeze well. Cool completely, stack with baking paper between them if desired and freeze in an airtight bag or container. Reheat directly from frozen in a dry frying pan.",
         "leftovers": "Use leftover paratha as a wrap, cut into pieces for dipping or reheat and serve with eggs."
     },
-
     "relationships": {
         "similar-recipes": [
             "Chapati",
@@ -109,18 +99,16 @@
             "Aloo Paratha"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-22",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

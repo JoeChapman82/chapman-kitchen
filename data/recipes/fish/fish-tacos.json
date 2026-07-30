@@ -1,16 +1,13 @@
 {
     "id": "019f73a3-31f7-714c-8295-c9bbee775740",
     "version": 1,
-
     "title": "Fish Tacos",
-
     "overview": {
         "description": "Soft tortillas filled with spiced white fish, crunchy cabbage and a fresh lime yoghurt sauce.",
         "country": "Mexico",
         "region": "Baja California (inspired)",
         "serves": 4
     },
-
     "ingredients": [
         "600g cod, haddock or pollock fillets",
         "2 tbsp vegetable oil",
@@ -31,7 +28,6 @@
         "1 tbsp chopped coriander",
         "1 small garlic clove, grated"
     ],
-
     "method": [
         "Mix the cumin, paprika, coriander, garlic powder, onion powder, salt and pepper.",
         "Pat the fish dry and coat with the oil and spice mixture.",
@@ -44,7 +40,6 @@
         "Drizzle over the lime yoghurt sauce.",
         "Serve immediately."
     ],
-
     "serving": {
         "serve-with": [
             "Lime Wedges"
@@ -56,7 +51,6 @@
             "Pickled Jalapeños"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 10,
@@ -64,7 +58,6 @@
         "cost": "budget",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Modern fish tacos are strongly associated with Baja California, where freshly caught fish is often grilled or fried and served in warm tortillas.",
         "what-you-will-learn": "How to cook delicate white fish without drying it out and how fresh toppings balance warm spices.",
@@ -75,7 +68,6 @@
             "Preparing tacos"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -87,7 +79,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A quick, healthy meal that makes excellent use of frozen white fish and homemade tortillas.",
         "chapman-tips": [
@@ -99,7 +90,6 @@
         "batch-cooking": "The sauce is best made fresh. Cooked fish can be frozen, although the texture is at its best when freshly cooked.",
         "leftovers": "Excellent flaked into a salad or rice bowl the following day."
     },
-
     "relationships": {
         "similar-recipes": [
             "Chicken Fajitas",
@@ -107,16 +97,14 @@
             "Chicken Enchiladas"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-18",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

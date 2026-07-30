@@ -1,20 +1,17 @@
 {
     "id": "019f90a9-2bb9-7608-8020-8449e25d4a27",
     "version": 1,
-
     "title": "Simple Crab Linguine",
-
     "overview": {
         "description": "A simple Italian-style pasta dish with crab, garlic, chilli, lemon, parsley and olive oil.",
         "country": "Italy",
         "region": "Italian-inspired",
         "serves": 4
     },
-
     "ingredients": [
         "400g linguine",
         "300g cooked crab meat",
-        "100g tomatoes", 
+        "100g tomatoes",
         "4 garlic cloves, finely sliced",
         "1 red chilli, finely sliced",
         "4 tbsp extra virgin olive oil",
@@ -24,7 +21,6 @@
         "Black pepper, to taste",
         "100ml reserved pasta water"
     ],
-
     "method": [
         "Bring a large saucepan of salted water to the boil.",
         "Cook the linguine according to the packet instructions until al dente.",
@@ -44,7 +40,6 @@
         "Add a little more pasta water if needed to loosen the sauce.",
         "Serve immediately."
     ],
-
     "serving": {
         "serve-with": [
             "Simple Green Salad"
@@ -55,7 +50,6 @@
             "Roasted Vegetables"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 10,
         "cook-time-minutes": 15,
@@ -63,7 +57,6 @@
         "cost": "moderate",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Crab meat is delicate and is usually best added near the end of cooking so its flavour and texture are not lost.",
         "what-you-will-learn": "How to create a simple emulsified pasta sauce using olive oil and starchy pasta water, and how to gently heat delicate seafood.",
@@ -75,7 +68,6 @@
             "Balancing lemon and chilli"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A quick, elegant seafood pasta that lets a small amount of crab remain the main flavour rather than burying it under a heavy sauce.",
         "chapman-tips": [
@@ -91,7 +83,6 @@
         "batch-cooking": "Better fresh. The crab and pasta are at their best immediately after cooking.",
         "leftovers": "Best eaten immediately, although leftovers can be gently reheated with a splash of water."
     },
-
     "relationships": {
         "similar-recipes": [
             "Pasta con le Sarde",
@@ -101,18 +92,16 @@
             "Garlic Prawns"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

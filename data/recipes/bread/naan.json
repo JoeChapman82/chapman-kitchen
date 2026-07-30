@@ -1,16 +1,13 @@
 {
     "id": "019f6b85-06af-7416-87b6-5e383b9d268d",
     "version": 1,
-
     "title": "Quick No-Yeast Naan",
-
     "overview": {
         "description": "Soft, fluffy naan made without yeast using yoghurt and raising agents. Ready in under an hour and ideal for weeknight curries.",
         "country": "India",
         "region": "North India",
         "serves": 8
     },
-
     "ingredients": [
         "250g plain flour",
         "150g atta flour",
@@ -24,7 +21,6 @@
         "2 tsp nigella seeds",
         "Butter, melted, for brushing"
     ],
-
     "method": [
         "Mix the plain flour, atta, baking powder, bicarbonate of soda, sugar and salt.",
         "Add the yoghurt and vegetable oil.",
@@ -39,7 +35,6 @@
         "Turn and cook for another 60–90 seconds.",
         "Brush immediately with melted butter and keep warm under a clean tea towel while cooking the remaining naans."
     ],
-
     "serving": {
         "serve-with": [
             "Butter Chicken",
@@ -50,7 +45,6 @@
         ],
         "optional-sides": []
     },
-
     "planner": {
         "prep-time-minutes": 35,
         "cook-time-minutes": 20,
@@ -58,7 +52,6 @@
         "cost": "budget",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Traditional naan is made with yeast and baked inside a tandoor. This version uses yoghurt and chemical raising agents to achieve a similar softness in a home kitchen.",
         "what-you-will-learn": "How to make a quick naan dough, rest it correctly and cook flatbreads in a dry hot pan.",
@@ -69,7 +62,6 @@
             "Pan cooking"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -81,7 +73,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "Fresh naan can be on the table in under an hour without planning ahead or keeping yeast on hand.",
         "chapman-tips": [
@@ -93,7 +84,6 @@
         "batch-cooking": "Freeze cooked naans for up to 3 months. Reheat from frozen in a hot oven or dry frying pan.",
         "leftovers": "Excellent for wraps, pizzas or toasted with cheese."
     },
-
     "relationships": {
         "similar-recipes": [
             "Batbout",
@@ -101,16 +91,14 @@
             "Aloo Paratha"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-16",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

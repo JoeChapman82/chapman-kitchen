@@ -1,16 +1,13 @@
 {
     "id": "019f7bf8-41fe-765f-aa65-fdaf7864af24",
     "version": 1,
-
     "title": "Croque Madame",
-
     "overview": {
         "description": "A classic French toasted ham and cheese sandwich topped with creamy béchamel, melted Gruyère and a fried egg.",
         "country": "France",
         "region": "Paris",
         "serves": 2
     },
-
     "ingredients": [
         "4 slices good-quality white bread",
         "2 slices cooked ham",
@@ -25,7 +22,6 @@
         "Salt",
         "Black pepper"
     ],
-
     "method": [
         "Melt the butter in a small saucepan.",
         "Whisk in the flour and cook for 1 minute.",
@@ -40,7 +36,6 @@
         "Meanwhile fry the eggs until the whites are set and the yolks remain runny.",
         "Place one egg on top of each sandwich and serve immediately."
     ],
-
     "serving": {
         "serve-with": [
             "Green Salad"
@@ -50,7 +45,6 @@
             "Dijon Mustard"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 10,
         "cook-time-minutes": 15,
@@ -58,7 +52,6 @@
         "cost": "mid-range",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "The fried egg turns a Croque Monsieur into a Croque Madame, supposedly because the egg resembles a lady's hat.",
         "what-you-will-learn": "How a simple béchamel transforms a toasted sandwich into a classic French café dish.",
@@ -69,7 +62,6 @@
             "Layering flavours"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -81,7 +73,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A comforting weekend breakfast or light lunch that introduces another classic French technique using familiar ingredients.",
         "chapman-tips": [
@@ -93,7 +84,6 @@
         "batch-cooking": "Not suitable.",
         "leftovers": "Best enjoyed fresh."
     },
-
     "relationships": {
         "similar-recipes": [
             "Eggs Benedict",
@@ -101,16 +91,14 @@
             "Scotch Pancakes"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-19",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

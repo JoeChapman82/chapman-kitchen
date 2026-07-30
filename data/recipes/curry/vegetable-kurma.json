@@ -1,16 +1,13 @@
 {
     "id": "019f8b85-968b-752b-96e9-85cd34bc1947",
     "version": 1,
-
     "title": "Vegetable Kurma",
-
     "overview": {
         "description": "A fragrant South Indian vegetable kurma with mixed vegetables in a creamy coconut, cashew and aromatic spice sauce.",
         "country": "India",
         "region": "South India",
         "serves": 4
     },
-
     "ingredients": [
         "2 tbsp neutral oil or ghee",
         "1 small cinnamon stick",
@@ -35,7 +32,6 @@
         "1 tsp poppy seeds, optional",
         "50–75ml water"
     ],
-
     "method": [
         "Soak the cashews in hot water for 15–20 minutes.",
         "Add the soaked cashews, desiccated coconut, green chillies, poppy seeds if using and enough water to a blender.",
@@ -57,7 +53,6 @@
         "Season with salt to taste.",
         "Remove the whole spices before serving if desired."
     ],
-
     "serving": {
         "serve-with": [
             "Basmati Rice",
@@ -71,7 +66,6 @@
             "Chutney"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 25,
         "cook-time-minutes": 35,
@@ -79,7 +73,6 @@
         "cost": "budget",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "The word kurma refers to a family of dishes found across South Asia, with recipes varying significantly between regions. South Indian versions often make prominent use of coconut.",
         "what-you-will-learn": "How to make a smooth nut and coconut paste, layer whole and ground spices, and build a rich curry sauce without relying on dairy.",
@@ -91,7 +84,6 @@
             "Cooking vegetables evenly"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -103,7 +95,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A mild, rich South Indian curry that introduces the children to the use of nuts and coconut to create texture and richness in a sauce.",
         "chapman-tips": [
@@ -117,7 +108,6 @@
         "batch-cooking": "Cool completely before freezing in portions. The sauce may thicken after freezing, so loosen with a little water when reheating.",
         "leftovers": "Reheat gently and serve with rice or flatbreads. Leftover kurma can also be used as a filling for wraps or stuffed flatbreads."
     },
-
     "relationships": {
         "similar-recipes": [
             "South Indian Vegetable Curry",
@@ -125,18 +115,16 @@
             "Vegetable Biryani"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-22",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

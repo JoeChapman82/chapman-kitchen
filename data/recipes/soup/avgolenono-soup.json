@@ -1,16 +1,13 @@
 {
     "id": "019f6fb6-8cf9-74ec-b4db-f77ceca94b57",
     "version": 1,
-
     "title": "Avgolemono",
-
     "overview": {
         "description": "A traditional Greek soup of chicken stock, rice, lemon and eggs. Rich and velvety without using cream.",
         "country": "Greece",
         "region": "Nationwide",
         "serves": 4
     },
-
     "ingredients": [
         "500ml homemade chicken stock",
         "100g medium-grain rice (pudding rice works well)",
@@ -21,7 +18,6 @@
         "Freshly ground black pepper",
         "2 tbsp fresh parsley, chopped"
     ],
-
     "method": [
         "Bring the chicken stock to a gentle boil.",
         "Add the rice.",
@@ -38,7 +34,6 @@
         "Season with salt and black pepper.",
         "Finish with fresh parsley."
     ],
-
     "serving": {
         "serve-with": [
             "Crusty Bread"
@@ -47,7 +42,6 @@
             "Greek Salad"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 10,
         "cook-time-minutes": 25,
@@ -55,7 +49,6 @@
         "cost": "budget",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "The name 'avgolemono' simply means 'egg and lemon', a classic Greek sauce that's also used to enrich soups.",
         "what-you-will-learn": "How to temper eggs correctly so they thicken a soup into a silky emulsion without scrambling.",
@@ -66,7 +59,6 @@
             "Building soups"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -78,7 +70,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A comforting soup that transforms homemade chicken stock into something elegant using only a few pantry ingredients.",
         "chapman-tips": [
@@ -90,7 +81,6 @@
         "batch-cooking": "Freeze the soup base without the egg and lemon mixture. After reheating, prepare the avgolemono mixture fresh and stir it in.",
         "leftovers": "Reheat gently over a low heat without boiling."
     },
-
     "relationships": {
         "similar-recipes": [
             "French Onion Soup",
@@ -99,16 +89,14 @@
             "Mulligatawny Soup"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-17",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

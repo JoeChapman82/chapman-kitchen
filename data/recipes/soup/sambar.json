@@ -1,16 +1,13 @@
 {
     "id": "019f6e88-01c9-7128-b1df-2cb7091d68d6",
     "version": 1,
-
     "title": "Sambar",
-
     "overview": {
         "description": "A South Indian lentil and vegetable stew made with toor dal, tamarind and sambar masala. Rich, tangy and deeply comforting.",
         "country": "India",
         "region": "Tamil Nadu",
         "serves": 4
     },
-
     "ingredients": [
         "250g toor dal",
         "1 litre water",
@@ -30,7 +27,6 @@
         "Salt, to taste",
         "2 tbsp fresh coriander, chopped"
     ],
-
     "method": [
         "Rinse the toor dal thoroughly.",
         "Pressure cook the dal with the water and turmeric for 15 minutes, then allow the pressure to release naturally.",
@@ -50,7 +46,6 @@
         "Season to taste.",
         "Finish with fresh coriander."
     ],
-
     "serving": {
         "serve-with": [
             "Steamed Rice"
@@ -61,7 +56,6 @@
             "Papadums"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 40,
@@ -69,7 +63,6 @@
         "cost": "budget",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Every South Indian household has its own preferred version of sambar, with different vegetables and spice blends depending on the region and season.",
         "what-you-will-learn": "How to pressure cook toor dal, prepare a South Indian tempering and balance tamarind with lentils and vegetables.",
@@ -80,7 +73,6 @@
             "Balancing acidity"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -92,7 +84,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A nutritious one-pot meal that makes excellent use of pantry staples, frozen vegetables and the pressure cooker.",
         "chapman-tips": [
@@ -104,7 +95,6 @@
         "batch-cooking": "Freeze in family-sized portions for up to 6 months.",
         "leftovers": "Often tastes even better the following day."
     },
-
     "relationships": {
         "similar-recipes": [
             "Gujarati Dal",
@@ -112,16 +102,14 @@
             "Rajma"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-17",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

@@ -1,16 +1,13 @@
 {
     "id": "019f7c00-6b0e-71ab-b0c5-80c9ac6392eb",
     "version": 1,
-
     "title": "Masala Omelette",
-
     "overview": {
         "description": "A fluffy Indian omelette packed with onion, green chilli, coriander and warming spices, cooked until lightly golden.",
         "country": "India",
         "region": "Nationwide",
         "serves": 2
     },
-
     "ingredients": [
         "4 eggs",
         "1 small onion, very finely diced",
@@ -23,7 +20,6 @@
         "Black pepper",
         "1 tbsp ghee or neutral oil"
     ],
-
     "method": [
         "Beat the eggs until well combined.",
         "Stir in the onion, chilli, coriander, cumin seeds, turmeric, chilli powder if using, salt and black pepper.",
@@ -34,7 +30,6 @@
         "Repeat with the remaining mixture.",
         "Serve immediately."
     ],
-
     "serving": {
         "serve-with": [
             "Butter Toast"
@@ -45,7 +40,6 @@
             "Green Chutney"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 10,
         "cook-time-minutes": 10,
@@ -53,7 +47,6 @@
         "cost": "budget",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Masala omelettes are a favourite at roadside tea stalls across India, where they're often served with buttered toast and a cup of chai.",
         "what-you-will-learn": "How fresh herbs, spices and aromatics can completely transform a simple omelette.",
@@ -63,7 +56,6 @@
             "Cooking omelettes"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -75,7 +67,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A quick, inexpensive breakfast using ingredients that are almost always available in the Chapman Kitchen.",
         "chapman-tips": [
@@ -88,7 +79,6 @@
         "batch-cooking": "Not suitable.",
         "leftovers": "Best enjoyed immediately."
     },
-
     "relationships": {
         "similar-recipes": [
             "Korean Egg Toast",
@@ -96,16 +86,14 @@
             "Strapatsada"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-19",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

@@ -1,16 +1,13 @@
 {
     "id": "019f76be-348c-7501-9442-dfb16a078361",
     "version": 1,
-
     "title": "Eggs Benedict",
-
     "overview": {
         "description": "Toasted English muffins topped with ham, perfectly poached eggs and silky homemade Hollandaise sauce.",
         "country": "United States",
         "region": "New York",
         "serves": 2
     },
-
     "ingredients": [
         "2 English muffins, split",
         "4 eggs",
@@ -24,7 +21,6 @@
         "",
         "1 tbsp white vinegar (for poaching)"
     ],
-
     "method": [
         "Melt the butter gently until just melted. Keep warm.",
         "Whisk together the egg yolks and lemon juice in a heatproof bowl.",
@@ -40,7 +36,6 @@
         "Top each muffin half with ham, a poached egg and a generous spoonful of Hollandaise.",
         "Serve immediately."
     ],
-
     "serving": {
         "serve-with": [
             "Fresh Fruit"
@@ -50,7 +45,6 @@
             "Grilled Asparagus"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 10,
         "cook-time-minutes": 20,
@@ -58,7 +52,6 @@
         "cost": "mid-range",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Despite its name, Eggs Benedict is generally believed to have been created in New York in the late nineteenth century rather than in England.",
         "what-you-will-learn": "How to make a stable Hollandaise sauce, poach eggs successfully and coordinate several cooking tasks to finish together.",
@@ -69,7 +62,6 @@
             "Water bath cooking"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -81,7 +73,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A classic weekend breakfast that teaches several core cooking techniques in one rewarding dish.",
         "chapman-tips": [
@@ -94,7 +85,6 @@
         "batch-cooking": "Not suitable.",
         "leftovers": "Best enjoyed fresh."
     },
-
     "relationships": {
         "similar-recipes": [
             "Scotch Pancakes",
@@ -102,16 +92,14 @@
             "Shakshuka"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-18",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

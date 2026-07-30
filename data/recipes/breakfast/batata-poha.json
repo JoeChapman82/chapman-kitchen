@@ -1,16 +1,13 @@
 {
     "id": "019f95c5-4873-728a-9b99-1539eb687de3",
     "version": 1,
-
     "title": "Batata Poha",
-
     "overview": {
         "description": "A light but satisfying Indian breakfast made with flattened rice, potato, onion, peanuts and a fragrant tempering of spices.",
         "country": "India",
         "region": "Maharashtra",
         "serves": 4
     },
-
     "ingredients": [
         "300g thick poha (flattened rice)",
         "2 medium potatoes, peeled and diced into small cubes",
@@ -28,7 +25,6 @@
         "Small handful fresh coriander, chopped",
         "50ml water"
     ],
-
     "method": [
         "Place the poha in a sieve or colander.",
         "Rinse gently under cold water until softened but not mushy.",
@@ -50,7 +46,6 @@
         "Garnish with fresh coriander.",
         "Serve hot."
     ],
-
     "serving": {
         "serve-with": [],
         "optional-sides": [
@@ -60,7 +55,6 @@
             "Extra Roasted Peanuts"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 25,
         "cook-time-minutes": 20,
@@ -68,7 +62,6 @@
         "cost": "low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Poha is made from rice that has been parboiled, flattened and dried. This makes it quick to prepare because the rice has already been partially cooked before it reaches the kitchen.",
         "what-you-will-learn": "How rice can be transformed into flattened rice and how a simple tempering of spices can add flavour and aroma to a breakfast dish.",
@@ -80,7 +73,6 @@
             "Using rice in different forms"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A quick, inexpensive and filling breakfast that makes good use of pantry staples and provides a different way to eat rice.",
         "chapman-tips": [
@@ -96,7 +88,6 @@
         "batch-cooking": "Better fresh. The poha can become soft and lose its best texture when frozen and reheated.",
         "leftovers": "Leftover poha can be refrigerated and reheated, although it is best eaten fresh."
     },
-
     "relationships": {
         "similar-recipes": [
             "Upma",
@@ -106,18 +97,16 @@
             "Mujadara"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-24",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

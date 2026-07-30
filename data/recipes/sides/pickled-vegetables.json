@@ -1,16 +1,13 @@
 {
     "id": "019f8b7d-0342-76f4-945f-7808e05242b9",
     "version": 1,
-
     "title": "Quick-Pickled Vegetables",
-
     "overview": {
         "description": "Crisp vegetables preserved in a sharp, lightly sweet vinegar brine for a bright, crunchy accompaniment to rich and spicy dishes.",
         "country": "",
         "region": "",
         "serves": 8
     },
-
     "ingredients": [
         "1 medium red onion, thinly sliced",
         "1 carrot, cut into thin matchsticks or ribbons",
@@ -23,7 +20,6 @@
         "1 garlic clove, lightly crushed, optional",
         "½ tsp black peppercorns, optional"
     ],
-
     "method": [
         "Prepare the vegetables and place them in a clean heatproof jar or container.",
         "Put the vinegar, water, sugar and salt into a small saucepan.",
@@ -34,7 +30,6 @@
         "Cover and refrigerate.",
         "The vegetables can be eaten after approximately 30 minutes, but the flavour will improve after several hours."
     ],
-
     "serving": {
         "serve-with": [
             "Chicken Fajitas",
@@ -50,7 +45,6 @@
             "Curries"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 10,
         "cook-time-minutes": 5,
@@ -58,7 +52,6 @@
         "cost": "very low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Quick pickling preserves vegetables through acidity rather than fermentation. The vinegar creates a sharp flavour while helping the vegetables keep for longer in the refrigerator.",
         "what-you-will-learn": "How vinegar, water, salt and sugar can be balanced to create a quick pickle and how acidity can brighten rich or spicy dishes.",
@@ -69,7 +62,6 @@
             "Food preservation"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -81,7 +73,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A simple and flexible way to add acidity, freshness and crunch to rich meals while introducing the children to the basic principles of pickling.",
         "chapman-tips": [
@@ -100,7 +91,6 @@
         "batch-cooking": "Make a batch and keep refrigerated for several days. The exact storage time depends on the vegetables used and how cleanly the pickle is prepared.",
         "leftovers": "Use leftover pickled vegetables in sandwiches, wraps, burgers, tacos, rice bowls or alongside curries."
     },
-
     "relationships": {
         "similar-recipes": [
             "Peruvian Ají Verde",
@@ -108,18 +98,16 @@
             "Toum"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-22",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

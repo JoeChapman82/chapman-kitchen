@@ -1,16 +1,13 @@
 {
     "id": "019f6b88-0d68-748e-8ea1-863f2732691f",
     "version": 1,
-
     "title": "Chole (Punjabi Chickpea Curry)",
-
     "overview": {
         "description": "A hearty North Indian chickpea curry with tomatoes, onions and warming spices. Rich, comforting and ideal with rice or freshly made naan.",
         "country": "India",
         "region": "Punjab",
         "serves": 4
     },
-
     "ingredients": [
         "300g dried chickpeas, soaked overnight",
         "2 tbsp vegetable oil or ghee",
@@ -29,7 +26,6 @@
         "Salt, to taste",
         "Fresh coriander, chopped"
     ],
-
     "method": [
         "Drain the soaked chickpeas and place in a saucepan with fresh water.",
         "Bring to the boil, then simmer for 60–90 minutes until tender. Drain, reserving a little cooking liquid.",
@@ -44,7 +40,6 @@
         "Stir in the garam masala and amchur (or lemon juice).",
         "Season to taste and garnish with fresh coriander."
     ],
-
     "serving": {
         "serve-with": [
             "Basmati Rice",
@@ -55,7 +50,6 @@
             "Pickled Onions"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 720,
         "cook-time-minutes": 120,
@@ -63,7 +57,6 @@
         "cost": "budget",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Chole is one of the signature dishes of Punjab and is traditionally served with bhature, a deep-fried leavened bread.",
         "what-you-will-learn": "How to build a deeply flavoured curry by browning onions well and allowing the tomatoes to cook down before adding the chickpeas.",
@@ -74,7 +67,6 @@
             "Naturally thickening sauces"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -86,7 +78,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "An inexpensive pantry meal that's packed with flavour and freezes beautifully, making it ideal for batch cooking.",
         "chapman-tips": [
@@ -98,7 +89,6 @@
         "batch-cooking": "Freeze in family-sized portions for up to 6 months.",
         "leftovers": "Serve with rice, naan or use as a filling for wraps."
     },
-
     "relationships": {
         "similar-recipes": [
             "Rajma",
@@ -106,16 +96,14 @@
             "Dal Chawal"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-16",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

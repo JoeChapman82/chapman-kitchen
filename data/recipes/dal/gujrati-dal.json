@@ -1,16 +1,13 @@
 {
     "id": "019f6e85-2804-71bf-953a-72f2ab97f4b6",
     "version": 1,
-
     "title": "Gujarati Dal",
-
     "overview": {
         "description": "A sweet, tangy and gently spiced lentil curry made with toor dal, tomatoes and aromatic tempering. A classic everyday dish from Gujarat.",
         "country": "India",
         "region": "Gujarat",
         "serves": 4
     },
-
     "ingredients": [
         "250g toor dal (split pigeon peas)",
         "1 litre water",
@@ -32,7 +29,6 @@
         "Salt, to taste",
         "2 tbsp fresh coriander, chopped"
     ],
-
     "method": [
         "Rinse the toor dal thoroughly.",
         "Pressure cook with the water and turmeric for 15 minutes, then allow the pressure to release naturally.",
@@ -51,7 +47,6 @@
         "Season to taste.",
         "Finish with fresh coriander."
     ],
-
     "serving": {
         "serve-with": [
             "Steamed Basmati Rice"
@@ -62,7 +57,6 @@
             "Plain Yoghurt"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 35,
@@ -70,7 +64,6 @@
         "cost": "budget",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Gujarati cuisine is famous for balancing sweet, sour and savoury flavours within the same dish, and Gujarati Dal is one of its best-known examples.",
         "what-you-will-learn": "How to cook toor dal, prepare a traditional tempering (tadka) and balance sweetness with acidity.",
@@ -81,7 +74,6 @@
             "Cooking lentils"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -93,7 +85,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A completely different style of dal that shows the incredible regional variety of Indian cooking while using pantry staples.",
         "chapman-tips": [
@@ -105,7 +96,6 @@
         "batch-cooking": "Freeze in family-sized portions for up to 6 months.",
         "leftovers": "Reheat gently with a splash of water if the dal thickens in the fridge."
     },
-
     "relationships": {
         "similar-recipes": [
             "Dal Makhani",
@@ -114,16 +104,14 @@
             "Chole (Punjabi Chickpea Curry)"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-17",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

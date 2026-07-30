@@ -1,16 +1,13 @@
 {
     "id": "019f6152-fe23-7531-b876-ed690031aae4",
     "version": 1,
-
     "title": "Currywurst",
-
     "overview": {
         "description": "A German street food classic of grilled pork sausage served with a homemade curried tomato sauce. Simple, comforting and perfect with crispy chips or fresh bread.",
         "country": "Germany",
         "region": "Berlin",
         "serves": 4
     },
-
     "ingredients": [
         "8 bratwurst or good quality pork sausages",
         "1 tbsp vegetable oil",
@@ -27,7 +24,6 @@
         "Freshly ground black pepper",
         "Extra curry powder, for serving"
     ],
-
     "method": [
         "Heat the vegetable oil in a saucepan over a medium heat.",
         "Add the onion and cook gently for about 8 minutes until softened.",
@@ -40,7 +36,6 @@
         "Slice the sausages into bite-sized pieces.",
         "Serve generously covered with the curry sauce and dust with a little extra curry powder."
     ],
-
     "serving": {
         "serve-with": [
             "German Rolls"
@@ -50,7 +45,6 @@
             "Potato Salad"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 10,
         "cook-time-minutes": 30,
@@ -58,7 +52,6 @@
         "cost": "budget",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Currywurst was invented in Berlin in 1949 and has become one of Germany's most famous street foods, with millions sold every year.",
         "what-you-will-learn": "How to build a simple curry ketchup from scratch and how gently cooking spices develops a richer flavour.",
@@ -68,7 +61,6 @@
             "Grilling sausages"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -80,7 +72,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A fun Friday meal that's quick to prepare and introduces German cooking without requiring specialist techniques.",
         "chapman-tips": [
@@ -91,7 +82,6 @@
         "batch-cooking": "The sauce freezes very well. Cook fresh sausages when serving.",
         "leftovers": "Reheat the sauce gently and grill fresh sausages if possible."
     },
-
     "relationships": {
         "similar-recipes": [
             "Homemade Burgers",
@@ -99,16 +89,14 @@
             "Jambalaya"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-14",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

@@ -1,16 +1,13 @@
 {
     "id": "019f90b8-818d-74da-911e-fe9979013055",
     "version": 1,
-
     "title": "Spotted Dick",
-
     "overview": {
         "description": "A traditional steamed British suet pudding packed with currants and gently flavoured with lemon and spices.",
         "country": "United Kingdom",
         "region": "Britain",
         "serves": 6
     },
-
     "ingredients": [
         "250g self-raising flour",
         "125g shredded suet",
@@ -23,7 +20,6 @@
         "150ml milk",
         "1 tsp vanilla extract"
     ],
-
     "method": [
         "Grease a 1.5 litre pudding basin.",
         "Place the flour, suet, currants, sugar, lemon zest, cinnamon, nutmeg and salt in a large bowl.",
@@ -42,7 +38,6 @@
         "Turn the pudding out onto a serving plate.",
         "Serve immediately with hot custard."
     ],
-
     "serving": {
         "serve-with": [
             "Custard"
@@ -53,7 +48,6 @@
             "Treacle Sauce"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 120,
@@ -61,7 +55,6 @@
         "cost": "low",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "The name 'spotted dick' refers to the spots made by the dried fruit, while 'dick' is an old dialect form of pudding.",
         "what-you-will-learn": "How suet creates a light steamed pudding and how moist heat transforms a simple dough into a tender dessert.",
@@ -73,7 +66,6 @@
             "Traditional British cooking"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A classic old-fashioned British pudding that is inexpensive, filling, freezer-friendly and ideal for the family's weekly pudding tradition.",
         "chapman-tips": [
@@ -89,7 +81,6 @@
         "batch-cooking": "Freezes well. Cool completely, wrap securely and freeze in portions.",
         "leftovers": "Reheat by steaming or gently in the microwave and serve with custard."
     },
-
     "relationships": {
         "similar-recipes": [
             "Treacle Sponge Pudding",
@@ -99,18 +90,16 @@
             "Christmas Pudding"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

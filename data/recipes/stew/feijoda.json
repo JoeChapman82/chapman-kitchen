@@ -1,16 +1,13 @@
 {
     "id": "019f9aca-1fa2-707a-850e-2f18ef3ca431",
     "version": 1,
-
     "title": "Slow Cooker Feijoada",
-
     "overview": {
         "description": "A rich Brazilian black bean and pork stew slowly cooked with pork shoulder, smoked sausage, bacon and aromatic vegetables.",
         "country": "Brazil",
         "region": "Southeast Brazil",
         "serves": 8
     },
-
     "ingredients": [
         "500g dried black beans",
         "500g pork shoulder, cut into large chunks",
@@ -28,7 +25,6 @@
         "Salt, to taste",
         "Black pepper, to taste"
     ],
-
     "method": [
         "Rinse the black beans thoroughly.",
         "Soak the beans in plenty of cold water overnight.",
@@ -48,7 +44,6 @@
         "If the stew is thinner than desired, remove the lid and cook on HIGH for a short period, or mash some of the beans into the sauce.",
         "Serve hot."
     ],
-
     "serving": {
         "serve-with": [
             "White Rice"
@@ -60,7 +55,6 @@
             "Brazilian Hot Sauce"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 720,
         "cook-time-minutes": 600,
@@ -68,7 +62,6 @@
         "cost": "moderate",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Feijoada is one of Brazil's best-known dishes and is traditionally associated with black beans cooked slowly with pork and other meats. It is commonly served with rice, greens, orange and farofa.",
         "what-you-will-learn": "How dried beans absorb water and soften during slow cooking, and how long, gentle cooking allows tough cuts of meat to become tender.",
@@ -80,7 +73,6 @@
             "Batch cooking"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A substantial one-pot meal that is ideal for slow cooking and batch preparation, while introducing a classic Brazilian dish to the meal rotation.",
         "chapman-tips": [
@@ -96,7 +88,6 @@
         "batch-cooking": "Freezes very well. Cool thoroughly, portion and freeze in airtight containers.",
         "leftovers": "Keeps well in the refrigerator and often tastes even better the following day."
     },
-
     "relationships": {
         "similar-recipes": [
             "Three Sisters Stew",
@@ -106,18 +97,16 @@
             "Slow Cooked Beef Short Ribs"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-25",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

@@ -1,16 +1,13 @@
 {
     "id": "019f6fba-1a52-776d-9d72-b8dff416fd06",
     "version": 1,
-
     "title": "Mercimek Çorbası (Turkish Red Lentil Soup)",
-
     "overview": {
         "description": "A smooth, comforting Turkish soup made from red lentils, vegetables and homemade chicken stock, finished with a fragrant butter, paprika and mint drizzle.",
         "country": "Turkey",
         "region": "Nationwide",
         "serves": 4
     },
-
     "ingredients": [
         "2 tbsp butter",
         "1 onion, diced",
@@ -29,7 +26,6 @@
         "",
         "Lemon wedges, to serve"
     ],
-
     "method": [
         "Melt the butter over a medium heat.",
         "Cook the onion and carrot for 8–10 minutes until softened.",
@@ -47,7 +43,6 @@
         "Cook for 20 seconds until fragrant.",
         "Serve the soup with the butter drizzled over the top and lemon wedges alongside."
     ],
-
     "serving": {
         "serve-with": [
             "Crusty Bread"
@@ -57,7 +52,6 @@
             "Extra Lemon Wedges"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 10,
         "cook-time-minutes": 35,
@@ -65,7 +59,6 @@
         "cost": "budget",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Mercimek Çorbası is one of Turkey's most popular everyday soups and is commonly served before almost any main meal.",
         "what-you-will-learn": "How to make a smooth lentil soup and finish it with an infused butter that adds aroma and richness.",
@@ -76,7 +69,6 @@
             "Balancing flavours"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -88,7 +80,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A quick, inexpensive soup built almost entirely from pantry staples that freezes beautifully and delivers a lot of flavour for very little effort.",
         "chapman-tips": [
@@ -100,7 +91,6 @@
         "batch-cooking": "Freeze in family-sized portions for up to 6 months. Prepare the butter topping fresh when serving.",
         "leftovers": "The soup thickens as it stands; loosen with a little stock or water when reheating."
     },
-
     "relationships": {
         "similar-recipes": [
             "Harira",
@@ -109,16 +99,14 @@
             "Caldo Verde"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-17",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

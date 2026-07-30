@@ -1,16 +1,13 @@
 {
     "id": "019f90b6-8193-7148-b1e5-26adb0fb6699",
     "version": 1,
-
     "title": "Bread and Butter Pudding",
-
     "overview": {
         "description": "A classic British pudding made from buttered bread, dried fruit and a rich vanilla custard, baked until golden and softly set.",
         "country": "United Kingdom",
         "region": "Britain",
         "serves": 6
     },
-
     "ingredients": [
         "8–10 slices slightly stale white bread",
         "75g butter, softened",
@@ -26,7 +23,6 @@
         "Pinch of salt",
         "2 tbsp demerara sugar"
     ],
-
     "method": [
         "Preheat the oven to 170°C.",
         "Grease a large ovenproof dish with a little butter.",
@@ -45,7 +41,6 @@
         "Bake for 40–50 minutes until golden brown and just set in the centre.",
         "Allow to rest for 10 minutes before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Custard"
@@ -55,7 +50,6 @@
             "Vanilla Ice Cream"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 30,
         "cook-time-minutes": 50,
@@ -63,7 +57,6 @@
         "cost": "low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Bread and butter pudding evolved from older British ways of using stale bread and is closely related to earlier baked bread puddings.",
         "what-you-will-learn": "How stale bread absorbs a custard mixture and how gentle baking transforms it into a soft, rich pudding with a golden top.",
@@ -75,7 +68,6 @@
             "Avoiding curdled custard"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A low-cost, practical pudding that turns leftover bread into something special and uses ingredients already commonly kept in the pantry.",
         "chapman-tips": [
@@ -92,7 +84,6 @@
         "batch-cooking": "Better fresh. It can be reheated, although the texture is best on the day it is baked.",
         "leftovers": "Reheat gently and serve with custard."
     },
-
     "relationships": {
         "similar-recipes": [
             "Rice Pudding",
@@ -102,18 +93,16 @@
             "French Toast"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

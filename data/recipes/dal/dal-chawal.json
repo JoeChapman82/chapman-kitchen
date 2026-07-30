@@ -1,16 +1,13 @@
 {
     "id": "019f8e0b-635b-7392-87fd-59ee36c8d4ee",
     "version": 1,
-
     "title": "Dal Chawal",
-
     "overview": {
         "description": "A comforting Indian meal of gently spiced dal and fluffy basmati rice cooked together in a multi-cooker using the pot-in-pot method.",
         "country": "India",
         "region": "North India",
         "serves": 4
     },
-
     "ingredients": [
         "250g red split moong dal",
         "1 medium onion, finely chopped",
@@ -33,7 +30,6 @@
         "½ tsp salt",
         "1 tsp ghee, optional"
     ],
-
     "method": [
         "Rinse the dal thoroughly until the water runs relatively clear.",
         "Rinse the basmati rice separately until the water runs relatively clear.",
@@ -59,7 +55,6 @@
         "Finish with fresh coriander.",
         "Serve the dal and rice together."
     ],
-
     "serving": {
         "serve-with": [
             "Basmati Rice"
@@ -72,7 +67,6 @@
             "Kachumber"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 30,
@@ -80,7 +74,6 @@
         "cost": "very low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Dal chawal simply means dal and rice, but the combination is one of the great everyday meals of the Indian subcontinent. The exact dal and style vary widely from region to region and household to household.",
         "what-you-will-learn": "How to use a multi-cooker and pot-in-pot cooking to prepare two separate components of a meal at the same time.",
@@ -92,7 +85,6 @@
             "Balancing texture"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -104,7 +96,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A fundamental everyday meal that demonstrates how a simple combination of dal and rice can be made efficiently using the multi-cooker while introducing the children to one of the most important meal combinations in Indian cooking.",
         "chapman-tips": [
@@ -120,7 +111,6 @@
         "batch-cooking": "Both the dal and rice can be refrigerated and reheated, although the rice is best eaten within a few days. The dal freezes particularly well. Freeze the dal separately from the rice where possible.",
         "leftovers": "Reheat the dal with a little water. Leftover rice can be used for fried rice, lemon rice or another rice-based meal."
     },
-
     "relationships": {
         "similar-recipes": [
             "Simple Red Moong Dal",
@@ -129,18 +119,16 @@
             "Lemon Rice"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-23",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

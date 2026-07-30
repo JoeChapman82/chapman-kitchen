@@ -1,16 +1,13 @@
 {
     "id": "019f9573-4d2d-766f-992e-96c8142dfc65",
     "version": 1,
-
     "title": "Korean Vegetable Mandu",
-
     "overview": {
         "description": "Korean dumplings filled with tofu, glass noodles, cabbage, mushrooms and vegetables, wrapped in thin dumpling wrappers.",
         "country": "South Korea",
         "region": "Korea",
         "serves": 6
     },
-
     "ingredients": [
         "30–36 mandu or dumpling wrappers",
         "250g firm tofu",
@@ -28,7 +25,6 @@
         "1 egg, beaten, optional",
         "Oil, for cooking"
     ],
-
     "method": [
         "Crumble the tofu into a clean tea towel or muslin cloth.",
         "Squeeze firmly to remove as much liquid as possible.",
@@ -56,7 +52,6 @@
         "Steam until the wrappers are tender and the filling is hot.",
         "Alternatively, steam the mandu until cooked through."
     ],
-
     "serving": {
         "serve-with": [
             "Korean Dumpling Dipping Sauce"
@@ -68,7 +63,6 @@
             "Korean Vegetable Pancakes"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 90,
         "cook-time-minutes": 20,
@@ -76,7 +70,6 @@
         "cost": "low",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "Mandu are Korean dumplings that can be steamed, boiled, pan-fried or added to soups, making them one of the most versatile foods in Korean cooking.",
         "what-you-will-learn": "How to prepare a dumpling filling with controlled moisture and how to fold and cook dumplings without the wrappers becoming soggy.",
@@ -88,7 +81,6 @@
             "Pan-steaming"
         ]
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A freezer-friendly vegetarian snack that is easy to batch cook and provides a different texture and flavour profile from the Indian fritters already in the collection.",
         "chapman-tips": [
@@ -105,7 +97,6 @@
         "batch-cooking": "Freezes extremely well. Freeze uncooked mandu in a single layer until solid, then transfer to bags or containers.",
         "leftovers": "Cooked mandu can be refrigerated and reheated, although freshly cooked dumplings have the best texture."
     },
-
     "relationships": {
         "similar-recipes": [
             "Gyoza",
@@ -115,18 +106,16 @@
             "Korean Vegetable Pancakes"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-24",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }

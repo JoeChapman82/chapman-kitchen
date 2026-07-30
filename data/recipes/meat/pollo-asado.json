@@ -1,16 +1,13 @@
 {
     "id": "019f8b6a-cb2c-7738-8676-c7b4c5da673d",
     "version": 1,
-
     "title": "Pollo Asado",
-
     "overview": {
         "description": "Mexican-style marinated chicken roasted until deeply coloured, juicy and aromatic, with citrus, garlic, spices and achiote.",
         "country": "Mexico",
         "region": "Yucatán",
         "serves": 4
     },
-
     "ingredients": [
         "1.2kg chicken thighs and drumsticks, bone-in and skin-on",
         "Juice of 2 oranges",
@@ -26,7 +23,6 @@
         "1 tsp salt",
         "Black pepper"
     ],
-
     "method": [
         "Make several deep cuts into the thickest parts of the chicken to help the marinade penetrate.",
         "Mix the orange juice, lime juice, garlic, achiote paste, olive oil, cumin, oregano, smoked paprika, ground coriander, cinnamon, salt and black pepper.",
@@ -39,7 +35,6 @@
         "Baste once or twice with the marinade and cooking juices during roasting.",
         "Allow the chicken to rest for 10 minutes before serving."
     ],
-
     "serving": {
         "serve-with": [
             "Corn Tortillas",
@@ -53,7 +48,6 @@
             "Pickled Red Onion"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 50,
@@ -61,7 +55,6 @@
         "cost": "mid-range",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Achiote comes from the seeds of the annatto tree and gives many Yucatán-style dishes their distinctive deep red-orange colour.",
         "what-you-will-learn": "How to build a citrus-based marinade, use achiote for flavour and colour, and roast marinated chicken at high heat.",
@@ -73,7 +66,6 @@
             "Carving and serving"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -85,7 +77,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A vibrant Mexican chicken dish that introduces achiote and demonstrates how citrus and spices can transform simple roasted chicken.",
         "chapman-tips": [
@@ -98,7 +89,6 @@
         "batch-cooking": "Cooked chicken freezes well. Allow it to cool completely, then freeze in portions. For best results, freeze the chicken with some of its cooking juices and reheat gently.",
         "leftovers": "Shred leftover chicken for tacos, quesadillas, enchiladas, rice bowls or sandwiches."
     },
-
     "relationships": {
         "similar-recipes": [
             "Chicken Fajitas",
@@ -106,16 +96,14 @@
             "Chicken Shawarma"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-22",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

@@ -1,16 +1,13 @@
 {
     "id": "019f6a52-e8f2-7449-b5e5-08830f9eaf8e",
     "version": 1,
-
     "title": "Chicken Saag",
-
     "overview": {
         "description": "A traditional North Indian curry of tender chicken simmered in a richly spiced spinach sauce with garlic, ginger and warming spices.",
         "country": "India",
         "region": "Punjab",
         "serves": 4
     },
-
     "ingredients": [
         "700g boneless skinless chicken thighs, cut into bite-sized pieces",
         "2 tbsp ghee",
@@ -29,7 +26,6 @@
         "Salt",
         "Fresh coriander, chopped"
     ],
-
     "method": [
         "Heat the ghee over a medium heat.",
         "Add the cumin seeds and cook for 30 seconds until fragrant.",
@@ -47,7 +43,6 @@
         "Finish with the garam masala and fresh coriander.",
         "Season to taste."
     ],
-
     "serving": {
         "serve-with": [
             "Homemade Naan",
@@ -59,7 +54,6 @@
             "Lime Pickle"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 15,
         "cook-time-minutes": 35,
@@ -67,7 +61,6 @@
         "cost": "mid-range",
         "after-work": true
     },
-
     "learning": {
         "did-you-know": "In Indian cooking, 'saag' refers to leafy greens rather than spinach alone, although spinach is the most common version outside India.",
         "what-you-will-learn": "How to cook with leafy greens, bloom spices, and incorporate yoghurt into a curry without splitting it.",
@@ -78,7 +71,6 @@
             "Using yoghurt in curries"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -90,7 +82,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A healthier North Indian curry that makes excellent use of frozen spinach while showcasing how vegetables can be the main flavour rather than just an addition.",
         "chapman-tips": [
@@ -102,7 +93,6 @@
         "batch-cooking": "Freeze once cooled in family-sized portions.",
         "leftovers": "The flavour deepens overnight and reheats gently on the hob."
     },
-
     "relationships": {
         "similar-recipes": [
             "Saag Paneer",
@@ -111,16 +101,14 @@
             "Chicken Jalfrezi"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-16",
         "updated": "",
         "created-by": "Joe Chapman",
         "updated-by": "Joe Chapman"

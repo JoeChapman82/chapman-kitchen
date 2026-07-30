@@ -1,16 +1,13 @@
 {
     "id": "019f8589-adca-73c6-9789-3920cfed8d43",
     "version": 1,
-
     "title": "Pork Gyoza",
-
     "overview": {
         "description": "Japanese pan-fried dumplings filled with seasoned pork, cabbage, spring onion, ginger and garlic, wrapped in homemade gyoza dough.",
         "country": "Japan",
         "region": "Nationwide",
         "serves": 4
     },
-
     "ingredients": [
         "300g plain flour",
         "½ tsp salt",
@@ -31,7 +28,6 @@
         "2 tbsp neutral oil, for frying",
         "100ml water, for steaming"
     ],
-
     "method": [
         "Mix the flour and salt in a bowl.",
         "Gradually add the boiling water, stirring with chopsticks or a fork until a shaggy dough forms.",
@@ -56,7 +52,6 @@
         "Steam for 5–7 minutes until the filling is cooked through.",
         "Remove the lid and continue cooking until the remaining water has evaporated and the bases are crisp."
     ],
-
     "serving": {
         "serve-with": [
             "Soy Sauce",
@@ -68,7 +63,6 @@
             "Steamed Rice"
         ]
     },
-
     "planner": {
         "prep-time-minutes": 75,
         "cook-time-minutes": 15,
@@ -76,7 +70,6 @@
         "cost": "mid-range",
         "after-work": false
     },
-
     "learning": {
         "did-you-know": "Although gyoza originated from Chinese jiaozi, the Japanese version developed its own thinner wrapper, finely minced filling and characteristic pan-fried base.",
         "what-you-will-learn": "How to make dumpling wrappers from scratch, control moisture in a filling and fold and cook filled dumplings.",
@@ -89,7 +82,6 @@
             "Freezer preparation"
         ]
     },
-
     "nutrition": {
         "portion-size": "",
         "calories": "",
@@ -101,7 +93,6 @@
         "sugar": "",
         "salt": ""
     },
-
     "notes": {
         "why-its-in-the-chapman-kitchen": "A brilliant batch-cooking project that teaches several useful skills while producing a freezer full of genuinely convenient homemade snacks.",
         "chapman-tips": [
@@ -115,7 +106,6 @@
         "batch-cooking": "Freeze uncooked gyoza in a single layer on a tray until solid, then transfer to a freezer bag or container. Cook directly from frozen using the same pan-frying and steaming method, adding several minutes to the steaming time.",
         "leftovers": "Cooked gyoza can be refrigerated and reheated in a frying pan, although freshly cooked gyoza have the best texture."
     },
-
     "relationships": {
         "similar-recipes": [
             "Chicken Samosas",
@@ -123,18 +113,16 @@
             "Jamaican Beef Patties"
         ]
     },
-
     "history": [
         {
             "date": "",
             "note": ""
         }
     ],
-
     "metadata": {
-        "created": "",
+        "created": "2026-07-21",
         "updated": "",
-        "created-by": "",
+        "created-by": "Daddy",
         "updated-by": ""
     }
 }
