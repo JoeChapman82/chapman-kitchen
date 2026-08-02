@@ -8,8 +8,8 @@
                 "recipes": ["019f767e-ce66-7075-b818-f26d335779e5"]
             },
             "morning-snack": {
-                "meal": ["Pork gyoza"],
-                "recipes": ["019f8589-adca-73c6-9789-3920cfed8d43"]
+                "meal": ["Jamaican beef patty"],
+                "recipes": ["019f8585-9ab2-7476-b2ee-34d7987986a0"]
             },
             "lunch": {
                 "meal": ["Dal Chawal with Roti"],
@@ -113,8 +113,8 @@
                 "recipes": []
             },
             "morning-snack": {
-                "meal": ["Japanese Vegetable Korokke"],
-                "recipes": ["019f9574-c035-7617-b63d-9d79b70a0025"]
+                "meal": ["Korean Vegetable Mandu"],
+                "recipes": ["019f9573-4d2d-766f-992e-96c8142dfc65"]
             },
             "lunch": {
                 "meal": ["Pesto rosso"],

@@ -8,8 +8,8 @@
                 "recipes": ["019f767e-ce66-7075-b818-f26d335779e5"]
             },
             "morning-snack": {
-                "meal": ["Sausage roll"],
-                "recipes": ["019f769e-bd22-71dd-9354-70363a99be3c"]
+                "meal": ["Chicken nuggets"],
+                "recipes": ["019f858c-4a69-751b-96dc-6fa441e7d51b"]
             },
             "lunch": {
                 "meal": ["Spaghetti al pomodoro"],
@@ -113,8 +113,8 @@
                 "recipes": []
             },
             "morning-snack": {
-                "meal": ["Vegetable cutlet"],
-                "recipes": ["019f956f-8878-75e8-8350-30d083a7a44a"]
+                "meal": ["Vegetable pakora"],
+                "recipes": ["019f9570-bad8-73dd-a8a4-bf9fae6f7132"]
             },
             "lunch": {
                 "meal": ["Pesto pasta"],
