@@ -1,0 +1,143 @@
+{
+    "id": "000019fc-67cf-7641-a432-59d1b577af1d",
+    "version": 1,
+    "title": "Arancini",
+    "overview": {
+        "description": "Crisp, golden Sicilian rice balls filled with a rich ragù and melting mozzarella, coated in breadcrumbs and deep-fried. A brilliant way to use leftover risotto.",
+        "country": "Italy",
+        "region": "Sicily",
+        "serves": 4
+    },
+    "ingredients": [
+        "For the rice:",
+        "300g arborio rice",
+        "1 litre hot chicken or vegetable stock",
+        "1 small onion, finely diced",
+        "2 cloves garlic, finely chopped",
+        "1 tbsp olive oil",
+        "50ml dry white wine",
+        "50g Parmesan, finely grated",
+        "1 tbsp butter",
+        "Salt and black pepper",
+        "",
+        "For the meat filling:",
+        "150g beef mince",
+        "½ small onion, finely diced",
+        "1 clove garlic, finely chopped",
+        "1 tbsp olive oil",
+        "2 tbsp tomato purée",
+        "50ml red wine",
+        "100g frozen peas",
+        "100g mozzarella, cut into small cubes",
+        "Salt and black pepper",
+        "",
+        "For coating:",
+        "100g plain flour",
+        "2 large eggs, beaten",
+        "150g fine dried breadcrumbs",
+        "Oil, for deep frying"
+    ],
+    "method": [
+        "Heat the olive oil in a large saucepan over a medium heat.",
+        "Cook the onion for 8–10 minutes until soft and translucent.",
+        "Add the garlic and cook for 1 minute.",
+        "Add the rice and stir to coat in the oil.",
+        "Pour in the wine and stir until absorbed.",
+        "Add the hot stock one ladleful at a time, stirring constantly and allowing each addition to absorb before adding the next.",
+        "Continue for 18–20 minutes until the rice is cooked but still has a little bite.",
+        "Remove from the heat and stir in the Parmesan and butter.",
+        "Season well, then spread the risotto out on a large tray to cool completely.",
+        "Refrigerate for at least 1 hour, or overnight.",
+        "To make the filling, heat the oil in a frying pan over a medium-high heat.",
+        "Add the onion and cook until softened.",
+        "Add the garlic and beef mince.",
+        "Cook, breaking up the mince, until browned.",
+        "Stir in the tomato purée and red wine.",
+        "Simmer for 10 minutes until the mixture is thick and almost dry.",
+        "Stir in the peas and season well.",
+        "Allow to cool completely.",
+        "To shape, take a small handful of cold risotto (about 70g) and flatten it in your palm.",
+        "Place a teaspoon of ragù and one or two cubes of mozzarella in the centre.",
+        "Carefully mould the rice up and around the filling, pressing firmly to form a compact ball.",
+        "Repeat with the remaining rice and filling.",
+        "Set up three shallow bowls: one with flour, one with beaten egg, and one with breadcrumbs.",
+        "Coat each arancino in flour, then egg, then breadcrumbs, pressing to adhere.",
+        "Chill the coated arancini for at least 30 minutes.",
+        "Heat the oil to 170–180°C.",
+        "Fry the arancini in batches for 3–4 minutes, turning, until deep golden brown all over.",
+        "Drain on a wire rack.",
+        "Serve immediately."
+    ],
+    "serving": {
+        "serve-with": [
+            "Tomato Dipping Sauce"
+        ],
+        "optional-sides": [
+            "Green Salad",
+            "Lemon Wedges",
+            "Aioli"
+        ]
+    },
+    "planner": {
+        "prep-time-minutes": 120,
+        "cook-time-minutes": 30,
+        "freezer-label": "freezes well",
+        "cost": "mid-range",
+        "after-work": false
+    },
+    "learning": {
+        "did-you-know": "Arancini — meaning 'little oranges' in Sicilian dialect — are one of Sicily's most iconic street foods and have been made there since at least the 10th century, when Arab rule introduced saffron and rice to the island.",
+        "what-you-will-learn": "How to make a proper risotto base, how to work with a moist filling without losing the shape, and how chilling is essential to achieving a crisp, well-formed croquette.",
+        "skills": [
+            "Making risotto",
+            "Shaping and filling croquettes",
+            "Breadcrumb coating",
+            "Deep frying",
+            "Batch cooking and freezing"
+        ]
+    },
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A fantastic use of leftover risotto and a genuinely crowd-pleasing snack or starter. The process teaches several important skills and produces something that freezes brilliantly.",
+        "chapman-tips": [
+            "The risotto must be completely cold before shaping — warm rice will not hold together.",
+            "Keep your hands damp when shaping to prevent the rice sticking.",
+            "Press the rice firmly around the filling to avoid air pockets, which cause the arancini to burst during frying.",
+            "The filling must also be cold and dry — any excess moisture will make shaping difficult.",
+            "A second chill after breadcrumbing helps the coating set and stay intact during frying.",
+            "Don't overcrowd the fryer — the oil temperature will drop and the coating will absorb oil rather than crisp.",
+            "If the mozzarella leaks slightly, that is normal and desirable."
+        ],
+        "batch-cooking": "Freeze the shaped and breadcrumbed arancini on a tray in a single layer, then transfer to a freezer bag. Fry directly from frozen at a slightly lower temperature, allowing an extra 2–3 minutes cooking time.",
+        "leftovers": "Best eaten fresh and hot. Leftovers can be reheated in an oven or air fryer at 180°C until heated through and the coating is crisp again."
+    },
+    "relationships": {
+        "similar-recipes": [
+            "Japanese Vegetable Korokke",
+            "Vegetable Cutlet",
+            "Pork Gyoza"
+        ]
+    },
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+    "metadata": {
+        "created": "2026-07-30",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": ""
+    }
+}
