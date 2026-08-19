@@ -29,7 +29,7 @@
 - [x] Mujadara
 - [ ] Harira
 - [ ] Shakshuka (Dinner)
-- [ ] Moroccan Vegetable Tagine
+- [x] Moroccan Vegetable Tagine
 
 #### 🇬🇷 Greece
 

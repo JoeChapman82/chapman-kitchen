@@ -3,4 +3,4 @@
 - [x] Pad thai
 - [ ] Pad kee mao
 - [x] Carbonara
-- [ ] Pasta bake
+- [x] Pasta bake

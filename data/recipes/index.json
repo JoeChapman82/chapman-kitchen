@@ -779,6 +779,10 @@
         "path": "sides/pickled-vegetables.json",
         "title": "Quick-Pickled Vegetables"
     },
+    "000019fc-67cf-7641-a432-59d1b577af1d": {
+        "path": "snacks/arancini.json",
+        "title": "Arancini"
+    },
     "019f9579-c1ab-760e-a517-52f7346dbf51": {
         "path": "snacks/chicken-momos.json",
         "title": "Chicken Momos"
@@ -827,13 +831,13 @@
         "path": "snacks/vegetable-cutlet.json",
         "title": "Vegetable Cutlet"
     },
+    "019f9570-bad8-73dd-a8a4-bf9fae6f7132": {
+        "path": "snacks/vegetable-pakora.json",
+        "title": "Mixed Vegetable Pakora"
+    },
     "019f9576-76ce-7239-951b-dce7eb84f0cb": {
         "path": "snacks/vegetable-spring-rolls.json",
         "title": "Vegetable Spring Rolls"
-    },
-    "019f9570-bad8-73dd-a8a4-bf9fae6f7132": {
-        "path": "snacks/vegetalbe-pakora.json",
-        "title": "Mixed Vegetable Pakora"
     },
     "019f6fb6-8cf9-74ec-b4db-f77ceca94b57": {
         "path": "soup/avgolenono-soup.json",

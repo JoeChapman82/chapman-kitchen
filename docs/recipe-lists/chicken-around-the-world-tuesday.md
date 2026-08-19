@@ -9,7 +9,7 @@
 #### 🇮🇹 Italy & Europe
 
 - [ ] Chicken Cacciatore
-- [ ] Marry Me Chicken
+- [x] Marry Me Chicken
 - [ ] Coq au Vin
 - [x] Chicken Paprikash with nokedli
 - [x] Chicken Provençal
@@ -19,7 +19,7 @@
 
 - [ ] Moroccan Chicken Tagine
 - [x] Chicken Yassa
-- [ ] Doro Wat
+- [x] Doro Wat
 - [ ] West African Chicken Peanut Stew
 
 #### 🇮🇳 India
