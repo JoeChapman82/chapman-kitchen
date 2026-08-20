@@ -11,7 +11,7 @@
 - [x] Leek & Potato
 - [ ] Pea & Ham
 - [ ] Carrot & Lentil
-- [ ] Super soup
+- [x] Super soup
 
 #### 🇮🇹 Italy
 
@@ -82,7 +82,7 @@
 
 - [x] Halloumi & Roasted Peppers
 - [ ] Falafel & Hummus
-- [ ] Roasted Vegetable
+- [x] Roasted Vegetable
 - [ ] Egg Mayo & Watercress
 - [ ] Caprese
 

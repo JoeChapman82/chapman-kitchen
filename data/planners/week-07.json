@@ -46,8 +46,8 @@
             "lunch": {},
             "afternoon-snack": {},
             "dinner": {
-                "meal": ["Aloo paratha", "Cucumber raita"],
-                "recipes": ["019f6e7d-f9a8-779e-8573-2a32f90d145b", "019f6e83-d4f3-75ab-80e4-f0f6ad12a009"]
+                "meal": ["Vegetable Kurma"],
+                "recipes": ["019f8b85-968b-752b-96e9-85cd34bc1947"]
             }
         },
         "thursday": {
@@ -59,7 +59,7 @@
             "lunch": {},
             "afternoon-snack": {},
             "dinner": {
-                "meal": ["Avgolemono", "Halloumi and pepper"],
+                "meal": ["Super soup", "Roasted vegetable"],
                 "recipes": ["019f6fb6-8cf9-74ec-b4db-f77ceca94b57"]
             }
         },

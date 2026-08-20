@@ -24,7 +24,7 @@
 #### 🟨 South India (Tamil Nadu, Kerala, Karnataka)
 
 - [ ] Chicken Chettinad
-- [ ] Dosa, Sambar & Coconut Chutney
+- [x] Dosa, Sambar & Coconut Chutney
 - [ ] Lemon Rice with Vegetable Curry
 - [ ] Vegetable Kurma
 - [ ] Vegetable Avial
