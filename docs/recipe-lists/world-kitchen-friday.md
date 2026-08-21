@@ -35,7 +35,7 @@
 
 - [x] Homemade Burgers
 - [ ] Fajitas
-- [ ] Enchiladas
+- [x] Enchiladas
 - [x] Jambalaya
 
 #### 🇩🇪 Europe

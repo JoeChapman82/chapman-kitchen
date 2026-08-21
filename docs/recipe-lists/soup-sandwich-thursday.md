@@ -32,7 +32,7 @@
 
 #### 🇲🇽 Mexico
 
-- [ ] Tortilla Soup
+- [x] Tortilla Soup
 
 #### 🇹🇭 Thailand
 

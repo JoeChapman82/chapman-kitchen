@@ -13,7 +13,7 @@
 - [ ] Shepherd's Pie
 - [ ] Cottage Pie
 - [ ] Macaroni cheese
-- [ ] Veg lasagne
+- [x] Veg lasagne
 
 #### 🥘 Slow Cooking
 

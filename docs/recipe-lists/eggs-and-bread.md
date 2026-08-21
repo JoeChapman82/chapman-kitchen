@@ -14,7 +14,7 @@
 
 #### 🌍 Middle East
 
-- [ ] Sabich
+- [x] Sabich
 
 #### 🇪🇺 Europe
 

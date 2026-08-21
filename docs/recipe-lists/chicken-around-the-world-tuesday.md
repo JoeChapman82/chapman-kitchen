@@ -41,7 +41,7 @@
 - [ ] Chicken Satay
 - [ ] Thai Green Curry
 - [x] Thai Red Curry
-- [ ] Vietnamese Lemongrass Chicken
+- [x] Vietnamese Lemongrass Chicken
 
 #### 🌎 Americas
 

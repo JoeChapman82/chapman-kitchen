@@ -8,7 +8,7 @@
 
 #### 🟩 North India (Punjab, Delhi, Uttar Pradesh)
 
-- [ ] Butter Chicken
+- [x] Butter Chicken
 - [ ] Dal Makhani
 - [ ] Chole Bhature
 - [ ] Rajma Chawal
