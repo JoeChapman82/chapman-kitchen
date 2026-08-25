@@ -9,7 +9,7 @@
 #### 🌍 Africa
 
 - [ ] Shakshuka
-- [ ] Ful Medames with Eggs
+- [x] Ful Medames with Eggs
 - [ ] Khlii & Eggs
 
 #### 🌍 Middle East
@@ -22,18 +22,18 @@
 - [x] Croque Madame
 - [x] Eggs Benedict
 - [x] Eggs in Purgatory
-- [ ] Pan con Tomate & Fried Eggs
+- [x] Pan con Tomate & Fried Eggs
 - [x] Strapatsada
 
 #### 🌏 Asia
 
 - [x] Korean Egg Toast
 - [x] Masala Omelette & Buttered Toast
-- [ ] Tamago Sando
+- [x] Tamago Sando
 
 #### 🌎 Americas
 
-- [ ] Huevos Rancheros
+- [x] Huevos Rancheros
 
 ---
 

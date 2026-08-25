@@ -1,0 +1,133 @@
+{
+    "week": 10,
+    "nursery-week": true,
+    "days": {
+        "monday": {
+            "breakfast": {
+                "meal": ["Porridge with apple, cinnimon and raisin"],
+                "recipes": ["019f767e-ce66-7075-b818-f26d335779e5"]
+            },
+            "morning-snack": {
+                "meal": ["Chicken samosa"],
+                "recipes": ["019f8587-cd11-7408-a2d2-0e751dad1fb7"]
+            },
+            "lunch": {
+                "meal": ["Thai red curry"],
+                "recipes": ["019f6b72-7563-7610-914c-2f5393776097"]
+            },
+            "afternoon-snack": {
+                "meal": ["Fruit"],
+                "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
+            },
+            "dinner": {
+                "meal": ["Pasta e Ceci", "Cheesecake"],
+                "recipes": ["019f5b01-2e6e-7418-8b39-b14d57c5df9d"]
+            }
+        },
+        "tuesday": {
+            "breakfast": {
+                "meal": ["Weetabix"],
+                "recipes": []
+            },
+            "morning-snack": {},
+            "lunch": {},
+            "afternoon-snack": {},
+            "dinner": {
+                "meal": ["Pollo asado"],
+                "recipes": ["019f8b6a-cb2c-7738-8676-c7b4c5da673d"]
+            }
+        },
+        "wednesday": {
+            "breakfast": {
+                "meal": ["Pan con tomate"],
+                "recipes": ["019f7bfc-75e1-741b-ba9e-2000b33392bf"]
+            },
+            "morning-snack": {},
+            "lunch": {},
+            "afternoon-snack": {},
+            "dinner": {
+                "meal": ["Shorshe Mach"],
+                "recipes": ["019f8df0-f476-711e-965a-06c064951f1c"]
+            }
+        },
+        "thursday": {
+            "breakfast": {
+                "meal": ["Muesli with banana"],
+                "recipes": ["019f7685-5581-729d-a306-eaacf3d3495"]
+            },
+            "morning-snack": {},
+            "lunch": {},
+            "afternoon-snack": {},
+            "dinner": {
+                "meal": ["Gujrato dal", "Coronation chicken"],
+                "recipes": ["019f6e85-2804-71bf-953a-72f2ab97f4b6"]
+            }
+        },
+        "friday": {
+            "breakfast": {
+                "meal": ["Avacado on toast"],
+                "recipes": []
+            },
+            "morning-snack": {
+                "meal": ["Mackerel"],
+                "recipes": []
+            },
+            "lunch": {
+                "meal": ["Pad thai"],
+                "recipes": ["019f7399-e2b1-7326-87f9-9b8ce237a8da"]
+            },
+            "afternoon-snack": {
+                "meal": ["Fruit"],
+                "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
+            },
+            "dinner": {
+                "meal": ["Thai green curry", "Flapjack"],
+                "recipes": ["019f6b74-9357-71e8-bf80-87780e5e5246", "019f6a5c-2490-764a-b072-9c41577d1a2e"]
+            }
+        },
+        "saturday": {
+            "breakfast": {
+                "meal": ["Pancakes"],
+                "recipes": ["019f8f87-4eff-727c-a4bc-9a38f2bf16a0"]
+            },
+            "morning-snack": {
+                "meal": ["Yogurt"],
+                "recipes": []
+            },
+            "lunch": {
+                "meal": ["Sweet potato quesadillas"],
+                "recipes": ["019f9eb1-610d-74a8-951c-a332497bb3d7"]
+            },
+            "afternoon-snack": {
+                "meal": ["Fruit"],
+                "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
+            },
+            "dinner": {
+                "meal": ["Shepherds pie", "Spotted dick with custard"],
+                "recipes": ["019f6423-b0ba-7691-ac34-28459b30f6b4", "019f90b8-818d-74da-911e-fe9979013055", "019f90bb-294b-75bb-b60b-e2a97f9d8926"]
+            }
+        },
+        "sunday": {
+            "breakfast": {
+                "meal": ["Dosa, Sambar, Aloo massala"],
+                "recipes": ["019f6e88-d4bc-7079-9029-2e6327fa0219", "019f6e88-01c9-7128-b1df-2cb7091d68d6", "019f9eb7-b5fb-70de-a0c8-7d463a4024e3"]
+            },
+            "morning-snack": {
+                "meal": ["Vegetable spring roll"],
+                "recipes": ["019f9576-76ce-7239-951b-dce7eb84f0cb"]
+            },
+            "lunch": {
+                "meal": ["Okonomiyaki"],
+                "recipes": ["019f739c-8cd7-752e-9791-5c9adae6d7f3"]
+            },
+            "afternoon-snack": {
+                "meal": ["Fruit"],
+                "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
+            },
+            "dinner": {
+                "meal": ["Gammon, roasties, butternut squash, carrots and brocolli"],
+                "recipes": []
+            }
+        }
+    }
+}

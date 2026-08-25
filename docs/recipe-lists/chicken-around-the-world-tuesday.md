@@ -10,7 +10,7 @@
 
 - [ ] Chicken Cacciatore
 - [x] Marry Me Chicken
-- [ ] Coq au Vin
+- [x] Coq au Vin
 - [x] Chicken Paprikash with nokedli
 - [x] Chicken Provençal
 - [x] Chicken Fricassée
@@ -24,7 +24,7 @@
 
 #### 🇮🇳 India
 
-- [ ] Butter Chicken
+- [x] Butter Chicken
 - [ ] Chicken Chettinad
 - [ ] Chicken Jalfrezi
 - [ ] Chicken Saag
@@ -33,7 +33,7 @@
 
 - [x] Black Bean Chicken
 - [ ] Chicken Chow Mein
-- [ ] Kung Pao Chicken
+- [x] Kung Pao Chicken
 - [ ] Teriyaki Chicken
 
 #### 🇹🇭 Southeast Asia
@@ -47,7 +47,7 @@
 
 - [ ] Chicken Fajitas
 - [ ] Chicken Enchiladas
-- [ ] Pollo Asado
+- [x] Pollo Asado
 - [x] Peruvian Roast Chicken
 
 ---

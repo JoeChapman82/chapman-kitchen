@@ -10,15 +10,15 @@
 
 - [x] Lasagne
 - [x] Moussaka
-- [ ] Shepherd's Pie
+- [x] Shepherd's Pie
 - [ ] Cottage Pie
-- [ ] Macaroni cheese
+- [x] Macaroni cheese
 - [x] Veg lasagne
 
 #### 🥘 Slow Cooking
 
 - [ ] Jamie Oliver Beef Short Ribs
-- [ ] Beef Bourguignon
+- [x] Beef Bourguignon
 - [ ] Lancashire Hotpot
 - [ ] Osso Buco
 

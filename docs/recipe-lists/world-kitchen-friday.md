@@ -26,7 +26,7 @@
 - [x] Pad Kee Mao
 - [ ] Bibimbap
 - [x] Okonomiyaki
-- [ ] Thai green curry
+- [x] Thai green curry
 - [x] Thai red curry
 - [x] Massaman curry
 - [ ] Hang lay curry
@@ -52,8 +52,8 @@
 - [ ] Salmon en Croute
 - [ ] Fish Tacos
 - [ ] Sicilian Pasta con le Sarde
-- [ ] Sweet chilli fish
-- [ ] Fish fingers
+- [x] Sweet chilli fish
+- [x] Fish fingers
 
 ---
 

@@ -10,7 +10,7 @@
 
 - [x] Butter Chicken
 - [ ] Dal Makhani
-- [ ] Chole Bhature
+- [x] Chole Bhature
 - [ ] Rajma Chawal
 - [x] Aloo Paratha with Yoghurt
 
@@ -18,7 +18,7 @@
 
 - [x] Pav Bhaji
 - [ ] Vegetable Biryani with Raita
-- [ ] Gujarati Dal
+- [x] Gujarati Dal
 - [ ] Sev Tameta
 
 #### 🟨 South India (Tamil Nadu, Kerala, Karnataka)
@@ -26,7 +26,7 @@
 - [ ] Chicken Chettinad
 - [x] Dosa, Sambar & Coconut Chutney
 - [ ] Lemon Rice with Vegetable Curry
-- [ ] Vegetable Kurma
+- [x] Vegetable Kurma
 - [ ] Vegetable Avial
 
 #### 🟥 East India (Bengal, Odisha)
@@ -34,12 +34,12 @@
 - [ ] Cholar Dal
 - [ ] Bengali Fish Curry
 - [x] Egg Curry
-- [ ] Shorshe Mach
+- [x] Shorshe Mach
 - [ ] Frankie
 
 #### 🟦 Central India
 
-- [ ] Baingan Bharta
+- [x] Baingan Bharta
 - [ ] Bhindi Masala
 
 #### 🌴 Goa

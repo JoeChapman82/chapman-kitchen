@@ -36,7 +36,7 @@
 
 #### 🇹🇭 Thailand
 
-- [ ] Thai Pumpkin Soup
+- [x] Thai Pumpkin Soup
 
 #### 🇯🇵 Japan
 
@@ -52,7 +52,7 @@
 
 #### 🇹🇷 Turkey
 
-- [ ] Red Lentil Soup
+- [x] Red Lentil Soup
 
 #### 🇨🇳 China
 
@@ -74,7 +74,7 @@
 #### 🥩 Meat
 
 - [x] Ham Salad
-- [ ] Coronation Chicken
+- [x] Coronation Chicken
 - [ ] Chicken Mayo
 - [x] Pastrami
 
@@ -83,8 +83,8 @@
 - [x] Halloumi & Roasted Peppers
 - [ ] Falafel & Hummus
 - [x] Roasted Vegetable
-- [ ] Egg Mayo & Watercress
-- [ ] Caprese
+- [x] Egg Mayo & Watercress
+- [x] Caprese
 
 #### 🐟 Fish
 

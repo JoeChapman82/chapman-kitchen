@@ -1,0 +1,133 @@
+{
+    "week": 9,
+    "nursery-week": true,
+    "days": {
+        "monday": {
+            "breakfast": {
+                "meal": ["Porridge with blackberry and banana"],
+                "recipes": ["019f767e-ce66-7075-b818-f26d335779e5"]
+            },
+            "morning-snack": {
+                "meal": ["Beef empanadas"],
+                "recipes": ["019f90d1-e729-74de-aef7-9bff736ed4bb"]
+            },
+            "lunch": {
+                "meal": ["Singapore noodles"],
+                "recipes": ["019f8e39-f5a6-71dd-af72-04fb1679a094"]
+            },
+            "afternoon-snack": {
+                "meal": ["Fruit"],
+                "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
+            },
+            "dinner": {
+                "meal": ["Mushroom & Pearl Barley Risotto"],
+                "recipes": ["019f5b0d-03d7-7494-9d4a-c3a08815647b"]
+            }
+        },
+        "tuesday": {
+            "breakfast": {
+                "meal": ["Weetabix"],
+                "recipes": []
+            },
+            "morning-snack": {},
+            "lunch": {},
+            "afternoon-snack": {},
+            "dinner": {
+                "meal": ["Kung pao chicken"],
+                "recipes": ["019f5cbf-7be8-747a-9d06-3fb09d0b2d95"]
+            }
+        },
+        "wednesday": {
+            "breakfast": {
+                "meal": ["Ful Medames", "Egyptian flatbread"],
+                "recipes": ["019f65d5-d5f5-72ef-a384-4dfdc5a9be63", "019f95a5-2e42-740b-ada7-0499481864a2"]
+            },
+            "morning-snack": {},
+            "lunch": {},
+            "afternoon-snack": {},
+            "dinner": {
+                "meal": ["Chole", "Bhature"],
+                "recipes": ["019f6b88-0d68-748e-8ea1-863f2732691f", "019f6b89-a9a8-711e-bbf7-34233667ff90"]
+            }
+        },
+        "thursday": {
+            "breakfast": {
+                "meal": ["Muesli with banana"],
+                "recipes": ["019f7685-5581-729d-a306-eaacf3d3495"]
+            },
+            "morning-snack": {},
+            "lunch": {},
+            "afternoon-snack": {},
+            "dinner": {
+                "meal": ["Thai pumpkin soup", "Egg mayo and watercress"],
+                "recipes": ["019f6fb2-749a-73ff-9326-cbc704058cca"]
+            }
+        },
+        "friday": {
+            "breakfast": {
+                "meal": ["Avacado on toast"],
+                "recipes": []
+            },
+            "morning-snack": {
+                "meal": ["Mackerel"],
+                "recipes": []
+            },
+            "lunch": {
+                "meal": ["Eat out"],
+                "recipes": []
+            },
+            "afternoon-snack": {
+                "meal": ["Fruit"],
+                "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
+            },
+            "dinner": {
+                "meal": ["Fish fingers and chips", "Flapjack"],
+                "recipes": []
+            }
+        },
+        "saturday": {
+            "breakfast": {
+                "meal": ["Scotch pancakes"],
+                "recipes": ["019f7696-2ea6-762b-8ec1-bf3702ad7eeb"]
+            },
+            "morning-snack": {
+                "meal": ["Yogurt"],
+                "recipes": []
+            },
+            "lunch": {
+                "meal": ["Fritata"],
+                "recipes": ["019f9ac8-c0c8-76da-8b93-152fdbaa2a23"]
+            },
+            "afternoon-snack": {
+                "meal": ["Fruit"],
+                "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
+            },
+            "dinner": {
+                "meal": ["Macaroni cheese", "Peach cobbler"],
+                "recipes": ["019f90b1-193d-7094-96bd-452b4dbbdbb3", "019f90b4-cbda-737a-862d-3c72fd07c830"]
+            }
+        },
+        "sunday": {
+            "breakfast": {
+                "meal": ["Croissants"],
+                "recipes": []
+            },
+            "morning-snack": {
+                "meal": ["Onion bhaji"],
+                "recipes": ["019f956e-1197-776f-8e35-d216fe3ebbee"]
+            },
+            "lunch": {
+                "meal": ["Pesto Rosso"],
+                "recipes": ["019f6b70-a069-7666-90e9-26ade31ca6ff"]
+            },
+            "afternoon-snack": {
+                "meal": ["Fruit"],
+                "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
+            },
+            "dinner": {
+                "meal": ["Pork, mash, parsnips, carrots, cabbage"],
+                "recipes": []
+            }
+        }
+    }
+}

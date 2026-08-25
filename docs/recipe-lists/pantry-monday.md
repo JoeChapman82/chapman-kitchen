@@ -8,12 +8,12 @@
 
 #### 🍝 Italy & Mediterranean
 
-- [ ] Pasta e Ceci
+- [x] Pasta e Ceci
 - [ ] Ribollita
 - [x] Minestrone
 - [ ] Gigantes Plaki
 - [x] Tuscan Butter Beans
-- [ ] Mushroom & Pearl Barley Risotto
+- [x] Mushroom & Pearl Barley Risotto
 
 #### 🇮🇳 India
 
@@ -44,7 +44,7 @@
 #### 🌍 Africa
 
 - [x] Red Red
-- [ ] Peanut & Sweet Potato Stew
+- [x] Peanut & Sweet Potato Stew
 
 #### 🇬🇧 Britain
 
