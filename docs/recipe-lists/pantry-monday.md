@@ -18,7 +18,7 @@
 #### 🇮🇳 India
 
 - [x] Dal Chawal with Roti
-- [ ] Chole with Roti
+- [x] Chole with Roti
 - [ ] Rajma Chawal
 - [ ] Aloo Gobi with Dal
 - [x] Koshari

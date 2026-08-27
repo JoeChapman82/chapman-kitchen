@@ -57,7 +57,7 @@
 #### 🇨🇳 China
 
 - [x] Egg Drop Soup
-- [ ] Hot and sour soup
+- [x] Hot and sour soup
 
 ---
 

@@ -8,9 +8,9 @@
 
 #### 🌍 Africa
 
-- [ ] Shakshuka
+- [x] Shakshuka
 - [x] Ful Medames with Eggs
-- [ ] Khlii & Eggs
+- [x] Khlii & Eggs
 
 #### 🌍 Middle East
 

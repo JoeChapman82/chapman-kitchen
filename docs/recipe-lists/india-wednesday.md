@@ -19,7 +19,7 @@
 - [x] Pav Bhaji
 - [ ] Vegetable Biryani with Raita
 - [x] Gujarati Dal
-- [ ] Sev Tameta
+- [x] Sev Tameta
 
 #### 🟨 South India (Tamil Nadu, Kerala, Karnataka)
 
@@ -54,7 +54,7 @@
 
 #### 🌱 Vegetarian Favourites
 
-- [ ] Dal Chawal with Roti
+- [x] Dal Chawal with Roti
 - [x] Saag Paneer
 
 #### 🌱 Prawn

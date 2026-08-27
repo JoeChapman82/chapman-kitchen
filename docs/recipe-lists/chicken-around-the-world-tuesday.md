@@ -45,7 +45,7 @@
 
 #### 🌎 Americas
 
-- [ ] Chicken Fajitas
+- [x] Chicken Fajitas
 - [ ] Chicken Enchiladas
 - [x] Pollo Asado
 - [x] Peruvian Roast Chicken

@@ -41,7 +41,7 @@
 - [x] Jambalaya
 - [x] Koshari
 - [x] Paella
-- [ ] Kabab koobideh with tahdig and grilled tomatoes
+- [x] Kabab koobideh with tahdig and grilled tomatoes
 #### 🍖 Roasting
 
 - [ ] Slow Roasted Brisket
