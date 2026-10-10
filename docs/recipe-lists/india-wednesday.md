@@ -11,7 +11,7 @@
 - [x] Butter Chicken
 - [ ] Dal Makhani
 - [x] Chole Bhature
-- [ ] Rajma Chawal
+- [x] Rajma Chawal
 - [x] Aloo Paratha with Yoghurt
 
 #### 🟧 West India (Gujarat, Rajasthan)
@@ -25,22 +25,22 @@
 
 - [ ] Chicken Chettinad
 - [x] Dosa, Sambar & Coconut Chutney
-- [ ] Lemon Rice with Vegetable Curry
+- [x] Lemon Rice with Vegetable Curry
 - [x] Vegetable Kurma
 - [ ] Vegetable Avial
 
 #### 🟥 East India (Bengal, Odisha)
 
 - [ ] Cholar Dal
-- [ ] Bengali Fish Curry
+- [x] Bengali Fish Curry
 - [x] Egg Curry
 - [x] Shorshe Mach
-- [ ] Frankie
+- [x] Frankie
 
 #### 🟦 Central India
 
 - [x] Baingan Bharta
-- [ ] Bhindi Masala
+- [x] Bhindi Masala
 
 #### 🌴 Goa
 
@@ -49,7 +49,7 @@
 
 #### 🏔 Kashmir
 
-- [ ] Rogan Josh
+- [x] Rogan Josh
 - [ ] Dum Aloo
 
 #### 🌱 Vegetarian Favourites

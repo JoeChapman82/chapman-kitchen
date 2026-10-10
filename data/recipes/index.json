@@ -415,6 +415,10 @@
         "path": "meat/chicken-provencal.json",
         "title": "Chicken Provençal"
     },
+    "00001a11-2744-7d80-8357-761537f7f4e7": {
+        "path": "meat/chicken-souvlaki.json",
+        "title": "Chicken Souvlaki"
+    },
     "019f769b-3a9a-704a-a345-2e1b8badd376": {
         "path": "meat/enchiladas.json",
         "title": "Chicken Enchiladas"

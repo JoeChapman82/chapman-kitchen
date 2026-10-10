@@ -39,8 +39,8 @@
         },
         "wednesday": {
             "breakfast": {
-                "meal": ["Sabich"],
-                "recipes": ["019f65d9-20a1-7149-bfe9-8429cae104f5"]
+                "meal": ["Ful Medames", "Egyptian flatbread"],
+                "recipes": ["019f65d5-d5f5-72ef-a384-4dfdc5a9be63", "019f95a5-2e42-740b-ada7-0499481864a2"]
             },
             "morning-snack": {},
             "lunch": {},

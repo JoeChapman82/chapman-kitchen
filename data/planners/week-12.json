@@ -1,5 +1,5 @@
 {
-    "week": 6,
+    "week": 12,
     "nursery-week": true,
     "days": {
         "monday": {
@@ -104,7 +104,7 @@
             },
             "dinner": {
                 "meal": ["Kabab koobideh with tahdig and grilled tomatoes", "Jam roly poly"],
-                "recipes": ["019f8f74-a574-771f-abe4-32e3b694f421", "019f90b9-ea47-7685-b94e-fe73acc18a59"]
+                "recipes": ["019f8f74-a574-771f-abe4-32e3b694f421", "019f8f79-e81b-7420-9335-53df51c878e9", "019f90b9-ea47-7685-b94e-fe73acc18a59"]
             }
         },
         "sunday": {

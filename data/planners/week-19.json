@@ -1,0 +1,133 @@
+{
+    "week": 19,
+    "nursery-week": true,
+    "days": {
+        "monday": {
+            "breakfast": {
+                "meal": ["Porridge with apple and cinnamon"],
+                "recipes": ["019f767e-ce66-7075-b818-f26d335779e5"]
+            },
+            "morning-snack": {
+                "meal": ["Jamaican beef patty"],
+                "recipes": ["019f8585-9ab2-7476-b2ee-34d7987986a0"]
+            },
+            "lunch": {
+                "meal": ["Dal Chawal with Roti"],
+                "recipes": ["019f8e0b-635b-7392-87fd-59ee36c8d4ee", "019f8b78-a909-713d-9165-bfa5d6ba52dd"]
+            },
+            "afternoon-snack": {
+                "meal": ["Fruit"],
+                "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
+            },
+            "dinner": {
+                "meal": ["Gigantes Plaki", "Cheesecake"],
+                "recipes": ["019f5b05-3f9f-749c-b8c7-baa5a757036b"]
+            }
+        },
+        "tuesday": {
+            "breakfast": {
+                "meal": ["Weetabix"],
+                "recipes": []
+            },
+            "morning-snack": {},
+            "lunch": {},
+            "afternoon-snack": {},
+            "dinner": {
+                "meal": ["Chicken chow mein"],
+                "recipes": ["019f5cbd-b0e7-752a-ba1a-900aac859f6f"]
+            }
+        },
+        "wednesday": {
+            "breakfast": {
+                "meal": ["Croque Madame"],
+                "recipes": ["019f7bf8-41fe-765f-aa65-fdaf7864af24"]
+            },
+            "morning-snack": {},
+            "lunch": {},
+            "afternoon-snack": {},
+            "dinner": {
+                "meal": ["Bhindi Masala"],
+                "recipes": ["019f8df5-aed2-715c-a194-29cca5839df8"]
+            }
+        },
+        "thursday": {
+            "breakfast": {
+                "meal": ["Muesli with banana"],
+                "recipes": ["019f7685-5581-729d-a306-eaacf3d3495"]
+            },
+            "morning-snack": {},
+            "lunch": {},
+            "afternoon-snack": {},
+            "dinner": {
+                "meal": ["French Onion Soup", "Mozerella and tomato"],
+                "recipes": ["019f6faf-a83f-7704-a4f8-98f3216faf29"]
+            }
+        },
+        "friday": {
+            "breakfast": {
+                "meal": ["Avacado on toast"],
+                "recipes": []
+            },
+            "morning-snack": {
+                "meal": ["Mackerel"],
+                "recipes": []
+            },
+            "lunch": {
+                "meal": ["Massaman curry"],
+                "recipes": ["019f6b7d-b22b-7799-80cb-9f2cb911ffbe", "019f6b7e-f4ef-77d8-bbcf-10de910103e0"]
+            },
+            "afternoon-snack": {
+                "meal": ["Fruit"],
+                "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
+            },
+            "dinner": {
+                "meal": ["Hang lay curry", "Flapjack"],
+                "recipes": ["019f6b79-ff18-72a9-917a-0f26d3df4416", "019f6b7c-3166-7309-a72c-dcc36a0decfe"]
+            }
+        },
+        "saturday": {
+            "breakfast": {
+                "meal": ["Pancakes"],
+                "recipes": ["019f8f87-4eff-727c-a4bc-9a38f2bf16a0"]
+            },
+            "morning-snack": {
+                "meal": ["Yogurt"],
+                "recipes": []
+            },
+            "lunch": {
+                "meal": ["Pad Kee mao"],
+                "recipes": ["019f6163-8e75-761b-915c-cf2ef3795248"]
+            },
+            "afternoon-snack": {
+                "meal": ["Fruit"],
+                "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
+            },
+            "dinner": {
+                "meal": ["Dal makhani", "Jam roly poly"],
+                "recipes": ["019f642d-9c0f-71b0-86fa-0f4f5112636d", "019f90b9-ea47-7685-b94e-fe73acc18a59"]
+            }
+        },
+        "sunday": {
+            "breakfast": {
+                "meal": ["Breakfast couscous"],
+                "recipes": []
+            },
+            "morning-snack": {
+                "meal": ["Korean Vegetable Mandu"],
+                "recipes": ["019f9573-4d2d-766f-992e-96c8142dfc65"]
+            },
+            "lunch": {
+                "meal": ["Pesto rosso"],
+                "recipes": ["019f6b70-a069-7666-90e9-26ade31ca6ff"]
+            },
+            "afternoon-snack": {
+                "meal": ["Fruit"],
+                "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
+            },
+            "dinner": {
+                "meal": ["Lamb, roasties, brocolli, red cabbage"],
+                "recipes": []
+            }
+        }
+    }
+}

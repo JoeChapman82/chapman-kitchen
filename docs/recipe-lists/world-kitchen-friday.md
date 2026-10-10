@@ -11,7 +11,7 @@
 - [x] Moussaka
 - [x] Briam
 - [ ] Spanakopita
-- [ ] Greek Chicken Souvlaki
+- [x] Greek Chicken Souvlaki
 
 #### 🌍 North Africa & Middle East
 
@@ -29,7 +29,7 @@
 - [x] Thai green curry
 - [x] Thai red curry
 - [x] Massaman curry
-- [ ] Hang lay curry
+- [x] Hang lay curry
 
 #### 🌎 Americas
 
@@ -42,16 +42,16 @@
 
 - [x] Currywurst
 - [x] Gnocchi with Sage Butter
-- [ ] Hungarian Goulash
+- [x] Hungarian Goulash
 - [x] Swedish Meatballs
 
 #### 🌊 Seafood
 
-- [ ] Fish and chips
+- [x] Fish and chips
 - [x] Paella
 - [ ] Salmon en Croute
-- [ ] Fish Tacos
-- [ ] Sicilian Pasta con le Sarde
+- [x] Fish Tacos
+- [x] Sicilian Pasta con le Sarde
 - [x] Sweet chilli fish
 - [x] Fish fingers
 

@@ -1,0 +1,118 @@
+{
+    "id": "00001a11-2744-7d80-8357-761537f7f4e7",
+    "version": 1,
+    "title": "Chicken Souvlaki",
+    "overview": {
+        "description": "Tender chunks of chicken thigh marinated in lemon, olive oil, garlic and oregano then grilled on skewers until lightly charred. Served in warm pitta with tzatziki, tomato and red onion.",
+        "country": "Greece",
+        "region": "Nationwide",
+        "serves": 4
+    },
+    "ingredients": [
+        "800g chicken thighs, boneless and skinless, cut into 3–4cm chunks",
+        "",
+        "For the marinade:",
+        "4 tbsp olive oil",
+        "3 tbsp fresh lemon juice",
+        "4 cloves garlic, finely grated",
+        "2 tsp dried oregano",
+        "1 tsp sweet paprika",
+        "½ tsp ground cumin",
+        "1 tsp salt",
+        "½ tsp black pepper",
+        "",
+        "To serve:",
+        "4 pitta breads",
+        "1 tomato, diced",
+        "½ red onion, thinly sliced",
+        "Fresh parsley or flat-leaf parsley, roughly chopped",
+        "Lemon wedges",
+        "Tzatziki"
+    ],
+    "method": [
+        "Combine the olive oil, lemon juice, garlic, oregano, paprika, cumin, salt and pepper in a bowl.",
+        "Add the chicken pieces and toss well to coat.",
+        "Cover and marinate in the fridge for at least 2 hours, or overnight for the best flavour.",
+        "When ready to cook, remove the chicken from the fridge 20 minutes before grilling.",
+        "Thread the chicken pieces onto metal skewers or soaked wooden skewers.",
+        "Heat a griddle pan or barbecue to a high heat.",
+        "Grill the skewers for 10–12 minutes, turning every few minutes, until the chicken is cooked through and lightly charred at the edges.",
+        "Rest for 5 minutes.",
+        "Warm the pitta breads on the griddle or directly over a flame for 30–60 seconds.",
+        "Serve the chicken tucked into the warm pitta with tzatziki, diced tomato, red onion and a squeeze of lemon."
+    ],
+    "serving": {
+        "serve-with": [
+            "Tzatziki",
+            "Pitta"
+        ],
+        "optional-sides": [
+            "Greek Salad",
+            "Chips",
+            "Hummus",
+            "Pickled Chillies",
+            "Tabbouleh"
+        ]
+    },
+    "planner": {
+        "prep-time-minutes": 20,
+        "cook-time-minutes": 15,
+        "freezer-label": "freezes well",
+        "cost": "mid-range",
+        "after-work": true
+    },
+    "learning": {
+        "did-you-know": "Souvlaki — from the Greek word 'souvla' meaning skewer — is one of Greece's oldest and most enduring street foods. It is mentioned in ancient Greek texts and remains a staple of Greek fast food culture today, often sold from small kiosks called souvlatzidika.",
+        "what-you-will-learn": "How acid and oil work together in a marinade to tenderise and flavour meat, and how to get a good char on skewered meat without drying it out.",
+        "skills": [
+            "Marinating meat",
+            "Skewering",
+            "Grilling on high heat",
+            "Resting meat"
+        ]
+    },
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A simple, reliable and genuinely delicious weeknight meal that uses a handful of pantry staples. The marinade takes minutes to put together the night before and the whole thing can be on the table in under 20 minutes.",
+        "chapman-tips": [
+            "Chicken thighs are essential — they stay juicy on a hot grill where breast meat would dry out.",
+            "Overnight marinating makes a noticeable difference to the flavour.",
+            "Don't move the skewers too soon — let a crust form before turning.",
+            "A very hot griddle or barbecue is key to getting that characteristic char without overcooking the inside.",
+            "If using wooden skewers, soak them in water for at least 30 minutes to prevent scorching.",
+            "The chicken can also be cooked under a hot grill if a griddle pan or barbecue isn't available."
+        ],
+        "batch-cooking": "Freeze the marinated raw chicken pieces (without skewers) for up to three months. Defrost overnight in the fridge, skewer and grill as normal. Cooked chicken can also be frozen and reheated gently.",
+        "leftovers": "Excellent the next day sliced into a wrap or pitta with leftover tzatziki, or added to a Greek-style salad with olives, cucumber and feta."
+    },
+    "relationships": {
+        "similar-recipes": [
+            "Lamb Kofta",
+            "Chicken Shawarma",
+            "Peruvian Roast Chicken",
+            "Pollo Asado"
+        ]
+    },
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+    "metadata": {
+        "created": "2026-07-30",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": ""
+    }
+}

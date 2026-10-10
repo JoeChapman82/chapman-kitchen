@@ -17,24 +17,24 @@
 
 #### 🥘 Slow Cooking
 
-- [ ] Jamie Oliver Beef Short Ribs
+- [x] Jamie Oliver Beef Short Ribs
 - [x] Beef Bourguignon
-- [ ] Lancashire Hotpot
+- [x] Lancashire Hotpot
 - [ ] Osso Buco
 
 #### 🍛 Big Pot Meals
 
-- [ ] Bolognese
+- [x] Bolognese
 - [x] Chilli con Carne
-- [ ] Dal Makhani
+- [x] Dal Makhani
 - [ ] Rajma
 - [x] Feijoada
 
 #### 🥧 Pastry
 
-- [ ] Chicken & Mushroom Pie
+- [x] Chicken & Mushroom Pie
 - [ ] Steak Pie
-- [ ] Salmon en Croute
+- [x] Salmon en Croute
 
 #### 🌍 World
 

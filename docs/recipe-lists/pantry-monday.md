@@ -9,9 +9,9 @@
 #### 🍝 Italy & Mediterranean
 
 - [x] Pasta e Ceci
-- [ ] Ribollita
+- [x] Ribollita
 - [x] Minestrone
-- [ ] Gigantes Plaki
+- [x] Gigantes Plaki
 - [x] Tuscan Butter Beans
 - [x] Mushroom & Pearl Barley Risotto
 
@@ -20,9 +20,9 @@
 - [x] Dal Chawal with Roti
 - [x] Chole with Roti
 - [ ] Rajma Chawal
-- [ ] Aloo Gobi with Dal
+- [x] Aloo Gobi with Dal
 - [x] Koshari
-- [ ] Spinach & Chickpea Curry
+- [x] Spinach & Chickpea Curry
 
 #### 🌍 Middle East & North Africa
 
@@ -33,12 +33,12 @@
 
 #### 🇬🇷 Greece
 
-- [ ] Spanakopita
+- [x] Spanakopita
 - [x] Briam
 
 #### 🌎 Americas
 
-- [ ] Vegetable & Black Bean Chilli
+- [x] Vegetable & Black Bean Chilli
 - [x] Three Sisters Stew
 
 #### 🌍 Africa

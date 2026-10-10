@@ -1,0 +1,139 @@
+{
+    "week": 14,
+    "nursery-week": true,
+    "days": {
+        "monday": {
+            "breakfast": {
+                "meal": ["Porridge with blackberry and banana"],
+                "recipes": ["019f767e-ce66-7075-b818-f26d335779e5"]
+            },
+            "morning-snack": {
+                "meal": ["Sausage roll"],
+                "recipes": ["019f769e-bd22-71dd-9354-70363a99be3c"]
+            },
+            "lunch": {
+                "meal": ["Pork and fennel ragu"],
+                "recipes": ["019f768f-22c8-73cb-b314-9cc8f63e7a72"]
+            },
+            "afternoon-snack": {
+                "meal": ["Fruit"],
+                "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
+            },
+            "dinner": {
+                "meal": ["Spanakopita"],
+                "recipes": ["019f6713-0fd0-707b-827d-6cfb0ff073d0"]
+            }
+        },
+        "tuesday": {
+            "breakfast": {
+                "meal": ["Weetabix"],
+                "recipes": []
+            },
+            "morning-snack": {},
+            "lunch": {},
+            "afternoon-snack": {},
+            "dinner": {
+                "meal": ["Chicken jalfrezi"],
+                "recipes": ["019f6a51-15cc-72e0-b99a-c7303bbe314d"]
+            }
+        },
+        "wednesday": {
+            "breakfast": {
+                "meal": ["Korean egg toast"],
+                "recipes": ["019f7688-3c6b-72fb-9919-45a32cac8fca"]
+            },
+            "morning-snack": {},
+            "lunch": {},
+            "afternoon-snack": {},
+            "dinner": {
+                "meal": ["Bengali fish curry"],
+                "recipes": ["019f8def-22e0-724a-b8c3-0f5e0e2e0a00"]
+            }
+        },
+        "thursday": {
+            "breakfast": {
+                "meal": ["Muesli with banana"],
+                "recipes": ["019f7685-5581-729d-a306-eaacf3d3495"]
+            },
+            "morning-snack": {},
+            "lunch": {},
+            "afternoon-snack": {},
+            "dinner": {
+                "meal": ["Pea and ham", "Halloumi and pepper"],
+                "recipes": ["019f5f14-b023-767e-8320-276f3f7c76b3"]
+            }
+        },
+        "friday": {
+            "breakfast": {
+                "meal": ["Avacado on toast"],
+                "recipes": []
+            },
+            "morning-snack": {
+                "meal": ["Mackerel"],
+                "recipes": []
+            },
+            "lunch": {
+                "meal": ["Fish and chips"],
+                "recipes": []
+            },
+            "afternoon-snack": {
+                "meal": ["Fruit"],
+                "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
+            },
+            "dinner": {
+                "meal": ["Hungarian ghoulash", "Flapjack"],
+                "recipes": ["019f6159-7fff-7285-aa7a-3c711c064fe0"]
+            }
+        },
+        "saturday": {
+            "breakfast": {
+                "meal": ["Scotch pancakes"],
+                "recipes": ["019f7696-2ea6-762b-8ec1-bf3702ad7eeb"]
+            },
+            "morning-snack": {
+                "meal": ["Yogurt"],
+                "recipes": []
+            },
+            "lunch": {
+                "meal": ["Falafel, Pita, Hummus"],
+                "recipes": [
+                    "019f57a4-777a-7a93-9c35-e240781fb1a6",
+                    "019f57a5-6f95-709d-9f3c-8dde0014a140",
+                    "019f57a5-21de-75a9-ae2b-1974756d9af9"
+                ]
+            },
+            "afternoon-snack": {
+                "meal": ["Fruit"],
+                "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
+            },
+            "dinner": {
+                "meal": ["Chicken and mushroom pie", "Rice pudding"],
+                "recipes": [
+                    "019f65c8-6dfb-7294-8e21-a389cb3aea88"
+                ]
+            }
+        },
+        "sunday": {
+            "breakfast": {
+                "meal": ["Eggs benedict"],
+                "recipes": ["019f76be-348c-7501-9442-dfb16a078361"]
+            },
+            "morning-snack": {
+                "meal": ["Vegetable cutlet"],
+                "recipes": ["019f956f-8878-75e8-8350-30d083a7a44a"]
+            },
+            "lunch": {
+                "meal": ["Chow mein"],
+                "recipes": ["019f5cbd-b0e7-752a-ba1a-900aac859f6f"]
+            },
+            "afternoon-snack": {
+                "meal": ["Fruit"],
+                "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
+            },
+            "dinner": {
+                "meal": ["Beef Sunday lunch"],
+                "recipes": []
+            }
+        }
+    }
+}

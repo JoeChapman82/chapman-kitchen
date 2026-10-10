@@ -9,22 +9,22 @@
 #### 🇬🇧 Britain
 
 - [x] Leek & Potato
-- [ ] Pea & Ham
-- [ ] Carrot & Lentil
+- [x] Pea & Ham
+- [x] Carrot & Lentil
 - [x] Super soup
 
 #### 🇮🇹 Italy
 
 - [x] Minestrone
-- [ ] Ribollita
+- [x] Ribollita
 
 #### 🇫🇷 France
 
-- [ ] French Onion Soup
+- [x] French Onion Soup
 
 #### 🇲🇦 Morocco
 
-- [ ] Harira
+- [x] Harira
 
 #### 🇮🇳 India
 
@@ -48,7 +48,7 @@
 
 #### 🇵🇹 Portugal
 
-- [ ] Caldo Verde
+- [x] Caldo Verde
 
 #### 🇹🇷 Turkey
 

@@ -8,7 +8,7 @@
 
 #### 🇮🇹 Italy & Europe
 
-- [ ] Chicken Cacciatore
+- [x] Chicken Cacciatore
 - [x] Marry Me Chicken
 - [x] Coq au Vin
 - [x] Chicken Paprikash with nokedli
@@ -17,24 +17,24 @@
 
 #### 🌍 Africa
 
-- [ ] Moroccan Chicken Tagine
+- [x] Moroccan Chicken Tagine
 - [x] Chicken Yassa
 - [x] Doro Wat
-- [ ] West African Chicken Peanut Stew
+- [x] West African Chicken Peanut Stew
 
 #### 🇮🇳 India
 
 - [x] Butter Chicken
 - [ ] Chicken Chettinad
-- [ ] Chicken Jalfrezi
+- [x] Chicken Jalfrezi
 - [ ] Chicken Saag
 
 #### 🌏 East Asia
 
 - [x] Black Bean Chicken
-- [ ] Chicken Chow Mein
+- [x] Chicken Chow Mein
 - [x] Kung Pao Chicken
-- [ ] Teriyaki Chicken
+- [x] Teriyaki Chicken
 
 #### 🇹🇭 Southeast Asia
 

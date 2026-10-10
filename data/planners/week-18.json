@@ -1,0 +1,133 @@
+{
+    "week": 18,
+    "nursery-week": true,
+    "days": {
+        "monday": {
+            "breakfast": {
+                "meal": ["Porridge with blackberry and banana"],
+                "recipes": ["019f767e-ce66-7075-b818-f26d335779e5"]
+            },
+            "morning-snack": {
+                "meal": ["Chicken nuggets"],
+                "recipes": ["019f858c-4a69-751b-96dc-6fa441e7d51b"]
+            },
+            "lunch": {
+                "meal": ["Spaghetti al pomodoro"],
+                "recipes": ["019f9edc-1c15-70fc-a455-36d1d626e080"]
+            },
+            "afternoon-snack": {
+                "meal": ["Fruit"],
+                "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
+            },
+            "dinner": {
+                "meal": ["Spinach and chickpea curry", "Cheesecake"],
+                "recipes": ["019f8e7c-6f46-72ad-8a07-1dc02d0a9f99"]
+            }
+        },
+        "tuesday": {
+            "breakfast": {
+                "meal": ["Weetabix"],
+                "recipes": []
+            },
+            "morning-snack": {},
+            "lunch": {},
+            "afternoon-snack": {},
+            "dinner": {
+                "meal": ["Teriyaki chicken"],
+                "recipes": ["019f5cc1-438d-7513-9b7b-a4f3505be338"]
+            }
+        },
+        "wednesday": {
+            "breakfast": {
+                "meal": ["Çılbır (Turkish Eggs)"],
+                "recipes": ["019f7bf5-c73d-769b-9fbd-a7cdc37130b6"]
+            },
+            "morning-snack": {},
+            "lunch": {},
+            "afternoon-snack": {},
+            "dinner": {
+                "meal": ["Frankie"],
+                "recipes": ["019f6e80-1228-766c-afd8-b77171e3350e"]
+            }
+        },
+        "thursday": {
+            "breakfast": {
+                "meal": ["Muesli with banana"],
+                "recipes": ["019f7685-5581-729d-a306-eaacf3d3495"]
+            },
+            "morning-snack": {},
+            "lunch": {},
+            "afternoon-snack": {},
+            "dinner": {
+                "meal": ["Harira", "Pastrami"],
+                "recipes": ["019f6fac-7429-752d-aaae-14b19898f1fc"]
+            }
+        },
+        "friday": {
+            "breakfast": {
+                "meal": ["Avacado on toast"],
+                "recipes": []
+            },
+            "morning-snack": {
+                "meal": ["Mackerel"],
+                "recipes": []
+            },
+            "lunch": {
+                "meal": ["Eat out"],
+                "recipes": []
+            },
+            "afternoon-snack": {
+                "meal": ["Fruit"],
+                "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
+            },
+            "dinner": {
+                "meal": ["Sicilian Pasta con le Sarde", "Flapjack"],
+                "recipes": ["019f8e88-05a9-7485-bab5-ed44ed18b8dc"]
+            }
+        },
+        "saturday": {
+            "breakfast": {
+                "meal": ["Scotch pancakes"],
+                "recipes": ["019f7696-2ea6-762b-8ec1-bf3702ad7eeb"]
+            },
+            "morning-snack": {
+                "meal": ["Yogurt"],
+                "recipes": []
+            },
+            "lunch": {
+                "meal": ["Mie Goreng Jawa"],
+                "recipes": ["019f8e14-070b-725d-ac5a-6da236f7c925"]
+            },
+            "afternoon-snack": {
+                "meal": ["Fruit"],
+                "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
+            },
+            "dinner": {
+                "meal": ["Spaghetti bolognese", "Bread and butter pudding"],
+                "recipes": ["019f61e8-8228-7166-9f6e-2172d3df1718", "019f90b6-8193-7148-b1e5-26adb0fb6699"]
+            }
+        },
+        "sunday": {
+            "breakfast": {
+                "meal": ["Full english"],
+                "recipes": []
+            },
+            "morning-snack": {
+                "meal": ["Vegetable pakora"],
+                "recipes": ["019f9570-bad8-73dd-a8a4-bf9fae6f7132"]
+            },
+            "lunch": {
+                "meal": ["Pesto pasta"],
+                "recipes": ["019f6a61-ea64-741c-9ebe-e7147a746438"]
+            },
+            "afternoon-snack": {
+                "meal": ["Fruit"],
+                "recipes": ["019f9583-2a72-77ab-8d86-94541cdb4b2a", "019f9584-0132-72b8-98f3-10230130c6c4", "019f9585-6631-70db-a4a5-9f0bc0064a0b", "019f9589-180d-72bc-ab67-8bc3c669553d", "019f958a-b0da-7555-b656-ede8649ea96b"]
+            },
+            "dinner": {
+                "meal": ["Peruvian Roast Chicken", "Picked vegetables"],
+                "recipes": ["019f8b6e-7982-75a5-ab74-b64fe0314655", "019f8b7d-0342-76f4-945f-7808e05242b9"]
+            }
+        }
+    }
+}
