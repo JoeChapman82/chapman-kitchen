@@ -95,8 +95,8 @@
                 "recipes": []
             },
             "lunch": {
-                "meal": ["Pad Kee mao"],
-                "recipes": ["019f6163-8e75-761b-915c-cf2ef3795248"]
+                "meal": ["Eat out"],
+                "recipes": []
             },
             "afternoon-snack": {
                 "meal": ["Fruit"],

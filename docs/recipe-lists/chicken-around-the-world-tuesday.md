@@ -25,7 +25,7 @@
 #### 🇮🇳 India
 
 - [x] Butter Chicken
-- [ ] Chicken Chettinad
+- [x] Chicken Chettinad
 - [x] Chicken Jalfrezi
 - [ ] Chicken Saag
 
@@ -38,7 +38,7 @@
 
 #### 🇹🇭 Southeast Asia
 
-- [ ] Chicken Satay
+- [x] Chicken Satay
 - [ ] Thai Green Curry
 - [x] Thai Red Curry
 - [x] Vietnamese Lemongrass Chicken

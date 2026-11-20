@@ -73,8 +73,8 @@
                 "recipes": []
             },
             "lunch": {
-                "meal": ["Eat out"],
-                "recipes": []
+                "meal": ["Pad thai"],
+                "recipes": ["019f7399-e2b1-7326-87f9-9b8ce237a8da"]
             },
             "afternoon-snack": {
                 "meal": ["Fruit"],

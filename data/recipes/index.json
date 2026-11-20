@@ -655,6 +655,10 @@
         "path": "rice/bibimbap.json",
         "title": "Bibimbap"
     },
+    "01a1f812-3cf5-7fed-a454-b58dbfc4bd33": {
+        "path": "rice/chicken-biryani.json",
+        "title": "Vegetable Biryani"
+    },
     "019f6a56-68dc-7762-bc9b-69ec58f3f0dd": {
         "path": "rice/chicken-satay.json",
         "title": "Chicken Satay"

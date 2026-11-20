@@ -20,7 +20,7 @@
 - [x] Jamie Oliver Beef Short Ribs
 - [x] Beef Bourguignon
 - [x] Lancashire Hotpot
-- [ ] Osso Buco
+- [x] Osso Buco
 
 #### 🍛 Big Pot Meals
 

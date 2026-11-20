@@ -19,7 +19,7 @@
 
 - [x] Dal Chawal with Roti
 - [x] Chole with Roti
-- [ ] Rajma Chawal
+- [x] Rajma Chawal
 - [x] Aloo Gobi with Dal
 - [x] Koshari
 - [x] Spinach & Chickpea Curry
@@ -27,7 +27,7 @@
 #### 🌍 Middle East & North Africa
 
 - [x] Mujadara
-- [ ] Harira
+- [x] Harira
 - [ ] Shakshuka (Dinner)
 - [x] Moroccan Vegetable Tagine
 

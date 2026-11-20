@@ -1,0 +1,113 @@
+{
+    "id": "01a1f812-3cf5-7fed-a454-b58dbfc4bd33",
+    "version": 1,
+    "title": "Vegetable Biryani",
+    "overview": {
+        "description": "Fragrant basmati rice layered with spiced vegetables and gently steamed together using the traditional dum method.",
+        "country": "India",
+        "region": "Hyderabad",
+        "serves": 4
+    },
+    "ingredients": [
+        "=== Marinade ===",
+        "2 tsp garam masala",
+        "1 tbsp garlic paste",
+        "1 tbsp ginger paste",
+        "1 tbsp kashmiri chilli powder",
+        "½ tsp turmeric",
+        "½ cup mint leaves",
+        "¼ cup corriander leaves",
+        "¾ cup plain yogurt",
+        "2 tsp kosher salt",
+        "2 tbsp lemon juice",
+        "=== Other ingredients ===",
+        "4 tbsp ghee",
+        "3 cups basmati rice",
+        "3 cups water",
+        "4 chicken legs",
+        "3 onions, thinly sliced",
+        "2 bay leaves",
+        "1 tsp of saffron mixed with 1 tbsp of warm milk"
+    ],
+    "method": [
+        "Heavily slice the chicken legs all over",
+        "Marinate the chicken and refigerate for 4 - 24 hours",
+        "Wash the basmati rice until the water runs clear.",
+        "Soak for 30 minutes, then drain.",
+        "Add half the ghee to the instant pot",
+        "Cook the onions slowly for an hour until fully caramelised",
+        "Remove a third of the onions to use a garnish",
+        "Deglaze the pot with the liquids from the marinated chicken",
+        "Add the other half of the ghee to the instant pot",
+        "Add bay leaves chicken and pressure cook for 6 minutes",
+        "Add the rice and water, push the rice under the water. Do not stir. Pressure cook for 8 minutes",
+        "Boil the eggs for 8 minutes",
+        "Garnish the biryani with halved eggs, safron mixed with water, and coriander leaves"
+    ],
+    "serving": {
+        "serve-with": [
+            "Raita"
+        ],
+        "optional-sides": [
+            "Mango Pickle",
+            "Cucumber Salad"
+        ]
+    },
+    "planner": {
+        "prep-time-minutes": 45,
+        "cook-time-minutes": 45,
+        "freezer-label": "freezes well",
+        "cost": "budget",
+        "after-work": false
+    },
+    "learning": {
+        "did-you-know": "The word 'biryani' comes from a Persian word meaning 'fried before cooking', reflecting its Persian influence and layered cooking method.",
+        "what-you-will-learn": "How to parboil basmati rice, prepare a vegetable masala and finish a biryani using the traditional dum steaming technique.",
+        "skills": [
+            "Cooking basmati rice",
+            "Building a masala",
+            "Layering a biryani",
+            "Dum cooking"
+        ]
+    },
+    "nutrition": {
+        "portion-size": "",
+        "calories": "",
+        "protein": "",
+        "carbohydrates": "",
+        "fat": "",
+        "saturates": "",
+        "fibre": "",
+        "sugar": "",
+        "salt": ""
+    },
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "A complete meal that showcases authentic biryani technique while using everyday vegetables from the pantry and freezer.",
+        "chapman-tips": [
+            "Keep the heat very low during the final steaming stage.",
+            "Fresh mint makes a noticeable difference to the finished dish.",
+            "Let the biryani rest before fluffing to prevent the rice breaking."
+        ],
+        "batch-cooking": "Freeze in family-sized portions. Reheat gently with a splash of water.",
+        "leftovers": "Excellent reheated the following day or served with a fried egg."
+    },
+    "relationships": {
+        "similar-recipes": [
+            "Rajma",
+            "Chole (Punjabi Chickpea Curry)",
+            "Pav Bhaji"
+        ]
+    },
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+    "metadata": {
+        "created": "2026-07-17",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": "Joe Chapman"
+    }
+}

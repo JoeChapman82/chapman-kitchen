@@ -17,13 +17,13 @@
 #### 🟧 West India (Gujarat, Rajasthan)
 
 - [x] Pav Bhaji
-- [ ] Vegetable Biryani with Raita
+- [x] Vegetable Biryani with Raita
 - [x] Gujarati Dal
 - [x] Sev Tameta
 
 #### 🟨 South India (Tamil Nadu, Kerala, Karnataka)
 
-- [ ] Chicken Chettinad
+- [x] Chicken Chettinad
 - [x] Dosa, Sambar & Coconut Chutney
 - [x] Lemon Rice with Vegetable Curry
 - [x] Vegetable Kurma
@@ -45,7 +45,7 @@
 #### 🌴 Goa
 
 - [x] Goan Fish Curry
-- [ ] Chicken Xacuti
+- [x] Chicken Xacuti
 
 #### 🏔 Kashmir
 

@@ -34,7 +34,7 @@
 #### 🌎 Americas
 
 - [x] Homemade Burgers
-- [ ] Fajitas
+- [x] Fajitas
 - [x] Enchiladas
 - [x] Jambalaya
 
