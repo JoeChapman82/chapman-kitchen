@@ -27,7 +27,7 @@
 - [x] Butter Chicken
 - [x] Chicken Chettinad
 - [x] Chicken Jalfrezi
-- [ ] Chicken Saag
+- [x] Chicken Saag
 
 #### 🌏 East Asia
 
@@ -39,14 +39,14 @@
 #### 🇹🇭 Southeast Asia
 
 - [x] Chicken Satay
-- [ ] Thai Green Curry
+- [x] Thai Green Curry
 - [x] Thai Red Curry
 - [x] Vietnamese Lemongrass Chicken
 
 #### 🌎 Americas
 
 - [x] Chicken Fajitas
-- [ ] Chicken Enchiladas
+- [x] Chicken Enchiladas
 - [x] Pollo Asado
 - [x] Peruvian Roast Chicken
 

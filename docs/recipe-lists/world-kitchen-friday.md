@@ -10,21 +10,21 @@
 
 - [x] Moussaka
 - [x] Briam
-- [ ] Spanakopita
+- [x] Spanakopita
 - [x] Greek Chicken Souvlaki
 
 #### 🌍 North Africa & Middle East
 
 - [x] Falafel, Hummus & Pita
 - [x] Koshari
-- [ ] Chicken Shawarma
-- [ ] Lamb Kofta
+- [x] Chicken Shawarma
+- [x] Lamb Kofta
 
 #### 🌏 East Asia
 
 - [x] Pad Thai
 - [x] Pad Kee Mao
-- [ ] Bibimbap
+- [x] Bibimbap
 - [x] Okonomiyaki
 - [x] Thai green curry
 - [x] Thai red curry
@@ -49,7 +49,7 @@
 
 - [x] Fish and chips
 - [x] Paella
-- [ ] Salmon en Croute
+- [x] Salmon en Croute
 - [x] Fish Tacos
 - [x] Sicilian Pasta con le Sarde
 - [x] Sweet chilli fish

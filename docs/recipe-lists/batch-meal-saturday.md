@@ -11,7 +11,7 @@
 - [x] Lasagne
 - [x] Moussaka
 - [x] Shepherd's Pie
-- [ ] Cottage Pie
+- [x] Cottage Pie
 - [x] Macaroni cheese
 - [x] Veg lasagne
 
@@ -33,7 +33,7 @@
 #### 🥧 Pastry
 
 - [x] Chicken & Mushroom Pie
-- [ ] Steak Pie
+- [x] Steak Pie
 - [x] Salmon en Croute
 
 #### 🌍 World
@@ -45,7 +45,7 @@
 #### 🍖 Roasting
 
 - [ ] Slow Roasted Brisket
-- [ ] Pork Shoulder
+- [x] Pork Shoulder
 
 ---
 

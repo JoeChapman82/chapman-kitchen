@@ -9,7 +9,7 @@
 #### 🟩 North India (Punjab, Delhi, Uttar Pradesh)
 
 - [x] Butter Chicken
-- [ ] Dal Makhani
+- [x] Dal Makhani
 - [x] Chole Bhature
 - [x] Rajma Chawal
 - [x] Aloo Paratha with Yoghurt
@@ -27,11 +27,11 @@
 - [x] Dosa, Sambar & Coconut Chutney
 - [x] Lemon Rice with Vegetable Curry
 - [x] Vegetable Kurma
-- [ ] Vegetable Avial
+- [x] Vegetable Avial
 
 #### 🟥 East India (Bengal, Odisha)
 
-- [ ] Cholar Dal
+- [x] Cholar Dal
 - [x] Bengali Fish Curry
 - [x] Egg Curry
 - [x] Shorshe Mach
@@ -50,7 +50,7 @@
 #### 🏔 Kashmir
 
 - [x] Rogan Josh
-- [ ] Dum Aloo
+- [x] Dum Aloo
 
 #### 🌱 Vegetarian Favourites
 
