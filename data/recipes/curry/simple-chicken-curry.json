@@ -1,0 +1,131 @@
+{
+    "id": "01a22292-1ff6-766b-a68d-421710da0761",
+    "version": 1,
+    "title": "Simple Chicken Curry",
+    "overview": {
+        "description": "A traditional Indian chicken curry made by simmering bone-in chicken in a deeply flavoured onion and tomato masala with whole spices, ginger, garlic and yogurt. No cream, no stock, no shortcuts — just a proper homestyle curry built on good technique.",
+        "country": "India",
+        "region": "Nationwide",
+        "serves": 4
+    },
+    "ingredients": [
+        "500g chicken, bone-in, curry-cut (thighs, drumsticks and breast all work)",
+        "2–3 tbsp neutral oil",
+        "1 cup (3 medium) onions, very finely chopped",
+        "1–2 green chillies, slit lengthways",
+        "1 tbsp ginger garlic paste",
+        "2 medium tomatoes, finely chopped or pureed",
+        "¼ cup natural yogurt, whisked smooth",
+        "2 tbsp fresh coriander or mint, finely chopped",
+        "½–¾ tsp salt, to taste",
+        "½–¾ cup hot water",
+        "",
+        "Whole spices:",
+        "1 bay leaf (or 1 sprig fresh curry leaves)",
+        "2-inch piece of cinnamon",
+        "4 cloves",
+        "3 green cardamom pods",
+        "",
+        "Ground spices:",
+        "¼ tsp turmeric",
+        "1 tsp Kashmiri red chilli powder",
+        "1 tsp garam masala",
+        "1 tsp ground coriander"
+    ],
+    "method": [
+        "Heat the oil in a heavy-based pan over a medium heat.",
+        "Add the whole spices — bay leaf, cinnamon, cloves and cardamom — and let them sizzle for 30 seconds.",
+        "Add the onions and green chillies and fry, stirring regularly, for 7–8 minutes until deep golden.",
+        "Add the ginger garlic paste and cook for 1–2 minutes until the raw smell has completely gone.",
+        "Add the tomatoes, turmeric and salt. Cook over a medium heat, stirring occasionally, until the tomatoes are completely soft, mushy and the oil begins to separate.",
+        "Reduce the heat to low. Whisk the yogurt smooth in a bowl, then temper it by stirring in 2 tablespoons of the hot masala from the pan. Pour the tempered yogurt back into the pan.",
+        "Add the Kashmiri chilli powder, garam masala and ground coriander.",
+        "Cook on a low heat, stirring frequently, until the mixture smells deeply aromatic and the oil rises to the surface again.",
+        "Add the chicken and coriander or mint. Increase the heat to medium and fry for 3–4 minutes until the chicken turns pale all over.",
+        "Cover and cook on a low heat for 3–4 minutes so the chicken absorbs the flavours of the masala.",
+        "Meanwhile bring ¾ cup of water to a boil separately — do not use cold water as this can toughen the chicken.",
+        "Pour in just enough hot water to partially cover the chicken, about ½ cup to start.",
+        "Cover and cook on a low to medium heat for 10–15 minutes, stirring occasionally, until the chicken is completely cooked through and tender and the gravy has thickened. Add a little more hot water if the curry becomes too dry before the chicken is done.",
+        "Check the chicken is cooked by piercing with a fork — the meat should be tender and fall easily from the bone.",
+        "Taste and adjust salt. Add a further ½ tsp garam masala if the curry feels low on flavour.",
+        "Garnish with fresh coriander, cover and rest off the heat for a few minutes before serving."
+    ],
+    "serving": {
+        "serve-with": [
+            "Steamed Rice",
+            "Chapati",
+            "Naan"
+        ],
+        "optional-sides": [
+            "Jeera Rice",
+            "Raita",
+            "Kachumber Salad",
+            "Mango Pickle",
+            "Papad"
+        ]
+    },
+    "planner": {
+        "prep-time-minutes": 15,
+        "cook-time-minutes": 35,
+        "freezer-label": "freezes well",
+        "cost": "budget",
+        "after-work": true
+    },
+    "learning": {
+        "did-you-know": "Authentic Indian home-style chicken curry uses no stock, no cream and no cornstarch. The body and richness of the gravy comes entirely from properly cooked onions, tomatoes, yogurt and the natural collagen released from bone-in chicken as it simmers.",
+        "what-you-will-learn": "How to build a proper onion and tomato masala base, why tempering yogurt prevents it from splitting, and how low and slow cooking produces a far better curry than high heat.",
+        "skills": [
+            "Building a masala base",
+            "Tempering yogurt",
+            "Blooming whole spices",
+            "Low and slow cooking",
+            "Judging when oil separates from a masala"
+        ]
+    },
+    "nutrition": {
+        "portion-size": "",
+        "calories": "417kcal",
+        "protein": "33g",
+        "carbohydrates": "10g",
+        "fat": "26g",
+        "saturates": "7g",
+        "fibre": "3g",
+        "sugar": "3g",
+        "salt": ""
+    },
+    "notes": {
+        "why-its-in-the-chapman-kitchen": "Every curry collection needs a simple, honest Indian chicken curry built from scratch. This is the foundational recipe — no shortcuts, no western adaptations — that teaches the core technique behind dozens of Indian dishes.",
+        "chapman-tips": [
+            "Bone-in chicken is strongly recommended. The marrow enriches the gravy and the collagen naturally thickens it without any added starch.",
+            "Finely chop the onions — this helps them cook down to a smooth, jammy texture rather than remaining chunky in the finished curry.",
+            "Cook the onions until they are truly deep golden, not just softened. This is one of the most important steps and cannot be rushed.",
+            "Always temper the yogurt before adding it to the pan to prevent splitting: stir 2 tablespoons of the hot masala into the yogurt first, then lower the heat completely before pouring it in.",
+            "The sign that your masala is ready is oil separating and rising to the surface — this happens after the yogurt stage and again after the tomatoes cook down.",
+            "Always use hot water, not cold. Cold water can toughen chicken.",
+            "Cook on a low to medium heat throughout. High heat produces a harsh, muddy curry."
+        ],
+        "batch-cooking": "Freezes very well for up to three months. The flavour often improves after a day in the fridge. Freeze in portions with the cooking liquid.",
+        "leftovers": "Reheat gently with a splash of water. Excellent the next day — the spices continue to develop overnight. Works well with rice or scooped up with chapati."
+    },
+    "relationships": {
+        "similar-recipes": [
+            "Butter Chicken",
+            "Chicken Jalfrezi",
+            "Chicken Saag",
+            "Lamb Rogan Josh",
+            "Chicken Chettinad"
+        ]
+    },
+    "history": [
+        {
+            "date": "",
+            "note": ""
+        }
+    ],
+    "metadata": {
+        "created": "2026-07-30",
+        "updated": "",
+        "created-by": "Joe Chapman",
+        "updated-by": ""
+    }
+}
